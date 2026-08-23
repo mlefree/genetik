@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leprevost–Thevenet · Mémoire familiale</title>
+<meta name="description" content="Arbre généalogique des familles Leprevost et Thevenet, de la Normandie à la Corrèze.">
+<meta name="theme-color" content="#17150f">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2214%22 fill=%22%2317150f%22/><path d=%22M32 52V25M32 34L18 20M32 34l14-14M18 20v-8M46 20v-8%22 stroke=%22%23c9ab8c%22 stroke-width=%225%22 stroke-linecap=%22round%22/></svg>">
+<style>
+:root {
+  --ink: #1c1a17; --muted: #6b6259; --line: #ddd5c9;
+  --bg: #f7f3ec; --card: #fffdf9; --accent: #7d5a3c; --accent-soft: #c9ab8c;
+  --warn-bg: #fdf2e2; --warn-line: #d9a441; --warn-ink: #7a5410;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #ece5da; --muted: #9c9184; --line: #3a3530;
+    --bg: #17150f; --card: #201d17; --accent: #c9a87c; --accent-soft: #6d5741;
+    --warn-bg: #2c2109; --warn-line: #a37d2a; --warn-ink: #e8c37a;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 16px/1.6 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px 96px; }
+header { padding: clamp(64px, 10vw, 112px) 0 64px; border-bottom: 1px solid var(--line); }
+.site-nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 54px; font: 650 .78rem/1 ui-sans-serif, system-ui, sans-serif; }
+.site-nav a { padding: 9px 13px; border-radius: 999px; color: var(--muted); text-decoration: none; }
+.site-nav a:hover, .site-nav a[aria-current="page"] { background: var(--card); color: var(--accent); box-shadow: inset 0 0 0 1px var(--line); }
+.eyebrow { margin: 0 0 18px; color: var(--accent); font: 700 .74rem/1.2 ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: .16em; text-transform: uppercase; }
+h1 { font-size: clamp(3rem, 8vw, 6.6rem); line-height: .92; max-width: 10ch; margin: 0 0 28px;
+  letter-spacing: -0.055em; font-weight: 600; }
+.lede { font-size: 1.15rem; color: var(--muted); max-width: 62ch; margin: 0; }
+.actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+.action { display: inline-flex; gap: 24px; align-items: center; justify-content: space-between;
+  min-width: 210px; padding: 14px 18px; border: 1px solid var(--accent); border-radius: 999px;
+  background: var(--accent); color: var(--bg); text-decoration: none;
+  font: 650 .9rem/1 ui-sans-serif, system-ui, sans-serif; }
+.action.secondary { background: transparent; color: var(--accent); }
+.action:hover { transform: translateY(-2px); box-shadow: 0 10px 30px color-mix(in srgb, var(--accent) 18%, transparent); }
+.family-stats { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 64px;
+  border-top: 1px solid var(--line); }
+.family-stats div { padding: 22px 20px 0 0; }
+.family-stats b { display: block; font-size: clamp(1.5rem, 4vw, 2.5rem); line-height: 1; }
+.family-stats span { display: block; color: var(--muted); margin-top: 7px; font: .78rem/1.3 ui-sans-serif, system-ui, sans-serif; }
+h2 { font-size: 1.5rem; margin: 56px 0 6px; font-weight: 600; letter-spacing: -0.01em; }
+h2 + .note { color: var(--muted); margin: 0 0 20px; max-width: 66ch; }
+.notice {
+  background: var(--warn-bg); border: 1px solid var(--warn-line); border-left-width: 4px;
+  color: var(--warn-ink); padding: 18px 22px; border-radius: 4px; margin: 32px 0 0;
+}
+.notice strong { display: block; margin-bottom: 6px; }
+.notice p { margin: 0; }
+.notice a { color: inherit; text-underline-offset: 3px; }
+.notice a:hover { text-decoration-thickness: 2px; }
+.figures { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1px;
+  background: var(--line); border: 1px solid var(--line); border-radius: 4px; overflow: hidden; margin-top: 32px; }
+.fig { background: var(--card); padding: 20px 18px; }
+.fig b { display: block; font-size: 1.9rem; font-weight: 600; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.fig span { color: var(--muted); font-size: 0.86rem; }
+.panel { background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 24px; overflow-x: auto; }
+.story-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.story { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 24px; }
+.story h3 { margin: 0 0 8px; font-size: 1.2rem; }
+.story p { margin: 0; color: var(--muted); }
+.story strong { color: var(--accent); }
+.ancestors { list-style: none; margin: 0; padding: 0; display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1px; background: var(--line); }
+.ancestor { min-height: 150px; background: var(--card); padding: 22px; }
+.ancestor .century { display: block; color: var(--accent); font: 700 .72rem/1.2 ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: .08em; text-transform: uppercase; margin-bottom: 16px; }
+.ancestor b { display: block; font-size: 1.08rem; }
+.ancestor p { color: var(--muted); font-size: .88rem; line-height: 1.45; margin: 8px 0 0; }
+.data-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.data-grid .panel { padding: 18px; }
+.data-grid h3 { margin: 0 0 14px; font-size: 1rem; }
+svg.timeline { width: 100%; height: auto; display: block; min-width: 640px; }
+svg .bars rect { fill: var(--accent); }
+svg .grid { stroke: var(--line); stroke-width: 1; }
+svg .tick { fill: var(--muted); font-size: 11px; font-family: ui-sans-serif, system-ui, sans-serif; text-anchor: middle; }
+ul.jobs { list-style: none; margin: 0; padding: 0; }
+ul.jobs li { display: grid; grid-template-columns: minmax(120px, 15rem) 1fr 4.5rem; gap: 14px;
+  align-items: center; padding: 5px 0; border-bottom: 1px solid var(--line); }
+ul.jobs li:last-child { border-bottom: 0; }
+ul.jobs.avec-periode li { grid-template-columns: minmax(120px, 12rem) 1fr 8.5rem; }
+ul.jobs .num i { font-style: italic; white-space: nowrap; }
+.job { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar { background: var(--line); height: 7px; border-radius: 4px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--accent-soft); }
+.num { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.9rem; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); }
+td.num { text-align: right; }
+.mono { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 0.82rem; color: var(--muted); }
+ul.files { columns: 2; column-gap: 32px; list-style: none; margin: 0; padding: 0;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 0.78rem; color: var(--muted); }
+ul.files li { break-inside: avoid; padding: 2px 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+ul.files li.more { color: var(--accent); font-style: italic; }
+@media (max-width: 620px) {
+  ul.files { columns: 1; }
+  .family-stats { grid-template-columns: 1fr; }
+  .family-stats div { display: flex; align-items: baseline; gap: 12px; }
+  .action { width: 100%; }
+  .story-grid, .data-grid { grid-template-columns: 1fr; }
+}
+ul.fiches { list-style: none; margin: 0; padding: 0; display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 14px; }
+li.fiche { border: 1px solid var(--line); border-radius: 4px; padding: 12px 14px; }
+li.fiche b { display: block; font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+li.fiche .age { color: var(--muted); font-size: 0.8rem; }
+li.fiche em { display: block; color: var(--accent); font-style: normal; font-size: 0.86rem; }
+li.fiche > em { margin-top: 6px; }
+li.fiche ul { margin: 6px 0 0; padding-left: 16px; color: var(--muted); font-size: 0.82rem; }
+footer { margin-top: 72px; padding-top: 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <nav class="site-nav" aria-label="Navigation principale">
+    <a href="index.html" aria-current="page">Accueil</a>
+    <a href="arbre.html">Arbre</a>
+    <a href="carte.html">Carte</a>
+    <a href="#sources">Sources</a>
+  </nav>
+  <p class="eyebrow">Mémoire familiale · Normandie &amp; Corrèze</p>
+  <h1>Leprevost<br>— Thevenet</h1>
+  <p class="lede">Deux lignées réunies dans un même arbre, des villages normands aux terres
+  corréziennes. Une histoire familiale documentée sur près de mille ans.</p>
+  <div class="actions">
+    <a class="action" href="arbre.html">Explorer l'arbre <span>↗</span></a>
+    <a class="action secondary" href="carte.html">Explorer la carte <span>↗</span></a>
+  </div>
+  <div class="family-stats">
+    <div><b>1 684</b><span>personnes documentées</span></div>
+    <div><b>31</b><span>générations reliées</span></div>
+    <div><b>1000–2020</b><span>amplitude de l'arbre</span></div>
+  </div>
+</header>
+
+<h2>Deux ascendances, une famille</h2>
+<p class="note">Toutes les personnes connues sont réunies dans le même arbre. Les deux branches
+se rejoignent dans les générations contemporaines, masquées lorsqu'elles sont présumées vivantes.</p>
+<div class="story-grid">
+  <article class="story"><h3>La branche Leprevost</h3>
+    <p><strong>1 350 personnes</strong>, principalement en Normandie,
+    dans le Berry et dans l'Eure. Les actes suivent laboureurs, journaliers, artisans et familles
+    rurales jusqu'aux paroisses du XVII<sup>e</sup> siècle.</p></article>
+  <article class="story"><h3>La branche Vaurie</h3>
+    <p><strong>296 personnes</strong>, ancrées en Corrèze autour de
+    Sérilhac, Dampniat, Beynat et Lostanges. Cette ascendance porte aussi les lignées de Cosnac,
+    Lastours, Gimel, Noailles et de Born.</p></article>
+</div>
+
+<h2>La lignée seigneuriale corrézienne</h2>
+<p class="note">Les 30 personnes ci-dessous sont toutes celles dont un titre
+ou une qualité seigneuriale apparaît dans la transcription familiale. Ces mentions sont
+présentées comme des pistes généalogiques à documenter par les actes, et non comme une preuve
+autonome de noblesse. Les mentions incertaines conservent leur point d'interrogation. Pour les
+Cosnac, la chaîne est étayée par des actes à partir de Guillaume, vivant vers 1200 ; les générations
+plus anciennes jusqu'à Israël, cité après l'an 1000, restent une reconstitution érudite et ne sont
+pas données ici comme une filiation littéralement prouvée. Les Jouvenel corréziens, attestés à
+Aubazine au XVII<sup>e</sup> siècle, sont sans lien démontré avec les Jouvenel des Ursins médiévaux.</p>
+<div class="panel"><ul class="ancestors"><li class="ancestor"><span class="century">1000–1053</span><b>Israël de Cosnac</b></li><li class="ancestor"><span class="century">date inconnue</span><b>Gérald de Cosnac</b></li><li class="ancestor"><span class="century">date inconnue</span><b>Barthelemy de Cosnac</b></li><li class="ancestor"><span class="century">mort en 1180</span><b>Engalvin de Cosnac</b></li><li class="ancestor"><span class="century">né vers 1180</span><b>Guillaume I de Cosnac</b><p>Croisé en 1223?</p></li><li class="ancestor"><span class="century">1230–1287</span><b>Hugues I de Cosnac</b><p>Chevalier</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Bertrand de MONCEAUX</b><p>Sgr de Bar</p></li><li class="ancestor"><span class="century">mort en 1341</span><b>Guillaume II de Cosnac</b><p>Damoiseau</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Reynald de BORN</b><p>Sgr de Hautefort et Thenon</p></li><li class="ancestor"><span class="century">1295–1361</span><b>Hugues II de Cosnac</b><p>Chevalier</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Bertrand de BORN</b><p>Chevalier · Sgr de Hautefort et Thenon</p></li><li class="ancestor"><span class="century">1340–1382</span><b>Jean de Cosnac</b><p>Chanoine de Bayeux · Lombez</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Jean I de Noailles</b></li><li class="ancestor"><span class="century">date inconnue</span><b>Jean de Gimel</b><p>Chevalier</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Raymond de Cosnac</b></li><li class="ancestor"><span class="century">1360–1439</span><b>Geoffroy de Lastours</b></li><li class="ancestor"><span class="century">1402–1452</span><b>Hélie de Cosnac</b><p>Damoiseau</p></li><li class="ancestor"><span class="century">mort en 1472</span><b>François de Noailles</b></li><li class="ancestor"><span class="century">né vers 1415</span><b>Jean de Lastours</b></li><li class="ancestor"><span class="century">date inconnue</span><b>Pierre de Cosnac</b><p>Sgr de Creysse</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Guillaume III de Cosnac</b><p>Écuyer · Curateur du Vte de Turenne 1510 · Sgr du château de Lastours</p></li><li class="ancestor"><span class="century">mort en 1532</span><b>Louis de Cosnac</b><p>Chevalier · 1er écuyer tranchant de la Reine · 1 des 100 gentilhommes du Roi</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Saurette de ST MICHEL</b><p>Dame de St Félix de Bannières · Codame de Curemonte · Le Teilhet</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Guillaume de COSNAC</b><p>Sgr de St Michel et du Tillet · Cosgr de Curemonte</p></li><li class="ancestor"><span class="century">date inconnue</span><b>N de la VALETTE-PARISOT</b><p>Sgr de Parisot et Lalbenque en Quercy</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Pierre DE FIEUX</b><p>Écuyer · Avocat · Conseiller du roi · Magistrat au Présidial de Brive</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Jacques DE FIEUX</b><p>Écuyer · 1er consul de Brive en 1664</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Georges de LAFFON</b><p>Sr du Fau · Écuyer</p></li><li class="ancestor"><span class="century">date inconnue</span><b>Jean du VERDIER</b><p>Clerc · Sgr du Chastang · Juge du moulin d&#x27;Arnac</p></li><li class="ancestor"><span class="century">1692–1760</span><b>Jean DUCHAMP de la LANDE</b><p>Sgr de Sérilhac</p></li></ul></div>
+
+<h2>L'arbre dans son ensemble</h2>
+<p class="note">Patronymes, métiers et lieux sont calculés sur les 1 684 personnes et les
+877 familles actuellement reliées : les deux ascendances sont donc représentées.</p>
+<div class="data-grid">
+  <section class="panel"><h3>Patronymes</h3><ul class="jobs"><li><span class="job">LEPREVOST</span><span class="bar"><i style="width:100.0%"></i></span><span class="num">15</span></li><li><span class="job">SGR DE COSNAC</span><span class="bar"><i style="width:93.3%"></i></span><span class="num">14</span></li><li><span class="job">MARIE</span><span class="bar"><i style="width:80.0%"></i></span><span class="num">12</span></li><li><span class="job">VAURIE</span><span class="bar"><i style="width:80.0%"></i></span><span class="num">12</span></li><li><span class="job">NAUDION</span><span class="bar"><i style="width:73.3%"></i></span><span class="num">11</span></li><li><span class="job">VIBET</span><span class="bar"><i style="width:73.3%"></i></span><span class="num">11</span></li><li><span class="job">FAUVEAU</span><span class="bar"><i style="width:73.3%"></i></span><span class="num">11</span></li><li><span class="job">LE PICARD</span><span class="bar"><i style="width:73.3%"></i></span><span class="num">11</span></li><li><span class="job">ALMY</span><span class="bar"><i style="width:66.7%"></i></span><span class="num">10</span></li><li><span class="job">CHARPENTIER</span><span class="bar"><i style="width:60.0%"></i></span><span class="num">9</span></li><li><span class="job">TRUFFAUT</span><span class="bar"><i style="width:60.0%"></i></span><span class="num">9</span></li><li><span class="job">SURMULET</span><span class="bar"><i style="width:60.0%"></i></span><span class="num">9</span></li><li><span class="job">COUILLARD</span><span class="bar"><i style="width:60.0%"></i></span><span class="num">9</span></li><li><span class="job">LACOFFRETTE</span><span class="bar"><i style="width:53.3%"></i></span><span class="num">8</span></li><li><span class="job">BARBEY</span><span class="bar"><i style="width:53.3%"></i></span><span class="num">8</span></li><li><span class="job">DUFOUR</span><span class="bar"><i style="width:53.3%"></i></span><span class="num">8</span></li><li><span class="job">CANIVET</span><span class="bar"><i style="width:53.3%"></i></span><span class="num">8</span></li><li><span class="job">ROUX</span><span class="bar"><i style="width:53.3%"></i></span><span class="num">8</span></li></ul></section>
+  <section class="panel"><h3>Métiers et qualités</h3><ul class="jobs"><li><span class="job">Laboureur</span><span class="bar"><i style="width:100.0%"></i></span><span class="num">38</span></li><li><span class="job">Journalier</span><span class="bar"><i style="width:94.7%"></i></span><span class="num">36</span></li><li><span class="job">Cultivateur</span><span class="bar"><i style="width:28.9%"></i></span><span class="num">11</span></li><li><span class="job">Domestique</span><span class="bar"><i style="width:21.1%"></i></span><span class="num">8</span></li><li><span class="job">Bourgeois</span><span class="bar"><i style="width:21.1%"></i></span><span class="num">8</span></li><li><span class="job">Couvreur en paille</span><span class="bar"><i style="width:15.8%"></i></span><span class="num">6</span></li><li><span class="job">Charpentier</span><span class="bar"><i style="width:13.2%"></i></span><span class="num">5</span></li><li><span class="job">Vigneron</span><span class="bar"><i style="width:13.2%"></i></span><span class="num">5</span></li><li><span class="job">Chevalier</span><span class="bar"><i style="width:13.2%"></i></span><span class="num">5</span></li><li><span class="job">Couturière</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Tisserand</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Marechal</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Fileuse</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Propriétaire</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Écuyer</span><span class="bar"><i style="width:10.5%"></i></span><span class="num">4</span></li><li><span class="job">Ménagère</span><span class="bar"><i style="width:7.9%"></i></span><span class="num">3</span></li><li><span class="job">cultivateur</span><span class="bar"><i style="width:7.9%"></i></span><span class="num">3</span></li><li><span class="job">Lingère</span><span class="bar"><i style="width:5.3%"></i></span><span class="num">2</span></li></ul></section>
+  <section class="panel"><h3>Lieux les plus présents</h3><ul class="jobs"><li><span class="job">Bommiers (36)</span><span class="bar"><i style="width:100.0%"></i></span><span class="num">74</span></li><li><span class="job">Mélicourt (27)</span><span class="bar"><i style="width:75.7%"></i></span><span class="num">56</span></li><li><span class="job">Allemagne (14)</span><span class="bar"><i style="width:68.9%"></i></span><span class="num">51</span></li><li><span class="job">Montmartin-en-Graignes (50)</span><span class="bar"><i style="width:67.6%"></i></span><span class="num">50</span></li><li><span class="job">Saint-Sauveur-Lendelin (50)</span><span class="bar"><i style="width:58.1%"></i></span><span class="num">43</span></li><li><span class="job">St Sauveur Lendelin (50)</span><span class="bar"><i style="width:58.1%"></i></span><span class="num">43</span></li><li><span class="job">Pruniers (36)</span><span class="bar"><i style="width:55.4%"></i></span><span class="num">41</span></li><li><span class="job">St Ambroix (18)</span><span class="bar"><i style="width:41.9%"></i></span><span class="num">31</span></li><li><span class="job">Civray (18)</span><span class="bar"><i style="width:40.5%"></i></span><span class="num">30</span></li><li><span class="job">Montmartin en Graignes (50)</span><span class="bar"><i style="width:40.5%"></i></span><span class="num">30</span></li><li><span class="job">Blosville (50)</span><span class="bar"><i style="width:35.1%"></i></span><span class="num">26</span></li><li><span class="job">Ineuil (18)</span><span class="bar"><i style="width:32.4%"></i></span><span class="num">24</span></li><li><span class="job">Montierchaume (36)</span><span class="bar"><i style="width:32.4%"></i></span><span class="num">24</span></li><li><span class="job">Saint-André-de-Bohon (50)</span><span class="bar"><i style="width:31.1%"></i></span><span class="num">23</span></li><li><span class="job">Morlac (18)</span><span class="bar"><i style="width:31.1%"></i></span><span class="num">23</span></li><li><span class="job">Sérilhac (19)</span><span class="bar"><i style="width:27.0%"></i></span><span class="num">20</span></li><li><span class="job">Prétot-Sainte-Suzanne (50)</span><span class="bar"><i style="width:25.7%"></i></span><span class="num">19</span></li><li><span class="job">St André de Bohon 50</span><span class="bar"><i style="width:24.3%"></i></span><span class="num">18</span></li></ul></section>
+</div>
+
+<h2 id="sources">Sources et prudence</h2>
+<p class="note">L'arbre rassemble une ascendance familiale imprimée en 2007, un relevé Geneanet,
+une transcription de l'ascendance Vaurie et les documents familiaux qui relient les deux branches.
+Les graphies, dates partielles, titres et incertitudes sont conservés tels qu'ils apparaissent dans
+ces sources. Une donnée affichée n'est donc pas nécessairement une filiation déjà vérifiée dans les
+registres originaux.</p>
+<div class="figures">
+  <div class="fig"><b>1 684</b><span>personnes</span></div>
+  <div class="fig"><b>877</b><span>familles</span></div>
+  <div class="fig"><b>31</b><span>générations</span></div>
+  <div class="fig"><b>283</b><span>lieux écrits dans les sources</span></div>
+</div>
+
+<footer>
+  Synthèse de l'arbre familial. Les personnes présumées vivantes sont anonymisées dans la version publique.
+</footer>
+
+</div>
+</body>
+</html>

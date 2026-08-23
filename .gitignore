@@ -1,0 +1,19 @@
+# Artefacts : tout se regenere avec ./scripts/build.sh
+build/
+pub/
+.idea/
+__pycache__/
+*gitignored*
+
+# --- Donnees familiales : hors du depot ---------------------------------------
+# github.com/mlefree/genetik est PUBLIC. data/ contient la base Geneatique, les
+# ascendances nominatives, les photos du tirage papier — et des PERSONNES VIVANTES
+# Rien de cela ne doit partir sur un hote public.
+#
+# Consequence assumee : ce depot porte l'outillage, pas la genealogie. Un clone ne
+# construit rien tant que data/ n'a pas ete rempli a la main, en local.
+#
+# Pour revenir en arriere en connaissance de cause, supprimer la ligne suivante.
+data/
+scripts/
+tests/
