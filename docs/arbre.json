@@ -19,8 +19,8 @@
  "familles_synthetiques": 0,
  "filiation_connue": true,
  "statistiques": {
-  "individus": 1745,
-  "familles": 908,
+  "individus": 1759,
+  "familles": 915,
   "masques": 8,
   "generations_max": 41,
   "profondeur_descendance_max": 40,
@@ -483,7 +483,7 @@
    ],
    [
     "GIMIÉ",
-    4
+    11
    ],
    [
     "THALIBAULT",
@@ -116602,7 +116602,7 @@
     "Acte de mariage original n° 31, Marseille, 24/10/1922, marseille-mariage-gimie-lyon-1922.jpg, Archives municipales de Marseille, ARK 2940772 ; acte de naissance original de sa fille Éliane, Marseille, 14/12/1923, acte n° 498, ARK 3371074 ; fichier nominatif officiel des personnes décédées de l’INSEE 1980, acte n° 402"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "GF8",
    "familles": [
     "JF32"
    ],
@@ -118676,6 +118676,686 @@
    "generations_descendance": 11,
    "branches": [
     "leprevost"
+   ]
+  },
+  "AG8": {
+   "id": "AG8",
+   "prenom": "André Alexandre",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "18 MAR 1857",
+     "date": {
+      "annee": 1857,
+      "mois": 3,
+      "jour": 18
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "18 OCT 1927",
+     "date": {
+      "annee": 1927,
+      "mois": 10,
+      "jour": 18
+     }
+    },
+    "lieu": "Marseille (13)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Marin"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROUVÉ pour la naissance et la filiation par l'acte original n°15 de Gruissan, dressé le 19/03/1857 ; décès, profession et raccord à Pierre André restent à contrôler sur leurs actes originaux."
+   ],
+   "sources": [
+    "Archives de l'Aude, naissance d'André Alexandre GIMIÉ, 100NUM/5E170/25 vue 107, acte n°15, 19/03/1857 ; relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 8 ; Geneanet consulté le 30/08/2026"
+   ],
+   "famille_origine": "GF16",
+   "familles": [
+    "GF8"
+   ],
+   "vivant": false,
+   "annee_naissance": 1857,
+   "annee_deces": 1927,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG9": {
+   "id": "AG9",
+   "prenom": "Julia Marie Joséphine",
+   "nom": "TAILLADE",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "8 OCT 1866",
+     "date": {
+      "annee": 1866,
+      "mois": 10,
+      "jour": 8
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "30 DEC 1952",
+     "date": {
+      "annee": 1952,
+      "mois": 12,
+      "jour": 30
+     }
+    },
+    "lieu": "Marseille (13)"
+   },
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse et mère proposées par le relevé familial et plusieurs index Geneanet ; actes originaux à contrôler."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 9"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF8"
+   ],
+   "vivant": false,
+   "annee_naissance": 1866,
+   "annee_deces": 1952,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG16": {
+   "id": "AG16",
+   "prenom": "Jean Pierre Pascal",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "15 SEP 1819",
+     "date": {
+      "annee": 1819,
+      "mois": 9,
+      "jour": 15
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Marin"
+    },
+    {
+     "type": "profession",
+     "texte": "Capitaine marin"
+    },
+    {
+     "type": "profession",
+     "texte": "Maître au cabotage"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROUVÉ — identité et naissance confirmées par l'acte de mariage ; capitaine marin dans l'acte de naissance de son fils en 1857 et maître au cabotage dans le répertoire du Service historique de la Défense."
+   ],
+   "sources": [
+    "Archives de l'Aude, mariage GIMIÉ × BONNOT, 100NUM/5E170/21 vues 210-211, 22/05/1846 ; naissance d'André Alexandre GIMIÉ, 100NUM/5E170/25 vue 107, acte n°15 ; SHD MV CC 4 1895 39"
+   ],
+   "famille_origine": "GF32",
+   "familles": [
+    "GF16"
+   ],
+   "vivant": false,
+   "annee_naissance": 1819,
+   "annee_deces": null,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG17": {
+   "id": "AG17",
+   "prenom": "Marie",
+   "nom": "BONNOT",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1 OCT 1822",
+     "date": {
+      "annee": 1822,
+      "mois": 10,
+      "jour": 1
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": null,
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROUVÉ comme épouse de Jean Pierre Pascal GIMIÉ par l'acte original du 22/05/1846 ; naissance donnée par le relevé familial, à contrôler dans l'acte de naissance."
+   ],
+   "sources": [
+    "Archives de l'Aude, mariage GIMIÉ × BONNOT, 100NUM/5E170/21 vues 210-211 ; relevé familial page 2, Sosa 17"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF16"
+   ],
+   "vivant": false,
+   "annee_naissance": 1822,
+   "annee_deces": null,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG32": {
+   "id": "AG32",
+   "prenom": "Jean",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "23 MAY 1788",
+     "date": {
+      "annee": 1788,
+      "mois": 5,
+      "jour": 23
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "3 JUN 1865",
+     "date": {
+      "annee": 1865,
+      "mois": 6,
+      "jour": 3
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Brassier, manouvrier, fournier et cultivateur"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — lignée fournie par le relevé familial et cohérente avec les arbres indexés ; actes originaux à lire."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 32"
+   ],
+   "famille_origine": "GF64",
+   "familles": [
+    "GF32"
+   ],
+   "vivant": false,
+   "annee_naissance": 1788,
+   "annee_deces": 1865,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG33": {
+   "id": "AG33",
+   "prenom": "Élisabeth",
+   "nom": "CROUZAT",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "16 SEP 1792",
+     "date": {
+      "annee": 1792,
+      "mois": 9,
+      "jour": 16
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "8 MAY 1866",
+     "date": {
+      "annee": 1866,
+      "mois": 5,
+      "jour": 8
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Fournière"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; actes à contrôler."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 33"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF32"
+   ],
+   "vivant": false,
+   "annee_naissance": 1792,
+   "annee_deces": 1866,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG64": {
+   "id": "AG64",
+   "prenom": "Martin",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "11 JUL 1765",
+     "date": {
+      "annee": 1765,
+      "mois": 7,
+      "jour": 11
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "2 JAN 1843",
+     "date": {
+      "annee": 1843,
+      "mois": 1,
+      "jour": 2
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Brassier et fournier"
+    },
+    {
+     "type": "profession",
+     "texte": "Cultivateur"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — lignée du relevé familial recoupée par la reconstruction Geneanet de Gruissan ; décès, baptême du 13/07/1765 et métiers restent à vérifier sur les actes originaux."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 64 ; Geneanet remyfasy, fiche Martin GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": "GF128",
+   "familles": [
+    "GF64"
+   ],
+   "vivant": false,
+   "annee_naissance": 1765,
+   "annee_deces": 1843,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG65": {
+   "id": "AG65",
+   "prenom": "Anne",
+   "nom": "SABATIER",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "17 DEC 1763",
+     "date": {
+      "annee": 1763,
+      "mois": 12,
+      "jour": 17
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "16 MAY 1806",
+     "date": {
+      "annee": 1806,
+      "mois": 5,
+      "jour": 16
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse de Martin GIMIÉ. Contradiction non résolue : le relevé familial donne le 17/12/1763, Geneanet remyfasy donne 1766 ; acte original requis."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 65 ; Geneanet remyfasy, fiche Martin GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF64"
+   ],
+   "vivant": false,
+   "annee_naissance": 1763,
+   "annee_deces": 1806,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG128": {
+   "id": "AG128",
+   "prenom": "Antoine",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "22 OCT 1730",
+     "date": {
+      "annee": 1730,
+      "mois": 10,
+      "jour": 22
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "15 JUL 1817",
+     "date": {
+      "annee": 1817,
+      "mois": 7,
+      "jour": 15
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Fournier et pêcheur"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — lignée du relevé familial recoupée par Geneanet ; baptême du 23/10/1730 et décès restent à lire dans les registres."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, pages 5-6, Sosa 128 ; Geneanet remyfasy, fiche Antoine GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": "GF256",
+   "familles": [
+    "GF128"
+   ],
+   "vivant": false,
+   "annee_naissance": 1730,
+   "annee_deces": 1817,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG129": {
+   "id": "AG129",
+   "prenom": "Rose",
+   "nom": "RIVAL",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "10 AUG 1732",
+     "date": {
+      "annee": 1732,
+      "mois": 8,
+      "jour": 10
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1795",
+     "date": {
+      "annee": 1795,
+      "mois": null,
+      "jour": null
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse d'Antoine GIMIÉ selon le relevé familial, décès en 1795 proposé par Geneanet ; acte original à lire."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 6, Sosa 129 ; Geneanet remyfasy, fiche Antoine GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF128"
+   ],
+   "vivant": false,
+   "annee_naissance": 1732,
+   "annee_deces": 1795,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG256": {
+   "id": "AG256",
+   "prenom": "Jacques",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "12 DEC 1690",
+     "date": {
+      "annee": 1690,
+      "mois": 12,
+      "jour": 12
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "15 AUG 1763",
+     "date": {
+      "annee": 1763,
+      "mois": 8,
+      "jour": 15
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Fournier (boulanger)"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — Geneanet distingue une naissance le 12/12/1690 et un baptême le 14/12, date seule portée comme naissance dans le relevé familial ; actes originaux à contrôler."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 256 ; Geneanet remyfasy, fiche Jacques GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": "GF512",
+   "familles": [
+    "GF256"
+   ],
+   "vivant": false,
+   "annee_naissance": 1690,
+   "annee_deces": 1763,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG257": {
+   "id": "AG257",
+   "prenom": "Marie",
+   "nom": "MEUTE",
+   "sexe": "F",
+   "naissance": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1762",
+     "date": {
+      "annee": 1762,
+      "mois": null,
+      "jour": null
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse de Jacques GIMIÉ. Patronyme contradictoire : MEUTE dans le relevé familial, MENTA dans la reconstruction Geneanet de Gruissan ; acte original requis avant correction."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 257 ; Geneanet remyfasy, fiches Jacques et Antoine GIMIÉ, consultées le 30/08/2026"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF256"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1762,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG512": {
+   "id": "AG512",
+   "prenom": "Jean",
+   "nom": "GIMIÉ",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "6 MAY 1666",
+     "date": {
+      "annee": 1666,
+      "mois": 5,
+      "jour": 6
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "11 NOV 1743",
+     "date": {
+      "annee": 1743,
+      "mois": 11,
+      "jour": 11
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Pêcheur"
+    }
+   ],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — plus ancien GIMIÉ de la lignée directe du relevé familial. Geneanet donne un baptême (et non une naissance) le 06/05/1666, un décès le 11/11/1743 et les parents Pierre GIMIÉ × Jeanne CAMP ; actes originaux à lire avant d'étendre la lignée."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 512 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF512"
+   ],
+   "vivant": false,
+   "annee_naissance": 1666,
+   "annee_deces": 1743,
+   "branches": [
+    "gimie"
+   ]
+  },
+  "AG513": {
+   "id": "AG513",
+   "prenom": "Marguerite",
+   "nom": "BOURGES",
+   "sexe": "F",
+   "naissance": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1696",
+     "date": {
+      "annee": 1696,
+      "mois": null,
+      "jour": null
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "professions": [],
+   "evenements": [],
+   "notes": [
+    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; décès en 1696 proposé par Geneanet, acte original à lire."
+   ],
+   "sources": [
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026"
+   ],
+   "famille_origine": null,
+   "familles": [
+    "GF512"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1696,
+   "branches": [
+    "gimie"
    ]
   },
   "JI99": {
@@ -151758,6 +152438,191 @@
     "leprevost"
    ]
   },
+  "GF8": {
+   "id": "GF8",
+   "pere": "AG8",
+   "mere": "AG9",
+   "enfants": [
+    "JI61"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "4 SEP 1883",
+     "date": {
+      "annee": 1883,
+      "mois": 9,
+      "jour": 4
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation issus du relevé familial, recoupés par Geneanet ; acte original à lire."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF16": {
+   "id": "GF16",
+   "pere": "AG16",
+   "mere": "AG17",
+   "enfants": [
+    "AG8"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "22 MAY 1846",
+     "date": {
+      "annee": 1846,
+      "mois": 5,
+      "jour": 22
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROUVÉ — mariage par Archives de l'Aude 100NUM/5E170/21 vues 210-211 (correction du 21/05 porté par Geneanet et le relevé) ; filiation d'André Alexandre par son acte de naissance n°15, 100NUM/5E170/25 vue 107."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF32": {
+   "id": "GF32",
+   "pere": "AG32",
+   "mere": "AG33",
+   "enfants": [
+    "AG16"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "27 NOV 1816",
+     "date": {
+      "annee": 1816,
+      "mois": 11,
+      "jour": 27
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation du relevé familial, actes à contrôler."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF64": {
+   "id": "GF64",
+   "pere": "AG64",
+   "mere": "AG65",
+   "enfants": [
+    "AG32"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "30 JAN 1788",
+     "date": {
+      "annee": 1788,
+      "mois": 1,
+      "jour": 30
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation du relevé familial, actes à contrôler."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF128": {
+   "id": "GF128",
+   "pere": "AG128",
+   "mere": "AG129",
+   "enfants": [
+    "AG64"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "31 MAY 1763",
+     "date": {
+      "annee": 1763,
+      "mois": 5,
+      "jour": 31
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation du relevé familial, actes à contrôler."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF256": {
+   "id": "GF256",
+   "pere": "AG256",
+   "mere": "AG257",
+   "enfants": [
+    "AG128"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation du relevé familial, mariage à retrouver."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF512": {
+   "id": "GF512",
+   "pere": "AG512",
+   "mere": "AG513",
+   "enfants": [
+    "AG256"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "27 SEP 1689",
+     "date": {
+      "annee": 1689,
+      "mois": 9,
+      "jour": 27
+     }
+    },
+    "lieu": "Gruissan (11)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "PROBABLE — couple et filiation du relevé familial, acte paroissial à contrôler."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
   "JF51": {
    "id": "JF51",
    "pere": "JI55",
@@ -181985,6 +182850,7 @@
     "firstName": "Pierre André",
     "lastName": "GIMIÉ",
     "sex": "M",
+    "famc": "GF8",
     "fams": [
      "JF32"
     ],
@@ -182566,6 +183432,380 @@
     "fams": [
      "JF49"
     ]
+   },
+   {
+    "id": "AG8",
+    "hideId": true,
+    "firstName": "André Alexandre",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF16",
+    "fams": [
+     "GF8"
+    ],
+    "birth": {
+     "date": {
+      "day": 18,
+      "month": 3,
+      "year": 1857
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 18,
+      "month": 10,
+      "year": 1927
+     },
+     "place": "Marseille (13)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG9",
+    "hideId": true,
+    "firstName": "Julia Marie Joséphine",
+    "lastName": "TAILLADE",
+    "sex": "F",
+    "fams": [
+     "GF8"
+    ],
+    "birth": {
+     "date": {
+      "day": 8,
+      "month": 10,
+      "year": 1866
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 30,
+      "month": 12,
+      "year": 1952
+     },
+     "place": "Marseille (13)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG16",
+    "hideId": true,
+    "firstName": "Jean Pierre Pascal",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF32",
+    "fams": [
+     "GF16"
+    ],
+    "birth": {
+     "date": {
+      "day": 15,
+      "month": 9,
+      "year": 1819
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "AG17",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "BONNOT",
+    "sex": "F",
+    "fams": [
+     "GF16"
+    ],
+    "birth": {
+     "date": {
+      "day": 1,
+      "month": 10,
+      "year": 1822
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "AG32",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF64",
+    "fams": [
+     "GF32"
+    ],
+    "birth": {
+     "date": {
+      "day": 23,
+      "month": 5,
+      "year": 1788
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 3,
+      "month": 6,
+      "year": 1865
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG33",
+    "hideId": true,
+    "firstName": "Élisabeth",
+    "lastName": "CROUZAT",
+    "sex": "F",
+    "fams": [
+     "GF32"
+    ],
+    "birth": {
+     "date": {
+      "day": 16,
+      "month": 9,
+      "year": 1792
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 8,
+      "month": 5,
+      "year": 1866
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG64",
+    "hideId": true,
+    "firstName": "Martin",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF128",
+    "fams": [
+     "GF64"
+    ],
+    "birth": {
+     "date": {
+      "day": 11,
+      "month": 7,
+      "year": 1765
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 2,
+      "month": 1,
+      "year": 1843
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG65",
+    "hideId": true,
+    "firstName": "Anne",
+    "lastName": "SABATIER",
+    "sex": "F",
+    "fams": [
+     "GF64"
+    ],
+    "birth": {
+     "date": {
+      "day": 17,
+      "month": 12,
+      "year": 1763
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 16,
+      "month": 5,
+      "year": 1806
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG128",
+    "hideId": true,
+    "firstName": "Antoine",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF256",
+    "fams": [
+     "GF128"
+    ],
+    "birth": {
+     "date": {
+      "day": 22,
+      "month": 10,
+      "year": 1730
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 15,
+      "month": 7,
+      "year": 1817
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG129",
+    "hideId": true,
+    "firstName": "Rose",
+    "lastName": "RIVAL",
+    "sex": "F",
+    "fams": [
+     "GF128"
+    ],
+    "birth": {
+     "date": {
+      "day": 10,
+      "month": 8,
+      "year": 1732
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": null,
+      "month": null,
+      "year": 1795
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG256",
+    "hideId": true,
+    "firstName": "Jacques",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "famc": "GF512",
+    "fams": [
+     "GF256"
+    ],
+    "birth": {
+     "date": {
+      "day": 12,
+      "month": 12,
+      "year": 1690
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 15,
+      "month": 8,
+      "year": 1763
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG257",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "MEUTE",
+    "sex": "F",
+    "fams": [
+     "GF256"
+    ],
+    "death": {
+     "date": {
+      "day": null,
+      "month": null,
+      "year": 1762
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG512",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "fams": [
+     "GF512"
+    ],
+    "birth": {
+     "date": {
+      "day": 6,
+      "month": 5,
+      "year": 1666
+     },
+     "place": "Gruissan (11)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 11,
+      "month": 11,
+      "year": 1743
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "AG513",
+    "hideId": true,
+    "firstName": "Marguerite",
+    "lastName": "BOURGES",
+    "sex": "F",
+    "fams": [
+     "GF512"
+    ],
+    "death": {
+     "date": {
+      "day": null,
+      "month": null,
+      "year": 1696
+     },
+     "place": "Gruissan (11)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI99",
@@ -193730,6 +194970,116 @@
       "year": 1696
      },
      "place": "Morlac (18)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF8",
+    "husb": "AG8",
+    "wife": "AG9",
+    "children": [
+     "JI61"
+    ],
+    "marriage": {
+     "date": {
+      "day": 4,
+      "month": 9,
+      "year": 1883
+     },
+     "place": "Gruissan (11)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF16",
+    "husb": "AG16",
+    "wife": "AG17",
+    "children": [
+     "AG8"
+    ],
+    "marriage": {
+     "date": {
+      "day": 22,
+      "month": 5,
+      "year": 1846
+     },
+     "place": "Gruissan (11)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF32",
+    "husb": "AG32",
+    "wife": "AG33",
+    "children": [
+     "AG16"
+    ],
+    "marriage": {
+     "date": {
+      "day": 27,
+      "month": 11,
+      "year": 1816
+     },
+     "place": "Gruissan (11)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF64",
+    "husb": "AG64",
+    "wife": "AG65",
+    "children": [
+     "AG32"
+    ],
+    "marriage": {
+     "date": {
+      "day": 30,
+      "month": 1,
+      "year": 1788
+     },
+     "place": "Gruissan (11)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF128",
+    "husb": "AG128",
+    "wife": "AG129",
+    "children": [
+     "AG64"
+    ],
+    "marriage": {
+     "date": {
+      "day": 31,
+      "month": 5,
+      "year": 1763
+     },
+     "place": "Gruissan (11)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "GF256",
+    "husb": "AG256",
+    "wife": "AG257",
+    "children": [
+     "AG128"
+    ]
+   },
+   {
+    "id": "GF512",
+    "husb": "AG512",
+    "wife": "AG513",
+    "children": [
+     "AG256"
+    ],
+    "marriage": {
+     "date": {
+      "day": 27,
+      "month": 9,
+      "year": 1689
+     },
+     "place": "Gruissan (11)",
      "type": "union"
     }
    },
