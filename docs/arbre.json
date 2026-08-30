@@ -118715,10 +118715,10 @@
    ],
    "evenements": [],
    "notes": [
-    "PROUVÉ pour la naissance et la filiation par l'acte original n°15 de Gruissan, dressé le 19/03/1857 ; décès, profession et raccord à Pierre André restent à contrôler sur leurs actes originaux."
+    "PROBABLE — relevé familial recoupé par Geneanet. La vue 107 du registre 100NUM/5E170/25 concerne en réalité Alexandre Baptiste GIMIÉ, fils de Jean François GIMIÉ et Jeanne Joséphine BRUGUIÈRE : elle est exclue comme homonyme et ne prouve pas cette filiation."
    ],
    "sources": [
-    "Archives de l'Aude, naissance d'André Alexandre GIMIÉ, 100NUM/5E170/25 vue 107, acte n°15, 19/03/1857 ; relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 8 ; Geneanet consulté le 30/08/2026"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 8 ; Geneanet consulté le 30/08/2026"
    ],
    "famille_origine": "GF16",
    "familles": [
@@ -118804,19 +118804,15 @@
     },
     {
      "type": "profession",
-     "texte": "Capitaine marin"
-    },
-    {
-     "type": "profession",
      "texte": "Maître au cabotage"
     }
    ],
    "evenements": [],
    "notes": [
-    "PROUVÉ — identité et naissance confirmées par l'acte de mariage ; capitaine marin dans l'acte de naissance de son fils en 1857 et maître au cabotage dans le répertoire du Service historique de la Défense."
+    "PROUVÉ — identité et naissance confirmées par l'acte de mariage ; maître au cabotage dans le répertoire du Service historique de la Défense. Son raccord à André Alexandre reste probable."
    ],
    "sources": [
-    "Archives de l'Aude, mariage GIMIÉ × BONNOT, 100NUM/5E170/21 vues 210-211, 22/05/1846 ; naissance d'André Alexandre GIMIÉ, 100NUM/5E170/25 vue 107, acte n°15 ; SHD MV CC 4 1895 39"
+    "Archives de l'Aude, mariage GIMIÉ × BONNOT, 100NUM/5E170/21 vues 210-211, 22/05/1846 ; SHD MV CC 4 1895 39"
    ],
    "famille_origine": "GF32",
    "familles": [
@@ -152488,7 +152484,7 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROUVÉ — mariage par Archives de l'Aude 100NUM/5E170/21 vues 210-211 (correction du 21/05 porté par Geneanet et le relevé) ; filiation d'André Alexandre par son acte de naissance n°15, 100NUM/5E170/25 vue 107."
+    "PROUVÉ pour le mariage par Archives de l'Aude 100NUM/5E170/21 vues 210-211 (correction du 21/05 porté par Geneanet et le relevé) ; raccord à André Alexandre PROBABLE, acte de naissance exact restant à retrouver."
    ],
    "branches": [
     "gimie"
