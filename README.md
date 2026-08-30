@@ -58,8 +58,12 @@ Avant toute publication, relire le contenu de `docs/` et vérifier les changemen
 
 ```bash
 git diff -- docs
-python3 -m unittest discover -s recherche/outils/controles
 ```
+
+La suite historique `recherche/outils/controles` est obsolète et ne doit plus
+être exécutée : elle attend encore des sorties qui ne font plus partie du site.
+Le contrôle courant repose sur `arbre_publish.sh`, la validité du JSON, le
+masquage des vivants et la revue du diff public.
 
 ## Mettre à jour la publication locale — uniquement sur demande
 
@@ -93,13 +97,10 @@ La publication, elle, reste hors ligne, reproductible et déterministe.
 
 ## Contrôles de sécurité et de cohérence
 
-```bash
-python3 -m unittest discover -s recherche/outils/controles
-```
-
-`recherche/outils/controles/` protège notamment le masquage des
-vivants, les filiations, les lieux et la sélection des médias. `tmp/` n'appartient
-pas au projet et peut toujours être supprimé.
+Ne pas lancer la suite historique `recherche/outils/controles`, désormais
+obsolète. La publication explicite passe par `arbre_publish.sh`, puis par une
+vérification de `docs/arbre.json`, du masquage des vivants et du diff `docs/`.
+`tmp/` n'appartient pas au projet et peut toujours être supprimé.
 
 ## Sources et limites
 

@@ -96503,8 +96503,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "DOUTEUX — Family Echo la nomme Jeanne Odette MERCIER et donne une naissance le 03/04/1913, tandis que l'arbre local indiquait le 01/04/1913. Aucun acte retrouvé pendant la recherche du 30/08/2026 ; ne pas trancher."
+   ],
+   "sources": [
+    "Arbre familial Family Echo, fiche I1BOB consultée le 30/08/2026"
+   ],
    "associations": [],
    "famille_origine": "VF3",
    "familles": [
@@ -96530,22 +96534,22 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "25 NOV 1881",
+     "brut": "25 DEC 1881",
      "date": {
       "annee": 1881,
-      "mois": 11,
+      "mois": 12,
       "jour": 25
      }
     },
     "lieu": "Les Fourches",
     "commune": {
-     "nom": "Les Fourches",
-     "code": "14283",
-     "departement": "14",
-     "actuelle": "Fourches",
+     "nom": "Les Fourches (Lanteuil)",
+     "code": "19105",
+     "departement": "19",
+     "actuelle": "Lanteuil",
      "coordonnees": [
-      -0.0782,
-      48.8561
+      1.643,
+      45.1182
      ],
      "approximatif": false
     }
@@ -96561,42 +96565,47 @@
       "jour": 20
      }
     },
-    "lieu": "Somme-Suippe (51)",
+    "lieu": "Souain-Perthes-lès-Hurlus (51)",
     "commune": {
-     "nom": "Somme-Suippe",
-     "code": "51546",
+     "nom": "Souain-Perthes-lès-Hurlus",
+     "code": "51553",
      "departement": "51",
-     "actuelle": "Somme-Suippe",
-     "coordonnees": [
-      4.5847,
-      49.1226
-     ],
+     "actuelle": "Souain-Perthes-lès-Hurlus",
      "approximatif": false
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Menuisier"
+    },
+    {
+     "type": "profession",
+     "texte": "Soldat au 140e régiment d'infanterie"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
      "type": "naissance",
      "date": {
-      "brut": "25 NOV 1881",
+      "brut": "25 DEC 1881",
       "date": {
        "annee": 1881,
-       "mois": 11,
+       "mois": 12,
        "jour": 25
       }
      },
      "lieu": "Les Fourches",
      "commune": {
-      "nom": "Les Fourches",
-      "code": "14283",
-      "departement": "14",
-      "actuelle": "Fourches",
+      "nom": "Les Fourches (Lanteuil)",
+      "code": "19105",
+      "departement": "19",
+      "actuelle": "Lanteuil",
       "coordonnees": [
-       -0.0782,
-       48.8561
+       1.643,
+       45.1182
       ],
       "approximatif": false
      }
@@ -96611,23 +96620,23 @@
        "jour": 20
       }
      },
-     "lieu": "Somme-Suippe (51)",
+     "lieu": "Souain-Perthes-lès-Hurlus (51)",
      "commune": {
-      "nom": "Somme-Suippe",
-      "code": "51546",
+      "nom": "Souain-Perthes-lès-Hurlus",
+      "code": "51553",
       "departement": "51",
-      "actuelle": "Somme-Suippe",
-      "coordonnees": [
-       4.5847,
-       49.1226
-      ],
+      "actuelle": "Souain-Perthes-lès-Hurlus",
       "approximatif": false
      }
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "PROUVÉ — la fiche du registre matricule R 1210, page 59, donne François VAURIE né le 25/12/1881 à Lanteuil, menuisier, fils d'Eymard VAURIE et Marie LABORDE. La fiche Mort pour la France le donne soldat au 140e RI, classe 1901, matricule 1038 au recrutement de Brive, mort le 20/08/1915 à Souain-Perthes-lès-Hurlus. Ces pièces corrigent l'ancienne naissance au 25/11 et l'ancien lieu de décès Somme-Suippe."
+   ],
+   "sources": [
+    "Registre matricule du contingent, Brive-la-Gaillarde, volume 3, cote R 1210, page 59/690, consulté sur le visualiseur Geneanet le 30/08/2026, https://www.geneanet.org/registres/view/472561/59?individu_filter=497073 ; fiche officielle Mort pour la France, Mémoire des hommes, ARK https://www.memoiredeshommes.sga.defense.gouv.fr/fr/ark:/40699/m00523a0352b5bb9 ; transcription GénéaFrance mplf 3256584 consultée par curl ; arbre familial Family Echo, fiche QAFFO"
+   ],
    "associations": [],
    "famille_origine": "VF4",
    "familles": [
@@ -96827,8 +96836,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "PROBABLE — Family Echo donne le 06/07/1872 et Geneanet jml45181 donne également 1872–1935, contre 1871 dans l'arbre local. Ces deux arbres secondaires ne remplacent pas un acte original."
+   ],
+   "sources": [
+    "Arbre familial Family Echo, fiche YN1NC consultée le 30/08/2026 ; arbre Geneanet jml45181 consulté le 30/08/2026"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -116259,7 +116272,12 @@
     "lieu": "Allauch (13)"
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Conducteur de travaux"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -116285,6 +116303,10 @@
       }
      },
      "lieu": "Allauch (13)"
+    },
+    {
+     "type": "profession",
+     "texte": "Conducteur de travaux"
     }
    ],
    "images": [],
@@ -116537,7 +116559,12 @@
     "lieu": "Marseille (13)"
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Ajusteur"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -116563,6 +116590,10 @@
       }
      },
      "lieu": "Marseille (13)"
+    },
+    {
+     "type": "profession",
+     "texte": "Ajusteur"
     }
    ],
    "images": [],
@@ -116861,25 +116892,72 @@
   },
   "JI67": {
    "id": "JI67",
-   "prenom": "André",
+   "prenom": "André Antoine",
    "nom": "THÉVENET",
    "nom_jeune_fille": "",
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "19 MAR 1926",
+     "date": {
+      "annee": 1926,
+      "mois": 3,
+      "jour": 19
+     }
+    },
+    "lieu": "Paris 10e (75)"
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "29 DEC 2002",
+     "date": {
+      "annee": 2002,
+      "mois": 12,
+      "jour": 29
+     }
+    },
+    "lieu": "Montfermeil (93)"
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "19 MAR 1926",
+      "date": {
+       "annee": 1926,
+       "mois": 3,
+       "jour": 19
+      }
+     },
+     "lieu": "Paris 10e (75)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "29 DEC 2002",
+      "date": {
+       "annee": 2002,
+       "mois": 12,
+       "jour": 29
+      }
+     },
+     "lieu": "Montfermeil (93)"
+    }
+   ],
    "images": [],
    "notes": [
-    "Père certain de Michel André THÉVENET et conjoint d'Arlette BAZZOLO. DOUTEUX — aucun acte ne permet encore de lui attribuer d'autres prénoms, une naissance ou un décès ; André Justin Louis THÉVENET (1930-2005) reste un homonyme candidat non rattaché."
+    "Père certain de Michel André THÉVENET et conjoint d'Arlette BAZZOLO. PROUVÉ pour l'identité civile — le fichier INSEE confirme André Antoine THÉVENET, né le 19/03/1926 à Paris 10e et décédé le 29/12/2002 à Montfermeil, acte n° 754. La filiation avec Michel demeure fondée sur l'information familiale et Family Echo."
    ],
    "sources": [
-    "Filiation confirmée directement par la famille en août 2026"
+    "Filiation confirmée directement par la famille en août 2026 ; arbre familial Family Echo communiqué par un cousin, fiche XE1AA consultée le 30/08/2026 ; fichier nominatif officiel des personnes décédées de l'INSEE, correction/source 2003 ligne 1174, identifiant MatchID pA_2ylqTAFlH, Montfermeil, acte n° 754"
    ],
    "associations": [],
    "famille_origine": null,
@@ -116887,8 +116965,8 @@
     "JF3"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
+   "annee_naissance": 1926,
+   "annee_deces": 2002,
    "generations_ascendance": 0,
    "generations_descendance": 3,
    "branches": [
@@ -117004,7 +117082,7 @@
    "images": [],
    "notes": [],
    "sources": [
-    "Filiation confirmée directement par la famille en août 2026 ; fichier des personnes décédées de l’INSEE, acte de décès n° 629"
+    "Filiation confirmée directement par la famille en août 2026 ; fichier des personnes décédées de l’INSEE 2019 ligne 463447, identifiant MatchID L3X7FwLmQNvq, acte de décès n° 629"
    ],
    "associations": [],
    "famille_origine": null,
@@ -176167,7 +176245,7 @@
     "birth": {
      "date": {
       "day": 25,
-      "month": 11,
+      "month": 12,
       "year": 1881
      },
      "place": "Les Fourches",
@@ -176179,7 +176257,7 @@
       "month": 8,
       "year": 1915
      },
-     "place": "Somme-Suippe (51)",
+     "place": "Souain-Perthes-lès-Hurlus (51)",
      "type": "deces",
      "confirmed": true
     }
@@ -182013,12 +182091,31 @@
    {
     "id": "JI67",
     "hideId": true,
-    "firstName": "André",
+    "firstName": "André Antoine",
     "lastName": "THÉVENET",
     "sex": "M",
     "fams": [
      "JF3"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 19,
+      "month": 3,
+      "year": 1926
+     },
+     "place": "Paris 10e (75)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 29,
+      "month": 12,
+      "year": 2002
+     },
+     "place": "Montfermeil (93)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI68",
