@@ -118292,7 +118292,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "annee_estimee": 1953,
+   "annee_estimee": null,
    "generations_ascendance": 12,
    "generations_descendance": 2,
    "branches": [
@@ -119198,7 +119198,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "annee_estimee": 2006,
+   "annee_estimee": null,
    "generations_ascendance": 40,
    "generations_descendance": 0,
    "branches": [
@@ -119233,7 +119233,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "annee_estimee": 2006,
+   "annee_estimee": null,
    "generations_ascendance": 40,
    "generations_descendance": 0,
    "branches": [
@@ -140344,6 +140344,7 @@
    "branches": [
     "thevenet"
    ],
+   "annee_estimee": null,
    "masque": true
   },
   "JI112": {
@@ -140405,9 +140406,242 @@
    },
    "inhumation": null,
    "professions": [
+    "menuisier",
     "ébéniste"
    ],
    "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1909",
+      "date": {
+       "annee": 1909
+      }
+     },
+     "lieu": "Leynes (71)",
+     "detail": "résidence portée au registre matricule, canton de La Chapelle-de-Guinchay",
+     "commune": {
+      "nom": "Leynes",
+      "code": "71258",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Leynes",
+      "coordonnees": [
+       4.7273,
+       46.2644
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "11 MAY 1913",
+      "date": {
+       "annee": 1913
+      }
+     },
+     "lieu": "Châtillon-sur-Seine (21)",
+     "detail": "30 rue de Chaumont",
+     "commune": {
+      "nom": "Châtillon-sur-Seine",
+      "code": "21154",
+      "departement": "21",
+      "pays": "France",
+      "actuelle": "Châtillon-sur-Seine",
+      "coordonnees": [
+       4.582,
+       47.8593
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "11 AUG 1913",
+      "date": {
+       "annee": 1913
+      }
+     },
+     "lieu": "Saint-Rambert-l'Île-Barbe (69)",
+     "detail": "45 Grande Rue, chez Guillermard",
+     "commune": {
+      "nom": "Saint-Rambert-l'Île-Barbe",
+      "code": "69389",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon 9e Arrondissement",
+      "coordonnees": [
+       4.8128,
+       45.7836
+      ],
+      "approximatif": true
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 FEB 1914",
+      "date": {
+       "annee": 1914
+      }
+     },
+     "lieu": "Saint-Rambert-l'Île-Barbe (69)",
+     "detail": "40 Grande Rue",
+     "commune": {
+      "nom": "Saint-Rambert-l'Île-Barbe",
+      "code": "69389",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon 9e Arrondissement",
+      "coordonnees": [
+       4.8128,
+       45.7836
+      ],
+      "approximatif": true
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "21 APR 1919",
+      "date": {
+       "annee": 1919
+      }
+     },
+     "lieu": "Saint-Cyr-au-Mont-d'Or (69)",
+     "detail": "",
+     "commune": {
+      "nom": "Saint-Cyr-au-Mont-d'Or",
+      "code": "69191",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Saint-Cyr-au-Mont-d'Or",
+      "coordonnees": [
+       4.8162,
+       45.8216
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 APR 1920",
+      "date": {
+       "annee": 1920
+      }
+     },
+     "lieu": "Grenoble (38)",
+     "detail": "chez Mme Chrétien, lecture incertaine",
+     "commune": {
+      "nom": "Grenoble",
+      "code": "38185",
+      "departement": "38",
+      "pays": "France",
+      "actuelle": "Grenoble",
+      "coordonnees": [
+       5.7155,
+       45.1842
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "31 JUL 1920",
+      "date": {
+       "annee": 1920
+      }
+     },
+     "lieu": "Paris 12e (75)",
+     "detail": "6 impasse Chalon",
+     "commune": {
+      "nom": "Paris 12e",
+      "code": "75112",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "5 MAR 1921",
+      "date": {
+       "annee": 1921,
+       "mois": 3,
+       "jour": 5
+      }
+     },
+     "lieu": "Paris 12e (75)",
+     "detail": "6 impasse Chalon, domicile au mariage",
+     "commune": {
+      "nom": "Paris 12e",
+      "code": "75112",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 APR 1922",
+      "date": {
+       "annee": 1922
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "25 FEB 1927",
+      "date": {
+       "annee": 1927
+      }
+     },
+     "lieu": "Livry-Gargan (93)",
+     "detail": "37 allée Pierre-Curie, lotissement",
+     "commune": {
+      "nom": "Livry-Gargan",
+      "code": "93046",
+      "departement": "93",
+      "pays": "France",
+      "actuelle": "Livry-Gargan",
+      "coordonnees": [
+       2.5351,
+       48.9184
+      ],
+      "approximatif": false
+     }
+    },
     {
      "type": "residence",
      "date": {
@@ -140480,18 +140714,263 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "menuisier (1909), puis ébéniste (déc. 1911, 1926)"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1909",
+      "date": {
+       "annee": 1909
+      }
+     },
+     "lieu": "Leynes (71)",
+     "detail": "résidence portée au registre matricule, canton de La Chapelle-de-Guinchay",
+     "commune": {
+      "nom": "Leynes",
+      "code": "71258",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Leynes",
+      "coordonnees": [
+       4.7273,
+       46.2644
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "11 MAY 1913",
+      "date": {
+       "annee": 1913
+      }
+     },
+     "lieu": "Châtillon-sur-Seine (21)",
+     "detail": "30 rue de Chaumont",
+     "commune": {
+      "nom": "Châtillon-sur-Seine",
+      "code": "21154",
+      "departement": "21",
+      "pays": "France",
+      "actuelle": "Châtillon-sur-Seine",
+      "coordonnees": [
+       4.582,
+       47.8593
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "11 AUG 1913",
+      "date": {
+       "annee": 1913
+      }
+     },
+     "lieu": "Saint-Rambert-l'Île-Barbe (69)",
+     "detail": "45 Grande Rue, chez Guillermard",
+     "commune": {
+      "nom": "Saint-Rambert-l'Île-Barbe",
+      "code": "69389",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon 9e Arrondissement",
+      "coordonnees": [
+       4.8128,
+       45.7836
+      ],
+      "approximatif": true
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 FEB 1914",
+      "date": {
+       "annee": 1914
+      }
+     },
+     "lieu": "Saint-Rambert-l'Île-Barbe (69)",
+     "detail": "40 Grande Rue",
+     "commune": {
+      "nom": "Saint-Rambert-l'Île-Barbe",
+      "code": "69389",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon 9e Arrondissement",
+      "coordonnees": [
+       4.8128,
+       45.7836
+      ],
+      "approximatif": true
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "21 APR 1919",
+      "date": {
+       "annee": 1919
+      }
+     },
+     "lieu": "Saint-Cyr-au-Mont-d'Or (69)",
+     "detail": "",
+     "commune": {
+      "nom": "Saint-Cyr-au-Mont-d'Or",
+      "code": "69191",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Saint-Cyr-au-Mont-d'Or",
+      "coordonnees": [
+       4.8162,
+       45.8216
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 APR 1920",
+      "date": {
+       "annee": 1920
+      }
+     },
+     "lieu": "Grenoble (38)",
+     "detail": "chez Mme Chrétien, lecture incertaine",
+     "commune": {
+      "nom": "Grenoble",
+      "code": "38185",
+      "departement": "38",
+      "pays": "France",
+      "actuelle": "Grenoble",
+      "coordonnees": [
+       5.7155,
+       45.1842
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "31 JUL 1920",
+      "date": {
+       "annee": 1920
+      }
+     },
+     "lieu": "Paris 12e (75)",
+     "detail": "6 impasse Chalon",
+     "commune": {
+      "nom": "Paris 12e",
+      "code": "75112",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1 APR 1922",
+      "date": {
+       "annee": 1922
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "25 FEB 1927",
+      "date": {
+       "annee": 1927
+      }
+     },
+     "lieu": "Livry-Gargan (93)",
+     "detail": "37 allée Pierre-Curie, lotissement",
+     "commune": {
+      "nom": "Livry-Gargan",
+      "code": "93046",
+      "departement": "93",
+      "pays": "France",
+      "actuelle": "Livry-Gargan",
+      "coordonnees": [
+       2.5351,
+       48.9184
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1978",
+      "date": {
+       "annee": 1978
+      }
+     },
+     "lieu": "Livry-Gargan (93)",
+     "detail": "41 rue Pierre Curie",
+     "commune": {
+      "nom": "Livry-Gargan",
+      "code": "93046",
+      "departement": "93",
+      "pays": "France",
+      "actuelle": "Livry-Gargan",
+      "coordonnees": [
+       2.5351,
+       48.9184
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
    "notes": [
     "Père d'André Antoine THÉVENET. Huitième des neuf enfants de Jean Baptiste THÉVENET et de Jeanne Marie LASSARA, famille du Mâconnais installée à Romanèche-Thorins. Marié en premières noces à Marcelle Marie Alphonsine PETIT, dont Maurice Joannès (1915-1978) et René Aimé (1917-1917) ; puis à Marcelle Eugénie JOURDREN. C'est lui qui fait passer la famille de Saône-et-Loire à Paris.",
     "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
-    "Né le 13 janvier 1889 à Flacé-lès-Mâcon, en Saône-et-Loire — acte aux AD71 — et mort le 9 mars 1978 à MONTFERMEIL, la commune même où mourra son fils André vingt-quatre ans plus tard. Ébéniste. Domicilié en 1978 au 41 rue Pierre Curie à Livry-Gargan. Marié une première fois le 27 décembre 1913 à Chiroubles (69) avec Marcelle Marie Alphonsine PETIT, puis le 5 mars 1921 à Paris 14e avec Marcelle Eugénie JOURDREN. C'est donc entre 1913 et 1921 qu'il quitte le Mâconnais pour Paris. Son décès et celui de sa femme à Montfermeil, et son domicile à Livry-Gargan, ancrent la famille dans le même coin de Seine-Saint-Denis que les BAZZOLO de Sevran : c'est là que les deux lignées se rencontrent."
+    "Né le 13 janvier 1889 à Flacé-lès-Mâcon, en Saône-et-Loire — acte aux AD71 — et mort le 9 mars 1978 à MONTFERMEIL, la commune même où mourra son fils André vingt-quatre ans plus tard. Ébéniste. Domicilié en 1978 au 41 rue Pierre Curie à Livry-Gargan. Marié une première fois le 27 décembre 1913 à Chiroubles (69) avec Marcelle Marie Alphonsine PETIT, puis le 5 mars 1921 à Paris 14e avec Marcelle Eugénie JOURDREN. C'est donc entre 1913 et 1921 qu'il quitte le Mâconnais pour Paris. Son décès et celui de sa femme à Montfermeil, et son domicile à Livry-Gargan, ancrent la famille dans le même coin de Seine-Saint-Denis que les BAZZOLO de Sevran : c'est là que les deux lignées se rencontrent.",
+    "PROUVÉ le 31/08/2026 par son registre matricule (AD71, 1 R RM Mâcon 1909/2, matricule 553, classe 1909, bureau de Mâcon) : « profession de menuisier », mention rouge postérieure « ébéniste (déc. 1911) ». Le recensement de Paris de 1926 le redonne « ébéniste », chef de ménage, 51 rue Daguerre (14e). C'est la première profession de la branche Thévenet appuyée sur une source primaire.",
+    "Le même registre porte : « fils de feu Jean et de feue Lassarat Marie », et lui désigne un tuteur, M. Joanny MOIROUD, domicilié à Pierreclos (71). Antoine est donc orphelin de père et de mère avant octobre 1909, ce qui concorde exactement avec Jean Baptiste THÉVENET († 1892) et Jeanne Marie LASSARA († 1897) : la filiation, jusque-là INDEX/PROBABLE d'après l'arbre alla224, devient PROUVÉE.",
+    "Service militaire et guerre, d'après le registre matricule. Inscrit sous le n° 2 de la liste du canton de Tramayes, classé 1re partie en 1910. Incorporé au 15e bataillon de chasseurs à pied le 1er octobre 1910, soldat de 2e classe ; certificat de bonne conduite ; réserve le 1er octobre 1912. Rappelé à la mobilisation générale, arrivé au corps le 2 août 1914, parti aux armées du Nord-Est le 5 août. BLESSÉ LE 30 AOÛT 1914 À LA CHIPOTTE, BALLE AU BRAS GAUCHE. Retour aux armées le 16 mars 1917 au 10e bataillon de chasseurs à pied ; évacué à l'hôpital-hospice de Villeurbanne du 20 juillet au 17 août 1917 pour angine ; de nouveau aux armées du 11 octobre 1917 au 1er avril 1919. Démobilisé le 2 avril 1919 par le 158e RI, se retire à Saint-Cyr-au-Mont-d'Or. Réserve : 20e puis 19e bataillon de chasseurs, 134e RI ; sans affectation à partir du 1er septembre 1927 ; dégagé des obligations par la loi du 31 mars 1928, laissé à la disposition du ministre de la Guerre pour la Défense passive. Signalement : cheveux et sourcils châtains, yeux bleus, visage ovale, 1 m 61, degré d'instruction 3.",
+    "Le registre matricule date la montée à Paris, restée jusqu'ici imprécise : Mâconnais jusqu'en 1913 (Leynes), Châtillon-sur-Seine en mai 1913, région lyonnaise d'août 1913 à 1919, Grenoble en 1920, PARIS le 31 juillet 1920 au 6 impasse Chalon (12e), puis 51 rue Daguerre (14e) à partir de 1922 — d'où le mariage du 5 mars 1921 à Paris 14e — enfin LIVRY-GARGAN, 37 allée Pierre-Curie, le 25 février 1927. L'adresse de 1978 relevée par ailleurs, 41 rue Pierre Curie à Livry-Gargan, est la même rue : la famille ne bouge plus pendant cinquante ans.",
+    "Sa fratrie est entrée dans l'arbre le 31/08/2026 : huit frères et sœurs, dont deux MORTS POUR LA FRANCE en 1914 — Joseph, tué le 29 août à Saint-Léonard dans les Vosges, et Louis, tué le 16 septembre à Autrêches dans l'Oise. Antoine lui-même est blessé le 30 août 1914 à La Chipotte, à quelques kilomètres de l'endroit où son frère Joseph vient d'être tué la veille. Trois frères pris dans les mêmes semaines, un seul en revient.",
+    "L'acte de mariage du 5 mars 1921 (AD75, 14M 270, vue 29, acte n° 493) apporte trois choses. Il PROUVE sa filiation une troisième fois — « fils majeur de Jean THÉVENET et de Marie LASSARAT, époux décédés » — après son propre registre matricule et ceux de ses frères Jean Marie et Louis. Il le dit MENUISIER et domicilié 6 impasse Chalon, ce qui recoupe exactement son matricule (Paris, 6 impasse Chalon, à partir du 31 juillet 1920). Et il révèle un fait inconnu : il est DIVORCÉ DE MARCELLE PETIT DEPUIS LE 15 JANVIER 1921, sept semaines avant ce remariage.",
+    "Le registre du 14e orthographie son nom « Chevenet ». Ne pas propager cette graphie : la table décennale, le matricule et l'INSEE disent tous THÉVENET.",
+    "Témoin de son mariage : « Antoine THÉVENET, menuisier-ébéniste, 6 impasse de Chalon » — même prénom, même métier, MÊME ADRESSE que lui. C'est très probablement son frère aîné Antoine dit Tony (JI130), avec qui il logeait et travaillait. PROBABLE, non prouvé."
    ],
    "sources": [
     "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
     "Confirmé par le propriétaire de l'arbre le 31/08/2026",
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André.",
+    "Registre matricule militaire, Archives départementales de Saône-et-Loire, cote 1 R RM Mâcon 1909/2, matricule 553, classe 1909, bureau de Mâcon. Image consultée et archivée le 31/08/2026 : thevenet-antoine-1889-matricule-553-macon-1909.jpg — https://www.archives71.fr/consulter/en-ligne/familles-et-individus/registres-matricules-militaires?detail=337998 . Source primaire lue : PROUVÉ.",
+    "Recensement de population de Paris, 1926, Archives de Paris, cote D2M8 272, vue 251/727, 51 rue Daguerre (14e). Image consultée et archivée le 31/08/2026 : d2m8-272-vue-251-51-rue-daguerre.jpg — index nominatif POPP. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "JF58",
@@ -140506,6 +140985,10 @@
    "generations_descendance": 4,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "ad71-matricule-thevenet-antoine-1909",
+    "ad75-mariage-thevenet-jourdren-1921"
    ]
   },
   "JI113": {
@@ -140527,6 +141010,7 @@
      }
     },
     "lieu": "Paris 4e (75)",
+    "detail": "7 rue du Pont-Louis-Philippe, à onze heures du soir",
     "commune": {
      "nom": "Paris 4e Arrondissement",
      "code": "75104",
@@ -140566,8 +141050,57 @@
     }
    },
    "inhumation": null,
-   "professions": [],
-   "residences": [],
+   "professions": [
+    "charcutière"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1921",
+      "date": {
+       "annee": 1921
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre, chez sa mère",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1926",
+      "date": {
+       "annee": 1926
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre, recensement du 7 mars 1926",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "evenements": [
     {
      "type": "naissance",
@@ -140580,6 +141113,7 @@
       }
      },
      "lieu": "Paris 4e (75)",
+     "detail": "7 rue du Pont-Louis-Philippe, à onze heures du soir",
      "commune": {
       "nom": "Paris 4e Arrondissement",
       "code": "75104",
@@ -140616,31 +141150,72 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1926",
+      "date": {
+       "annee": 1926
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre, recensement du 7 mars 1926",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "charcutière"
     }
    ],
    "images": [],
    "notes": [
     "Mère d'André Antoine THÉVENET, seconde épouse d'Antoine THÉVENET. JOURDREN est un patronyme breton, du Finistère : à vérifier, il ouvrirait une cinquième origine dans l'arbre.",
     "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
-    "Née le 12 août 1895 à Paris 4e et morte le 12 juillet 1975 à Montfermeil. Sa date de naissance est corroborée par l'acte de naissance d'une de ses filles, conservé en mairie de Montfermeil — ce qui indique que cette fille y est née. Malgré son patronyme breton, elle est donc parisienne de naissance ; l'origine bretonne, s'il y en a une, remonte à ses propres parents, inconnus à ce jour."
+    "Née le 12 août 1895 à Paris 4e et morte le 12 juillet 1975 à Montfermeil. Sa date de naissance est corroborée par l'acte de naissance d'une de ses filles, conservé en mairie de Montfermeil — ce qui indique que cette fille y est née. Malgré son patronyme breton, elle est donc parisienne de naissance ; l'origine bretonne, s'il y en a une, remonte à ses propres parents, inconnus à ce jour.",
+    "Recensement de Paris de 1926 (AD75, D2M8 272, vue 251), 51 rue Daguerre (14e) : elle figure au ménage d'Antoine THÉVENET sous « Marcelle », mais SA LIGNE EST BARRÉE et porte la mention « abs. » — absente le jour du dénombrement, donc non comptée. Aucune profession n'est inscrite pour elle : la vue ne donne pas son métier, qui reste inconnu.",
+    "ASCENDANCE ÉTABLIE le 31/08/2026. Son acte de naissance (AD75, V4E 8260, vue 26, acte n° 1325, Paris 4e, dressé le 13 août 1895) la dit née le 12 août 1895 à onze heures du soir, 7 rue du Pont-Louis-Philippe, « fille de Hélène Marie JOURDREN, âgée de trente ans, journalière, demeurant avenue Ledru-Rollin n° 8, et de PÈRE NON DÉNOMMÉ ». Elle est enfant naturelle, reconnue par sa mère seule le 27 août 1895 à la mairie du 12e.",
+    "L'accouchement est déclaré par la sage-femme Fernande Deslandes, cinquante ans, qui loge à la même adresse que la naissance ; témoins Pierre Griffon, soixante-cinq ans, et Hippolyte Clément, quarante-cinq ans, employés, 2 place Baudoyer.",
+    "Trois mentions marginales de cet acte prouvent ce que nous ne tenions que d'index : sa reconnaissance de 1895, son MARIAGE le 5 mars 1921 au 14e avec Antoine THÉVENET, et son DÉCÈS à Montfermeil le 12 juillet 1975.",
+    "PROFESSION, enfin : l'acte de mariage de 1921 la dit « CHARCUTIÈRE ». C'est la seule profession connue d'une femme de cette branche. Sa mère y est dite ménagère, et journalière en 1895.",
+    "Le patronyme est écrit JOURDREN dans la table décennale et en marge de l'acte, plutôt « Jourdin » dans le corps de l'acte : variante à conserver."
    ],
    "sources": [
     "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
     "Confirmé par le propriétaire de l'arbre le 31/08/2026",
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André.",
+    "Recensement de Paris, 1926, Archives de Paris, cote D2M8 272, vue 251/727 : d2m8-272-vue-251-51-rue-daguerre.jpg. Consulté le 31/08/2026.",
+    "Acte de naissance, Archives de Paris, naissances du 4e arrondissement, 1895, cote V4E 8260, vue 26/31, acte n° 1325, dressé le 13 août 1895. Image lue et archivée le 31/08/2026 : v4e8260-vue26-naissance-jourdren-marcelle-eugenie-1895-acte-1325.jpg — repérée par la table décennale D1M9 175, vue 10/12 (d1m9-175-vue10-td-naissances-paris4-1893-1902-jourdren.jpg). Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF64",
    "familles": [
     "JF57"
    ],
    "vivant": false,
    "annee_naissance": 1895,
    "annee_deces": 1975,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 4,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "ad75-td-paris4-1893-1902-jourdren",
+    "ad75-naissance-jourdren-1895",
+    "ad75-mariage-thevenet-jourdren-1921"
    ]
   },
   "JI114": {
@@ -140672,6 +141247,7 @@
    "branches": [
     "thevenet"
    ],
+   "annee_estimee": null,
    "masque": true
   },
   "JI115": {
@@ -140776,6 +141352,7 @@
    "branches": [
     "thevenet"
    ],
+   "annee_estimee": null,
    "masque": true
   },
   "JI117": {
@@ -140795,10 +141372,12 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "Première épouse d'Antoine THÉVENET, mère de ses deux premiers enfants."
+    "Première épouse d'Antoine THÉVENET, mère de ses deux premiers enfants.",
+    "Divorcée d'Antoine THÉVENET le 15 janvier 1921, d'après l'acte de remariage de celui-ci (AD75, 14M 270, acte n° 493). Elle n'apparaît pas au fichier des décès de l'INSEE pour une naissance entre 1885 et 1900 : elle est probablement morte avant 1970. Ni sa filiation, ni ses dates ne sont connues."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -140813,7 +141392,10 @@
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1893
+   "annee_estimee": 1893,
+   "assets": [
+    "ad75-mariage-thevenet-jourdren-1921"
+   ]
   },
   "JI118": {
    "id": "JI118",
@@ -140826,23 +141408,51 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1915",
+     "brut": "12 FEB 1915",
      "date": {
-      "annee": 1915
+      "annee": 1915,
+      "mois": 2,
+      "jour": 12
      }
     },
-    "lieu": null
+    "lieu": "Lyon 2e (69)",
+    "commune": {
+     "nom": "Lyon 2e",
+     "code": "69382",
+     "departement": "69",
+     "pays": "France",
+     "actuelle": "Lyon 2e Arrondissement",
+     "coordonnees": [
+      4.8265,
+      45.7464
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
     "type": "deces",
     "date": {
-     "brut": "1978",
+     "brut": "30 JUN 1978",
      "date": {
-      "annee": 1978
+      "annee": 1978,
+      "mois": 6,
+      "jour": 30
      }
     },
-    "lieu": null
+    "lieu": "Vaulx-en-Velin (69)",
+    "commune": {
+     "nom": "Vaulx-en-Velin",
+     "code": "69256",
+     "departement": "69",
+     "pays": "France",
+     "actuelle": "Vaulx-en-Velin",
+     "coordonnees": [
+      4.925,
+      45.7776
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -140851,30 +141461,60 @@
     {
      "type": "naissance",
      "date": {
-      "brut": "1915",
+      "brut": "12 FEB 1915",
       "date": {
-       "annee": 1915
+       "annee": 1915,
+       "mois": 2,
+       "jour": 12
       }
      },
-     "lieu": null
+     "lieu": "Lyon 2e (69)",
+     "commune": {
+      "nom": "Lyon 2e",
+      "code": "69382",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon 2e Arrondissement",
+      "coordonnees": [
+       4.8265,
+       45.7464
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
      "date": {
-      "brut": "1978",
+      "brut": "30 JUN 1978",
       "date": {
-       "annee": 1978
+       "annee": 1978,
+       "mois": 6,
+       "jour": 30
       }
      },
-     "lieu": null
+     "lieu": "Vaulx-en-Velin (69)",
+     "commune": {
+      "nom": "Vaulx-en-Velin",
+      "code": "69256",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Vaulx-en-Velin",
+      "coordonnees": [
+       4.925,
+       45.7776
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
    "notes": [
-    "Demi-frère aîné d'André."
+    "Demi-frère aîné d'André.",
+    "Identité civile confirmée le 31/08/2026 par le fichier des décès de l'INSEE : Maurice Joannes THEVENET, né le 12 février 1915 à Lyon 2e, décédé le 30 juin 1978 à Vaulx-en-Velin, acte nº 120. INDEX OFFICIEL. Sa naissance à Lyon en février 1915 confirme le registre matricule de son père : Antoine réside à Saint-Rambert-l'Île-Barbe, dans l'agglomération lyonnaise, de 1913 à 1919. Il meurt la même année que son père, à trois mois d'écart."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Fichier des décès de l'INSEE, interrogé via l'API deces.matchid.io le 31/08/2026 : THEVENET Maurice Joannes, 19150212 Lyon 2e (69), † 19780630 Vaulx-en-Velin, acte 120."
    ],
    "associations": [],
    "famille_origine": "JF60",
@@ -141078,10 +141718,12 @@
    "images": [],
    "notes": [
     "Grand-père paternel d'André. **C'est la souche bourguignonne de la branche THÉVENET.** Né à Tramayes en Saône-et-Loire, mort à Romanèche-Thorins. Fermier cultivateur, journalier, puis fondeur. Marié le 4 février 1873 à Cenves (69) avec Jeanne Marie LASSARA, après contrat passé devant Maître Thomas, notaire à Tramayes, le 16 janvier 1873. Domiciles successifs relevés : Prissé en 1878, 120 rue Rambuteau à Mâcon en 1883, hameau de Lapierre à Romanèche-Thorins en 1892. Neuf enfants. Son acte de décès est coté AD71 5E372/23. Il ne signait pas.",
-    "L'itinéraire Tramayes, Prissé, Mâcon, Romanèche-Thorins situe toute la famille dans le MÂCONNAIS. C'est la confirmation documentaire de l'information familiale « les THÉVENET viennent de Bourgogne » : elle portait bien sur cette génération, pas sur André."
+    "L'itinéraire Tramayes, Prissé, Mâcon, Romanèche-Thorins situe toute la famille dans le MÂCONNAIS. C'est la confirmation documentaire de l'information familiale « les THÉVENET viennent de Bourgogne » : elle portait bien sur cette génération, pas sur André.",
+    "Sa paternité sur Antoine (JI112) est PROUVÉE depuis le 31/08/2026 par le registre matricule d'Antoine (AD71, 1 R RM Mâcon 1909/2, matricule 553), qui le dit « fils de feu Jean et de feue Lassarat Marie » et lui donne un tuteur, M. Joanny MOIROUD de Pierreclos. « Feu » en 1909 concorde avec son décès du 14 août 1892 à Romanèche-Thorins."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Registre matricule d'Antoine THÉVENET, AD71, 1 R RM Mâcon 1909/2, matricule 553, consulté le 31/08/2026 : mention de filiation « fils de feu Jean et de feue Lassarat Marie »."
    ],
    "associations": [],
    "famille_origine": "JF59",
@@ -141153,10 +141795,12 @@
    ],
    "images": [],
    "notes": [
-    "Grand-mère paternelle d'André, mariée à Cenves (69) le 4 février 1873."
+    "Grand-mère paternelle d'André, mariée à Cenves (69) le 4 février 1873.",
+    "Le registre matricule d'Antoine (AD71, 1 R RM Mâcon 1909/2, matricule 553) l'orthographie « LASSARAT Marie » et la dit décédée avant octobre 1909 — cohérent avec le décès de 1897. Sa maternité sur Antoine est ainsi PROUVÉE. Variante de graphie à conserver : LASSARA / LASSARAT."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Registre matricule d'Antoine THÉVENET, AD71, 1 R RM Mâcon 1909/2, matricule 553, consulté le 31/08/2026."
    ],
    "associations": [],
    "famille_origine": "JF61",
@@ -141413,6 +142057,1535 @@
    "generations_descendance": 6,
    "branches": [
     "thevenet"
+   ]
+  },
+  "JI126": {
+   "id": "JI126",
+   "prenom": "Marie Louise",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1874",
+     "date": {
+      "annee": 1874
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1874",
+      "date": {
+       "annee": 1874
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Aînée des neuf enfants de Jean Baptiste THÉVENET et Jeanne Marie LASSARA, d'après l'arbre alla224. Ni date précise, ni lieu, ni décès connus : à chercher dans les registres de Cenves (69) et de Tramayes (71) pour 1874."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1874,
+   "annee_deces": null,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI127": {
+   "id": "JI127",
+   "prenom": "Annette",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1875",
+     "date": {
+      "annee": 1875
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1875",
+      "date": {
+       "annee": 1875
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Deuxième des neuf enfants de Jean Baptiste THÉVENET et Jeanne Marie LASSARA, d'après l'arbre alla224. Date précise, lieu et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1875,
+   "annee_deces": null,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI128": {
+   "id": "JI128",
+   "prenom": "Jean Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "9 JUL 1876",
+     "date": {
+      "annee": 1876,
+      "mois": 7,
+      "jour": 9
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1958",
+     "date": {
+      "annee": 1958
+     }
+    }
+   },
+   "inhumation": null,
+   "professions": [
+    "cultivateur"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1896",
+      "date": {
+       "annee": 1896
+      }
+     },
+     "lieu": "Romanèche-Thorins (71)",
+     "detail": "résidence portée au registre matricule",
+     "commune": {
+      "nom": "Romanèche-Thorins",
+      "code": "71372",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Romanèche-Thorins",
+      "coordonnees": [
+       4.7478,
+       46.192
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "9 JUL 1876",
+      "date": {
+       "annee": 1876,
+       "mois": 7,
+       "jour": 9
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1958",
+      "date": {
+       "annee": 1958
+      }
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1896",
+      "date": {
+       "annee": 1896
+      }
+     },
+     "lieu": "Romanèche-Thorins (71)",
+     "detail": "résidence portée au registre matricule",
+     "commune": {
+      "nom": "Romanèche-Thorins",
+      "code": "71372",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Romanèche-Thorins",
+      "coordonnees": [
+       4.7478,
+       46.192
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère aîné d'Antoine. PROUVÉ par son registre matricule (AD71, bureau de Mâcon, classe 1896) : « Né le 9 juillet 1876 à Tramayes, canton dudit, département de Saône-et-Loire, résidant à Romanèche, canton de La Chapelle-de-Guinchay, profession de cultivateur, fils de feu Jean Baptiste et de Jeanne Marie Lassara, domiciliés à Romanèche ». La mère est dite vivante : elle mourra l'année suivante, en 1897 — ce qui date la fiche et recoupe tout le reste.",
+    "Année de décès 1958 d'après l'arbre alla224, non vérifiée."
+   ],
+   "sources": [
+    "Registre matricule militaire, Archives départementales de Saône-et-Loire, bureau de Mâcon, classe 1896. Image consultée et archivée le 31/08/2026 : thevenet-jean-marie-1876-matricule-macon-1896.jpg — https://www.archives71.fr/consulter/en-ligne/familles-et-individus/registres-matricules-militaires?detail=275581 . Source primaire lue : PROUVÉ.",
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1876,
+   "annee_deces": 1958,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-matricule-thevenet-jean-marie-1896"
+   ]
+  },
+  "JI129": {
+   "id": "JI129",
+   "prenom": "Joséphine",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1878",
+     "date": {
+      "annee": 1878
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1878",
+      "date": {
+       "annee": 1878
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Quatrième des neuf enfants, d'après l'arbre alla224. La famille est domiciliée à Prissé (71) en 1878 : c'est là qu'il faut chercher son acte de naissance."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1878,
+   "annee_deces": null,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI130": {
+   "id": "JI130",
+   "prenom": "Antoine dit Tony",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1880",
+     "date": {
+      "annee": 1880
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1966",
+     "date": {
+      "annee": 1966
+     }
+    }
+   },
+   "inhumation": null,
+   "professions": [
+    "menuisier-ébéniste"
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1880",
+      "date": {
+       "annee": 1880
+      }
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1966",
+      "date": {
+       "annee": 1966
+      }
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "menuisier-ébéniste (PROBABLE)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Cinquième enfant, d'après l'arbre alla224 : deux frères portent le prénom Antoine, celui-ci dit « Tony » et le cadet né en 1889, père d'André. Aucune fiche matricule ne lui a été trouvée dans la base annotée des AD71 pour la classe 1900 — ni à Prissé, ni à Mâcon. À reprendre : soit le registre de sa classe n'est pas annoté, soit sa commune de naissance est autre.",
+    "PISTE SÉRIEUSE : le témoin du mariage de son frère Antoine, le 5 mars 1921 à Paris 14e (AD75, 14M 270, acte n° 493), est « Antoine THÉVENET, menuisier-ébéniste, 6 impasse de Chalon » — soit le même prénom, le même métier et la MÊME ADRESSE que le marié. Les deux frères logeaient et travaillaient donc ensemble à Paris. La profession portée ici lui est attribuée sur cette base : PROBABLE, non prouvée. Son acte de naissance de 1880 ou sa fiche matricule trancheraient."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu.",
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1880,
+   "annee_deces": 1966,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE",
+   "assets": [
+    "ad75-mariage-thevenet-jourdren-1921"
+   ]
+  },
+  "JI131": {
+   "id": "JI131",
+   "prenom": "Joseph",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "17 MAR 1883",
+     "date": {
+      "annee": 1883,
+      "mois": 3,
+      "jour": 17
+     }
+    },
+    "lieu": "Mâcon (71)",
+    "commune": {
+     "nom": "Mâcon",
+     "code": "71270",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Mâcon",
+     "coordonnees": [
+      4.8083,
+      46.3265
+     ],
+     "approximatif": false
+    }
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "29 AUG 1914",
+     "date": {
+      "annee": 1914,
+      "mois": 8,
+      "jour": 29
+     }
+    },
+    "lieu": "Saint-Léonard (88)",
+    "commune": {
+     "nom": "Saint-Léonard",
+     "code": "88423",
+     "departement": "88",
+     "pays": "France",
+     "actuelle": "Saint-Léonard",
+     "coordonnees": [
+      6.9203,
+      48.2144
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "17 MAR 1883",
+      "date": {
+       "annee": 1883,
+       "mois": 3,
+       "jour": 17
+      }
+     },
+     "lieu": "Mâcon (71)",
+     "commune": {
+      "nom": "Mâcon",
+      "code": "71270",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Mâcon",
+      "coordonnees": [
+       4.8083,
+       46.3265
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "29 AUG 1914",
+      "date": {
+       "annee": 1914,
+       "mois": 8,
+       "jour": 29
+      }
+     },
+     "lieu": "Saint-Léonard (88)",
+     "commune": {
+      "nom": "Saint-Léonard",
+      "code": "88423",
+      "departement": "88",
+      "pays": "France",
+      "actuelle": "Saint-Léonard",
+      "coordonnees": [
+       6.9203,
+       48.2144
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère d'Antoine. MORT POUR LA FRANCE : soldat au 334e régiment d'infanterie, tué à l'ennemi le 29 août 1914 à Saint-Léonard, dans les Vosges, à 31 ans.",
+    "Son frère Antoine est blessé le lendemain, 30 août 1914, à La Chipotte — à une dizaine de kilomètres de là, dans la même bataille de la trouée de Charmes et des cols vosgiens. Les deux frères y étaient donc ensemble, ou presque : l'un y est tué, l'autre y prend une balle dans le bras gauche.",
+    "Né à Mâcon le 17 mars 1883, où la famille est domiciliée 120 rue Rambuteau. Marié le 2 juin 1908 à Igé (71) avec Benoîte Francisque SIRE.",
+    "Cotes à demander : acte de naissance AD71 5E270/295 ; fiche individuelle « Morts pour la France » de Mémoire des hommes, citée par l'arbre alla224 mais non consultée ici, le site ayant renvoyé 403."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu.",
+    "Arbre alla224, fiche Joseph THEVENET (oc 7), consultée le 31/08/2026. Sources qu'elle cite : acte de naissance AD71 5E270/295 ; fiche individuelle de Mémoire des hommes (Morts pour la France, Première Guerre mondiale)."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [
+    "JF62"
+   ],
+   "vivant": false,
+   "annee_naissance": 1883,
+   "annee_deces": 1914,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI132": {
+   "id": "JI132",
+   "prenom": "François",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1885",
+     "date": {
+      "annee": 1885
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1885",
+      "date": {
+       "annee": 1885
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Septième enfant, d'après l'arbre alla224. Aucune fiche matricule trouvée à son nom dans la base annotée des AD71 pour la classe 1905 dans les communes de la famille. Attention à l'homonyme écarté : l'Antoine THÉVENET né le 1er décembre 1885 à Cenves est fils de Benoît et de Jeanne Marie JEANNIN, donc un cousin, pas lui."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1885,
+   "annee_deces": null,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI133": {
+   "id": "JI133",
+   "prenom": "Louis",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "26 MAR 1891",
+     "date": {
+      "annee": 1891,
+      "mois": 3,
+      "jour": 26
+     }
+    },
+    "lieu": "Romanèche-Thorins (71)",
+    "detail": "hameau de Lapierre",
+    "commune": {
+     "nom": "Romanèche-Thorins",
+     "code": "71372",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Romanèche-Thorins",
+     "coordonnees": [
+      4.7478,
+      46.192
+     ],
+     "approximatif": false
+    }
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "16 SEP 1914",
+     "date": {
+      "annee": 1914,
+      "mois": 9,
+      "jour": 16
+     }
+    },
+    "lieu": "Autrêches (60)",
+    "commune": {
+     "nom": "Autrêches",
+     "code": "60032",
+     "departement": "60",
+     "pays": "France",
+     "actuelle": "Autrêches",
+     "coordonnees": [
+      3.1295,
+      49.4501
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [
+    "cultivateur"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1911",
+      "date": {
+       "annee": 1911
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "detail": "Perrières, résidence portée au registre matricule",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "26 MAR 1891",
+      "date": {
+       "annee": 1891,
+       "mois": 3,
+       "jour": 26
+      }
+     },
+     "lieu": "Romanèche-Thorins (71)",
+     "detail": "hameau de Lapierre",
+     "commune": {
+      "nom": "Romanèche-Thorins",
+      "code": "71372",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Romanèche-Thorins",
+      "coordonnees": [
+       4.7478,
+       46.192
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "16 SEP 1914",
+      "date": {
+       "annee": 1914,
+       "mois": 9,
+       "jour": 16
+      }
+     },
+     "lieu": "Autrêches (60)",
+     "commune": {
+      "nom": "Autrêches",
+      "code": "60032",
+      "departement": "60",
+      "pays": "France",
+      "actuelle": "Autrêches",
+      "coordonnees": [
+       3.1295,
+       49.4501
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1911",
+      "date": {
+       "annee": 1911
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "detail": "Perrières, résidence portée au registre matricule",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Benjamin des neuf enfants, frère cadet d'Antoine. MORT POUR LA FRANCE : soldat au 44e régiment d'infanterie, tué à l'ennemi le 16 septembre 1914 à Autrêches, dans l'Oise, à 23 ans — pendant la bataille de l'Aisne, trois semaines après la mort de son frère Joseph dans les Vosges.",
+    "PROUVÉ par son registre matricule (AD71, bureau de Mâcon, classe 1911) : « Né le 26 mars 1891 à Romanèche-Thorins, canton de La Chapelle-de-Guinchay, département de Saône-et-Loire, résidant à Perrières, canton de Tramayes, profession de cultivateur, fils de feu Jean Baptiste et de feue Lassara Jeanne Marie ». Les deux parents sont dits décédés, comme sur la fiche d'Antoine : la fratrie est orpheline depuis 1897.",
+    "Il naît au hameau de Lapierre à Romanèche-Thorins, l'adresse même où meurt son père le 14 août 1892, l'année suivante. Acte de naissance AD71 5E372/21."
+   ],
+   "sources": [
+    "Registre matricule militaire, Archives départementales de Saône-et-Loire, bureau de Mâcon, classe 1911. Image consultée et archivée le 31/08/2026 : thevenet-louis-1891-matricule-macon-1911.jpg — https://www.archives71.fr/consulter/en-ligne/familles-et-individus/registres-matricules-militaires?detail=347799 . Source primaire lue : PROUVÉ.",
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu.",
+    "Arbre alla224, fiche Louis THEVENET (oc 1), consultée le 31/08/2026. Sources qu'elle cite : acte de naissance AD71 5E372/21 ; fiche individuelle de Mémoire des hommes."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1891,
+   "annee_deces": 1914,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-matricule-thevenet-louis-1911"
+   ]
+  },
+  "JI134": {
+   "id": "JI134",
+   "prenom": "Benoîte Francisque",
+   "nom": "SIRE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Épouse de Joseph THÉVENET (1883-1914), mariée le 2 juin 1908 à Igé (71). Rien d'autre n'est connu d'elle : ni dates, ni filiation. D'après l'arbre alla224."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF62"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI135": {
+   "id": "JI135",
+   "prenom": "Claudine",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1839",
+     "date": {
+      "annee": 1839
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1839",
+      "date": {
+       "annee": 1839
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1839,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI136": {
+   "id": "JI136",
+   "prenom": "Josephte",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1842",
+     "date": {
+      "annee": 1842
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1842",
+      "date": {
+       "annee": 1842
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1842,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI137": {
+   "id": "JI137",
+   "prenom": "Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1845",
+     "date": {
+      "annee": 1845
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1845",
+      "date": {
+       "annee": 1845
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1845,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI138": {
+   "id": "JI138",
+   "prenom": "Jean Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1846",
+     "date": {
+      "annee": 1846
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1846",
+      "date": {
+       "annee": 1846
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1846,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI139": {
+   "id": "JI139",
+   "prenom": "Benoît",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1849",
+     "date": {
+      "annee": 1849
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1849",
+      "date": {
+       "annee": 1849
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus.",
+    "Piste sérieuse : le registre matricule d'un Antoine THÉVENET né le 1er décembre 1885 à Cenves (AD71, classe 1905) le dit « fils de Benoît et de Jeanne Marie JEANNIN, domiciliés à Tramayes ». L'âge, le prénom et la commune concordent avec ce Benoît-ci : il s'agit probablement de lui, ce qui ferait de cet Antoine 1885 un cousin germain de notre Antoine 1889. PROBABLE, non prouvé — l'acte de mariage BENOÎT × JEANNIN trancherait."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [
+    "JF63"
+   ],
+   "vivant": false,
+   "annee_naissance": 1849,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 1,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI140": {
+   "id": "JI140",
+   "prenom": "Anne Elizabeth",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1851",
+     "date": {
+      "annee": 1851
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1851",
+      "date": {
+       "annee": 1851
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1851,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI141": {
+   "id": "JI141",
+   "prenom": "Jeanne Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1854",
+     "date": {
+      "annee": 1854
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1854",
+      "date": {
+       "annee": 1854
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Frère ou sœur de Jean Baptiste THÉVENET (1840-1892), d'après l'arbre alla224 : huit enfants de Joseph THÉVENET et Jeanne Marie THÉVENET, nés entre 1839 et 1854, sans doute à Tramayes. Dates précises, lieux et décès inconnus."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiche Jean Baptiste THEVENET et fiches des enfants, consultées le 31/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=jean+baptiste . Arbre collaboratif sourcé par actes d'état civil pour cette génération. Statut INDEX/PROBABLE tant que l'acte n'est pas lu."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1854,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI142": {
+   "id": "JI142",
+   "prenom": "Jeanne Marie",
+   "nom": "JEANNIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Nommée par le registre matricule de son fils Antoine THÉVENET, né le 1er décembre 1885 à Cenves (AD71, bureau de Mâcon, classe 1905) : « fils de Benoît et de Jeanne Marie Jeannin, domiciliés à Tramayes ». Son mari Benoît est probablement le frère de Jean Baptiste THÉVENET né en 1849, sans que ce soit prouvé."
+   ],
+   "sources": [
+    "Registre matricule d'Antoine THÉVENET né en 1885 à Cenves, AD71, bureau de Mâcon, classe 1905, consulté le 31/08/2026 : thevenet-antoine-1885-cenves-fils-de-benoit.jpg."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF63"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 1,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI143": {
+   "id": "JI143",
+   "prenom": "Antoine",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1 DEC 1885",
+     "date": {
+      "annee": 1885,
+      "mois": 12,
+      "jour": 1
+     }
+    },
+    "lieu": "Cenves (69)",
+    "commune": {
+     "nom": "Cenves",
+     "code": "69035",
+     "departement": "69",
+     "pays": "France",
+     "actuelle": "Cenves",
+     "coordonnees": [
+      4.6632,
+      46.2801
+     ],
+     "approximatif": false
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    "domestique"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1905",
+      "date": {
+       "annee": 1905
+      }
+     },
+     "lieu": "Mâcon (71)",
+     "detail": "résidence portée au registre matricule",
+     "commune": {
+      "nom": "Mâcon",
+      "code": "71270",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Mâcon",
+      "coordonnees": [
+       4.8083,
+       46.3265
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1 DEC 1885",
+      "date": {
+       "annee": 1885,
+       "mois": 12,
+       "jour": 1
+      }
+     },
+     "lieu": "Cenves (69)",
+     "commune": {
+      "nom": "Cenves",
+      "code": "69035",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Cenves",
+      "coordonnees": [
+       4.6632,
+       46.2801
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "domestique"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1905",
+      "date": {
+       "annee": 1905
+      }
+     },
+     "lieu": "Mâcon (71)",
+     "detail": "résidence portée au registre matricule",
+     "commune": {
+      "nom": "Mâcon",
+      "code": "71270",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Mâcon",
+      "coordonnees": [
+       4.8083,
+       46.3265
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Cousin germain probable d'Antoine THÉVENET (1889-1978). Retrouvé en cherchant les frères de ce dernier : son registre matricule (AD71, bureau de Mâcon, classe 1905) le donne « né le 1er décembre 1885 à Cenves, département du Rhône, résidant à Mâcon, profession de domestique, fils de Benoît et de Jeanne Marie Jeannin, domiciliés à Tramayes ». Il n'est donc PAS le François THÉVENET né en 1885 de la fratrie : homonyme de génération, conservé parce qu'il ouvre une branche collatérale documentée."
+   ],
+   "sources": [
+    "Registre matricule, AD71, bureau de Mâcon, classe 1905, consulté et archivé le 31/08/2026 : thevenet-antoine-1885-cenves-fils-de-benoit.jpg — https://www.archives71.fr/consulter/en-ligne/familles-et-individus/registres-matricules-militaires?detail=318636 . Source primaire lue."
+   ],
+   "associations": [],
+   "famille_origine": "JF63",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1885,
+   "annee_deces": null,
+   "generations_ascendance": 2,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI144": {
+   "id": "JI144",
+   "prenom": "Hélène Marie",
+   "nom": "JOURDREN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1865",
+     "date": {
+      "annee": 1865
+     }
+    }
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    "journalière",
+    "ménagère"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1895",
+      "date": {
+       "annee": 1895
+      }
+     },
+     "lieu": "Paris 12e (75)",
+     "detail": "8 avenue Ledru-Rollin",
+     "commune": {
+      "nom": "Paris 12e",
+      "code": "75112",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1921",
+      "date": {
+       "annee": 1921
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1865",
+      "date": {
+       "annee": 1865
+      }
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "journalière"
+    },
+    {
+     "type": "profession",
+     "texte": "ménagère"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1895",
+      "date": {
+       "annee": 1895
+      }
+     },
+     "lieu": "Paris 12e (75)",
+     "detail": "8 avenue Ledru-Rollin",
+     "commune": {
+      "nom": "Paris 12e",
+      "code": "75112",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1921",
+      "date": {
+       "annee": 1921
+      }
+     },
+     "lieu": "Paris 14e (75)",
+     "detail": "51 rue Daguerre",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "pays": "France",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Marcelle Eugénie JOURDREN, et donc grand-mère maternelle d'André Antoine THÉVENET. Entrée dans l'arbre le 31/08/2026 : elle fait monter la branche Thévenet d'une génération du côté parisien.",
+    "PROUVÉE par l'acte de naissance de sa fille (AD75, V4E 8260, vue 26, acte n° 1325, Paris 4e, 13 août 1895) : « fille de Hélène Marie JOURDREN, âgée de trente ans, journalière, demeurant avenue Ledru-Rollin n° 8, et de père non dénommé ». Elle a donc trente ans en août 1895 : née vers 1865, l'année reste à préciser.",
+    "Elle reconnaît sa fille par un acte dressé à la mairie du douzième arrondissement de Paris le 27 août 1895, quinze jours après la naissance — mention marginale de l'acte n° 1325.",
+    "Vingt-six ans plus tard, l'acte de mariage du 5 mars 1921 (AD75, 14M 270, acte n° 493) la redonne « Hélène JOURDREN, ménagère, domiciliée à Paris, 51 rue Daguerre, présente et consentante » : elle vit avec sa fille, et c'est Antoine THÉVENET qui vient s'installer chez elles. Elle signe l'acte.",
+    "JOURDREN est un patronyme du Finistère. Son lieu de naissance et sa filiation sont inconnus : c'est le nouveau point du front d'ascendance de cette branche. Ni date ni lieu de décès connus."
+   ],
+   "sources": [
+    "Acte de naissance, Archives de Paris, naissances du 4e arrondissement, 1895, cote V4E 8260, vue 26/31, acte n° 1325, dressé le 13 août 1895. Image lue et archivée le 31/08/2026 : v4e8260-vue26-naissance-jourdren-marcelle-eugenie-1895-acte-1325.jpg — repérée par la table décennale D1M9 175, vue 10/12 (d1m9-175-vue10-td-naissances-paris4-1893-1902-jourdren.jpg). Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF64"
+   ],
+   "vivant": false,
+   "annee_naissance": 1865,
+   "annee_deces": null,
+   "annee_estimee": true,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad75-td-paris4-1893-1902-jourdren",
+    "ad75-naissance-jourdren-1895",
+    "ad75-mariage-thevenet-jourdren-1921"
    ]
   }
  },
@@ -178757,10 +180930,21 @@
    "notes": [
     "Antoine THÉVENET (1889-1978) et Marcelle Eugénie JOURDREN (1895-1975), parents d'André Antoine. Cinq enfants connus, dont André 1926-2002 et Denise 1924-1924 ; les trois autres sont présumés vivants et ne sont donc pas nommés ici. Filiation INDEX/PROBABLE, issue de l'arbre Geneanet alla224 dont la source pour cette génération est le témoignage oral de la sœur d'André. Elle concorde avec tout ce qui est prouvé par ailleurs : dates exactes d'André, épouse Arlette, et l'existence d'une sœur, signalée indépendamment par le propriétaire de notre arbre avant que cette fiche ne soit trouvée.",
     "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
-    "Mariage le 5 mars 1921 à Paris 14e. Le couple s'installe ensuite en Seine-Saint-Denis : tous deux meurent à Montfermeil, elle en 1975, lui en 1978."
+    "Mariage le 5 mars 1921 à Paris 14e. Le couple s'installe ensuite en Seine-Saint-Denis : tous deux meurent à Montfermeil, elle en 1975, lui en 1978.",
+    "Le recensement de Paris de 1926 (AD75, D2M8 272, vue 251) montre le ménage au 51 rue Daguerre (14e) douze jours avant la naissance d'André : Antoine, chef de ménage, ébéniste ; Marcelle, épouse, ligne barrée « abs. » ; René, fils, né en 1923. C'est la première pièce officielle qui porte cette famille, indépendamment de l'arbre alla224 et du témoignage oral.",
+    "Mariage PROUVÉ le 31/08/2026 : Archives de Paris, mariages du 14e arrondissement, cote 14M 270, vue 29/31, ACTE N° 493, du 5 mars 1921 à onze heures vingt du matin. Antoine THÉVENET, menuisier, 6 impasse Chalon, divorcé de Marcelle PETIT depuis le 15 janvier 1921 ; Marcelle Eugénie JOURDREN, charcutière, 51 rue Daguerre, fille d'Hélène JOURDREN, ménagère, présente et consentante. Pas de contrat de mariage. Témoins : Antoine THÉVENET, menuisier-ébéniste, 6 impasse de Chalon, et Aimée Clément, sans profession, 41 rue des Artistes."
    ],
    "branches": [
     "thevenet"
+   ],
+   "sources": [
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "assets": [
+    "ad71-matricule-thevenet-antoine-1909",
+    "ad75-td-paris4-1893-1902-jourdren",
+    "ad75-naissance-jourdren-1895",
+    "ad75-mariage-thevenet-jourdren-1921"
    ]
   },
   "JF60": {
@@ -178795,7 +180979,17 @@
      "approximatif": false
     }
    },
-   "divorce": null,
+   "divorce": {
+    "type": "divorce",
+    "date": {
+     "brut": "15 JAN 1921",
+     "date": {
+      "annee": 1921,
+      "mois": 1,
+      "jour": 15
+     }
+    }
+   },
    "evenements": [
     {
      "type": "union",
@@ -178820,13 +181014,32 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "divorce",
+     "date": {
+      "brut": "15 JAN 1921",
+      "date": {
+       "annee": 1921,
+       "mois": 1,
+       "jour": 15
+      }
+     }
     }
    ],
    "notes": [
-    "Premier mariage d'Antoine THÉVENET, avec Marcelle Marie Alphonsine PETIT."
+    "Premier mariage d'Antoine THÉVENET, avec Marcelle Marie Alphonsine PETIT.",
+    "DIVORCE PROUVÉ : l'acte de mariage d'Antoine THÉVENET avec Marcelle Eugénie JOURDREN, du 5 mars 1921 (AD75, 14M 270, acte n° 493), le dit « divorcé de Marcelle PETIT depuis le quinze janvier mil neuf cent vingt et un ». Le premier mariage, célébré le 27 décembre 1913 à Chiroubles (69), a donc duré sept ans et s'est défait sept semaines avant le remariage."
    ],
    "branches": [
     "thevenet"
+   ],
+   "sources": [
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "assets": [
+    "ad71-matricule-thevenet-antoine-1909",
+    "ad75-mariage-thevenet-jourdren-1921"
    ]
   },
   "JF58": {
@@ -178834,7 +181047,15 @@
    "pere": "JI120",
    "mere": "JI121",
    "enfants": [
-    "JI112"
+    "JI126",
+    "JI127",
+    "JI128",
+    "JI129",
+    "JI130",
+    "JI131",
+    "JI112",
+    "JI132",
+    "JI133"
    ],
    "union": {
     "type": "union",
@@ -178888,7 +181109,9 @@
     }
    ],
    "notes": [
-    "Mariage le 4 février 1873 à Cenves (Rhône), contrat notarié du 16 janvier 1873 devant Maître Thomas à Tramayes. Neuf enfants recensés par l'arbre alla224 : Marie Louise 1874, Annette 1875, Jean Marie 1876-1958, Joséphine 1878, Antoine dit Tony 1880-1966, Joseph 1883-1914, François 1885, Antoine 1889-1978 et Louis 1891-1914. Seul Antoine 1889-1978, père d'André, est rattaché ici ; les autres sont attestés mais non intégrés faute de vérification."
+    "Mariage le 4 février 1873 à Cenves (Rhône), contrat notarié du 16 janvier 1873 devant Maître Thomas à Tramayes. Neuf enfants recensés par l'arbre alla224 : Marie Louise 1874, Annette 1875, Jean Marie 1876-1958, Joséphine 1878, Antoine dit Tony 1880-1966, Joseph 1883-1914, François 1885, Antoine 1889-1978 et Louis 1891-1914. Seul Antoine 1889-1978, père d'André, est rattaché ici ; les autres sont attestés mais non intégrés faute de vérification.",
+    "Couple PROUVÉ comme parents d'Antoine THÉVENET par le registre matricule de celui-ci (AD71, 1 R RM Mâcon 1909/2, matricule 553, classe 1909) : « fils de feu Jean et de feue Lassarat Marie ». Les deux sont morts avant octobre 1909, un tuteur est nommé.",
+    "31/08/2026 : les neuf enfants sont désormais intégrés (JI126 à JI133 autour d'Antoine JI112). Deux d'entre eux sont PROUVÉS par leur registre matricule, qui les dit fils de Jean Baptiste et de Jeanne Marie LASSARA : Jean Marie (classe 1896) et Louis (classe 1911). Deux autres, Joseph 1883 et Louis 1891, sont MORTS POUR LA FRANCE en 1914. Antoine dit Tony 1880 et François 1885 n'ont pas été retrouvés dans la base matricule annotée des AD71 : à reprendre."
    ],
    "branches": [
     "thevenet"
@@ -178899,13 +181122,21 @@
    "pere": "JI122",
    "mere": "JI123",
    "enfants": [
-    "JI120"
+    "JI135",
+    "JI120",
+    "JI136",
+    "JI137",
+    "JI138",
+    "JI139",
+    "JI140",
+    "JI141"
    ],
    "union": null,
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Couple donné comme parents de Jean Baptiste THÉVENET par l'arbre alla224. Huit enfants y sont recensés entre 1839 et 1854."
+    "Couple donné comme parents de Jean Baptiste THÉVENET par l'arbre alla224. Huit enfants y sont recensés entre 1839 et 1854.",
+    "31/08/2026 : les huit enfants sont intégrés (JI135 à JI141 autour de Jean Baptiste JI120), tous PROBABLES, d'après le seul arbre alla224. Benoît 1849 est le seul à recevoir un début de corroboration, par le registre matricule de son fils présumé Antoine né en 1885 à Cenves."
    ],
    "branches": [
     "thevenet"
@@ -178923,6 +181154,103 @@
    "evenements": [],
    "notes": [
     "Couple donné comme parents de Jeanne Marie LASSARA par l'arbre alla224."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF62": {
+   "id": "JF62",
+   "pere": "JI131",
+   "mere": "JI134",
+   "enfants": [],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "2 JUN 1908",
+     "date": {
+      "annee": 1908,
+      "mois": 6,
+      "jour": 2
+     }
+    },
+    "lieu": "Igé (71)",
+    "commune": {
+     "nom": "Igé",
+     "code": "71236",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Igé",
+     "coordonnees": [
+      4.7353,
+      46.4071
+     ],
+     "approximatif": false
+    }
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "2 JUN 1908",
+      "date": {
+       "annee": 1908,
+       "mois": 6,
+       "jour": 2
+      }
+     },
+     "lieu": "Igé (71)",
+     "commune": {
+      "nom": "Igé",
+      "code": "71236",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Igé",
+      "coordonnees": [
+       4.7353,
+       46.4071
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "notes": [
+    "Mariage de Joseph THÉVENET (1883-1914) et Benoîte Francisque SIRE le 2 juin 1908 à Igé, d'après l'arbre alla224. Joseph est tué six ans plus tard, le 29 août 1914 dans les Vosges. Aucun enfant connu."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF63": {
+   "id": "JF63",
+   "pere": "JI139",
+   "mere": "JI142",
+   "enfants": [
+    "JI143"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par le registre matricule de leur fils Antoine, né le 1er décembre 1885 à Cenves : « fils de Benoît et de Jeanne Marie Jeannin, domiciliés à Tramayes ». Le rattachement du père au Benoît THÉVENET né en 1849, frère de Jean Baptiste, est PROBABLE et non prouvé : c'est l'acte de mariage qu'il faut lire."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF64": {
+   "id": "JF64",
+   "pere": null,
+   "mere": "JI144",
+   "enfants": [
+    "JI113"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Famille monoparentale : Marcelle Eugénie JOURDREN est née le 12 août 1895 à Paris 4e « de père non dénommé », et reconnue par sa seule mère, Hélène Marie JOURDREN, le 27 août 1895 à la mairie du 12e. Le père n'est nommé ni dans l'acte de naissance, ni dans l'acte de mariage de 1921, où seule la mère comparaît et consent."
    ],
    "branches": [
     "thevenet"
@@ -215373,6 +217701,7 @@
     "firstName": "Marcelle Eugénie",
     "lastName": "JOURDREN",
     "sex": "F",
+    "famc": "JF64",
     "fams": [
      "JF57"
     ],
@@ -215450,14 +217779,20 @@
     "famc": "JF60",
     "birth": {
      "date": {
+      "day": 12,
+      "month": 2,
       "year": 1915
      },
+     "place": "Lyon 2e (69)",
      "type": "naissance"
     },
     "death": {
      "date": {
+      "day": 30,
+      "month": 6,
       "year": 1978
      },
+     "place": "Vaulx-en-Velin (69)",
      "type": "deces",
      "confirmed": true
     }
@@ -215604,6 +217939,318 @@
     "birth": {
      "date": {
       "year": 1821
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI126",
+    "hideId": true,
+    "firstName": "Marie Louise",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "year": 1874
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI127",
+    "hideId": true,
+    "firstName": "Annette",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "year": 1875
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI128",
+    "hideId": true,
+    "firstName": "Jean Marie",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "day": 9,
+      "month": 7,
+      "year": 1876
+     },
+     "place": "Tramayes (71)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1958
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI129",
+    "hideId": true,
+    "firstName": "Joséphine",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "year": 1878
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI130",
+    "hideId": true,
+    "firstName": "Antoine dit Tony",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "year": 1880
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1966
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI131",
+    "hideId": true,
+    "firstName": "Joseph",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "fams": [
+     "JF62"
+    ],
+    "birth": {
+     "date": {
+      "day": 17,
+      "month": 3,
+      "year": 1883
+     },
+     "place": "Mâcon (71)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 29,
+      "month": 8,
+      "year": 1914
+     },
+     "place": "Saint-Léonard (88)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI132",
+    "hideId": true,
+    "firstName": "François",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "year": 1885
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI133",
+    "hideId": true,
+    "firstName": "Louis",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "birth": {
+     "date": {
+      "day": 26,
+      "month": 3,
+      "year": 1891
+     },
+     "place": "Romanèche-Thorins (71)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 16,
+      "month": 9,
+      "year": 1914
+     },
+     "place": "Autrêches (60)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI134",
+    "hideId": true,
+    "firstName": "Benoîte Francisque",
+    "lastName": "SIRE",
+    "sex": "F",
+    "fams": [
+     "JF62"
+    ]
+   },
+   {
+    "id": "JI135",
+    "hideId": true,
+    "firstName": "Claudine",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1839
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI136",
+    "hideId": true,
+    "firstName": "Josephte",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1842
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI137",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1845
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI138",
+    "hideId": true,
+    "firstName": "Jean Marie",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1846
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI139",
+    "hideId": true,
+    "firstName": "Benoît",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF59",
+    "fams": [
+     "JF63"
+    ],
+    "birth": {
+     "date": {
+      "year": 1849
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI140",
+    "hideId": true,
+    "firstName": "Anne Elizabeth",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1851
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI141",
+    "hideId": true,
+    "firstName": "Jeanne Marie",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF59",
+    "birth": {
+     "date": {
+      "year": 1854
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI142",
+    "hideId": true,
+    "firstName": "Jeanne Marie",
+    "lastName": "JEANNIN",
+    "sex": "F",
+    "fams": [
+     "JF63"
+    ]
+   },
+   {
+    "id": "JI143",
+    "hideId": true,
+    "firstName": "Antoine",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF63",
+    "birth": {
+     "date": {
+      "day": 1,
+      "month": 12,
+      "year": 1885
+     },
+     "place": "Cenves (69)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI144",
+    "hideId": true,
+    "firstName": "Hélène Marie",
+    "lastName": "JOURDREN",
+    "sex": "F",
+    "fams": [
+     "JF64"
+    ],
+    "birth": {
+     "date": {
+      "year": 1865
      },
      "type": "naissance"
     }
@@ -228340,7 +230987,15 @@
     "husb": "JI120",
     "wife": "JI121",
     "children": [
-     "JI112"
+     "JI126",
+     "JI127",
+     "JI128",
+     "JI129",
+     "JI130",
+     "JI131",
+     "JI112",
+     "JI132",
+     "JI133"
     ],
     "marriage": {
      "date": {
@@ -228357,7 +231012,14 @@
     "husb": "JI122",
     "wife": "JI123",
     "children": [
-     "JI120"
+     "JI135",
+     "JI120",
+     "JI136",
+     "JI137",
+     "JI138",
+     "JI139",
+     "JI140",
+     "JI141"
     ]
    },
    {
@@ -228366,6 +231028,35 @@
     "wife": "JI125",
     "children": [
      "JI121"
+    ]
+   },
+   {
+    "id": "JF62",
+    "husb": "JI131",
+    "wife": "JI134",
+    "marriage": {
+     "date": {
+      "day": 2,
+      "month": 6,
+      "year": 1908
+     },
+     "place": "Igé (71)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF63",
+    "husb": "JI139",
+    "wife": "JI142",
+    "children": [
+     "JI143"
+    ]
+   },
+   {
+    "id": "JF64",
+    "wife": "JI144",
+    "children": [
+     "JI113"
     ]
    }
   ]
@@ -228387,7 +231078,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 33
+   "personnes": 52
   },
   {
    "id": "vaurie",
@@ -228528,6 +231219,112 @@
    "lieu": "Paris 10e (75)",
    "cote": "Archives de Paris, V11E 228, vue 3/11, feuillet 53",
    "url": "https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/consulter-les-tables-decennales"
+  },
+  "ad71-matricule-thevenet-antoine-1909": {
+   "type": "registre_matricule",
+   "titre": "Registre matricule d'Antoine THÉVENET, classe 1909, bureau de Mâcon, matricule 553",
+   "fichier": "assets/actes/france/71/ad71-matricule-thevenet-antoine-1909.jpg",
+   "octets": 830035,
+   "sha256": "f9eb87862b98d783015e23f06f23ab177e6a6234a3a90628062b601cbcfaa771",
+   "utilise_par": {
+    "individus": [
+     "JI112"
+    ],
+    "familles": [
+     "JF57",
+     "JF60"
+    ]
+   },
+   "date": "1909",
+   "lieu": "Mâcon (71)"
+  },
+  "ad71-matricule-thevenet-jean-marie-1896": {
+   "type": "registre_matricule",
+   "titre": "Registre matricule de Jean Marie THÉVENET, classe 1896, bureau de Mâcon",
+   "fichier": "assets/actes/france/71/ad71-matricule-thevenet-jean-marie-1896.jpg",
+   "octets": 887100,
+   "sha256": "9234fb72d92a3d29a1e67f6bee6a4c77d80266559caeafd01760a06094a124bd",
+   "utilise_par": {
+    "individus": [
+     "JI128"
+    ],
+    "familles": []
+   },
+   "date": "1896",
+   "lieu": "Mâcon (71)"
+  },
+  "ad71-matricule-thevenet-louis-1911": {
+   "type": "registre_matricule",
+   "titre": "Registre matricule de Louis THÉVENET, classe 1911, bureau de Mâcon — mort pour la France en 1914",
+   "fichier": "assets/actes/france/71/ad71-matricule-thevenet-louis-1911.jpg",
+   "octets": 752675,
+   "sha256": "e1730bec664b2a1b265cc322a5b29e4d8df0c096be540d274fe60427244ce5f3",
+   "utilise_par": {
+    "individus": [
+     "JI133"
+    ],
+    "familles": []
+   },
+   "date": "1911",
+   "lieu": "Mâcon (71)"
+  },
+  "ad75-td-paris4-1893-1902-jourdren": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances, Paris 4e, 1893-1902 : JOURDREN Marcelle Eugénie",
+   "fichier": "assets/actes/france/75/ad75-td-paris4-1893-1902-jourdren.jpg",
+   "octets": 1039830,
+   "sha256": "c798207415280e97dd5f9adff3585a3bd996a59aada4eaeb72728b6f7259a513",
+   "utilise_par": {
+    "individus": [
+     "JI113",
+     "JI144"
+    ],
+    "familles": [
+     "JF57"
+    ]
+   },
+   "date": "1895",
+   "lieu": "Paris 4e (75)"
+  },
+  "ad75-naissance-jourdren-1895": {
+   "type": "acte_naissance",
+   "titre": "Acte de naissance de Marcelle Eugénie JOURDREN, Paris 4e, 13 août 1895, acte n° 1325",
+   "fichier": "assets/actes/france/75/ad75-naissance-jourdren-1895.jpg",
+   "octets": 1059027,
+   "sha256": "cd8db730999f7d3f24d0996beca19180031b2046d9c351058455b3f8d63381e0",
+   "utilise_par": {
+    "individus": [
+     "JI113",
+     "JI144"
+    ],
+    "familles": [
+     "JF57"
+    ]
+   },
+   "date": "1895",
+   "lieu": "Paris 4e (75)"
+  },
+  "ad75-mariage-thevenet-jourdren-1921": {
+   "type": "acte_mariage",
+   "titre": "Acte de mariage THÉVENET × JOURDREN, Paris 14e, 5 mars 1921, acte n° 493",
+   "fichier": "assets/actes/france/75/ad75-mariage-thevenet-jourdren-1921.jpg",
+   "octets": 851731,
+   "sha256": "96f509d183f0565ab42b349934db9d0edfbd46f3dcffcac1f6dc251a862614d3",
+   "utilise_par": {
+    "individus": [
+     "JI112",
+     "JI113",
+     "JI117",
+     "JI130",
+     "JI144"
+    ],
+    "familles": [
+     "JF57",
+     "JF60"
+    ]
+   },
+   "date": "1921",
+   "lieu": "Paris 14e (75)"
   }
  }
 }
