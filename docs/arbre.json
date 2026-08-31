@@ -139971,7 +139971,7 @@
    "vivant": false,
    "annee_naissance": 1861,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
@@ -140150,7 +140150,7 @@
    "vivant": false,
    "annee_naissance": 1876,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
@@ -144505,38 +144505,132 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1819",
+     "date": {
+      "annee": 1819
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "28 FEB 1885",
+     "date": {
+      "annee": 1885,
+      "mois": 2,
+      "jour": 28
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1819",
+      "date": {
+       "annee": 1819
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "28 FEB 1885",
+      "date": {
+       "annee": 1885,
+       "mois": 2,
+       "jour": 28
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
-    "Père de Giuditta STIVANELLO. Nommé comme beau-père de l'époux dans l'acte de mariage n° 10 du 20 mars 1881 à Padoue, BAZZOLO Daniele × STIVANELLO Giuditta. Ni dates ni profession connues."
+    "Père de Giuditta STIVANELLO. Nommé comme beau-père de l'époux dans l'acte de mariage n° 10 du 20 mars 1881 à Padoue, BAZZOLO Daniele × STIVANELLO Giuditta. Ni dates ni profession connues.",
+    "Daté et rattaché le 31/08/2026 : né vers 1819 à Legnaro, mort à Legnaro le 28 février 1885, fils de Sante STIVANELLO et Pasqua PIANTA, époux de Beatrice PESAROLO. C'est son acte de décès qui a permis de corriger le prénom de sa femme, illisible dans l'index du mariage de 1881."
    ],
    "sources": [
-    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M",
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF75",
    "familles": [
     "JF68"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1819,
+   "annee_deces": 1885,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "confiance": "INDEX OFFICIEL"
+   "confiance": "INDEX OFFICIEL",
+   "annee_estimee": true
   },
   "JI152": {
    "id": "JI152",
-   "prenom": "",
+   "prenom": "Beatrice",
    "nom": "PESAROLO",
    "nom_jeune_fille": "",
    "surnom": "",
@@ -144551,10 +144645,13 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "Mère de Giuditta STIVANELLO, épouse de Domenico STIVANELLO. Nommée comme belle-mère de l'époux dans l'acte de mariage du 20 mars 1881 à Padoue. L'index FamilySearch transcrit son prénom « Boatine », lecture manifestement fautive : à trancher sur l'image de l'acte — les candidats vraisemblables sont Bortolina, Battistina ou Beatrice. Le patronyme PESAROLO est en revanche net."
+    "Mère de Giuditta STIVANELLO, épouse de Domenico STIVANELLO. Nommée comme belle-mère de l'époux dans l'acte de mariage du 20 mars 1881 à Padoue. L'index FamilySearch transcrit son prénom « Boatine », lecture manifestement fautive : à trancher sur l'image de l'acte — les candidats vraisemblables sont Bortolina, Battistina ou Beatrice. Le patronyme PESAROLO est en revanche net.",
+    "PRÉNOM RÉSOLU le 31/08/2026 : l'acte de décès de son mari Domenico STIVANELLO, à Legnaro le 28 février 1885, la nomme « Beatrice PESANOLO ». Le « Boatine » de l'index du mariage de 1881 était bien une mauvaise transcription. Retenu BEATRICE PESAROLO ; PESANOLO conservé comme variante d'index.",
+    "RÉSULTAT NÉGATIF : aucun décès de Beatrice PESAROLO à Legnaro dans la collection padouane. Elle est donc morte ailleurs, ou avant 1871. Ses parents restent inconnus."
    ],
    "sources": [
-    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M",
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
    ],
    "associations": [],
    "famille_origine": null,
@@ -144579,71 +144676,246 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1838",
+     "date": {
+      "annee": 1838
+     }
+    },
+    "lieu": "Polverara (Italie)",
+    "detail": "Isola, frazione de Polverara",
+    "commune": {
+     "nom": "Polverara",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Polverara",
+     "coordonnees": [
+      11.9333,
+      45.3167
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "28 JUN 1922",
+     "date": {
+      "annee": 1922,
+      "mois": 6,
+      "jour": 28
+     }
+    },
+    "lieu": "Polverara (Italie)",
+    "commune": {
+     "nom": "Polverara",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Polverara",
+     "coordonnees": [
+      11.9333,
+      45.3167
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1838",
+      "date": {
+       "annee": 1838
+      }
+     },
+     "lieu": "Polverara (Italie)",
+     "detail": "Isola, frazione de Polverara",
+     "commune": {
+      "nom": "Polverara",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Polverara",
+      "coordonnees": [
+       11.9333,
+       45.3167
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "28 JUN 1922",
+      "date": {
+       "annee": 1922,
+       "mois": 6,
+       "jour": 28
+      }
+     },
+     "lieu": "Polverara (Italie)",
+     "commune": {
+      "nom": "Polverara",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Polverara",
+      "coordonnees": [
+       11.9333,
+       45.3167
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
-    "Père de Rosa Santa VOLTAN, de Polverara. Nommé comme beau-père de l'époux dans l'acte de mariage n° 13 du 15 mars 1896 à Legnaro, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. Prosdocimo est le prénom padouan par excellence — saint Prosdocimo est le patron de Padoue."
+    "Père de Rosa Santa VOLTAN, de Polverara. Nommé comme beau-père de l'époux dans l'acte de mariage n° 13 du 15 mars 1896 à Legnaro, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. Prosdocimo est le prénom padouan par excellence — saint Prosdocimo est le patron de Padoue.",
+    "Daté et rattaché le 31/08/2026 : né vers 1838 à Polverara Isola, mort à Polverara le 28 juin 1922, fils de Domenico VOLTAN et Catterina MANIERO. Il survit vingt-six ans à sa femme."
    ],
    "sources": [
-    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP",
+    "Acte de décès, Polverara, 28 juin 1922, VOLTAN Prosdocimo, né vers 1838 à Polverara Isola, époux de Teresa TOMMASI. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF74",
    "familles": [
     "JF69"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1838,
+   "annee_deces": 1922,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "confiance": "INDEX OFFICIEL"
+   "confiance": "INDEX OFFICIEL",
+   "annee_estimee": true
   },
   "JI154": {
    "id": "JI154",
-   "prenom": "Teresa",
+   "prenom": "Teresa Maria",
    "nom": "TOMMASI",
    "nom_jeune_fille": "",
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1847",
+     "date": {
+      "annee": 1847
+     }
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "4 AUG 1896",
+     "date": {
+      "annee": 1896,
+      "mois": 8,
+      "jour": 4
+     }
+    },
+    "lieu": "Polverara (Italie)",
+    "commune": {
+     "nom": "Polverara",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Polverara",
+     "coordonnees": [
+      11.9333,
+      45.3167
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "villica"
+    }
+   ],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1847",
+      "date": {
+       "annee": 1847
+      }
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "4 AUG 1896",
+      "date": {
+       "annee": 1896,
+       "mois": 8,
+       "jour": 4
+      }
+     },
+     "lieu": "Polverara (Italie)",
+     "commune": {
+      "nom": "Polverara",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Polverara",
+      "coordonnees": [
+       11.9333,
+       45.3167
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "villica"
+    }
+   ],
    "images": [],
    "notes": [
-    "Mère de Rosa Santa VOLTAN, épouse de Prosdocimo VOLTAN, de Polverara. Nommée comme belle-mère de l'époux dans l'acte de mariage du 15 mars 1896 à Legnaro."
+    "Mère de Rosa Santa VOLTAN, épouse de Prosdocimo VOLTAN, de Polverara. Nommée comme belle-mère de l'époux dans l'acte de mariage du 15 mars 1896 à Legnaro.",
+    "Datée, rattachée et pourvue d'un métier le 31/08/2026 par son acte de décès n° 20, Polverara, 4 août 1896 : quarante-neuf ans, VILLICA — journalière agricole —, née vers 1847, fille de Domenico Francesco TOMMASI et d'Antonia BOZZARO.",
+    "Son lieu de naissance est transcrit « Roscone » par l'index : lecture douteuse, probablement une frazione du Padouan à identifier. Laissé sans lieu dans la fiche plutôt que d'inventer une commune.",
+    "Elle meurt le 4 août 1896, moins de cinq mois après le mariage de sa fille Rosa Santa, célébré à Legnaro le 15 mars."
    ],
    "sources": [
-    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP",
+    "Acte de décès n° 20, Polverara, 4 août 1896, TOMMASI Teresa Maria, 49 ans, villica, née vers 1847, épouse de Prosdocimo VOLTAN. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WJ-NP4Q"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF73",
    "familles": [
     "JF69"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1847,
+   "annee_deces": 1896,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "confiance": "INDEX OFFICIEL"
+   "confiance": "INDEX OFFICIEL",
+   "annee_estimee": true
   },
   "JI155": {
    "id": "JI155",
@@ -144811,7 +145083,8 @@
    "images": [],
    "notes": [
     "Père présumé d'Agostino MORANDIN (v. 1836-1917). Nommé dans l'acte de décès d'Agostino, à Padoue le 15 août 1917.",
-    "RÉSERVE : cet acte donne à Agostino pour épouse « Antonia MASUT[TO] », alors que le mariage de son fils, en 1896, le dit époux de « Beatrice MASUTTO ». Aucun acte de décès de Beatrice n'apparaît dans la collection. Deux lectures possibles : Agostino s'est remarié avec une parente de sa première femme — pratique courante —, ou l'index a mal lu un prénom. L'identification reste donc PROBABLE, à trancher sur l'image de l'acte de 1917."
+    "RÉSERVE : cet acte donne à Agostino pour épouse « Antonia MASUT[TO] », alors que le mariage de son fils, en 1896, le dit époux de « Beatrice MASUTTO ». Aucun acte de décès de Beatrice n'apparaît dans la collection. Deux lectures possibles : Agostino s'est remarié avec une parente de sa première femme — pratique courante —, ou l'index a mal lu un prénom. L'identification reste donc PROBABLE, à trancher sur l'image de l'acte de 1917.",
+    "RÉSULTAT NÉGATIF du 31/08/2026 : aucun acte de décès de Giovanni MORANDIN nommant ses parents dans la collection padouane. Né vraisemblablement vers 1805-1810, il est probablement mort avant 1871, hors de l'état civil italien. Ses parents relèvent donc des registres paroissiaux."
    ],
    "sources": [
     "Acte de décès, Padoue, 15 août 1917, MORANDIN Agostino, né vers 1836 à Legnaro. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
@@ -144867,6 +145140,228 @@
     "thevenet"
    ],
    "confiance": "PROBABLE"
+  },
+  "JI161": {
+   "id": "JI161",
+   "prenom": "Domenico Francesco",
+   "nom": "TOMMASI",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Teresa Maria TOMMASI. Nommé dans l'acte de décès de sa fille, à Polverara le 4 août 1896."
+   ],
+   "sources": [
+    "Acte de décès n° 20, Polverara, 4 août 1896, TOMMASI Teresa Maria, 49 ans, villica, née vers 1847, épouse de Prosdocimo VOLTAN. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WJ-NP4Q"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF73"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI162": {
+   "id": "JI162",
+   "prenom": "Antonia",
+   "nom": "BOZZARO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Teresa Maria TOMMASI, épouse de Domenico Francesco TOMMASI. Nommée dans l'acte de décès de sa fille, à Polverara le 4 août 1896."
+   ],
+   "sources": [
+    "Acte de décès n° 20, Polverara, 4 août 1896, TOMMASI Teresa Maria, 49 ans, villica, née vers 1847, épouse de Prosdocimo VOLTAN. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WJ-NP4Q"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF73"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI163": {
+   "id": "JI163",
+   "prenom": "Domenico",
+   "nom": "VOLTAN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Prosdocimo VOLTAN. Nommé dans l'acte de décès de son fils, à Polverara le 28 juin 1922. Né vraisemblablement vers 1810 à Polverara."
+   ],
+   "sources": [
+    "Acte de décès, Polverara, 28 juin 1922, VOLTAN Prosdocimo, né vers 1838 à Polverara Isola, époux de Teresa TOMMASI. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF74"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI164": {
+   "id": "JI164",
+   "prenom": "Catterina",
+   "nom": "MANIERO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Prosdocimo VOLTAN, épouse de Domenico VOLTAN. Nommée dans l'acte de décès de son fils, à Polverara le 28 juin 1922. MANIERO revient dans cette parenté : Francesca MANIERO est aussi donnée pour mère d'Agostino MORANDIN. Patronyme fréquent dans le Padouan, ne pas conclure à un lien sans acte."
+   ],
+   "sources": [
+    "Acte de décès, Polverara, 28 juin 1922, VOLTAN Prosdocimo, né vers 1838 à Polverara Isola, époux de Teresa TOMMASI. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF74"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI165": {
+   "id": "JI165",
+   "prenom": "Sante",
+   "nom": "STIVANELLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Domenico STIVANELLO. Nommé dans l'acte de décès de son fils, à Legnaro le 28 février 1885. Né vraisemblablement vers 1790 à Legnaro."
+   ],
+   "sources": [
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF75"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI166": {
+   "id": "JI166",
+   "prenom": "Pasqua",
+   "nom": "PIANTA",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Domenico STIVANELLO, épouse de Sante STIVANELLO. Nommée dans l'acte de décès de son fils, à Legnaro le 28 février 1885."
+   ],
+   "sources": [
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF75"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
   }
  },
  "familles": {
@@ -182813,6 +183308,66 @@
    "notes": [
     "Parents présumés d'Agostino MORANDIN, nommés dans son acte de décès à Padoue le 15 août 1917. PROBABLE : le même acte lui donne pour épouse Antonia MASUTTO là où le mariage de son fils dit Beatrice MASUTTO — remariage ou erreur d'index, à trancher sur l'image."
    ]
+  },
+  "JF73": {
+   "id": "JF73",
+   "pere": "JI161",
+   "mere": "JI162",
+   "enfants": [
+    "JI154"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès n° 20, Polverara, 4 août 1896, TOMMASI Teresa Maria, 49 ans, villica, née vers 1847, épouse de Prosdocimo VOLTAN. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WJ-NP4Q"
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Teresa Maria TOMMASI, nommés dans son acte de décès à Polverara le 4 août 1896."
+   ]
+  },
+  "JF74": {
+   "id": "JF74",
+   "pere": "JI163",
+   "mere": "JI164",
+   "enfants": [
+    "JI153"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès, Polverara, 28 juin 1922, VOLTAN Prosdocimo, né vers 1838 à Polverara Isola, époux de Teresa TOMMASI. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Prosdocimo VOLTAN, nommés dans son acte de décès à Polverara le 28 juin 1922."
+   ]
+  },
+  "JF75": {
+   "id": "JF75",
+   "pere": "JI165",
+   "mere": "JI166",
+   "enfants": [
+    "JI151"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Domenico STIVANELLO, nommés dans son acte de décès à Legnaro le 28 février 1885. Génération la plus ancienne connue de la lignée STIVANELLO."
+   ]
   }
  },
  "topola": {
@@ -219978,13 +220533,32 @@
     "firstName": "Domenico",
     "lastName": "STIVANELLO",
     "sex": "M",
+    "famc": "JF75",
     "fams": [
      "JF68"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1819
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 28,
+      "month": 2,
+      "year": 1885
+     },
+     "place": "Legnaro (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI152",
     "hideId": true,
+    "firstName": "Beatrice",
     "lastName": "PESAROLO",
     "sex": "F",
     "fams": [
@@ -219997,19 +220571,54 @@
     "firstName": "Prosdocimo",
     "lastName": "VOLTAN",
     "sex": "M",
+    "famc": "JF74",
     "fams": [
      "JF69"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1838
+     },
+     "place": "Polverara (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 28,
+      "month": 6,
+      "year": 1922
+     },
+     "place": "Polverara (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI154",
     "hideId": true,
-    "firstName": "Teresa",
+    "firstName": "Teresa Maria",
     "lastName": "TOMMASI",
     "sex": "F",
+    "famc": "JF73",
     "fams": [
      "JF69"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1847
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 4,
+      "month": 8,
+      "year": 1896
+     },
+     "place": "Polverara (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI155",
@@ -220069,6 +220678,66 @@
     "sex": "F",
     "fams": [
      "JF72"
+    ]
+   },
+   {
+    "id": "JI161",
+    "hideId": true,
+    "firstName": "Domenico Francesco",
+    "lastName": "TOMMASI",
+    "sex": "M",
+    "fams": [
+     "JF73"
+    ]
+   },
+   {
+    "id": "JI162",
+    "hideId": true,
+    "firstName": "Antonia",
+    "lastName": "BOZZARO",
+    "sex": "F",
+    "fams": [
+     "JF73"
+    ]
+   },
+   {
+    "id": "JI163",
+    "hideId": true,
+    "firstName": "Domenico",
+    "lastName": "VOLTAN",
+    "sex": "M",
+    "fams": [
+     "JF74"
+    ]
+   },
+   {
+    "id": "JI164",
+    "hideId": true,
+    "firstName": "Catterina",
+    "lastName": "MANIERO",
+    "sex": "F",
+    "fams": [
+     "JF74"
+    ]
+   },
+   {
+    "id": "JI165",
+    "hideId": true,
+    "firstName": "Sante",
+    "lastName": "STIVANELLO",
+    "sex": "M",
+    "fams": [
+     "JF75"
+    ]
+   },
+   {
+    "id": "JI166",
+    "hideId": true,
+    "firstName": "Pasqua",
+    "lastName": "PIANTA",
+    "sex": "F",
+    "fams": [
+     "JF75"
     ]
    }
   ],
@@ -232947,6 +233616,30 @@
     "children": [
      "JI107"
     ]
+   },
+   {
+    "id": "JF73",
+    "husb": "JI161",
+    "wife": "JI162",
+    "children": [
+     "JI154"
+    ]
+   },
+   {
+    "id": "JF74",
+    "husb": "JI163",
+    "wife": "JI164",
+    "children": [
+     "JI153"
+    ]
+   },
+   {
+    "id": "JF75",
+    "husb": "JI165",
+    "wife": "JI166",
+    "children": [
+     "JI151"
+    ]
    }
   ]
  },
@@ -232967,7 +233660,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 68
+   "personnes": 74
   },
   {
    "id": "vaurie",
