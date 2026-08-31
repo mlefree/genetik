@@ -98508,7 +98508,7 @@
    "vivant": false,
    "annee_naissance": 1913,
    "annee_deces": 1974,
-   "generations_ascendance": 4,
+   "generations_ascendance": 5,
    "generations_descendance": 3,
    "branches": [
     "vaurie"
@@ -98894,7 +98894,7 @@
    "vivant": false,
    "annee_naissance": 1872,
    "annee_deces": 1935,
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 4,
    "branches": [
     "vaurie"
@@ -147016,7 +147016,7 @@
    "vivant": false,
    "annee_naissance": 1843,
    "annee_deces": 1925,
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 5,
    "branches": [
     "vaurie"
@@ -147083,7 +147083,7 @@
    "vivant": false,
    "annee_naissance": 1813,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 6,
    "branches": [
     "vaurie"
@@ -147139,7 +147139,7 @@
    "vivant": false,
    "annee_naissance": 1821,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 6,
    "branches": [
     "vaurie"
@@ -147157,7 +147157,18 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "11 MAR 1783",
+     "date": {
+      "annee": 1783,
+      "mois": 3,
+      "jour": 11
+     }
+    },
+    "lieu": "Corrèze (19)"
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
@@ -147170,29 +147181,52 @@
    "residences": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "11 MAR 1783",
+      "date": {
+       "annee": 1783,
+       "mois": 3,
+       "jour": 11
+      }
+     },
+     "lieu": "Corrèze (19)"
+    },
+    {
      "type": "profession",
      "texte": "cultivateur"
     }
    ],
    "images": [],
    "notes": [
-    "Père de Martial BONNET, cultivateur aux Respinaiges, commune de Corrèze, présent et consentant au mariage de son fils le 6 avril 1842."
+    "Père de Martial BONNET, cultivateur aux Respinaiges, commune de Corrèze, présent et consentant au mariage de son fils le 6 avril 1842.",
+    "Son acte de mariage (Corrèze, 13 août 1807) le dit **garçon majeur**, **né à Corrèze le 11 mars 1783**, **cultivateur**, demeurant à **Bouisse, commune de Corrèze**. L'âge déclaré (23 ans) diverge d'un an de la date écrite : la date l'emporte.",
+    "Ses parents sont **feu Jean BONNET** et **Jeanne CHAUMEIL** : il sort du front d'ascendance.",
+    "Rattachement : ce mariage est identifié à celui des parents de Martial BONNET (né à Corrèze le 21 décembre 1813) par concordance de noms, de commune et de période ; c'est le seul couple Jean BONNET × Marie AGNOUX de la table décennale des mariages de Corrèze 1803-1812. À confirmer par l'acte de naissance de Martial, 2E/62/3, ARK 4c1fnzhktldp."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF50003",
    "familles": [
     "VF161"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1783,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail",
+    "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
+    "correze-1807-table-annuelle-mariages-vue90"
    ]
   },
   "VI29": {
@@ -147203,7 +147237,18 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "31 JUL 1777",
+     "date": {
+      "annee": 1777,
+      "mois": 7,
+      "jour": 31
+     }
+    },
+    "lieu": "Saint-Augustin (19)"
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
@@ -147216,29 +147261,52 @@
    "residences": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "31 JUL 1777",
+      "date": {
+       "annee": 1777,
+       "mois": 7,
+       "jour": 31
+      }
+     },
+     "lieu": "Saint-Augustin (19)"
+    },
+    {
      "type": "profession",
      "texte": "cultivatrice"
     }
    ],
    "images": [],
    "notes": [
-    "Mère de Martial BONNET, cultivatrice aux Respinaiges, commune de Corrèze, présente et consentante au mariage de son fils le 6 avril 1842."
+    "Mère de Martial BONNET, cultivatrice aux Respinaiges, commune de Corrèze, présente et consentante au mariage de son fils le 6 avril 1842.",
+    "Son acte de mariage (Corrèze, 13 août 1807) la dit **fille majeure**, âgée de trente ans, **née à Saint-Augustin le 31 juillet 1777**, demeurant à Corrèze. L'âge et la date concordent exactement.",
+    "Ses parents sont **feu Jean AGNOUX** et **Marie CHAZALVIEL**, du village de **Tourondel, commune de Saint-Augustin** : elle sort du front d'ascendance.",
+    "**Graphie** : l'acte de 1807 écrit **AGNOUX** ; l'acte de mariage de Vitrac de 1842, plus tardif de trente-cinq ans, écrit AGIOUX. L'acte le plus proche du fait l'emporte pour la forme du nom ; l'arbre conserve AGIOUX comme forme d'usage."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF50004",
    "familles": [
     "VF161"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1777,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail",
+    "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
+    "correze-1807-table-annuelle-mariages-vue90"
    ]
   },
   "VI30": {
@@ -147249,7 +147317,18 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1 AUG 1788",
+     "date": {
+      "annee": 1788,
+      "mois": 8,
+      "jour": 1
+     }
+    },
+    "lieu": "Corrèze (19)"
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
@@ -147262,29 +147341,52 @@
    "residences": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "1 AUG 1788",
+      "date": {
+       "annee": 1788,
+       "mois": 8,
+       "jour": 1
+      }
+     },
+     "lieu": "Corrèze (19)"
+    },
+    {
      "type": "profession",
      "texte": "cultivateur"
     }
    ],
    "images": [],
    "notes": [
-    "Père de Marie PRESET, cultivateur à Chaleix, commune de Vitrac, présent et consentant au mariage de sa fille le 6 avril 1842."
+    "Père de Marie PRESET, cultivateur à Chaleix, commune de Vitrac, présent et consentant au mariage de sa fille le 6 avril 1842.",
+    "Son acte de mariage (Bar, 13 mai 1819) le dit **né à Corrèze le 1er août 1788**, **cultivateur**, demeurant **au Mons, commune de Bar**, et **veuf de Marie BOUFFIAT** : Jeanne LACROIX est sa **seconde** épouse. Le nom y est écrit **PRESSET**.",
+    "Ses parents sont **Martial PRESSET** et **défunte Jeanne SALLES** : il sort du front d'ascendance.",
+    "Il ne sait pas signer."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Table décennale des mariages de Bar 1813-1822, AD19, cote 2E/TD/16/1, ARK https://www.archives.correze.fr/ark:/69090/4j2qmdrgb0hv , vue 5/108 : « presset Barthelemy, marié à lacroix jeanne — 3 mai 1819 ». Table annuelle de 1819, 2E/16/5, vue 105/301 : « 4e — mariage du 13 may 1819 entre Barthélemy presset et jeanne lacroix ». Images archivées : bar-td-mariages-1813-1822-presset-lacroix-vue5.jpg, bar-1819-table-annuelle-mariages-vue105.jpg. Consulté le 31/08/2026."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF50001",
    "familles": [
     "VF162"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1788,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail",
+    "bar-td-mariages-1813-1822-presset-lacroix-vue5",
+    "bar-1819-table-annuelle-mariages-vue105"
    ]
   },
   "VI31": {
@@ -147295,7 +147397,18 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "9 NOV 1796",
+     "date": {
+      "annee": 1796,
+      "mois": 11,
+      "jour": 9
+     }
+    },
+    "lieu": "Corrèze (19)"
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
@@ -147308,29 +147421,51 @@
    "residences": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "9 NOV 1796",
+      "date": {
+       "annee": 1796,
+       "mois": 11,
+       "jour": 9
+      }
+     },
+     "lieu": "Corrèze (19)"
+    },
+    {
      "type": "profession",
      "texte": "cultivatrice"
     }
    ],
    "images": [],
    "notes": [
-    "Mère de Marie PRESET, cultivatrice à Chaleix, commune de Vitrac, présente et consentante au mariage de sa fille le 6 avril 1842."
+    "Mère de Marie PRESET, cultivatrice à Chaleix, commune de Vitrac, présente et consentante au mariage de sa fille le 6 avril 1842.",
+    "Son acte de mariage (Bar, 13 mai 1819) la dit **née à Corrèze le 19 brumaire an V**, soit le **9 novembre 1796**, demeurant **au Mons, commune de Bar**, âgée d'« environ vingt-quatre ans » — l'âge est arrondi, la date écrite l'emporte.",
+    "Ses parents sont **Étienne LACROIX**, qui signe l'acte, et **Ternelle MERCIER** : elle sort du front d'ascendance."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Table décennale des mariages de Bar 1813-1822, AD19, cote 2E/TD/16/1, ARK https://www.archives.correze.fr/ark:/69090/4j2qmdrgb0hv , vue 5/108 : « presset Barthelemy, marié à lacroix jeanne — 3 mai 1819 ». Table annuelle de 1819, 2E/16/5, vue 105/301 : « 4e — mariage du 13 may 1819 entre Barthélemy presset et jeanne lacroix ». Images archivées : bar-td-mariages-1813-1822-presset-lacroix-vue5.jpg, bar-1819-table-annuelle-mariages-vue105.jpg. Consulté le 31/08/2026."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF50002",
    "familles": [
     "VF162"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1796,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail",
+    "bar-td-mariages-1813-1822-presset-lacroix-vue5",
+    "bar-1819-table-annuelle-mariages-vue105"
    ]
   },
   "VI24": {
@@ -148079,6 +148214,409 @@
    ],
    "generations_ascendance": 0,
    "generations_descendance": 20
+  },
+  "VI50001": {
+   "id": "VI50001",
+   "prenom": "Martial",
+   "nom": "PRESSET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Barthélemy PRESSET. Nommé par l'acte de mariage de son fils, Bar, 13 mai 1819 : « fils légitime de **Martial PRESSET**, demeurant au Mons de Bar, département de la Corrèze ». Il est **vivant** ce jour-là et donne son **consentement verbal** au mariage. Il ne sait pas signer.",
+    "Le patronyme est écrit **PRESSET** dans cet acte de 1819 ; les actes de 1821, 1842 et 1843 écrivent PRESET. Les deux graphies désignent la même famille du Mons, commune de Bar.",
+    "Suite : sa naissance et son mariage avec Jeanne SALLES, à chercher à Corrèze ou à Bar avant 1788, et son acte de décès dans les décès de Bar (2E/16/7, 1824-1848, ARK jw1vn7mk2lz8).",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Table décennale des mariages de Bar 1813-1822, AD19, cote 2E/TD/16/1, ARK https://www.archives.correze.fr/ark:/69090/4j2qmdrgb0hv , vue 5/108 : « presset Barthelemy, marié à lacroix jeanne — 3 mai 1819 ». Table annuelle de 1819, 2E/16/5, vue 105/301 : « 4e — mariage du 13 may 1819 entre Barthélemy presset et jeanne lacroix ». Images archivées : bar-td-mariages-1813-1822-presset-lacroix-vue5.jpg, bar-1819-table-annuelle-mariages-vue105.jpg. Consulté le 31/08/2026."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail",
+    "bar-td-mariages-1813-1822-presset-lacroix-vue5",
+    "bar-1819-table-annuelle-mariages-vue105"
+   ]
+  },
+  "VI50002": {
+   "id": "VI50002",
+   "prenom": "Jeanne",
+   "nom": "SALLES",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "avant 13 MAY 1819",
+     "date": {
+      "annee": 1819
+     }
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "avant 13 MAY 1819",
+      "date": {
+       "annee": 1819
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Barthélemy PRESSET, épouse de Martial PRESSET. Nommée par l'acte de mariage de son fils, Bar, 13 mai 1819 : « et de **défunte Jeanne SALLES** ». Elle est donc **morte avant le 13 mai 1819** — un négatif qui date.",
+    "Lecture : le patronyme se lit SALLES, éventuellement SALLEN. Le prénom est net.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1819,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail"
+   ]
+  },
+  "VI50003": {
+   "id": "VI50003",
+   "prenom": "Étienne",
+   "nom": "LACROIX",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Jeanne LACROIX. Nommé par l'acte de mariage de sa fille, Bar, 13 mai 1819 : « fille légitime d'**Étienne LACROIX**, demeurant au Mons de Bar ». Il est **vivant**, donne son **consentement verbal** et — fait notable dans ce village où tous les autres comparants déclarent ne savoir — **il signe l'acte**.",
+    "Suite : son mariage avec Ternelle MERCIER avant novembre 1796, à chercher dans les registres de Corrèze (2E/62) puisque sa fille y naît, et son décès dans les décès de Bar.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50002"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail"
+   ]
+  },
+  "VI50004": {
+   "id": "VI50004",
+   "prenom": "Ternelle",
+   "nom": "MERCIER",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Jeanne LACROIX, épouse d'Étienne LACROIX. Nommée par l'acte de mariage de sa fille, Bar, 13 mai 1819 : « et de **Ternelle MERCIER** ». Contrairement à la mère de l'époux, elle n'est pas dite défunte.",
+    "**Réserve de lecture** : le prénom se lit « Ternelle » ; les variantes possibles pour la même main sont *Fornelle* et *Pernelle* (= Pétronille). Le patronyme MERCIER, lui, est net. Ne pas normaliser le prénom sans une seconde source.",
+    "Homonymie à surveiller : la branche porte déjà des MERCIER à Bar (Léonard MERCIER × Marguerite BACH, parents de Jean dit Léonard né à Bar vers 1842). Aucun lien n'est établi entre les deux familles à ce stade.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50002"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail"
+   ]
+  },
+  "VI50005": {
+   "id": "VI50005",
+   "prenom": "Jean",
+   "nom": "BONNET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "avant 13 AUG 1807",
+     "date": {
+      "annee": 1807
+     }
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "avant 13 AUG 1807",
+      "date": {
+       "annee": 1807
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jean BONNET. Nommé par l'acte de mariage de son fils, Corrèze, 13 août 1807 : « fils légitime de **feu Jean** et de Jeanne CHAUMEIL ». Il est **mort avant le 13 août 1807** — les publications sont faites « d'après le consentement des mères des époux », les deux pères étant décédés.",
+    "Suite : son décès dans les décès de la commune de Corrèze avant août 1807, et son mariage avec Jeanne CHAUMEIL avant mars 1783.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50003"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1807,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+   ]
+  },
+  "VI50006": {
+   "id": "VI50006",
+   "prenom": "Jeanne",
+   "nom": "CHAUMEIL",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Jean BONNET, épouse de feu Jean BONNET. Nommée par l'acte de mariage de son fils, Corrèze, 13 août 1807. **Vivante** ce jour-là : l'acte précise que les publications se font « d'après le consentement des mères des époux ».",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50003"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+   ]
+  },
+  "VI50007": {
+   "id": "VI50007",
+   "prenom": "Jean",
+   "nom": "AGNOUX",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "avant 13 AUG 1807",
+     "date": {
+      "annee": 1807
+     }
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "avant 13 AUG 1807",
+      "date": {
+       "annee": 1807
+      }
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Marie AGNOUX. Nommé par l'acte de mariage de sa fille, Corrèze, 13 août 1807 : « fille légitime de **feu Jean** et de Marie CHAZALVIEL ». Il est **mort avant le 13 août 1807**.",
+    "Le patronyme se lit AGNOUX dans l'acte de 1807 ; l'acte de mariage de Vitrac de 1842 l'écrit AGIOUX. Chercher les deux formes, ainsi que AYJOUX et AGIAUX. Un **Martial AGNOUX**, garçon majeur né à Saint-Augustin le 19 mai 1780, se marie à Corrèze le 19 mars 1807 (acte n° 9, même registre, vue 76) : très probablement un frère de Marie, à ne pas développer mais à retenir comme point d'entrée.",
+    "Suite : son décès et son mariage avec Marie CHAZALVIEL à Saint-Augustin (19) avant juillet 1777.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50004"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1807,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+   ]
+  },
+  "VI50008": {
+   "id": "VI50008",
+   "prenom": "Marie",
+   "nom": "CHAZALVIEL",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Marie AGNOUX, épouse de feu Jean AGNOUX. Nommée par l'acte de mariage de sa fille, Corrèze, 13 août 1807 : « et de **Marie CHAZALVIEL**, demeurant au **village de Tourondel, commune de Saint-Augustin** ». Elle est **vivante** et consent aux publications.",
+    "Lecture : le patronyme se lit CHAZALVIEL, éventuellement CHAZALVAIL. **Saint-Augustin (Corrèze) est une commune nouvelle pour la branche** : c'est là qu'il faut chercher la génération suivante.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF50004"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "vaurie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+   ]
   }
  },
  "familles": {
@@ -186527,17 +187065,49 @@
    "enfants": [
     "VI26"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "13 AUG 1807",
+     "date": {
+      "annee": 1807,
+      "mois": 8,
+      "jour": 13
+     }
+    },
+    "lieu": "Corrèze (19)"
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "13 AUG 1807",
+      "date": {
+       "annee": 1807,
+       "mois": 8,
+       "jour": 13
+      }
+     },
+     "lieu": "Corrèze (19)"
+    }
+   ],
    "notes": [
-    "Parents de Martial BONNET, cultivateurs aux Respinaiges, commune de Corrèze, présents au mariage de leur fils le 6 avril 1842."
+    "Parents de Martial BONNET, cultivateurs aux Respinaiges, commune de Corrèze, présents au mariage de leur fils le 6 avril 1842.",
+    "**Mariage retrouvé** : Jean BONNET et Marie AGNOUX se sont mariés à **Corrèze le 13 août 1807** (2E/62/4, acte n° 18, vue 85/368). L'acte donne les quatre parents des époux, leurs dates et lieux de naissance et le domicile du couple à Bouisse, commune de Corrèze."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail",
+    "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
+    "correze-1807-table-annuelle-mariages-vue90"
    ]
   },
   "VF162": {
@@ -186547,17 +187117,49 @@
    "enfants": [
     "VI27"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "13 MAY 1819",
+     "date": {
+      "annee": 1819,
+      "mois": 5,
+      "jour": 13
+     }
+    },
+    "lieu": "Bar (19)"
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "13 MAY 1819",
+      "date": {
+       "annee": 1819,
+       "mois": 5,
+       "jour": 13
+      }
+     },
+     "lieu": "Bar (19)"
+    }
+   ],
    "notes": [
-    "Parents de Marie PRESET, cultivateurs à Chaleix, commune de Vitrac, présents au mariage de leur fille le 6 avril 1842."
+    "Parents de Marie PRESET, cultivateurs à Chaleix, commune de Vitrac, présents au mariage de leur fille le 6 avril 1842.",
+    "**Mariage retrouvé** : Barthélemy PRESSET, veuf de Marie BOUFFIAT, et Jeanne LACROIX se sont mariés à **Bar le 13 mai 1819** (2E/16/5, acte n° 4, vue 102/301). L'acte donne les quatre parents des époux et leurs dates de naissance."
    ],
    "sources": [
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "bar-1819-mariage-presset-lacroix-acte4-vue102",
+    "bar-1819-mariage-presset-lacroix-filiations-detail",
+    "bar-td-mariages-1813-1822-presset-lacroix-vue5",
+    "bar-1819-table-annuelle-mariages-vue105"
    ]
   },
   "GF168": {
@@ -186750,6 +187352,86 @@
    "sources": [],
    "branches": [
     "leprevost"
+   ]
+  },
+  "VF50001": {
+   "id": "VF50001",
+   "pere": "VI50001",
+   "mere": "VI50002",
+   "enfants": [
+    "VI30"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Parents de Barthélemy PRESSET, nommés par l'acte de mariage de leur fils à Bar le 13 mai 1819. Le père est vivant et consentant, la mère est dite défunte. Ils demeurent au Mons, commune de Bar."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF50002": {
+   "id": "VF50002",
+   "pere": "VI50003",
+   "mere": "VI50004",
+   "enfants": [
+    "VI31"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Parents de Jeanne LACROIX, nommés par l'acte de mariage de leur fille à Bar le 13 mai 1819. Le père est vivant, consentant et signataire. Ils demeurent au Mons, commune de Bar ; leur fille est née à Corrèze en 1796, ce qui situe le couple dans cette commune avant 1796."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bar, mariages 1803-1848, cote 2E/16/5, acte n° 4 de 1819, vue 102/301, 13 mai 1819. ARK https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d . Image lue et archivée le 31/08/2026 : bar-1819-mariage-presset-lacroix-acte4-vue102.jpg et bar-1819-mariage-presset-lacroix-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF50003": {
+   "id": "VF50003",
+   "pere": "VI50005",
+   "mere": "VI50006",
+   "enfants": [
+    "VI28"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Parents de Jean BONNET, nommés par l'acte de mariage de leur fils à Corrèze le 13 août 1807. Le père est dit défunt, la mère consent aux publications. Leur fils naît à Corrèze le 11 mars 1783."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF50004": {
+   "id": "VF50004",
+   "pere": "VI50007",
+   "mere": "VI50008",
+   "enfants": [
+    "VI29"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Parents de Marie AGNOUX, nommés par l'acte de mariage de leur fille à Corrèze le 13 août 1807. Le père est dit défunt ; la mère, Marie CHAZALVIEL, demeure au village de Tourondel, commune de Saint-Augustin (19). Leur fille naît à Saint-Augustin le 31 juillet 1777."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
    ]
   }
  },
@@ -224385,9 +225067,19 @@
     "firstName": "Jean",
     "lastName": "BONNET",
     "sex": "M",
+    "famc": "VF50003",
     "fams": [
      "VF161"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 11,
+      "month": 3,
+      "year": 1783
+     },
+     "place": "Corrèze (19)",
+     "type": "naissance"
+    }
    },
    {
     "id": "VI29",
@@ -224395,9 +225087,19 @@
     "firstName": "Marie",
     "lastName": "AGIOUX",
     "sex": "F",
+    "famc": "VF50004",
     "fams": [
      "VF161"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 31,
+      "month": 7,
+      "year": 1777
+     },
+     "place": "Saint-Augustin (19)",
+     "type": "naissance"
+    }
    },
    {
     "id": "VI30",
@@ -224405,9 +225107,19 @@
     "firstName": "Barthélemy",
     "lastName": "PRESET",
     "sex": "M",
+    "famc": "VF50001",
     "fams": [
      "VF162"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 1,
+      "month": 8,
+      "year": 1788
+     },
+     "place": "Corrèze (19)",
+     "type": "naissance"
+    }
    },
    {
     "id": "VI31",
@@ -224415,9 +225127,19 @@
     "firstName": "Jeanne",
     "lastName": "LACROIX",
     "sex": "F",
+    "famc": "VF50002",
     "fams": [
      "VF162"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 9,
+      "month": 11,
+      "year": 1796
+     },
+     "place": "Corrèze (19)",
+     "type": "naissance"
+    }
    },
    {
     "id": "VI24",
@@ -224590,6 +225312,107 @@
     "sex": "F",
     "fams": [
      "LF30006"
+    ]
+   },
+   {
+    "id": "VI50001",
+    "hideId": true,
+    "firstName": "Martial",
+    "lastName": "PRESSET",
+    "sex": "M",
+    "fams": [
+     "VF50001"
+    ]
+   },
+   {
+    "id": "VI50002",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "SALLES",
+    "sex": "F",
+    "fams": [
+     "VF50001"
+    ],
+    "death": {
+     "date": {
+      "year": 1819
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "VI50003",
+    "hideId": true,
+    "firstName": "Étienne",
+    "lastName": "LACROIX",
+    "sex": "M",
+    "fams": [
+     "VF50002"
+    ]
+   },
+   {
+    "id": "VI50004",
+    "hideId": true,
+    "firstName": "Ternelle",
+    "lastName": "MERCIER",
+    "sex": "F",
+    "fams": [
+     "VF50002"
+    ]
+   },
+   {
+    "id": "VI50005",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "BONNET",
+    "sex": "M",
+    "fams": [
+     "VF50003"
+    ],
+    "death": {
+     "date": {
+      "year": 1807
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "VI50006",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "CHAUMEIL",
+    "sex": "F",
+    "fams": [
+     "VF50003"
+    ]
+   },
+   {
+    "id": "VI50007",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "AGNOUX",
+    "sex": "M",
+    "fams": [
+     "VF50004"
+    ],
+    "death": {
+     "date": {
+      "year": 1807
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "VI50008",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "CHAZALVIEL",
+    "sex": "F",
+    "fams": [
+     "VF50004"
     ]
    }
   ],
@@ -237599,7 +238422,16 @@
     "wife": "VI29",
     "children": [
      "VI26"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 13,
+      "month": 8,
+      "year": 1807
+     },
+     "place": "Corrèze (19)",
+     "type": "union"
+    }
    },
    {
     "id": "VF162",
@@ -237607,7 +238439,16 @@
     "wife": "VI31",
     "children": [
      "VI27"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 13,
+      "month": 5,
+      "year": 1819
+     },
+     "place": "Bar (19)",
+     "type": "union"
+    }
    },
    {
     "id": "GF168",
@@ -237685,6 +238526,38 @@
     "children": [
      "JI11"
     ]
+   },
+   {
+    "id": "VF50001",
+    "husb": "VI50001",
+    "wife": "VI50002",
+    "children": [
+     "VI30"
+    ]
+   },
+   {
+    "id": "VF50002",
+    "husb": "VI50003",
+    "wife": "VI50004",
+    "children": [
+     "VI31"
+    ]
+   },
+   {
+    "id": "VF50003",
+    "husb": "VI50005",
+    "wife": "VI50006",
+    "children": [
+     "VI28"
+    ]
+   },
+   {
+    "id": "VF50004",
+    "husb": "VI50007",
+    "wife": "VI50008",
+    "children": [
+     "VI29"
+    ]
    }
   ]
  },
@@ -237711,7 +238584,7 @@
    "id": "vaurie",
    "libelle": "VAURIE",
    "racine": "VI1",
-   "personnes": 320
+   "personnes": 328
   }
  ],
  "assets": {
@@ -238598,6 +239471,184 @@
    "lieu": "Marseille (13)",
    "cote": "AD13, 201 E 1441, TD naissances 1833-1842, lettre G, vue 34/71",
    "url": "https://www.archives13.fr/ark:/40700/vtaa48f1411a3f7658d/daogrp/0"
+  },
+  "bar-1819-mariage-presset-lacroix-acte4-vue102": {
+   "type": "acte_mariage",
+   "titre": "Mariage Barthélemy PRESSET × Jeanne LACROIX, Bar, 13 mai 1819",
+   "fichier": "assets/actes/france/19/bar-1819-mariage-presset-lacroix-acte4-vue102.jpg",
+   "octets": 2224559,
+   "sha256": "acc8048c772058c411a9344fd098c2dbe651e0d8d56ccaea2f4b7463fff917e2",
+   "utilise_par": {
+    "individus": [
+     "VI30",
+     "VI31",
+     "VI50001",
+     "VI50002",
+     "VI50003",
+     "VI50004"
+    ],
+    "familles": [
+     "VF162"
+    ]
+   },
+   "date": "1819",
+   "lieu": "Bar (19)",
+   "cote": "AD19, 2E/16/5, acte n° 4 de 1819, vue 102/301",
+   "url": "https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d"
+  },
+  "bar-1819-mariage-presset-lacroix-filiations-detail": {
+   "type": "acte_mariage",
+   "titre": "Filiations des époux PRESSET et LACROIX, agrandissement de l'acte de 1819",
+   "fichier": "assets/actes/france/19/bar-1819-mariage-presset-lacroix-filiations-detail.jpg",
+   "octets": 336699,
+   "sha256": "ab6a3ee885bf9237aede99d5d6fe6ae6ec79afb3dbf5817f752178101bfa9b87",
+   "utilise_par": {
+    "individus": [
+     "VI30",
+     "VI31",
+     "VI50001",
+     "VI50002",
+     "VI50003",
+     "VI50004"
+    ],
+    "familles": [
+     "VF162"
+    ]
+   },
+   "date": "1819",
+   "lieu": "Bar (19)",
+   "cote": "AD19, 2E/16/5, acte n° 4 de 1819, vue 102/301 (détail)",
+   "url": "https://www.archives.correze.fr/images/d3a0ece2-3a16-4e7e-b13d-4cd736b5a10d.jpg"
+  },
+  "bar-td-mariages-1813-1822-presset-lacroix-vue5": {
+   "type": "table_decennale",
+   "titre": "Table décennale des mariages de Bar 1813-1822, entrée PRESSET × LACROIX",
+   "fichier": "assets/actes/france/19/bar-td-mariages-1813-1822-presset-lacroix-vue5.jpg",
+   "octets": 704170,
+   "sha256": "d99875248f4f79c252b01c15f8ee9465e62ed9bdfe938914cd3aa44e3bad4a7f",
+   "utilise_par": {
+    "individus": [
+     "VI30",
+     "VI31",
+     "VI50001"
+    ],
+    "familles": [
+     "VF162"
+    ]
+   },
+   "date": "1813-1822",
+   "lieu": "Bar (19)",
+   "cote": "AD19, 2E/TD/16/1, vue 5/108",
+   "url": "https://www.archives.correze.fr/ark:/69090/4j2qmdrgb0hv"
+  },
+  "bar-1819-table-annuelle-mariages-vue105": {
+   "type": "table_annuelle",
+   "titre": "Table annuelle des mariages de Bar, année 1819",
+   "fichier": "assets/actes/france/19/bar-1819-table-annuelle-mariages-vue105.jpg",
+   "octets": 2286829,
+   "sha256": "e33c65a1207ccd67f8b2cfee2804bc5e3eac6f90702ee2ac3d8e3dfcd34c56c6",
+   "utilise_par": {
+    "individus": [
+     "VI30",
+     "VI31",
+     "VI50001"
+    ],
+    "familles": [
+     "VF162"
+    ]
+   },
+   "date": "1819",
+   "lieu": "Bar (19)",
+   "cote": "AD19, 2E/16/5, vue 105/301",
+   "url": "https://www.archives.correze.fr/ark:/69090/k469zgcs8vlq/f1029cc0-a5ce-426f-a320-bbfbbbf41112"
+  },
+  "correze-1807-mariage-bonnet-agnoux-acte18-vue85": {
+   "type": "acte_mariage",
+   "titre": "Mariage Jean BONNET × Marie AGNOUX, Corrèze, 13 août 1807",
+   "fichier": "assets/actes/france/19/correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg",
+   "octets": 504196,
+   "sha256": "28a10cce5fd35446bba6ba8674b96850122b5bcab60f0f7e819618f5b7949239",
+   "utilise_par": {
+    "individus": [
+     "VI28",
+     "VI29",
+     "VI50005",
+     "VI50006",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1807",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/62/4, acte n° 18 de 1807, vue 85/368",
+   "url": "https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598"
+  },
+  "correze-1807-mariage-bonnet-agnoux-filiations-detail": {
+   "type": "acte_mariage",
+   "titre": "Filiations des époux BONNET et AGNOUX, agrandissement de l'acte de 1807",
+   "fichier": "assets/actes/france/19/correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg",
+   "octets": 275469,
+   "sha256": "6681b081f5527ce5cb3204f9520c9653af57bb922af4cac4b98ff3607c07dde2",
+   "utilise_par": {
+    "individus": [
+     "VI28",
+     "VI29",
+     "VI50005",
+     "VI50006",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1807",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/62/4, acte n° 18 de 1807, vue 85/368 (détail)",
+   "url": "https://www.archives.correze.fr/images/5d56c616-052b-4387-b6c9-89235e0de598.jpg"
+  },
+  "correze-td-mariages-1803-1812-bonnet-agnoux-vue1": {
+   "type": "table_decennale",
+   "titre": "Table décennale de la commune de Corrèze 1802-1812, entrée BONNET × AGNOUX",
+   "fichier": "assets/actes/france/19/correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg",
+   "octets": 995709,
+   "sha256": "86be9ae5381e2935da28af1d6d789e3858f10f3fa4f5e202c1e88fac81d1ee60",
+   "utilise_par": {
+    "individus": [
+     "VI28",
+     "VI29"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1802-1812",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/TD/62/1, vue 1/162",
+   "url": "https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp"
+  },
+  "correze-1807-table-annuelle-mariages-vue90": {
+   "type": "table_annuelle",
+   "titre": "Table annuelle des mariages de la commune de Corrèze, année 1807",
+   "fichier": "assets/actes/france/19/correze-1807-table-annuelle-mariages-vue90.jpg",
+   "octets": 380102,
+   "sha256": "ffb9aedabcd31f64f99cc6e565d89eb4159b35550733d05b1c06e546f0e46c9d",
+   "utilise_par": {
+    "individus": [
+     "VI28",
+     "VI29"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1807",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/62/4, vue 90/368",
+   "url": "https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/9ec56705-9f50-4f1f-ae05-689a4d6ae405"
   }
  }
 }
