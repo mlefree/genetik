@@ -44976,8 +44976,13 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "Son mariage avec Françoise GOUGEON, porté au 21/11/1708 à Sainte-Mère-Église par l'arbre hérité (LF210), n'a jamais été prouvé par acte. Le registre est en ligne et identifié : AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, 173 vues. Dans les registres de cette paroisse la section des mariages occupe le dernier sixième du volume : chercher vers les vues 145-173.",
+    "Son année de naissance 1675 est héritée et non prouvée ; elle est cohérente avec un mariage des parents antérieur à 1673 ou vers 1674."
+   ],
+   "sources": [
+    "Cote repérée le 31/08/2026 pour le mariage du 21/11/1708 : AD50, Sainte-Mère-Église, 5 Mi 1915, BMS 1704-1712, fiche 622612 (173 vues). Acte non encore lu."
+   ],
    "associations": [],
    "famille_origine": "LF345",
    "familles": [
@@ -63195,8 +63200,14 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "Recherche du 31/08/2026 (nuit) : son mariage avec Gillette MONCEL (LI1025) a été cherché à Sainte-Mère-Église dans la section des mariages du registre AD50 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120 à 141, soit l'intégralité des mariages de mai 1667 à 1673. NÉGATIF : aucun acte ne porte LE PROVOST, LE PREVOST, PROVOST, MONCEL ni MOUCEL. Le mariage est donc antérieur à mai 1667 (registre 622605, BMS 1655-1667), postérieur à 1673 (registre 622608, 5 Mi 1915, BMS 1670-1679), ou célébré dans une autre paroisse (Ravenoville, Turqueville, Foucarville, Audouville-la-Hubert).",
+    "L'année de naissance 1640 est héritée d'un arbre secondaire et n'est appuyée par aucun acte. Elle n'a servi ici qu'à borner la fenêtre de recherche du mariage.",
+    "Prochaine cible plus sûre que le mariage lui-même : le registre AD50 5 Mi 1915, fiche 622612, BMS 1704-1712 de Sainte-Mère-Église (173 vues), qui contient nécessairement le mariage du 21/11/1708 de son fils Charles (LI512) avec Françoise GOUGEON. Un acte de mariage normand de cette époque nomme couramment les pères des époux : il donnerait Gilles par voie indirecte."
+   ],
+   "sources": [
+    "AD50, Sainte-Mère-Église, 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120-141, section des mariages dépouillée intégralement le 31/08/2026 — résultat négatif. Pièces : ad50-5mi1914-sainte-mere-eglise-1667-1673-vue001-titre.jpg et ad50-5mi1914-sainte-mere-eglise-mariages-1667-vue121-ouverture.jpg"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -63209,6 +63220,10 @@
    "generations_descendance": 12,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-1667-1673-titre",
+    "ad50-smee-mariages-1667-ouverture"
    ]
   },
   "LI1025": {
@@ -63227,8 +63242,14 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "Recherche du 31/08/2026 (nuit) : cherchée avec son époux Gilles LE PROVOST (LI1024) dans la section des mariages du registre AD50 5 Mi 1914, BMS 1667-1673 de Sainte-Mère-Église (fiche 622606), vues 120-141. NÉGATIF sur les graphies MONCEL et MOUCEL.",
+    "Graphie à surveiller : l'index nominatif des AD50 écrit MOUCEL au moins une fois pour ce qui est ailleurs MONCEL. Chercher les deux formes, ainsi que MONSEL.",
+    "L'index nominatif collaboratif des AD50 (34 230 annotations) ne couvre ni Sainte-Mère-Église ni le XVIIe siècle : il ne peut servir à établir une absence."
+   ],
+   "sources": [
+    "AD50, Sainte-Mère-Église, 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120-141, dépouillement négatif du 31/08/2026. Pièce : ad50-5mi1914-sainte-mere-eglise-mariages-1667-vue121-ouverture.jpg"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -63242,6 +63263,9 @@
    "generations_descendance": 12,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-mariages-1667-ouverture"
    ]
   },
   "LI1026": {
@@ -159697,10 +159721,13 @@
      }
     }
    ],
-   "notes": [],
+   "notes": [
+    "Mariage porté au 21/11/1708 à Sainte-Mère-Église sans aucune source. Registre identifié et en ligne : AD50, 5 Mi 1915, BMS 1704-1712, fiche 622612, 173 vues. C'est la pièce la plus rentable de la lignée agnatique : si elle nomme les pères des époux, elle prouve la filiation de Charles LE PROVOST et fait reculer le front de deux points."
+   ],
    "branches": [
     "leprevost"
-   ]
+   ],
+   "sources": []
   },
   "LF211": {
    "id": "LF211",
@@ -165720,10 +165747,13 @@
    "union": null,
    "divorce": null,
    "evenements": [],
-   "notes": [],
+   "notes": [
+    "Union non datée et non localisée. Dépouillement du 31/08/2026 : absente de la section des mariages de Sainte-Mère-Église pour mai 1667-1673 (AD50, 5 Mi 1914, fiche 622606, vues 120-141). Restent à dépouiller, par ordre de rendement : 5 Mi 1914 fiche 622605 (BMS 1655-1667, 141 vues), 5 Mi 1915 fiche 622608 (BMS 1670-1679, 168 vues), puis les paroisses voisines."
+   ],
    "branches": [
     "leprevost"
-   ]
+   ],
+   "sources": []
   },
   "LF346": {
    "id": "LF346",
@@ -239649,6 +239679,41 @@
    "lieu": "Corrèze (19)",
    "cote": "AD19, 2E/62/4, vue 90/368",
    "url": "https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/9ec56705-9f50-4f1f-ae05-689a4d6ae405"
+  },
+  "ad50-smee-1667-1673-titre": {
+   "type": "registre_paroissial",
+   "titre": "Sainte-Mère-Église, page de titre du registre BMS 1667-1673",
+   "fichier": "assets/actes/france/50/ad50-smee-1667-1673-titre.jpg",
+   "octets": 258252,
+   "sha256": "1c46f028913289b731c98e5bdc340b65523ccc891ca08bdcf1d4593558cec90d",
+   "utilise_par": {
+    "individus": [
+     "LI1024"
+    ],
+    "familles": []
+   },
+   "date": "1667",
+   "lieu": "Sainte-Mère-Église (50)",
+   "cote": "AD50, 5 Mi 1914, BMS 1667-1673, fiche 622606, vue 1/141",
+   "url": "https://www.archives-manche.fr/_recherche-images/show/622606/image/1935446/0"
+  },
+  "ad50-smee-mariages-1667-ouverture": {
+   "type": "registre_paroissial",
+   "titre": "Sainte-Mère-Église, ouverture du registre des mariages, mai 1667",
+   "fichier": "assets/actes/france/50/ad50-smee-mariages-1667-ouverture.jpg",
+   "octets": 339512,
+   "sha256": "fe684d519cf42727f116e4b5d7b3ce5581e22218527f3fc912c583d4946d524c",
+   "utilise_par": {
+    "individus": [
+     "LI1024",
+     "LI1025"
+    ],
+    "familles": []
+   },
+   "date": "1667",
+   "lieu": "Sainte-Mère-Église (50)",
+   "cote": "AD50, 5 Mi 1914, BMS 1667-1673, fiche 622606, vue 121/141",
+   "url": "https://www.archives-manche.fr/_recherche-images/show/622606/image/1935446/120"
   }
  }
 }
