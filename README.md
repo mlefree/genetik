@@ -19,8 +19,14 @@ de couple ne sont pas publiés.
 Le site comprend :
 
 - l’arbre généalogique navigable ;
-- une carte hors ligne des lieux connus ;
+- une carte des lieux connus, servie par Leaflet ;
 - une présentation de l'archive Généatique étudiée.
+
+La carte est la seule partie du site qui ne soit pas hors ligne : la
+bibliothèque Leaflet est embarquée dans `docs/vendor/`, mais les tuiles du fond
+de carte sont téléchargées chez Esri par le navigateur de chaque visiteur. Tout
+le reste — arbre, fiches, actes — reste servi depuis `docs/` sans dépendance
+externe.
 
 `recherche/arbre_source.json` est le snapshot privé exhaustif : arbre nominatif,
 branches, preuves, doutes et décisions d'exposition. `recherche/outils/arbre_expose.py`
