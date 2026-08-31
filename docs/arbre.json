@@ -130461,10 +130461,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "**Mort avant le 7 septembre 1817** : l'acte de décès de sa femme, ce jour-là à Neufmontiers, la dit « **veuve de Pierre le Long** ». C'est le premier terminus ad quem de son décès.",
+    "Négatif délimité, 31/08/2026 : la table décennale des décès de Neufmontiers **1813-1822** (AD77, 7E0042, vue 14) a été lue lettre par lettre à la lettre L et **ne contient aucun LE LONG**. Il n'est donc pas mort à Neufmontiers entre 1813 et 1822 : chercher avant 1813, ou dans une autre commune."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 226"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 226",
+    "Acte de décès, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre 1813-1822, cote 5MI2737, vue 61/136, acte du 8 septembre 1817. Corroboré par la table décennale des décès 1813-1822, cote 7E0042, vue 14, ligne 87. Image lue et archivée le 31/08/2026 : frad077_5mi2737_061_leroy-rosalie-deces-1817.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF226"
@@ -130474,7 +130477,10 @@
     "gimie"
    ],
    "generations_ascendance": 0,
-   "generations_descendance": 9
+   "generations_descendance": 9,
+   "assets": [
+    "ad77-deces-leroy-rosalie-1817"
+   ]
   },
   "AG227": {
    "id": "AG227",
@@ -130551,10 +130557,14 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "DÉCÈS PROUVÉ le 31/08/2026 (AD77, Neufmontiers, 5MI2737, vue 61, acte du 8 septembre 1817) : « **Rosalie Le Roy, veuve de Pierre le Long**, est décédée hier à une heure après midi **au domicile de Jean Baptiste Bocquillon son gendre**, âgée de **soixante ans** ». Décès le **7 septembre 1817 à treize heures**, âge conforme à une naissance vers 1757. Déclarants : Jean Pierre Jolly, garde champêtre, et Denis Sébastien Sayen, bourgeois.",
+    "**L'acte ne nomme pas ses parents** — le maire de Neufmontiers rédige en 1817 des actes de décès très brefs, sans filiation, et tous ceux de la même vue sont sur ce modèle. Le front d'ascendance **ne recule donc pas** ici : un acte d'état civil de 1817 ne garantit pas la filiation, contrairement à ce qu'on pouvait attendre. Pour monter, il faut son **mariage avec Pierre LE LONG**, antérieur à 1780 et probablement du côté de **Villers-Saint-Genest (60)** où naît leur fille — donc aux AD60 — ou le **mariage de sa fille avec Jean Baptiste BOCQUILLON** à Neufmontiers (5MI2736 ou 5MI2737, 1800-1817), qui nommerait les parents des deux époux.",
+    "L'acte révèle **un gendre, Jean Baptiste BOCQUILLON**, chez qui elle meurt : une fille de Rosalie autre que Marie Rosalie, ou Marie Rosalie elle-même remariée. Piste à trancher."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 227"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 227",
+    "Acte de décès, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre 1813-1822, cote 5MI2737, vue 61/136, acte du 8 septembre 1817. Corroboré par la table décennale des décès 1813-1822, cote 7E0042, vue 14, ligne 87. Image lue et archivée le 31/08/2026 : frad077_5mi2737_061_leroy-rosalie-deces-1817.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF226"
@@ -130566,7 +130576,10 @@
    "annee_naissance": 1757,
    "annee_deces": 1817,
    "generations_ascendance": 0,
-   "generations_descendance": 9
+   "generations_descendance": 9,
+   "assets": [
+    "ad77-deces-leroy-rosalie-1817"
+   ]
   },
   "AG232": {
    "id": "AG232",
@@ -136689,7 +136702,12 @@
      "approximatif": true
     }
    },
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "vigneron"
+    }
+   ],
    "evenements": [
     {
      "type": "naissance",
@@ -136723,13 +136741,21 @@
       ],
       "approximatif": true
      }
+    },
+    {
+     "type": "profession",
+     "texte": "vigneron"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROFESSION PROUVÉE le 31/08/2026 : le mariage de son fils Toussaint, à Neufmontiers le 30 janvier 1730 (AD77, 5MI2733, vue 212), le dit « fils de **Toussaint Desoyer vigneron** et de Jeanne Lefevre ». Le couple est ainsi nommé une seconde fois, par un acte indépendant de la sépulture de 1743.",
+    "Il est présent à la sépulture de sa femme le 4 avril 1743 — l'acte porte « en présence de son mary » — et il signe. Sébastien DESOYER et N. Plé signent aussi : parenté à établir."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 13, Sosa 898"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 13, Sosa 898",
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 319/376, acte du 3 avril 1743. Image lue et archivée le 31/08/2026 : frad077_5mi2733_319_lefeuvre-jeanne-sepulture-1743.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 212/376, mariage du 30 janvier 1730 de Toussaint DESOYER fils. Consulté le 31/08/2026. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF898"
@@ -136742,7 +136768,10 @@
    "annee_deces": 1753,
    "famille_origine": "GF1796",
    "generations_ascendance": 1,
-   "generations_descendance": 11
+   "generations_descendance": 11,
+   "assets": [
+    "ad77-sepulture-lefeuvre-jeanne-1743"
+   ]
   },
   "AG899": {
    "id": "AG899",
@@ -136819,10 +136848,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "SÉPULTURE PROUVÉE le 31/08/2026 (AD77, Neufmontiers, 5MI2733, vue 319) : « L'an 1743 le troisième jour d'avril est décédée **Jeanne Le Fevre âgée d'environ soixante-trois ans** […] le jour suivant son corps a été inhumé au cimetière de céans […] **en présence de son mary** ». Décès le 3 avril 1743, inhumation le 4 ; l'âge confirme une naissance vers 1680. **L'union avec Toussaint DESOYER est prouvée par l'acte lui-même** : il signe, deux fois. Graphie « Le Fevre » à conserver comme variante."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 13, Sosa 899"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 13, Sosa 899",
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 319/376, acte du 3 avril 1743. Image lue et archivée le 31/08/2026 : frad077_5mi2733_319_lefeuvre-jeanne-sepulture-1743.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF898"
@@ -136834,7 +136865,10 @@
    "annee_naissance": 1680,
    "annee_deces": 1743,
    "generations_ascendance": 0,
-   "generations_descendance": 11
+   "generations_descendance": 11,
+   "assets": [
+    "ad77-sepulture-lefeuvre-jeanne-1743"
+   ]
   },
   "AG900": {
    "id": "AG900",
@@ -138699,10 +138733,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026. Recherche menée dans le registre paroissial de Neufmontiers (AD77, 5MI2733), cahier de l'année visée, repéré par sa page de titre. Pour un décès au **13 janvier 1705** : vue 38, en-tête « 1705 », mois de janvier. Le seul acte de sépulture du 13 janvier 1705 concerne **Anne Nivert, soixante ans** — pas Jean BOUCHET. La suite de janvier (vue 39) reste à lire, puis le reste de l'année."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 15, Sosa 1794"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 15, Sosa 1794",
+    "Registre paroissial de Neufmontiers-lès-Meaux, Archives départementales de Seine-et-Marne, cote 5MI2733. Vues dépouillées le 31/08/2026 sans résultat : le détail des vues est dans assets/france/77/ad77-neufmontiers-deces-2026-08-31/README.md. Résultat négatif délimité."
    ],
    "familles": [
     "GF1794"
@@ -138816,10 +138852,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026. Recherche menée dans le registre paroissial de Neufmontiers (AD77, 5MI2733), cahier de l'année visée, repéré par sa page de titre. Pour un décès au **8 juin 1728** : cahier de 1728 ouvert vue 194, vues 197 (26 février au 1er avril), 198 (7 avril au 19 mai) et 199 (30 mai au 5 juillet) dépouillées. **La séquence saute du 30 mai au 17 juin : aucun acte des 8 et 9 juin n'existe dans ce registre.** La date du relevé familial de 2006 ne correspond donc à aucun acte. Restent à lire les vues 195, 196 et 200 à 202 ; sinon, balayer toute l'année plutôt que viser le jour."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1796"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1796",
+    "Registre paroissial de Neufmontiers-lès-Meaux, Archives départementales de Seine-et-Marne, cote 5MI2733. Vues dépouillées le 31/08/2026 sans résultat : le détail des vues est dans assets/france/77/ad77-neufmontiers-deces-2026-08-31/README.md. Résultat négatif délimité."
    ],
    "familles": [
     "GF1796"
@@ -139042,10 +139080,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "SÉPULTURE PROUVÉE le 31/08/2026 (AD77, Neufmontiers, 5MI2733, vue 182) : « Le quatrième May a esté inhumé dans le cimetière de céans […] **Jean d'Estin, berger, âgé de soixante et dix ans**, en présence de **Jean Bredillion son gendre** et **Nicolas Boyard son beau-frère** ». Inhumation le 4 mai 1726, âge conforme à une naissance vers 1656, **profession de berger** confirmée par l'acte.",
+    "**Nicolas BOYARD, son beau-frère**, corrobore indirectement son mariage avec Marie BOYARD : l'alliance entre les deux familles est portée par l'acte, et non plus seulement par le relevé familial. Un gendre apparaît aussi, **Jean BREDILLION** — piste vers une fille non encore identifiée."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1806"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1806",
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 182/376, acte du 4 mai 1726. Image lue et archivée le 31/08/2026 : frad077_5mi2733_182_destin-jean-sepulture-1726.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF1806"
@@ -139057,7 +139098,10 @@
    "annee_naissance": 1656,
    "annee_deces": 1726,
    "generations_ascendance": 0,
-   "generations_descendance": 12
+   "generations_descendance": 12,
+   "assets": [
+    "ad77-sepulture-destin-jean-1726"
+   ]
   },
   "AG1807": {
    "id": "AG1807",
@@ -139069,10 +139113,12 @@
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Son mariage avec Jean D'ESTIN est **corroboré par une source primaire** le 31/08/2026 : la sépulture de celui-ci, le 4 mai 1726 à Neufmontiers, se fait « en présence de **Nicolas Boyard son beau-frère** ». Le patronyme BOYARD est donc bien celui de l'épouse. Corroboration, non filiation : ses propres parents restent inconnus."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1807"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 1807",
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 182/376, acte du 4 mai 1726. Image lue et archivée le 31/08/2026 : frad077_5mi2733_182_destin-jean-sepulture-1726.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF1806"
@@ -139082,7 +139128,10 @@
     "gimie"
    ],
    "generations_ascendance": 0,
-   "generations_descendance": 12
+   "generations_descendance": 12,
+   "assets": [
+    "ad77-sepulture-destin-jean-1726"
+   ]
   },
   "AG1856": {
    "id": "AG1856",
@@ -139522,10 +139571,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026. Recherche menée dans le registre paroissial de Neufmontiers (AD77, 5MI2733), cahier de l'année visée, repéré par sa page de titre. Pour un décès au **31 décembre 1720** : cahier de 1720 ouvert vue 135, vues 148 (1er septembre au 6 octobre) et 149 (20 octobre au **28 décembre**) dépouillées ; la vue 150 est déjà la page de titre suivante et la vue 151 démarre au 13 janvier. **Aucun acte du 31 décembre 1720 dans ce registre.** La date du relevé de 2006 est à reprendre en balayant l'année."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 3588"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 16, Sosa 3588",
+    "Registre paroissial de Neufmontiers-lès-Meaux, Archives départementales de Seine-et-Marne, cote 5MI2733. Vues dépouillées le 31/08/2026 sans résultat : le détail des vues est dans assets/france/77/ad77-neufmontiers-deces-2026-08-31/README.md. Résultat négatif délimité."
    ],
    "familles": [],
    "vivant": false,
@@ -183014,10 +183065,15 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "Couple **prouvé par deux actes indépendants** le 31/08/2026 : la sépulture de Jeanne LE FEVRE le 4 avril 1743, où son mari est présent et signe, et le mariage de leur fils Toussaint le 30 janvier 1730, qui les nomme tous deux et donne au père la profession de **vigneron**."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 319/376, acte du 3 avril 1743. Image lue et archivée le 31/08/2026 : frad077_5mi2733_319_lefeuvre-jeanne-sepulture-1743.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 212/376, mariage du 30 janvier 1730 de Toussaint DESOYER fils. Consulté le 31/08/2026. Source primaire lue : PROUVÉ."
    ]
   },
   "GF900": {
@@ -183575,10 +183631,14 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "Alliance corroborée par la sépulture de Jean D'ESTIN, Neufmontiers, 4 mai 1726, où figure Nicolas BOYARD, son beau-frère."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de sépulture, Archives départementales de Seine-et-Marne, Neufmontiers-lès-Meaux, registre paroissial, cote 5MI2733, vue 182/376, acte du 4 mai 1726. Image lue et archivée le 31/08/2026 : frad077_5mi2733_182_destin-jean-sepulture-1726.jpg. Source primaire lue : PROUVÉ."
    ]
   },
   "GF1856": {
@@ -236184,6 +236244,54 @@
    },
    "date": "1873",
    "lieu": "Marseille (13)"
+  },
+  "ad77-deces-leroy-rosalie-1817": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Rosalie LE ROY, Neufmontiers-lès-Meaux, 8 septembre 1817",
+   "fichier": "assets/actes/france/77/ad77-deces-leroy-rosalie-1817.jpg",
+   "octets": 728708,
+   "sha256": "fb0a05bd5cd05b7ad8d366cdecccd4f6221b8aac06ced78f31847009af730a7f",
+   "utilise_par": {
+    "individus": [
+     "AG226",
+     "AG227"
+    ],
+    "familles": []
+   },
+   "date": "1817",
+   "lieu": "Neufmontiers-lès-Meaux (77)"
+  },
+  "ad77-sepulture-lefeuvre-jeanne-1743": {
+   "type": "acte_sepulture",
+   "titre": "Sépulture de Jeanne LE FEVRE, Neufmontiers-lès-Meaux, 4 avril 1743",
+   "fichier": "assets/actes/france/77/ad77-sepulture-lefeuvre-jeanne-1743.jpg",
+   "octets": 679006,
+   "sha256": "defbc6a5bccb9bd8265f1a2f2e7c821cb91c24972b87da0a7f9b1c4112fafd98",
+   "utilise_par": {
+    "individus": [
+     "AG898",
+     "AG899"
+    ],
+    "familles": []
+   },
+   "date": "1743",
+   "lieu": "Neufmontiers-lès-Meaux (77)"
+  },
+  "ad77-sepulture-destin-jean-1726": {
+   "type": "acte_sepulture",
+   "titre": "Sépulture de Jean D'ESTIN, berger, Neufmontiers-lès-Meaux, 4 mai 1726",
+   "fichier": "assets/actes/france/77/ad77-sepulture-destin-jean-1726.jpg",
+   "octets": 856013,
+   "sha256": "0e2437ee80c78cd52d195fdb0d20a14b5fa2589137b38bbf5a8cd0a8ad880e63",
+   "utilise_par": {
+    "individus": [
+     "AG1806",
+     "AG1807"
+    ],
+    "familles": []
+   },
+   "date": "1726",
+   "lieu": "Neufmontiers-lès-Meaux (77)"
   }
  }
 }
