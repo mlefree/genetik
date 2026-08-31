@@ -5479,12 +5479,15 @@
     },
     "lieu": "Paris XIIIème (75)",
     "commune": {
-     "nom": "Paris XIIIème",
+     "nom": "Paris 13e Arrondissement",
      "code": "75113",
      "departement": "75",
-     "actuelle": null,
-     "coordonnees": null,
-     "approximatif": true
+     "actuelle": "Paris 13e Arrondissement",
+     "coordonnees": [
+      2.3656,
+      48.8303
+     ],
+     "approximatif": false
     }
    },
    "bapteme": null,
@@ -5532,12 +5535,15 @@
      },
      "lieu": "Paris XIIIème (75)",
      "commune": {
-      "nom": "Paris XIIIème",
+      "nom": "Paris 13e Arrondissement",
       "code": "75113",
       "departement": "75",
-      "actuelle": null,
-      "coordonnees": null,
-      "approximatif": true
+      "actuelle": "Paris 13e Arrondissement",
+      "coordonnees": [
+       2.3656,
+       48.8303
+      ],
+      "approximatif": false
      }
     },
     {
@@ -5631,12 +5637,15 @@
     },
     "lieu": "Marseille 13e arrondissement (13)",
     "commune": {
-     "nom": "Marseille 13e arrondissement",
+     "nom": "Marseille 13e Arrondissement",
      "code": "13213",
      "departement": "13",
-     "actuelle": null,
-     "coordonnees": null,
-     "approximatif": true
+     "actuelle": "Marseille 13e Arrondissement",
+     "coordonnees": [
+      5.4301,
+      43.3528
+     ],
+     "approximatif": false
     }
    },
    "inhumation": null,
@@ -5678,12 +5687,15 @@
      },
      "lieu": "Marseille 13e arrondissement (13)",
      "commune": {
-      "nom": "Marseille 13e arrondissement",
+      "nom": "Marseille 13e Arrondissement",
       "code": "13213",
       "departement": "13",
-      "actuelle": null,
-      "coordonnees": null,
-      "approximatif": true
+      "actuelle": "Marseille 13e Arrondissement",
+      "coordonnees": [
+       5.4301,
+       43.3528
+      ],
+      "approximatif": false
      }
     }
    ],
@@ -5894,12 +5906,15 @@
      "Mention Geneatique : + p 20/12/1995 Marseille 9éme (13)"
     ],
     "commune": {
-     "nom": "Marseille 9éme",
+     "nom": "Marseille 9e Arrondissement",
      "code": "13209",
      "departement": "13",
-     "actuelle": null,
-     "coordonnees": null,
-     "approximatif": true
+     "actuelle": "Marseille 9e Arrondissement",
+     "coordonnees": [
+      5.4523,
+      43.2366
+     ],
+     "approximatif": false
     }
    },
    "inhumation": null,
@@ -5952,12 +5967,15 @@
       "Mention Geneatique : + p 20/12/1995 Marseille 9éme (13)"
      ],
      "commune": {
-      "nom": "Marseille 9éme",
+      "nom": "Marseille 9e Arrondissement",
       "code": "13209",
       "departement": "13",
-      "actuelle": null,
-      "coordonnees": null,
-      "approximatif": true
+      "actuelle": "Marseille 9e Arrondissement",
+      "coordonnees": [
+       5.4523,
+       43.2366
+      ],
+      "approximatif": false
      }
     },
     {
@@ -8429,12 +8447,15 @@
     },
     "lieu": "Paris 12éme (75)",
     "commune": {
-     "nom": "Paris 12éme",
+     "nom": "Paris 12e Arrondissement",
      "code": "75112",
      "departement": "75",
-     "actuelle": null,
-     "coordonnees": null,
-     "approximatif": true
+     "actuelle": "Paris 12e Arrondissement",
+     "coordonnees": [
+      2.4173,
+      48.8342
+     ],
+     "approximatif": false
     }
    },
    "bapteme": null,
@@ -8482,12 +8503,15 @@
      },
      "lieu": "Paris 12éme (75)",
      "commune": {
-      "nom": "Paris 12éme",
+      "nom": "Paris 12e Arrondissement",
       "code": "75112",
       "departement": "75",
-      "actuelle": null,
-      "coordonnees": null,
-      "approximatif": true
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
      }
     },
     {
@@ -11499,12 +11523,15 @@
     },
     "lieu": "Paris 12éme (75)",
     "commune": {
-     "nom": "Paris 12éme",
+     "nom": "Paris 12e Arrondissement",
      "code": "75112",
      "departement": "75",
-     "actuelle": null,
-     "coordonnees": null,
-     "approximatif": true
+     "actuelle": "Paris 12e Arrondissement",
+     "coordonnees": [
+      2.4173,
+      48.8342
+     ],
+     "approximatif": false
     }
    },
    "inhumation": null,
@@ -11544,12 +11571,15 @@
      },
      "lieu": "Paris 12éme (75)",
      "commune": {
-      "nom": "Paris 12éme",
+      "nom": "Paris 12e Arrondissement",
       "code": "75112",
       "departement": "75",
-      "actuelle": null,
-      "coordonnees": null,
-      "approximatif": true
+      "actuelle": "Paris 12e Arrondissement",
+      "coordonnees": [
+       2.4173,
+       48.8342
+      ],
+      "approximatif": false
      }
     }
    ],
@@ -19461,7 +19491,18 @@
       "jour": 19
      }
     },
-    "lieu": "Dampierre (18)"
+    "lieu": "Dampierre (18)",
+    "commune": {
+     "nom": "Dampierre-en-Graçay",
+     "code": "18085",
+     "departement": "18",
+     "actuelle": "Dampierre-en-Graçay",
+     "coordonnees": [
+      1.9429,
+      47.182
+     ],
+     "approximatif": true
+    }
    },
    "bapteme": null,
    "deces": {
@@ -19506,7 +19547,18 @@
        "jour": 19
       }
      },
-     "lieu": "Dampierre (18)"
+     "lieu": "Dampierre (18)",
+     "commune": {
+      "nom": "Dampierre-en-Graçay",
+      "code": "18085",
+      "departement": "18",
+      "actuelle": "Dampierre-en-Graçay",
+      "coordonnees": [
+       1.9429,
+       47.182
+      ],
+      "approximatif": true
+     }
     },
     {
      "type": "deces",
@@ -96376,7 +96428,18 @@
       "jour": 16
      }
     },
-    "lieu": "Suresnes"
+    "lieu": "Suresnes",
+    "commune": {
+     "nom": "Suresnes",
+     "code": "92073",
+     "departement": "92",
+     "actuelle": "Suresnes",
+     "coordonnees": [
+      2.2286,
+      48.8712
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [
@@ -96420,7 +96483,18 @@
        "jour": 16
       }
      },
-     "lieu": "Suresnes"
+     "lieu": "Suresnes",
+     "commune": {
+      "nom": "Suresnes",
+      "code": "92073",
+      "departement": "92",
+      "actuelle": "Suresnes",
+      "coordonnees": [
+       2.2286,
+       48.8712
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "profession",
@@ -96571,6 +96645,10 @@
      "code": "51553",
      "departement": "51",
      "actuelle": "Souain-Perthes-lès-Hurlus",
+     "coordonnees": [
+      4.578,
+      49.1909
+     ],
      "approximatif": false
     }
    },
@@ -96626,6 +96704,10 @@
       "code": "51553",
       "departement": "51",
       "actuelle": "Souain-Perthes-lès-Hurlus",
+      "coordonnees": [
+       4.578,
+       49.1909
+      ],
       "approximatif": false
      }
     }
@@ -116417,7 +116499,18 @@
       "jour": 10
      }
     },
-    "lieu": "Marseille 8e (13)"
+    "lieu": "Marseille 8e (13)",
+    "commune": {
+     "nom": "Marseille 8e Arrondissement",
+     "code": "13208",
+     "departement": "13",
+     "actuelle": "Marseille 8e Arrondissement",
+     "coordonnees": [
+      5.3256,
+      43.215
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -116456,7 +116549,18 @@
        "jour": 10
       }
      },
-     "lieu": "Marseille 8e (13)"
+     "lieu": "Marseille 8e (13)",
+     "commune": {
+      "nom": "Marseille 8e Arrondissement",
+      "code": "13208",
+      "departement": "13",
+      "actuelle": "Marseille 8e Arrondissement",
+      "coordonnees": [
+       5.3256,
+       43.215
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -116558,7 +116662,18 @@
       "jour": 3
      }
     },
-    "lieu": "Marseille 11e (13)"
+    "lieu": "Marseille 11e (13)",
+    "commune": {
+     "nom": "Marseille 11e Arrondissement",
+     "code": "13211",
+     "departement": "13",
+     "actuelle": "Marseille 11e Arrondissement",
+     "coordonnees": [
+      5.4787,
+      43.2877
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -116597,7 +116712,18 @@
        "jour": 3
       }
      },
-     "lieu": "Marseille 11e (13)"
+     "lieu": "Marseille 11e (13)",
+     "commune": {
+      "nom": "Marseille 11e Arrondissement",
+      "code": "13211",
+      "departement": "13",
+      "actuelle": "Marseille 11e Arrondissement",
+      "coordonnees": [
+       5.4787,
+       43.2877
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -116900,7 +117026,18 @@
       "jour": 14
      }
     },
-    "lieu": "Le Raincy (93)"
+    "lieu": "Le Raincy (93)",
+    "commune": {
+     "nom": "Le Raincy",
+     "code": "93062",
+     "departement": "93",
+     "actuelle": "Le Raincy",
+     "coordonnees": [
+      2.5196,
+      48.8959
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -116913,7 +117050,18 @@
       "jour": 3
      }
     },
-    "lieu": "Boulogne-Billancourt (92)"
+    "lieu": "Boulogne-Billancourt (92)",
+    "commune": {
+     "nom": "Boulogne-Billancourt",
+     "code": "92012",
+     "departement": "92",
+     "actuelle": "Boulogne-Billancourt",
+     "coordonnees": [
+      2.2429,
+      48.8375
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -116929,7 +117077,18 @@
        "jour": 14
       }
      },
-     "lieu": "Le Raincy (93)"
+     "lieu": "Le Raincy (93)",
+     "commune": {
+      "nom": "Le Raincy",
+      "code": "93062",
+      "departement": "93",
+      "actuelle": "Le Raincy",
+      "coordonnees": [
+       2.5196,
+       48.8959
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -116941,7 +117100,18 @@
        "jour": 3
       }
      },
-     "lieu": "Boulogne-Billancourt (92)"
+     "lieu": "Boulogne-Billancourt (92)",
+     "commune": {
+      "nom": "Boulogne-Billancourt",
+      "code": "92012",
+      "departement": "92",
+      "actuelle": "Boulogne-Billancourt",
+      "coordonnees": [
+       2.2429,
+       48.8375
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -117088,7 +117258,18 @@
       "jour": 19
      }
     },
-    "lieu": "Paris 10e (75)"
+    "lieu": "Paris 10e (75)",
+    "commune": {
+     "nom": "Paris 10e Arrondissement",
+     "code": "75110",
+     "departement": "75",
+     "actuelle": "Paris 10e Arrondissement",
+     "coordonnees": [
+      2.3624,
+      48.876
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -117101,7 +117282,18 @@
       "jour": 29
      }
     },
-    "lieu": "Montfermeil (93)"
+    "lieu": "Montfermeil (93)",
+    "commune": {
+     "nom": "Montfermeil",
+     "code": "93047",
+     "departement": "93",
+     "actuelle": "Montfermeil",
+     "coordonnees": [
+      2.5678,
+      48.8976
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -117117,7 +117309,18 @@
        "jour": 19
       }
      },
-     "lieu": "Paris 10e (75)"
+     "lieu": "Paris 10e (75)",
+     "commune": {
+      "nom": "Paris 10e Arrondissement",
+      "code": "75110",
+      "departement": "75",
+      "actuelle": "Paris 10e Arrondissement",
+      "coordonnees": [
+       2.3624,
+       48.876
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -117129,7 +117332,18 @@
        "jour": 29
       }
      },
-     "lieu": "Montfermeil (93)"
+     "lieu": "Montfermeil (93)",
+     "commune": {
+      "nom": "Montfermeil",
+      "code": "93047",
+      "departement": "93",
+      "actuelle": "Montfermeil",
+      "coordonnees": [
+       2.5678,
+       48.8976
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -117315,7 +117529,18 @@
       "jour": 27
      }
     },
-    "lieu": "Lanteuil (19)"
+    "lieu": "Lanteuil (19)",
+    "commune": {
+     "nom": "Lanteuil",
+     "code": "19105",
+     "departement": "19",
+     "actuelle": "Lanteuil",
+     "coordonnees": [
+      1.643,
+      45.1182
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -117331,7 +117556,18 @@
        "jour": 27
       }
      },
-     "lieu": "Lanteuil (19)"
+     "lieu": "Lanteuil (19)",
+     "commune": {
+      "nom": "Lanteuil",
+      "code": "19105",
+      "departement": "19",
+      "actuelle": "Lanteuil",
+      "coordonnees": [
+       1.643,
+       45.1182
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -120330,7 +120566,18 @@
       "jour": 26
      }
     },
-    "lieu": "Andravida"
+    "lieu": "Andravida",
+    "commune": {
+     "nom": "Andravida",
+     "code": null,
+     "departement": null,
+     "actuelle": "Andravida",
+     "coordonnees": [
+      21.2667,
+      37.9
+     ],
+     "approximatif": false
+    }
    },
    "deces": {
     "type": "deces",
@@ -120342,7 +120589,18 @@
       "jour": 29
      }
     },
-    "lieu": "Athènes"
+    "lieu": "Athènes",
+    "commune": {
+     "nom": "Athènes",
+     "code": null,
+     "departement": null,
+     "actuelle": "Athènes",
+     "coordonnees": [
+      23.7275,
+      37.9838
+     ],
+     "approximatif": false
+    }
    },
    "professions": [
     {
@@ -120361,7 +120619,18 @@
        "jour": 26
       }
      },
-     "lieu": "Andravida"
+     "lieu": "Andravida",
+     "commune": {
+      "nom": "Andravida",
+      "code": null,
+      "departement": null,
+      "actuelle": "Andravida",
+      "coordonnees": [
+       21.2667,
+       37.9
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -120373,7 +120642,18 @@
        "jour": 29
       }
      },
-     "lieu": "Athènes"
+     "lieu": "Athènes",
+     "commune": {
+      "nom": "Athènes",
+      "code": null,
+      "departement": null,
+      "actuelle": "Athènes",
+      "coordonnees": [
+       23.7275,
+       37.9838
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "profession",
@@ -120437,7 +120717,18 @@
       "jour": 3
      }
     },
-    "lieu": "Athènes"
+    "lieu": "Athènes",
+    "commune": {
+     "nom": "Athènes",
+     "code": null,
+     "departement": null,
+     "actuelle": "Athènes",
+     "coordonnees": [
+      23.7275,
+      37.9838
+     ],
+     "approximatif": false
+    }
    },
    "professions": [],
    "evenements": [
@@ -120474,7 +120765,18 @@
        "jour": 3
       }
      },
-     "lieu": "Athènes"
+     "lieu": "Athènes",
+     "commune": {
+      "nom": "Athènes",
+      "code": null,
+      "departement": null,
+      "actuelle": "Athènes",
+      "coordonnees": [
+       23.7275,
+       37.9838
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -120759,14 +121061,36 @@
    "sexe": "M",
    "naissance": {
     "type": "naissance",
-    "lieu": "Andravida"
+    "lieu": "Andravida",
+    "commune": {
+     "nom": "Andravida",
+     "code": null,
+     "departement": null,
+     "actuelle": "Andravida",
+     "coordonnees": [
+      21.2667,
+      37.9
+     ],
+     "approximatif": false
+    }
    },
    "deces": null,
    "professions": [],
    "evenements": [
     {
      "type": "naissance",
-     "lieu": "Andravida"
+     "lieu": "Andravida",
+     "commune": {
+      "nom": "Andravida",
+      "code": null,
+      "departement": null,
+      "actuelle": "Andravida",
+      "coordonnees": [
+       21.2667,
+       37.9
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -121261,7 +121585,18 @@
       "mois": 12
      }
     },
-    "lieu": "Liverpool"
+    "lieu": "Liverpool",
+    "commune": {
+     "nom": "Liverpool",
+     "code": null,
+     "departement": null,
+     "actuelle": "Liverpool",
+     "coordonnees": [
+      -2.9916,
+      53.4084
+     ],
+     "approximatif": false
+    }
    },
    "deces": null,
    "professions": [
@@ -121280,7 +121615,18 @@
        "mois": 12
       }
      },
-     "lieu": "Liverpool"
+     "lieu": "Liverpool",
+     "commune": {
+      "nom": "Liverpool",
+      "code": null,
+      "departement": null,
+      "actuelle": "Liverpool",
+      "coordonnees": [
+       -2.9916,
+       53.4084
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "profession",
@@ -121695,7 +122041,18 @@
       "annee": 1838
      }
     },
-    "lieu": "Castelnuovo d'Asti"
+    "lieu": "Castelnuovo d'Asti",
+    "commune": {
+     "nom": "Castelnuovo d'Asti",
+     "code": null,
+     "departement": null,
+     "actuelle": "Castelnuovo d'Asti",
+     "coordonnees": [
+      7.9986,
+      45.0333
+     ],
+     "approximatif": false
+    }
    },
    "deces": {
     "type": "deces",
@@ -121735,7 +122092,18 @@
        "annee": 1838
       }
      },
-     "lieu": "Castelnuovo d'Asti"
+     "lieu": "Castelnuovo d'Asti",
+     "commune": {
+      "nom": "Castelnuovo d'Asti",
+      "code": null,
+      "departement": null,
+      "actuelle": "Castelnuovo d'Asti",
+      "coordonnees": [
+       7.9986,
+       45.0333
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -136810,7 +137178,19 @@
       "jour": 13
      }
     },
-    "lieu": "Legnaro, frazione Abbà n° 67 (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "detail": "frazione Abbà n° 67",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -136850,7 +137230,19 @@
        "jour": 13
       }
      },
-     "lieu": "Legnaro, frazione Abbà n° 67 (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "detail": "frazione Abbà n° 67",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -136920,7 +137312,18 @@
       "annee": 1897
      }
     },
-    "lieu": "Ribeirão Preto (Brésil)"
+    "lieu": "Ribeirão Preto (Brésil)",
+    "commune": {
+     "nom": "Ribeirão Preto",
+     "code": null,
+     "departement": null,
+     "actuelle": "Ribeirão Preto",
+     "coordonnees": [
+      -47.8103,
+      -21.1775
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": null,
@@ -136938,7 +137341,18 @@
        "annee": 1897
       }
      },
-     "lieu": "Ribeirão Preto (Brésil)"
+     "lieu": "Ribeirão Preto (Brésil)",
+     "commune": {
+      "nom": "Ribeirão Preto",
+      "code": null,
+      "departement": null,
+      "actuelle": "Ribeirão Preto",
+      "coordonnees": [
+       -47.8103,
+       -21.1775
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -136982,7 +137396,18 @@
       "annee": 1853
      }
     },
-    "lieu": "Legnaro (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -136995,7 +137420,18 @@
       "jour": 9
      }
     },
-    "lieu": "Padoue (Italie)"
+    "lieu": "Padoue (Italie)",
+    "commune": {
+     "nom": "Padoue",
+     "code": null,
+     "departement": null,
+     "actuelle": "Padoue",
+     "coordonnees": [
+      11.8768,
+      45.4064
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -137009,7 +137445,18 @@
        "annee": 1853
       }
      },
-     "lieu": "Legnaro (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -137021,7 +137468,18 @@
        "jour": 9
       }
      },
-     "lieu": "Padoue (Italie)"
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -137102,7 +137560,18 @@
       "annee": 1869
      }
     },
-    "lieu": "Legnaro (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": null,
@@ -137120,7 +137589,18 @@
        "annee": 1869
       }
      },
-     "lieu": "Legnaro (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -137202,7 +137682,18 @@
       "annee": 1923
      }
     },
-    "lieu": "Legnaro (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -137215,7 +137706,18 @@
       "jour": 8
      }
     },
-    "lieu": "Padoue (Italie)"
+    "lieu": "Padoue (Italie)",
+    "commune": {
+     "nom": "Padoue",
+     "code": null,
+     "departement": null,
+     "actuelle": "Padoue",
+     "coordonnees": [
+      11.8768,
+      45.4064
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -137229,7 +137731,18 @@
        "annee": 1923
       }
      },
-     "lieu": "Legnaro (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -137241,7 +137754,18 @@
        "jour": 8
       }
      },
-     "lieu": "Padoue (Italie)"
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -137461,7 +137985,18 @@
       "jour": 13
      }
     },
-    "lieu": "Flacé-lès-Mâcon (71)"
+    "lieu": "Flacé-lès-Mâcon (71)",
+    "commune": {
+     "nom": "Flacé-lès-Mâcon",
+     "code": "71196",
+     "departement": "71",
+     "actuelle": "Mâcon",
+     "coordonnees": [
+      4.8083,
+      46.3265
+     ],
+     "approximatif": true
+    }
    },
    "bapteme": null,
    "deces": {
@@ -137474,7 +138009,18 @@
       "jour": 9
      }
     },
-    "lieu": "Montfermeil (93)"
+    "lieu": "Montfermeil (93)",
+    "commune": {
+     "nom": "Montfermeil",
+     "code": "93047",
+     "departement": "93",
+     "actuelle": "Montfermeil",
+     "coordonnees": [
+      2.5678,
+      48.8976
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [
@@ -137489,7 +138035,19 @@
        "annee": 1978
       }
      },
-     "lieu": "41 rue Pierre Curie, Livry-Gargan (93)"
+     "lieu": "Livry-Gargan (93)",
+     "detail": "41 rue Pierre Curie",
+     "commune": {
+      "nom": "Livry-Gargan",
+      "code": "93046",
+      "departement": "93",
+      "actuelle": "Livry-Gargan",
+      "coordonnees": [
+       2.5351,
+       48.9184
+      ],
+      "approximatif": false
+     }
     }
    ],
    "evenements": [
@@ -137503,7 +138061,18 @@
        "jour": 13
       }
      },
-     "lieu": "Flacé-lès-Mâcon (71)"
+     "lieu": "Flacé-lès-Mâcon (71)",
+     "commune": {
+      "nom": "Flacé-lès-Mâcon",
+      "code": "71196",
+      "departement": "71",
+      "actuelle": "Mâcon",
+      "coordonnees": [
+       4.8083,
+       46.3265
+      ],
+      "approximatif": true
+     }
     },
     {
      "type": "deces",
@@ -137515,7 +138084,18 @@
        "jour": 9
       }
      },
-     "lieu": "Montfermeil (93)"
+     "lieu": "Montfermeil (93)",
+     "commune": {
+      "nom": "Montfermeil",
+      "code": "93047",
+      "departement": "93",
+      "actuelle": "Montfermeil",
+      "coordonnees": [
+       2.5678,
+       48.8976
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -137562,7 +138142,18 @@
       "jour": 12
      }
     },
-    "lieu": "Paris 4e (75)"
+    "lieu": "Paris 4e (75)",
+    "commune": {
+     "nom": "Paris 4e Arrondissement",
+     "code": "75104",
+     "departement": "75",
+     "actuelle": "Paris 4e Arrondissement",
+     "coordonnees": [
+      2.3569,
+      48.8541
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -137575,7 +138166,18 @@
       "jour": 12
      }
     },
-    "lieu": "Montfermeil (93)"
+    "lieu": "Montfermeil (93)",
+    "commune": {
+     "nom": "Montfermeil",
+     "code": "93047",
+     "departement": "93",
+     "actuelle": "Montfermeil",
+     "coordonnees": [
+      2.5678,
+      48.8976
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [],
@@ -137591,7 +138193,18 @@
        "jour": 12
       }
      },
-     "lieu": "Paris 4e (75)"
+     "lieu": "Paris 4e (75)",
+     "commune": {
+      "nom": "Paris 4e Arrondissement",
+      "code": "75104",
+      "departement": "75",
+      "actuelle": "Paris 4e Arrondissement",
+      "coordonnees": [
+       2.3569,
+       48.8541
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -137603,7 +138216,18 @@
        "jour": 12
       }
      },
-     "lieu": "Montfermeil (93)"
+     "lieu": "Montfermeil (93)",
+     "commune": {
+      "nom": "Montfermeil",
+      "code": "93047",
+      "departement": "93",
+      "actuelle": "Montfermeil",
+      "coordonnees": [
+       2.5678,
+       48.8976
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -137967,7 +138591,18 @@
       "jour": 12
      }
     },
-    "lieu": "Tramayes (71)"
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -137980,7 +138615,18 @@
       "jour": 14
      }
     },
-    "lieu": "Romanèche-Thorins (71)"
+    "lieu": "Romanèche-Thorins (71)",
+    "commune": {
+     "nom": "Romanèche-Thorins",
+     "code": "71372",
+     "departement": "71",
+     "actuelle": "Romanèche-Thorins",
+     "coordonnees": [
+      4.7478,
+      46.192
+     ],
+     "approximatif": false
+    }
    },
    "inhumation": null,
    "professions": [
@@ -138000,7 +138646,18 @@
        "jour": 12
       }
      },
-     "lieu": "Tramayes (71)"
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -138012,7 +138669,18 @@
        "jour": 14
       }
      },
-     "lieu": "Romanèche-Thorins (71)"
+     "lieu": "Romanèche-Thorins (71)",
+     "commune": {
+      "nom": "Romanèche-Thorins",
+      "code": "71372",
+      "departement": "71",
+      "actuelle": "Romanèche-Thorins",
+      "coordonnees": [
+       4.7478,
+       46.192
+      ],
+      "approximatif": false
+     }
     }
    ],
    "images": [],
@@ -171040,7 +171708,18 @@
       "jour": 5
      }
     },
-    "lieu": "Dampniat (19)"
+    "lieu": "Dampniat (19)",
+    "commune": {
+     "nom": "Dampniat",
+     "code": "19068",
+     "departement": "19",
+     "actuelle": "Dampniat",
+     "coordonnees": [
+      1.6362,
+      45.1584
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -171054,7 +171733,18 @@
        "jour": 5
       }
      },
-     "lieu": "Dampniat (19)"
+     "lieu": "Dampniat (19)",
+     "commune": {
+      "nom": "Dampniat",
+      "code": "19068",
+      "departement": "19",
+      "actuelle": "Dampniat",
+      "coordonnees": [
+       1.6362,
+       45.1584
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [],
@@ -174587,7 +175277,18 @@
       "jour": 4
      }
     },
-    "lieu": "Legnaro (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174601,7 +175302,18 @@
        "jour": 4
       }
      },
-     "lieu": "Legnaro (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -174629,7 +175341,18 @@
       "jour": 20
      }
     },
-    "lieu": "Padoue (Italie)"
+    "lieu": "Padoue (Italie)",
+    "commune": {
+     "nom": "Padoue",
+     "code": null,
+     "departement": null,
+     "actuelle": "Padoue",
+     "coordonnees": [
+      11.8768,
+      45.4064
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174643,7 +175366,18 @@
        "jour": 20
       }
      },
-     "lieu": "Padoue (Italie)"
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -174670,7 +175404,18 @@
       "jour": 15
      }
     },
-    "lieu": "Legnaro (Italie)"
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174684,7 +175429,18 @@
        "jour": 15
       }
      },
-     "lieu": "Legnaro (Italie)"
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -174749,7 +175505,18 @@
       "jour": 5
      }
     },
-    "lieu": "Paris 14e (75)"
+    "lieu": "Paris 14e (75)",
+    "commune": {
+     "nom": "Paris 14e Arrondissement",
+     "code": "75114",
+     "departement": "75",
+     "actuelle": "Paris 14e Arrondissement",
+     "coordonnees": [
+      2.323,
+      48.8297
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174763,7 +175530,18 @@
        "jour": 5
       }
      },
-     "lieu": "Paris 14e (75)"
+     "lieu": "Paris 14e (75)",
+     "commune": {
+      "nom": "Paris 14e Arrondissement",
+      "code": "75114",
+      "departement": "75",
+      "actuelle": "Paris 14e Arrondissement",
+      "coordonnees": [
+       2.323,
+       48.8297
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -174793,7 +175571,18 @@
       "jour": 27
      }
     },
-    "lieu": "Chiroubles (69)"
+    "lieu": "Chiroubles (69)",
+    "commune": {
+     "nom": "Chiroubles",
+     "code": "69058",
+     "departement": "69",
+     "actuelle": "Chiroubles",
+     "coordonnees": [
+      4.6495,
+      46.1853
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174807,7 +175596,18 @@
        "jour": 27
       }
      },
-     "lieu": "Chiroubles (69)"
+     "lieu": "Chiroubles (69)",
+     "commune": {
+      "nom": "Chiroubles",
+      "code": "69058",
+      "departement": "69",
+      "actuelle": "Chiroubles",
+      "coordonnees": [
+       4.6495,
+       46.1853
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -174834,7 +175634,18 @@
       "jour": 4
      }
     },
-    "lieu": "Cenves (69)"
+    "lieu": "Cenves (69)",
+    "commune": {
+     "nom": "Cenves",
+     "code": "69035",
+     "departement": "69",
+     "actuelle": "Cenves",
+     "coordonnees": [
+      4.6632,
+      46.2801
+     ],
+     "approximatif": false
+    }
    },
    "divorce": null,
    "evenements": [
@@ -174848,7 +175659,18 @@
        "jour": 4
       }
      },
-     "lieu": "Cenves (69)"
+     "lieu": "Cenves (69)",
+     "commune": {
+      "nom": "Cenves",
+      "code": "69035",
+      "departement": "69",
+      "actuelle": "Cenves",
+      "coordonnees": [
+       4.6632,
+       46.2801
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
@@ -211130,7 +211952,7 @@
       "month": 2,
       "year": 1901
      },
-     "place": "Legnaro, frazione Abbà n° 67 (Italie)",
+     "place": "Legnaro (Italie)",
      "type": "naissance"
     },
     "death": {
