@@ -98371,7 +98371,7 @@
    "vivant": false,
    "annee_naissance": 1913,
    "annee_deces": 1974,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 3,
    "branches": [
     "vaurie"
@@ -98631,7 +98631,7 @@
   },
   "VI6": {
    "id": "VI6",
-   "prenom": "Barthelemy",
+   "prenom": "Barthélemy",
    "nom": "MERCIER",
    "nom_jeune_fille": "",
    "surnom": "",
@@ -98640,21 +98640,22 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1871",
+     "brut": "6 JUL 1872",
      "date": {
-      "annee": 1871
+      "annee": 1872,
+      "mois": 7,
+      "jour": 6
      }
     },
-    "lieu": "Egletons?",
+    "lieu": "Chaleix (Vitrac-sur-Montane, 19)",
     "commune": {
-     "nom": "Egletons?",
-     "code": "19073",
+     "nom": "Vitrac-sur-Montane",
+     "code": "19287",
      "departement": "19",
-     "pays": "France",
-     "actuelle": "Égletons",
+     "actuelle": "Vitrac-sur-Montane",
      "coordonnees": [
-      2.0338,
-      45.4245
+      1.938,
+      45.3706
      ],
      "approximatif": false
     }
@@ -98670,30 +98671,61 @@
     }
    },
    "inhumation": null,
-   "professions": [],
-   "residences": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1900",
+      "date": {
+       "annee": 1900
+      }
+     },
+     "lieu": "Le Jayle (Malemort, 19)"
+    }
+   ],
    "evenements": [
     {
      "type": "naissance",
      "date": {
-      "brut": "1871",
+      "brut": "6 JUL 1872",
       "date": {
-       "annee": 1871
+       "annee": 1872,
+       "mois": 7,
+       "jour": 6
       }
      },
-     "lieu": "Egletons?",
+     "lieu": "Chaleix (Vitrac-sur-Montane, 19)",
      "commune": {
-      "nom": "Egletons?",
-      "code": "19073",
+      "nom": "Vitrac-sur-Montane",
+      "code": "19287",
       "departement": "19",
-      "pays": "France",
-      "actuelle": "Égletons",
+      "actuelle": "Vitrac-sur-Montane",
       "coordonnees": [
-       2.0338,
-       45.4245
+       1.938,
+       45.3706
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1900",
+      "date": {
+       "annee": 1900
+      }
+     },
+     "lieu": "Le Jayle (Malemort, 19)"
     },
     {
      "type": "deces",
@@ -98707,31 +98739,40 @@
    ],
    "images": [],
    "notes": [
-    "PROBABLE — Family Echo donne le 06/07/1872 et Geneanet jml45181 donne également 1872–1935, contre 1871 dans l'arbre local. Ces deux arbres secondaires ne remplacent pas un acte original."
+    "PROBABLE — Family Echo donne le 06/07/1872 et Geneanet jml45181 donne également 1872–1935, contre 1871 dans l'arbre local. Ces deux arbres secondaires ne remplacent pas un acte original.",
+    "**DATE ET LIEU DE NAISSANCE CORRIGÉS le 31/08/2026.** L'arbre portait « 1871 » et « Egletons ? » : les deux étaient faux. Son acte de naissance (AD19, Vitrac-sur-Montane, 2E/287/9, vue 46, acte n° 15 du 7 juillet 1872) le dit né le **6 juillet 1872 à quatre heures du matin, à Chaleix, commune de Vitrac-sur-Montane**, canton de Corrèze. Family Echo, qui donnait le 06/07/1872, avait raison contre l'arbre local — mais c'est l'acte qui tranche, pas la concordance.",
+    "Parents : **Léonard MERCIER, cultivateur, trente-et-un ans** en juillet 1872 (donc né vers 1841), et **Jeanne BONNET**, demeurant à Chaleix. Le père ne sait pas signer. Confirmés une seconde fois par l'acte de mariage de 1900, où les deux sont « présents et consentants », cultivateurs au Mons, commune de Vitrac.",
+    "En mai 1900 il est **domestique au Jayle, commune de Malemort**, avant de revenir cultivateur. Les mentions marginales de son acte de naissance et de celui de sa femme se renvoient l'une à l'autre : l'identification est verrouillée par deux actes indépendants, pas déduite."
    ],
    "sources": [
-    "Arbre familial Family Echo, fiche YN1NC consultée le 30/08/2026 ; arbre Geneanet jml45181 consulté le 30/08/2026"
+    "Arbre familial Family Echo, fiche YN1NC consultée le 30/08/2026 ; arbre Geneanet jml45181 consulté le 30/08/2026",
+    "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF158",
    "familles": [
     "VF3"
    ],
    "vivant": false,
-   "annee_naissance": 1871,
+   "annee_naissance": 1872,
    "annee_deces": 1935,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 4,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "ad19-mariage-mercier-sicard-1900",
+    "ad19-naissance-mercier-barthelemy-1872"
    ]
   },
   "VI7": {
    "id": "VI7",
-   "prenom": "Anna",
+   "prenom": "Maria",
    "nom": "SICARD",
    "nom_jeune_fille": "",
-   "surnom": "",
+   "surnom": "Anna",
    "suffixe": "",
    "sexe": "F",
    "naissance": {
@@ -98744,12 +98785,11 @@
       "jour": 29
      }
     },
-    "lieu": "Les Traverses (Venarsal)",
+    "lieu": "Les Traverses (Venarsal, 19)",
     "commune": {
-     "nom": "Les Traverses (Venarsal)",
+     "nom": "Venarsal",
      "code": "19282",
      "departement": "19",
-     "pays": "France",
      "actuelle": "Malemort",
      "coordonnees": [
       1.5936,
@@ -98768,10 +98808,27 @@
       "mois": 10,
       "jour": 17
      }
+    },
+    "lieu": "Brive-la-Gaillarde (19)",
+    "commune": {
+     "nom": "Brive-la-Gaillarde",
+     "code": "19031",
+     "departement": "19",
+     "actuelle": "Brive-la-Gaillarde",
+     "coordonnees": [
+      1.5144,
+      45.145
+     ],
+     "approximatif": false
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -98784,12 +98841,11 @@
        "jour": 29
       }
      },
-     "lieu": "Les Traverses (Venarsal)",
+     "lieu": "Les Traverses (Venarsal, 19)",
      "commune": {
-      "nom": "Les Traverses (Venarsal)",
+      "nom": "Venarsal",
       "code": "19282",
       "departement": "19",
-      "pays": "France",
       "actuelle": "Malemort",
       "coordonnees": [
        1.5936,
@@ -98807,26 +98863,52 @@
        "mois": 10,
        "jour": 17
       }
+     },
+     "lieu": "Brive-la-Gaillarde (19)",
+     "commune": {
+      "nom": "Brive-la-Gaillarde",
+      "code": "19031",
+      "departement": "19",
+      "actuelle": "Brive-la-Gaillarde",
+      "coordonnees": [
+       1.5144,
+       45.145
+      ],
+      "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
     }
    ],
    "images": [],
    "notes": [
-    "Prenom aussi note « Maria »"
+    "Prenom aussi note « Maria »",
+    "PROUVÉE le 31/08/2026 par son acte de naissance (AD19, Venarsal, 2E/282/7, vue 265, acte n° 12 du 1er juillet 1873) : née le 29 juin 1873 à dix heures du soir **aux Traverses**, présentée par son père **Pierre SICARD, menuisier, trente-sept ans**, « de lui déclarant et de **Marie COMBY son épouse** ». Le père signe ; les témoins déclarent ne savoir.",
+    "**Son prénom d'acte est MARIA, pas Anna.** L'acte de naissance, l'acte de mariage de 1900 et sa propre signature disent tous « Maria Sicard ». « Anna » n'est qu'un usage familial, conservé comme surnom. Corrigé le 31/08/2026.",
+    "Deux mentions marginales de son acte de naissance : « **décédé le 17.10.1971 Brive** » et « **Marié le 26 mai 1900 à Venarsal avec Barthélémy Mercier** ». Le lieu de décès, jusque-là inconnu, est donc **Brive-la-Gaillarde** — ce qui explique aussi son absence du fichier INSEE, vérifiée par quatre requêtes distinctes : c'est une lacune du fichier, pas une date fausse."
    ],
-   "sources": [],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Venarsal, naissances 1843-1882, cote 2E/282/7, vue 265/336, acte n° 12 du 1er juillet 1873. ARK https://www.archives.correze.fr/ark:/69090/h3v1cgtdpz92 — vue babb74ec-058c-473d-a471-d084ec9aac7e. Image lue et archivée le 31/08/2026 : venarsal-1873-naissance-maria-sicard-acte12-vue265.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF157",
    "familles": [
     "VF3"
    ],
    "vivant": false,
    "annee_naissance": 1873,
    "annee_deces": 1971,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 4,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "ad19-naissance-sicard-maria-1873",
+    "ad19-mariage-mercier-sicard-1900"
    ]
   },
   "VI8": {
@@ -145856,6 +145938,214 @@
    "assets": [
     "ad71-mariage-thevenet-lamain-1808"
    ]
+  },
+  "VI14": {
+   "id": "VI14",
+   "prenom": "Pierre",
+   "nom": "SICARD",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "menuisier"
+    },
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "menuisier"
+    },
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Maria SICARD. Nommé par l'acte de naissance de sa fille, Venarsal, 1er juillet 1873, où il comparaît en personne : « **Pierre SICARD, menuisier, âgé de trente-sept ans, demeurant aux Traverses** » — donc **né vers 1836**. Il signe l'acte, ce qui est notable dans un village où les témoins déclarent ne savoir.",
+    "Vingt-sept ans plus tard, l'acte de mariage de sa fille (26 mai 1900) le redonne **cultivateur, domicilié aux Traverses**, présent et consentant, et signataire. Le menuisier est devenu cultivateur, ou cumulait les deux.",
+    "Son mariage avec Marie COMBY **n'a pas eu lieu à Venarsal** : les tables décennales des mariages 1853-1862 et 1863-1872 y ont été lues en entier, sans résultat. À chercher dans les communes voisines — Malemort, Ussac, Sainte-Féréole, Donzenac, Dampniat, Cosnac, Brive — vers 1860-1872."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Venarsal, naissances 1843-1882, cote 2E/282/7, vue 265/336, acte n° 12 du 1er juillet 1873. ARK https://www.archives.correze.fr/ark:/69090/h3v1cgtdpz92 — vue babb74ec-058c-473d-a471-d084ec9aac7e. Image lue et archivée le 31/08/2026 : venarsal-1873-naissance-maria-sicard-acte12-vue265.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF157"
+   ],
+   "vivant": false,
+   "annee_naissance": 1836,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "ad19-naissance-sicard-maria-1873",
+    "ad19-mariage-mercier-sicard-1900"
+   ]
+  },
+  "VI15": {
+   "id": "VI15",
+   "prenom": "Marie",
+   "nom": "COMBY",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Maria SICARD, épouse de Pierre SICARD. Nommée par l'acte de naissance de sa fille en 1873 (« de lui déclarant et de Marie COMBY son épouse ») et par l'acte de mariage de 1900, où elle est **cultivatrice aux Traverses, présente et consentante**, mais **déclare ne savoir signer**.",
+    "Ni sa naissance ni son décès ne sont connus : nouveau point du front d'ascendance. La voie la plus courte est son **acte de décès à Venarsal après 1900**, qui nommera ses parents."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Venarsal, naissances 1843-1882, cote 2E/282/7, vue 265/336, acte n° 12 du 1er juillet 1873. ARK https://www.archives.correze.fr/ark:/69090/h3v1cgtdpz92 — vue babb74ec-058c-473d-a471-d084ec9aac7e. Image lue et archivée le 31/08/2026 : venarsal-1873-naissance-maria-sicard-acte12-vue265.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF157"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "ad19-naissance-sicard-maria-1873",
+    "ad19-mariage-mercier-sicard-1900"
+   ]
+  },
+  "VI12": {
+   "id": "VI12",
+   "prenom": "Léonard",
+   "nom": "MERCIER",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Barthélemy MERCIER. Nommé par l'acte de naissance de son fils, Vitrac-sur-Montane, 7 juillet 1872, où il comparaît : « **MERCIER Léonard, cultivateur, âgé de trente-et-un ans, demeurant à Chaleix** » — donc **né vers 1841**. Il **ne sait pas signer**.",
+    "Confirmé une seconde fois par l'acte de mariage de son fils (Venarsal, 26 mai 1900), où il est présent et consentant, **cultivateur au Mons, commune de Vitrac, canton de Corrèze** : la famille a changé de hameau entre 1872 et 1900, de Chaleix au Mons.",
+    "Son mariage avec Jeanne BONNET est **repéré mais pas encore lu** : la table décennale des mariages de Vitrac 1863-1872 porte « Mercier **Jean** à Bonnet Jeanne — 1er mai 186? ». Les années 1863 et 1867 ont été dépouillées sans le trouver. Le prénom « Jean » de la table peut être une erreur d'index, ou désigner un autre couple. À reprendre par les tables alphabétiques annuelles des registres de mariages de Vitrac."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF158"
+   ],
+   "vivant": false,
+   "annee_naissance": 1841,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "ad19-mariage-mercier-sicard-1900",
+    "ad19-naissance-mercier-barthelemy-1872"
+   ]
+  },
+  "VI13": {
+   "id": "VI13",
+   "prenom": "Jeanne",
+   "nom": "BONNET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Barthélemy MERCIER, épouse de Léonard MERCIER. Nommée par l'acte de naissance de son fils en 1872 (« de lui déclarant et de Jeanne BONNET, sa femme, demeurant ensemble audit lieu de Chaleix ») et par l'acte de mariage de 1900, où elle est **cultivatrice au Mons**, présente et consentante, et **déclare ne savoir signer**.",
+    "Ni sa naissance ni son décès ne sont connus : nouveau point du front d'ascendance."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF158"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "ad19-mariage-mercier-sicard-1900",
+    "ad19-naissance-mercier-barthelemy-1872"
+   ]
   }
  },
  "familles": {
@@ -173153,12 +173443,68 @@
    "enfants": [
     "VI3"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "26 MAY 1900",
+     "date": {
+      "annee": 1900,
+      "mois": 5,
+      "jour": 26
+     }
+    },
+    "lieu": "Venarsal (19)",
+    "commune": {
+     "nom": "Venarsal",
+     "code": "19282",
+     "departement": "19",
+     "actuelle": "Malemort",
+     "coordonnees": [
+      1.5936,
+      45.1797
+     ],
+     "approximatif": true
+    }
+   },
    "divorce": null,
-   "evenements": [],
-   "notes": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "26 MAY 1900",
+      "date": {
+       "annee": 1900,
+       "mois": 5,
+       "jour": 26
+      }
+     },
+     "lieu": "Venarsal (19)",
+     "commune": {
+      "nom": "Venarsal",
+      "code": "19282",
+      "departement": "19",
+      "actuelle": "Malemort",
+      "coordonnees": [
+       1.5936,
+       45.1797
+      ],
+      "approximatif": true
+     }
+    }
+   ],
+   "notes": [
+    "MARIAGE LU le 31/08/2026 : Venarsal, 26 mai 1900, une heure du soir, devant Antoine THOMAS, adjoint au maire (AD19, 2E/282/11, vue 106, acte n° 3). Il nomme **les deux couples de parents d'un coup** et fait reculer le front d'ascendance de quatre points. Publications à Venarsal et à Malemort les 22 et 29 avril. **Contrat de mariage reçu Me MOISSINAC, notaire à Brive, le 26 mai 1900** — minute à chercher, elle donnera les biens et souvent d'autres parents. Quatrième témoin : **Jean MERCIER, vingt-six ans, cocher, frère du futur, demeurant à Corrèze** — piste pour retrouver le mariage MERCIER × BONNET. La mariée, son père et les témoins signent ; le marié, ses père et mère et la mère de la mariée déclarent ne savoir."
+   ],
    "branches": [
     "vaurie"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "assets": [
+    "ad19-naissance-sicard-maria-1873",
+    "ad19-mariage-mercier-sicard-1900",
+    "ad19-naissance-mercier-barthelemy-1872"
    ]
   },
   "VF4": {
@@ -184037,6 +184383,48 @@
    ],
    "branches": [
     "thevenet"
+   ]
+  },
+  "VF157": {
+   "id": "VF157",
+   "pere": "VI14",
+   "mere": "VI15",
+   "enfants": [
+    "VI7"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de naissance de leur fille Maria, Venarsal, 1er juillet 1873, et de nouveau par son acte de mariage du 26 mai 1900, où tous deux sont présents et consentants, cultivateurs aux Traverses. Leur mariage n'est pas à Venarsal : les deux tables décennales 1853-1862 et 1863-1872 y ont été lues en entier sans résultat. Chercher COMBY dans les communes voisines."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Venarsal, naissances 1843-1882, cote 2E/282/7, vue 265/336, acte n° 12 du 1er juillet 1873. ARK https://www.archives.correze.fr/ark:/69090/h3v1cgtdpz92 — vue babb74ec-058c-473d-a471-d084ec9aac7e. Image lue et archivée le 31/08/2026 : venarsal-1873-naissance-maria-sicard-acte12-vue265.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF158": {
+   "id": "VF158",
+   "pere": "VI12",
+   "mere": "VI13",
+   "enfants": [
+    "VI6"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de naissance de leur fils Barthélemy, Vitrac-sur-Montane, 7 juillet 1872, et de nouveau par son acte de mariage du 26 mai 1900. Cultivateurs, à Chaleix en 1872, au Mons en 1900, tous deux dans la commune de Vitrac. Un second fils est connu : **Jean MERCIER, cocher, vingt-six ans en 1900** — donc né vers 1874 — témoin au mariage de son frère. Leur propre mariage est repéré dans la table décennale de Vitrac 1863-1872 mais pas encore retrouvé."
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
    ]
   }
  },
@@ -208556,17 +208944,20 @@
    {
     "id": "VI6",
     "hideId": true,
-    "firstName": "Barthelemy",
+    "firstName": "Barthélemy",
     "lastName": "MERCIER",
     "sex": "M",
+    "famc": "VF158",
     "fams": [
      "VF3"
     ],
     "birth": {
      "date": {
-      "year": 1871
+      "day": 6,
+      "month": 7,
+      "year": 1872
      },
-     "place": "Egletons?",
+     "place": "Chaleix (Vitrac-sur-Montane, 19)",
      "type": "naissance"
     },
     "death": {
@@ -208580,9 +208971,10 @@
    {
     "id": "VI7",
     "hideId": true,
-    "firstName": "Anna",
+    "firstName": "Maria",
     "lastName": "SICARD",
     "sex": "F",
+    "famc": "VF157",
     "fams": [
      "VF3"
     ],
@@ -208592,7 +208984,7 @@
       "month": 6,
       "year": 1873
      },
-     "place": "Les Traverses (Venarsal)",
+     "place": "Les Traverses (Venarsal, 19)",
      "type": "naissance"
     },
     "death": {
@@ -208601,6 +208993,7 @@
       "month": 10,
       "year": 1971
      },
+     "place": "Brive-la-Gaillarde (19)",
      "type": "deces",
      "confirmed": true
     }
@@ -221496,6 +221889,46 @@
      "type": "deces",
      "confirmed": true
     }
+   },
+   {
+    "id": "VI14",
+    "hideId": true,
+    "firstName": "Pierre",
+    "lastName": "SICARD",
+    "sex": "M",
+    "fams": [
+     "VF157"
+    ]
+   },
+   {
+    "id": "VI15",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "COMBY",
+    "sex": "F",
+    "fams": [
+     "VF157"
+    ]
+   },
+   {
+    "id": "VI12",
+    "hideId": true,
+    "firstName": "Léonard",
+    "lastName": "MERCIER",
+    "sex": "M",
+    "fams": [
+     "VF158"
+    ]
+   },
+   {
+    "id": "VI13",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "BONNET",
+    "sex": "F",
+    "fams": [
+     "VF158"
+    ]
    }
   ],
   "fams": [
@@ -230279,7 +230712,16 @@
     "wife": "VI7",
     "children": [
      "VI3"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 26,
+      "month": 5,
+      "year": 1900
+     },
+     "place": "Venarsal (19)",
+     "type": "union"
+    }
    },
    {
     "id": "VF4",
@@ -234438,6 +234880,22 @@
     "children": [
      "JI146"
     ]
+   },
+   {
+    "id": "VF157",
+    "husb": "VI14",
+    "wife": "VI15",
+    "children": [
+     "VI7"
+    ]
+   },
+   {
+    "id": "VF158",
+    "husb": "VI12",
+    "wife": "VI13",
+    "children": [
+     "VI6"
+    ]
    }
   ]
  },
@@ -234464,7 +234922,7 @@
    "id": "vaurie",
    "libelle": "VAURIE",
    "racine": "VI1",
-   "personnes": 308
+   "personnes": 312
   }
  ],
  "assets": {
@@ -234862,6 +235320,66 @@
    },
    "date": "1808",
    "lieu": "Tramayes (71)"
+  },
+  "ad19-naissance-sicard-maria-1873": {
+   "type": "acte_naissance",
+   "titre": "Acte de naissance de Maria SICARD, Venarsal, 1er juillet 1873",
+   "fichier": "assets/actes/france/19/ad19-naissance-sicard-maria-1873.jpg",
+   "octets": 667561,
+   "sha256": "809cda4bed427dd5515f429342020d72796a2ceeba7037a0fdabefba03914713",
+   "utilise_par": {
+    "individus": [
+     "VI7",
+     "VI14",
+     "VI15"
+    ],
+    "familles": [
+     "VF3"
+    ]
+   },
+   "date": "1873",
+   "lieu": "Venarsal (19)"
+  },
+  "ad19-mariage-mercier-sicard-1900": {
+   "type": "acte_mariage",
+   "titre": "Acte de mariage MERCIER × SICARD, Venarsal, 26 mai 1900",
+   "fichier": "assets/actes/france/19/ad19-mariage-mercier-sicard-1900.jpg",
+   "octets": 816999,
+   "sha256": "2be25d2d3b4c68aa709d79674473d9138f310a076c1266f8dd92571ae1d086a6",
+   "utilise_par": {
+    "individus": [
+     "VI6",
+     "VI7",
+     "VI14",
+     "VI15",
+     "VI12",
+     "VI13"
+    ],
+    "familles": [
+     "VF3"
+    ]
+   },
+   "date": "1900",
+   "lieu": "Venarsal (19)"
+  },
+  "ad19-naissance-mercier-barthelemy-1872": {
+   "type": "acte_naissance",
+   "titre": "Acte de naissance de Barthélemy MERCIER, Vitrac-sur-Montane, 7 juillet 1872",
+   "fichier": "assets/actes/france/19/ad19-naissance-mercier-barthelemy-1872.jpg",
+   "octets": 536361,
+   "sha256": "72d125023f30aec46eb92b7982d25aebb8c741673c4bdfc7693c177ce44a26d2",
+   "utilise_par": {
+    "individus": [
+     "VI6",
+     "VI12",
+     "VI13"
+    ],
+    "familles": [
+     "VF3"
+    ]
+   },
+   "date": "1872",
+   "lieu": "Vitrac-sur-Montane (19)"
   }
  }
 }
