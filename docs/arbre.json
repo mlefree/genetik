@@ -118952,7 +118952,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "BRANCHE RÉTABLIE le 31/08/2026 : sa fiche était la seule de l'arbre sans tableau `branches`, ce que `recherche/AGENT.md` signale comme une cause d'échec de l'exposition. Sa famille d'origine JF32 et son frère Georges Gaston Lucien GIMIÉ portent tous deux « gimie » : l'omission était un oubli de saisie, pas un doute de rattachement."
+   ],
    "sources": [
     "Acte de naissance original n° 498, Marseille, 14/12/1923, Archives municipales de Marseille, ARK 3371074 ; mention marginale de décès ; information familiale directe la donnant sœur de Georges GIMIÉ"
    ],
@@ -118964,7 +118966,9 @@
    "annee_deces": 2020,
    "generations_ascendance": 10,
    "generations_descendance": 0,
-   "branches": []
+   "branches": [
+    "gimie"
+   ]
   },
   "JI61": {
    "id": "JI61",
@@ -236708,7 +236712,7 @@
    "id": "gimie",
    "libelle": "GIMIÉ",
    "racine": "JI56",
-   "personnes": 353
+   "personnes": 354
   },
   {
    "id": "thevenet",
