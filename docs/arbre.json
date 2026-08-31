@@ -115247,7 +115247,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DEGRÉ RETENU : DOUTEUX tant que la jonction LEFORT–d'AIGREMONT n'est pas portée par une pièce."
+   ],
    "sources": [
     "Arbre familial photographié transmis par Patrick Leprevost le 29/08/2026, 2026-08-29/"
    ],
@@ -115264,7 +115266,8 @@
    "generations_descendance": 14,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI2": {
    "id": "JI2",
@@ -115283,10 +115286,12 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "PISTE AD50 31/08/2026 — dossier généalogique Famille d'Aigremont, cote 13 J 18, non numérisé ; à consulter pour retrouver les sources primaires des maillons d'AIGREMONT–LE JOLIVET–AUX ÉPAULES. La notice ne vaut pas preuve."
+    "PISTE AD50 31/08/2026 — dossier généalogique Famille d'Aigremont, cote 13 J 18, non numérisé ; à consulter pour retrouver les sources primaires des maillons d'AIGREMONT–LE JOLIVET–AUX ÉPAULES. La notice ne vaut pas preuve.",
+    "DEGRÉ RETENU : DOUTEUX. La pièce qui la trancherait est le contrat de mariage du 23 mai 1563 (François d'AIGREMONT × Roberte LE JOLIVET) ou un partage entre leurs héritiers, au tabellionnage de Valognes (AD50, série 5 E)."
    ],
    "sources": [
-    "Arbre familial photographié transmis par Patrick Leprevost le 29/08/2026, 2026-08-29/"
+    "Arbre familial photographié transmis par Patrick Leprevost le 29/08/2026, 2026-08-29/",
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
    ],
    "associations": [],
    "famille_origine": "JF6",
@@ -115301,7 +115306,8 @@
    "generations_descendance": 14,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI3": {
    "id": "JI3",
@@ -115331,7 +115337,16 @@
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "licencié ès lois"
+    },
+    {
+     "type": "profession",
+     "texte": "lieutenant général du vicomte de Valognes"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -115344,6 +115359,14 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "licencié ès lois"
+    },
+    {
+     "type": "profession",
+     "texte": "lieutenant général du vicomte de Valognes"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "1617",
@@ -115354,21 +115377,29 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 2 : « François d'AIGREMENT, éc. sr de Pépinvast et de Commendal, licencié ès lois, lieutenant général du vicomte de Valognes ». Frère de Gratien (mort sans alliance) et de Léonard d'AIGREMENT × Louise LOUVEL de MONTMARTIN, auteur de la branche de Valcanville.",
+    "PISTE NOTARIALE DATÉE — « François x par contrat du 23 mai 1563 » (RGN n° 55, p. 223). Les registres paroissiaux de Turqueville étant détruits, ce contrat est la pièce primaire à chercher : tabellionnage de Valognes, AD50 série 5 E, et fonds Famille d'Aigremont 13 J 18. Il nommerait les parents des deux époux et trancherait la contradiction LE CHEVALIER / AUX ÉPAULES.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, p. 224, déclaration de sources de la réponse Q 12 : « Généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers » — rgn-55-p224-sources-boisdeffre.png"
+   ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "LF30001",
    "familles": [
     "JF6"
    ],
    "vivant": false,
    "annee_naissance": 1530,
    "annee_deces": 1617,
-   "generations_ascendance": 0,
+   "generations_ascendance": 3,
    "generations_descendance": 15,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "PROBABLE"
   },
   "JI4": {
    "id": "JI4",
@@ -115404,8 +115435,15 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 3 : « Roberte LE JOLIVET d'AUDOUVILLE † 1569 », armes d'azur au chevron d'argent chargé de 3 tourteaux d'azur et accompagné de 3 glands d'or. L'union portée à 1563 par l'arbre familial est corroborée par la mention « François x par contrat du 23 mai 1563 ».",
+    "RÉSERVE — sa mère n'est PAS établie : la RGN n° 55 donne Girette LE CHEVALIER comme épouse de François LE JOLIVET, mais l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145) en fait la mère de François. La fiche JI6 est donc mal placée dans JF7.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
    "associations": [],
    "famille_origine": "JF7",
    "familles": [
@@ -115418,7 +115456,8 @@
    "generations_descendance": 15,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "PROBABLE"
   },
   "JI5": {
    "id": "JI5",
@@ -115436,8 +115475,15 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 6 : « François LE JOLIVET, éc. sr d'Audouville, † 05.08.1526 ». Date de décès à porter à la fiche.",
+    "CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
    "associations": [],
    "famille_origine": "JF8",
    "familles": [
@@ -115451,7 +115497,8 @@
    "generations_descendance": 16,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI6": {
    "id": "JI6",
@@ -115469,8 +115516,14 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "POSITION CONTESTÉE — JI6 figure ici comme épouse de François LE JOLIVET (JF7). CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite. Sa place vraisemblable est épouse de JI7 Jean LE JOLIVET et mère de JI5. Ne pas restructurer JF7 sur la seule foi d'un relais de troisième main (épitaphe → livre non nommé sur le canton de Carentan → question de revue) : le contrat de mariage de 1563 ou le relevé d'origine de l'inscription doit trancher.",
+    "RGN n° 55, p. 223, Sosa 7 la donne comme épouse ; RGN n° 66, p. 145 la donne comme mère. Deux sources publiées, une contradiction non résolue."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -115484,7 +115537,8 @@
    "generations_descendance": 16,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI7": {
    "id": "JI7",
@@ -115520,8 +115574,14 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 12 : « Jean LE JOLIVET, éc. sr d'Audouville ». L'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145) le dit « noble homme Jean LE JOLIVET esc. », époux de damoiselle Girette LE CHEVALIER et père de François. C'est la seule mention lapidaire retrouvée de cette famille.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -115534,7 +115594,8 @@
    "generations_descendance": 17,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "PROBABLE"
   },
   "JI8": {
    "id": "JI8",
@@ -115570,8 +115631,14 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 13 : « Avoie AUX ÉPAULES, tante de Robert AUX ÉPAULES, compagnon du roi Henri IV, dont l'orant se trouve aujourd'hui dans l'église de Ste-Marie-du-Mont ».",
+    "CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite.",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": "JF9",
    "familles": [
@@ -115584,7 +115651,8 @@
    "generations_descendance": 17,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI9": {
    "id": "JI9",
@@ -115620,8 +115688,13 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 26 : « Charles AUX ÉPAULES, chev. sr de Ste-Marie-du-Mont ».",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": "JF10",
    "familles": [
@@ -115634,7 +115707,8 @@
    "generations_descendance": 18,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI10": {
    "id": "JI10",
@@ -115652,8 +115726,13 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 27 : « Anne GOSSET ».",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -115667,7 +115746,8 @@
    "generations_descendance": 18,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI11": {
    "id": "JI11",
@@ -115720,21 +115800,27 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 32 : « Georges AUX ÉPAULES, chev. sr de Ste-Marie-du-Mont, x 1477 » — l'union de 1477 déjà portée par l'arbre familial est corroborée.",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "LF30006",
    "familles": [
     "JF10"
    ],
    "vivant": false,
    "annee_naissance": 1437,
    "annee_deces": 1524,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 19,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI12": {
    "id": "JI12",
@@ -115770,8 +115856,13 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 33 : « Madeleine de DREUX d'ESNEVAL ».",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": "JF11",
    "familles": [
@@ -115784,7 +115875,8 @@
    "generations_descendance": 19,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI13": {
    "id": "JI13",
@@ -115837,8 +115929,14 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 66 : « Robert de DREUX, vidame d'ESNEVAL, sr de Beaussart, etc., sert dans le parti du roi de France, prisonnier des Anglais en 1449, puis après sa libération établi capitaine de Rouen. Il devint le chef de la maison Royale de DREUX après la mort de son oncle, il prit les armes pleines de cette maison qui sont échiqueté d'or et d'azur, à la bordure de gueules. Il † 18.06.1478 et est enterré dans l'église des Jacobins de Rouen, dans la chapelle du Rosaire dite de Dreux. »",
+    "RUPTURE DE LA CHAÎNE — la RGN n° 55 s'arrête ici en disant seulement que Robert devint chef de la maison de Dreux « après la mort de son oncle ». Elle ne nomme PAS son père. La filiation JF12 vers JI15 Gauvain II de DREUX, et tout ce qui monte au-dessus, n'a aucune source publiée : c'est le point de coupure exact entre le documenté et le recopié.",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": "JF12",
    "familles": [
@@ -115851,7 +115949,8 @@
    "generations_descendance": 20,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI14": {
    "id": "JI14",
@@ -115904,8 +116003,13 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 67 : « Guillemette de SEGRIE, † 1490, inhumée avec son époux. Les armes de sa famille sont d'argent à la croix engrêlée de gueules. »",
+    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -115918,7 +116022,8 @@
    "generations_descendance": 20,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI15": {
    "id": "JI15",
@@ -115971,7 +116076,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF13",
@@ -115985,7 +116092,8 @@
    "generations_descendance": 21,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI16": {
    "id": "JI16",
@@ -116021,7 +116129,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116035,7 +116145,8 @@
    "generations_descendance": 21,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI17": {
    "id": "JI17",
@@ -116071,7 +116182,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF14",
@@ -116085,7 +116198,8 @@
    "generations_descendance": 22,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI18": {
    "id": "JI18",
@@ -116138,7 +116252,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116152,7 +116268,8 @@
    "generations_descendance": 22,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI19": {
    "id": "JI19",
@@ -116205,7 +116322,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF15",
@@ -116219,7 +116338,8 @@
    "generations_descendance": 23,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI20": {
    "id": "JI20",
@@ -116272,7 +116392,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116286,7 +116408,8 @@
    "generations_descendance": 23,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI21": {
    "id": "JI21",
@@ -116339,7 +116462,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF16",
@@ -116353,7 +116478,8 @@
    "generations_descendance": 24,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI22": {
    "id": "JI22",
@@ -116406,7 +116532,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116420,7 +116548,8 @@
    "generations_descendance": 24,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI23": {
    "id": "JI23",
@@ -116473,7 +116602,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF17",
@@ -116487,7 +116618,8 @@
    "generations_descendance": 25,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI24": {
    "id": "JI24",
@@ -116540,7 +116672,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116554,7 +116688,8 @@
    "generations_descendance": 25,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI25": {
    "id": "JI25",
@@ -116607,7 +116742,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF18",
@@ -116621,7 +116758,8 @@
    "generations_descendance": 26,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI26": {
    "id": "JI26",
@@ -116674,7 +116812,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116688,7 +116828,8 @@
    "generations_descendance": 26,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI27": {
    "id": "JI27",
@@ -116741,7 +116882,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF19",
@@ -116755,7 +116898,8 @@
    "generations_descendance": 27,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI28": {
    "id": "JI28",
@@ -116808,7 +116952,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116822,7 +116968,8 @@
    "generations_descendance": 27,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI29": {
    "id": "JI29",
@@ -116875,7 +117022,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF20",
@@ -116889,7 +117038,8 @@
    "generations_descendance": 28,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI30": {
    "id": "JI30",
@@ -116942,7 +117092,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -116956,7 +117108,8 @@
    "generations_descendance": 28,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI31": {
    "id": "JI31",
@@ -117009,7 +117162,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF21",
@@ -117023,7 +117178,8 @@
    "generations_descendance": 29,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI32": {
    "id": "JI32",
@@ -117076,7 +117232,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117090,7 +117248,8 @@
    "generations_descendance": 29,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI33": {
    "id": "JI33",
@@ -117143,7 +117302,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF22",
@@ -117157,7 +117318,8 @@
    "generations_descendance": 30,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI34": {
    "id": "JI34",
@@ -117210,7 +117372,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117224,7 +117388,8 @@
    "generations_descendance": 30,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI35": {
    "id": "JI35",
@@ -117277,7 +117442,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF23",
@@ -117291,7 +117458,8 @@
    "generations_descendance": 31,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI36": {
    "id": "JI36",
@@ -117344,7 +117512,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117358,7 +117528,8 @@
    "generations_descendance": 31,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI37": {
    "id": "JI37",
@@ -117411,7 +117582,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF24",
@@ -117425,7 +117598,8 @@
    "generations_descendance": 32,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI38": {
    "id": "JI38",
@@ -117478,7 +117652,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117492,7 +117668,8 @@
    "generations_descendance": 32,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI39": {
    "id": "JI39",
@@ -117545,7 +117722,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF25",
@@ -117559,7 +117738,8 @@
    "generations_descendance": 33,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI40": {
    "id": "JI40",
@@ -117612,7 +117792,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117626,7 +117808,8 @@
    "generations_descendance": 33,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI41": {
    "id": "JI41",
@@ -117679,7 +117862,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF26",
@@ -117693,7 +117878,8 @@
    "generations_descendance": 34,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI42": {
    "id": "JI42",
@@ -117746,7 +117932,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117760,7 +117948,8 @@
    "generations_descendance": 34,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI43": {
    "id": "JI43",
@@ -117813,7 +118002,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117827,7 +118018,8 @@
    "generations_descendance": 35,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI44": {
    "id": "JI44",
@@ -117880,7 +118072,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF27",
@@ -117894,7 +118088,8 @@
    "generations_descendance": 35,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI45": {
    "id": "JI45",
@@ -117912,7 +118107,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF28",
@@ -117927,7 +118124,8 @@
    "generations_descendance": 36,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI46": {
    "id": "JI46",
@@ -117945,7 +118143,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -117960,7 +118160,8 @@
    "generations_descendance": 36,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI47": {
    "id": "JI47",
@@ -118013,7 +118214,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF29",
@@ -118027,7 +118230,8 @@
    "generations_descendance": 37,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI48": {
    "id": "JI48",
@@ -118063,7 +118267,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -118077,7 +118283,8 @@
    "generations_descendance": 37,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI49": {
    "id": "JI49",
@@ -118130,7 +118337,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF30",
@@ -118144,7 +118353,8 @@
    "generations_descendance": 38,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI50": {
    "id": "JI50",
@@ -118197,7 +118407,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -118211,7 +118423,8 @@
    "generations_descendance": 38,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI51": {
    "id": "JI51",
@@ -118264,7 +118477,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF31",
@@ -118278,7 +118493,8 @@
    "generations_descendance": 39,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI52": {
    "id": "JI52",
@@ -118314,7 +118530,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -118328,7 +118546,8 @@
    "generations_descendance": 39,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI53": {
    "id": "JI53",
@@ -118381,7 +118600,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -118395,7 +118616,8 @@
    "generations_descendance": 40,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI54": {
    "id": "JI54",
@@ -118448,7 +118670,9 @@
     }
    ],
    "images": [],
-   "notes": [],
+   "notes": [
+    "DÉGRADÉ EN DOUTEUX le 31/08/2026 — cette fiche appartient à la chaîne médiévale DREUX–CAPET–Charlemagne reprise de l'arbre familial photographié (lot Patrick, 29/08/2026). Aucune pièce, aucune cote, aucun acte ne l'appuie ; la seule source publiée retrouvée (RGN n° 55, p. 223) s'arrête à Robert de DREUX † 18.06.1478 et à Guillemette de SEGRIE † 1490, et ne dit rien au-dessus. De plus la jonction LE JOLIVET–AUX ÉPAULES qui rattache la famille à cette chaîne est elle-même contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). Ne pas promouvoir sans acte."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -118462,7 +118686,8 @@
    "generations_descendance": 40,
    "branches": [
     "leprevost"
-   ]
+   ],
+   "confiance": "DOUTEUX"
   },
   "JI55": {
    "id": "JI55",
@@ -147398,6 +147623,416 @@
    "assets": [
     "ad13-mariage-guigue-filippi-1867"
    ]
+  },
+  "LI30001": {
+   "id": "LI30001",
+   "prenom": "Guy",
+   "nom": "d'AIGREMONT",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    },
+    {
+     "type": "profession",
+     "texte": "licencié ès lois"
+    },
+    {
+     "type": "profession",
+     "texte": "lieutenant civil et criminel de la vicomté de Valognes"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    },
+    {
+     "type": "profession",
+     "texte": "licencié ès lois"
+    },
+    {
+     "type": "profession",
+     "texte": "lieutenant civil et criminel de la vicomté de Valognes"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 4 : « Guy d'AIGREMONT, éc., sr de St-Marcouf, Commendal, Pépinvast, licencié ès lois, lieutenant civil et criminel de la vicomté de Valognes. Il se maria 3 fois, x2 avec Marie BURNOUF, dame de Commendal S.P., et x3 avec Anne de THIEUVILLE S.P. Il avait x1 le 3 juillet 1529. »",
+    "Père retenu de JI3 François d'AIGREMONT. Trois mariages, deux sans postérité : la descendance passe donc par la première union, du 3 juillet 1529, avec Perette LA GUETTE.",
+    "PISTE NOTARIALE DATÉE — contrat de mariage du 3 juillet 1529 à chercher au tabellionnage de Valognes (AD50, série 5 E) et dans le dossier généalogique 13 J 18.",
+    "Titres seigneuriaux notés comme titres, PAS comme lieux de résidence : Saint-Marcouf, Commendal et Pépinvast ne sont pas enregistrés comme domiciles faute de source le disant.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, p. 224, déclaration de sources de la réponse Q 12 : « Généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers » — rgn-55-p224-sources-boisdeffre.png"
+   ],
+   "associations": [],
+   "famille_origine": "LF30002",
+   "familles": [
+    "LF30001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 2,
+   "generations_descendance": 16
+  },
+  "LI30002": {
+   "id": "LI30002",
+   "prenom": "Perette",
+   "nom": "LA GUETTE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 5 : « Perette LA GUETTE, soeur de : Guillemette LA GUETTE x 18.08.1524 Nicolas DANCEL ; Jean LA GUETTE x 1531 Marie SALIGOT, contrôleur des finances à la Ferté-Milon, conseiller du Roi, trésorier extraordinaire des finances, sieur de Gonneville, décédé S.P. ; Thomas LA GUETTE, vicomte et capitaine de Valognes, x Jeanne FAUCON S.P. ; Gratien LA GUETTE, sr de St-Jean, de Quinéville, Ste-Croix, Montaigu ; Charlotte LA GUETTE x Roulland alias Roland LE PARMENTIER, sieur de Cosqueville. »",
+    "Première épouse de Guy d'AIGREMONT (union du 3 juillet 1529) et mère retenue de JI3 François d'AIGREMONT.",
+    "Sa fratrie est richement datée (1524, 1531) et titrée : c'est la meilleure prise pour retrouver la famille dans les fonds notariaux et les aveux de la vicomté de Valognes.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
+   "associations": [],
+   "famille_origine": "LF30004",
+   "familles": [
+    "LF30001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 2,
+   "generations_descendance": 16
+  },
+  "LI30003": {
+   "id": "LI30003",
+   "prenom": "Léonard",
+   "nom": "d'AIGREMONT",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 8 : « Léonard d'AIGREMONT, éc. ép. Ne ». La source ne nomme pas son épouse : la famille LF30002 est donc créée sans mère plutôt qu'avec une mère inventée.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
+   "associations": [],
+   "famille_origine": "LF30003",
+   "familles": [
+    "LF30002"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 1,
+   "generations_descendance": 17
+  },
+  "LI30004": {
+   "id": "LI30004",
+   "prenom": "Louis",
+   "nom": "d'AIGREMONT",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "écuyer"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 16 : « Louis d'AIGREMONT, éc. viv. 1429 ». Vivant en 1429 : c'est le plus ancien d'AIGREMONT que la source publiée atteste, et le sommet actuel de ce rameau.",
+    "Épouse non nommée par la source ; LF30003 est créée sans mère.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "LF30003"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 18
+  },
+  "LI30005": {
+   "id": "LI30005",
+   "prenom": "Gratien",
+   "nom": "LA GUETTE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 10 : « Gratien LA GUETTE (ou Henri), sr de St-Jean ». Le prénom hésite entre Gratien et Henri dans la source même : retenu Gratien, l'alternative est consignée ici et ne doit pas être effacée.",
+    "Père retenu de Perette LA GUETTE.",
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "LF30004"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 17
+  },
+  "LI30006": {
+   "id": "LI30006",
+   "prenom": "",
+   "nom": "de PIROU",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 11 : « Ne de PIROU (?) » — la source publie le patronyme et son propre point d'interrogation, pas le prénom. Fiche volontairement sans prénom : mieux vaut une fiche muette qu'un prénom inventé.",
+    "RGN n° 66 (1998), p. 145, T 688 : G. LECŒUR rapporte qu'à la mort de Jean LA GUETTE, trésorier du Roi, le château de Gonneville passa à son aïeul maternel Olivier de PIROU, sr de Fermanville — d'où il déduit qu'Olivier est le père de cette N. de PIROU, épouse de Gratien LA GUETTE, et que Jean LA GUETTE mourut avant son grand-père. L'auteur termine par « Peut-on confirmer cette ascendance ? » : c'est une question, pas une réponse.",
+    "Niveau : PROBABLE pour le patronyme, DOUTEUX pour la filiation vers Olivier de PIROU, qui est explicitement présentée comme une déduction non confirmée.",
+    "CONFIANCE : PROBABLE"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
+   "associations": [],
+   "famille_origine": "LF30005",
+   "familles": [
+    "LF30004"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 1,
+   "generations_descendance": 17
+  },
+  "LI30007": {
+   "id": "LI30007",
+   "prenom": "Olivier",
+   "nom": "de PIROU",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 66 (1998), p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR : « à la mort de Jean LA GUETTE, trésorier du Roi, le château de Gonneville passa à son aïeul maternel, Olivier de PIROU, sr de Fermanville. Celui-ci serait donc le père de Ne de PIROU, x Gratien LA GUETTE. Jean LA GUETTE serait décédé avant son grand-père. Peut-on confirmer cette ascendance ? »",
+    "DEGRÉ RETENU : DOUTEUX. La filiation est une déduction de l'auteur à partir d'une dévolution de château lue dans « un livre sur le canton de St-Pierre-Église » non nommé, et il demande lui-même confirmation. Fiche créée pour porter la piste, pas pour la valider.",
+    "Fermanville et Gonneville sont des titres et un bien, pas des lieux de naissance ou de résidence attestés : aucun lieu n'est enregistré.",
+    "CONFIANCE : DOUTEUX"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "LF30005"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 18
+  },
+  "LI30008": {
+   "id": "LI30008",
+   "prenom": "Richard",
+   "nom": "AUX ÉPAULES",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 64 : « Richard AUX ÉPAULES, sr de Ste-Marie-du-Mont ». Père retenu de JI11 Georges AUX ÉPAULES.",
+    "Corroboré indépendamment par la RGN n° 29, qui donne une généalogie DESHUMÈRES / AUX ÉPAULES allant de Roger et Létitia CRESPIN à Guillaume, Richard, Georges et Charles — la séquence Richard → Georges → Charles y est la même (PDF déjà archivé : ../recherche-web/revue-genealogique-normande-29.pdf, page exacte restant à relever).",
+    "DEGRÉ RETENU : DOUTEUX comme tout le segment AUX ÉPAULES, dont la jonction avec la lignée LE JOLIVET est contredite (RGN n° 66, p. 145).",
+    "CONFIANCE : DOUTEUX"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "LF30006"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 20
+  },
+  "LI30009": {
+   "id": "LI30009",
+   "prenom": "Jeanne",
+   "nom": "de SURIENNE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "RGN n° 55 (1995), p. 223, Sosa 65 : « Jeanne de SURIENNE ». Mère retenue de JI11 Georges AUX ÉPAULES.",
+    "DEGRÉ RETENU : DOUTEUX, même motif que son époux.",
+    "CONFIANCE : DOUTEUX"
+   ],
+   "sources": [
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "LF30006"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "leprevost"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 20
   }
  },
  "familles": {
@@ -180084,10 +180719,13 @@
    "union": null,
    "divorce": null,
    "evenements": [],
-   "notes": [],
+   "notes": [
+    "JONCTION CONTESTÉE, 31/08/2026 — cette famille pose Girette LE CHEVALIER (JI6) en épouse de François LE JOLIVET (JI5) et en mère de Roberde (JI4). L'épitaphe de bronze de l'église d'Audouville-la-Hubert, relevée dans un ouvrage sur le canton de Carentan et rapportée par G. LECŒUR (RGN n° 66, 1998, p. 145), en fait au contraire la MÈRE de François et l'épouse de Jean LE JOLIVET. La mère de Roberde est donc inconnue. Structure laissée en l'état — une restructuration sur un relais de troisième main ne vaudrait pas mieux que l'erreur qu'elle corrigerait — mais la famille ne doit plus être lue comme établie."
+   ],
    "branches": [
     "leprevost"
-   ]
+   ],
+   "sources": []
   },
   "JF8": {
    "id": "JF8",
@@ -180117,10 +180755,13 @@
      }
     }
    ],
-   "notes": [],
+   "notes": [
+    "JONCTION CRITIQUE DE TOUTE LA BRANCHE MÉDIÉVALE — c'est par Avoie AUX ÉPAULES (JI8), épouse de Jean LE JOLIVET (JI7), que la lignée rejoint les AUX ÉPAULES, les DREUX, les CAPET et Charlemagne. L'épitaphe d'Audouville-la-Hubert donne à Jean LE JOLIVET pour épouse Girette LE CHEVALIER et non Avoie AUX ÉPAULES (RGN n° 66, p. 145, contre RGN n° 55, p. 223). Sauf remariage de Jean, non attesté, la jonction tombe. Aucun maillon au-dessus ne doit être promu tant qu'un acte n'a pas tranché."
+   ],
    "branches": [
     "leprevost"
-   ]
+   ],
+   "sources": []
   },
   "JF9": {
    "id": "JF9",
@@ -180249,10 +180890,13 @@
      }
     }
    ],
-   "notes": [],
+   "notes": [
+    "POINT DE COUPURE ENTRE LE DOCUMENTÉ ET LE RECOPIÉ — la RGN n° 55, p. 223 documente Robert de DREUX († 18.06.1478) et Guillemette de SEGRIE († 1490), mais ne nomme pas les parents de Robert : elle dit seulement qu'il devint chef de la maison de Dreux « après la mort de son oncle ». La filiation vers JI15 Gauvain II de DREUX, et donc toute la remontée DREUX–CAPET–Charlemagne, ne repose sur aucune source publiée retrouvée. Cette famille et tout ce qui la surmonte sont DOUTEUX."
+   ],
    "branches": [
     "leprevost"
-   ]
+   ],
+   "sources": []
   },
   "JF13": {
    "id": "JF13",
@@ -185922,6 +186566,137 @@
    ],
    "branches": [
     "gimie"
+   ]
+  },
+  "LF30001": {
+   "id": "LF30001",
+   "pere": "LI30001",
+   "mere": "LI30002",
+   "enfants": [
+    "JI3"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "3 JUL 1529",
+     "date": {
+      "annee": 1529,
+      "mois": 7,
+      "jour": 3
+     }
+    }
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "3 JUL 1529",
+      "date": {
+       "annee": 1529,
+       "mois": 7,
+       "jour": 3
+      }
+     }
+    }
+   ],
+   "notes": [
+    "Première des trois unions de Guy d'AIGREMONT ; les deux autres (Marie BURNOUF, Anne de THIEUVILLE) sont dites sans postérité par la RGN n° 55, p. 223. La date du 3 juillet 1529 est celle donnée par cette source.",
+    "Contrat de mariage à retrouver : tabellionnage de Valognes, AD50 série 5 E, année 1529."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
+   ]
+  },
+  "LF30002": {
+   "id": "LF30002",
+   "pere": "LI30003",
+   "mere": null,
+   "enfants": [
+    "LI30001"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Mère non nommée par la source : « Léonard d'AIGREMONT, éc. ép. Ne » (RGN n° 55, p. 223). Famille délibérément créée sans mère plutôt qu'avec une fiche inventée."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
+   ]
+  },
+  "LF30003": {
+   "id": "LF30003",
+   "pere": "LI30004",
+   "mere": null,
+   "enfants": [
+    "LI30003"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Mère non nommée par la source (RGN n° 55, p. 223, Sosa 16)."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
+   ]
+  },
+  "LF30004": {
+   "id": "LF30004",
+   "pere": "LI30005",
+   "mere": "LI30006",
+   "enfants": [
+    "LI30002"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple donné par la RGN n° 55, p. 223 (Sosa 10 et 11) et repris par la RGN n° 66, p. 145."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
+   ]
+  },
+  "LF30005": {
+   "id": "LF30005",
+   "pere": "LI30007",
+   "mere": null,
+   "enfants": [
+    "LI30006"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Filiation DÉDUITE par G. LECŒUR (RGN n° 66, p. 145) d'une dévolution de château, et présentée par lui sous forme de question. DOUTEUX."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
+   ]
+  },
+  "LF30006": {
+   "id": "LF30006",
+   "pere": "LI30008",
+   "mere": "LI30009",
+   "enfants": [
+    "JI11"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple donné par la RGN n° 55, p. 223 (Sosa 64 et 65) ; séquence corroborée par la RGN n° 29. DOUTEUX comme tout le segment AUX ÉPAULES."
+   ],
+   "sources": [],
+   "branches": [
+    "leprevost"
    ]
   }
  },
@@ -214938,6 +215713,7 @@
     "firstName": "François",
     "lastName": "d'AIGREMONT",
     "sex": "M",
+    "famc": "LF30001",
     "fams": [
      "JF6"
     ],
@@ -215060,6 +215836,7 @@
     "firstName": "Georges",
     "lastName": "AUX ÉPAULES",
     "sex": "M",
+    "famc": "LF30006",
     "fams": [
      "JF10"
     ],
@@ -223667,6 +224444,99 @@
     "sex": "F",
     "fams": [
      "GF44"
+    ]
+   },
+   {
+    "id": "LI30001",
+    "hideId": true,
+    "firstName": "Guy",
+    "lastName": "d'AIGREMONT",
+    "sex": "M",
+    "famc": "LF30002",
+    "fams": [
+     "LF30001"
+    ]
+   },
+   {
+    "id": "LI30002",
+    "hideId": true,
+    "firstName": "Perette",
+    "lastName": "LA GUETTE",
+    "sex": "F",
+    "famc": "LF30004",
+    "fams": [
+     "LF30001"
+    ]
+   },
+   {
+    "id": "LI30003",
+    "hideId": true,
+    "firstName": "Léonard",
+    "lastName": "d'AIGREMONT",
+    "sex": "M",
+    "famc": "LF30003",
+    "fams": [
+     "LF30002"
+    ]
+   },
+   {
+    "id": "LI30004",
+    "hideId": true,
+    "firstName": "Louis",
+    "lastName": "d'AIGREMONT",
+    "sex": "M",
+    "fams": [
+     "LF30003"
+    ]
+   },
+   {
+    "id": "LI30005",
+    "hideId": true,
+    "firstName": "Gratien",
+    "lastName": "LA GUETTE",
+    "sex": "M",
+    "fams": [
+     "LF30004"
+    ]
+   },
+   {
+    "id": "LI30006",
+    "hideId": true,
+    "lastName": "de PIROU",
+    "sex": "F",
+    "famc": "LF30005",
+    "fams": [
+     "LF30004"
+    ]
+   },
+   {
+    "id": "LI30007",
+    "hideId": true,
+    "firstName": "Olivier",
+    "lastName": "de PIROU",
+    "sex": "M",
+    "fams": [
+     "LF30005"
+    ]
+   },
+   {
+    "id": "LI30008",
+    "hideId": true,
+    "firstName": "Richard",
+    "lastName": "AUX ÉPAULES",
+    "sex": "M",
+    "fams": [
+     "LF30006"
+    ]
+   },
+   {
+    "id": "LI30009",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "de SURIENNE",
+    "sex": "F",
+    "fams": [
+     "LF30006"
     ]
    }
   ],
@@ -236709,6 +237579,59 @@
     "children": [
      "AG22"
     ]
+   },
+   {
+    "id": "LF30001",
+    "husb": "LI30001",
+    "wife": "LI30002",
+    "children": [
+     "JI3"
+    ],
+    "marriage": {
+     "date": {
+      "day": 3,
+      "month": 7,
+      "year": 1529
+     },
+     "type": "union"
+    }
+   },
+   {
+    "id": "LF30002",
+    "husb": "LI30003",
+    "children": [
+     "LI30001"
+    ]
+   },
+   {
+    "id": "LF30003",
+    "husb": "LI30004",
+    "children": [
+     "LI30003"
+    ]
+   },
+   {
+    "id": "LF30004",
+    "husb": "LI30005",
+    "wife": "LI30006",
+    "children": [
+     "LI30002"
+    ]
+   },
+   {
+    "id": "LF30005",
+    "husb": "LI30007",
+    "children": [
+     "LI30006"
+    ]
+   },
+   {
+    "id": "LF30006",
+    "husb": "LI30008",
+    "wife": "LI30009",
+    "children": [
+     "JI11"
+    ]
    }
   ]
  },
@@ -236717,7 +237640,7 @@
    "id": "leprevost",
    "libelle": "LEPREVOST",
    "racine": "LI1",
-   "personnes": 1431
+   "personnes": 1440
   },
   {
    "id": "gimie",
