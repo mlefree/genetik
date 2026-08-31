@@ -119133,7 +119133,7 @@
    "vivant": false,
    "annee_naissance": 1948,
    "annee_deces": 2020,
-   "generations_ascendance": 4,
+   "generations_ascendance": 6,
    "generations_descendance": 2,
    "branches": [
     "thevenet"
@@ -119378,7 +119378,7 @@
    "vivant": false,
    "annee_naissance": 1926,
    "annee_deces": 2002,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 3,
    "branches": [
     "thevenet"
@@ -140345,7 +140345,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -140993,7 +140993,7 @@
    "vivant": false,
    "annee_naissance": 1889,
    "annee_deces": 1978,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 4,
    "branches": [
     "thevenet"
@@ -141257,7 +141257,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -141332,7 +141332,7 @@
    "vivant": false,
    "annee_naissance": 1924,
    "annee_deces": 1924,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -141362,7 +141362,7 @@
    "vivant": true,
    "annee_naissance": null,
    "annee_deces": null,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -141537,7 +141537,7 @@
    "vivant": false,
    "annee_naissance": 1915,
    "annee_deces": 1978,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -141610,7 +141610,7 @@
    "vivant": false,
    "annee_naissance": 1917,
    "annee_deces": 1917,
-   "generations_ascendance": 3,
+   "generations_ascendance": 5,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -141757,7 +141757,7 @@
    "vivant": false,
    "annee_naissance": 1840,
    "annee_deces": 1892,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
@@ -141851,12 +141851,26 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1811",
+     "brut": "21 FEB 1811",
      "date": {
-      "annee": 1811
+      "annee": 1811,
+      "mois": 2,
+      "jour": 21
      }
     },
-    "lieu": null
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": {
@@ -141876,12 +141890,26 @@
     {
      "type": "naissance",
      "date": {
-      "brut": "1811",
+      "brut": "21 FEB 1811",
       "date": {
-       "annee": 1811
+       "annee": 1811,
+       "mois": 2,
+       "jour": 21
       }
      },
-     "lieu": null
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
     },
     {
      "type": "deces",
@@ -141896,23 +141924,29 @@
    ],
    "images": [],
    "notes": [
-    "Arrière-grand-père paternel d'André, du Mâconnais."
+    "Arrière-grand-père paternel d'André, du Mâconnais.",
+    "Naissance PROUVÉE au 21 février 1811 à Tramayes : son acte de mariage du 18 janvier 1837 cite en pièce préliminaire « l'extrait de l'acte de naissance du futur, à la date du vingt-un février mil huit cent onze ». Il y est dit âgé de vingt-six ans non révolus. Fils de Jean THÉVENET et Jeanne LAMAY, cultivateurs à Tramayes, tous deux présents et consentants."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF65",
    "familles": [
     "JF59"
    ],
    "vivant": false,
    "annee_naissance": 1811,
    "annee_deces": 1871,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
    ]
   },
   "JI123": {
@@ -141926,49 +141960,93 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1816",
+     "brut": "27 JAN 1816",
      "date": {
-      "annee": 1816
+      "annee": 1816,
+      "mois": 1,
+      "jour": 27
      }
     },
-    "lieu": null
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
    },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "aide d'agriculture"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
      "type": "naissance",
      "date": {
-      "brut": "1816",
+      "brut": "27 JAN 1816",
       "date": {
-       "annee": 1816
+       "annee": 1816,
+       "mois": 1,
+       "jour": 27
       }
      },
-     "lieu": null
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "aide d'agriculture"
     }
    ],
    "images": [],
    "notes": [
-    "Arrière-grand-mère paternelle d'André. Elle porte le même patronyme que son mari : mariage entre cousins ou simple homonymie fréquente dans un pays où le nom est massif, à vérifier sur l'acte."
+    "Arrière-grand-mère paternelle d'André. Elle porte le même patronyme que son mari : mariage entre cousins ou simple homonymie fréquente dans un pays où le nom est massif, à vérifier sur l'acte.",
+    "Naissance PROUVÉE au 27 janvier 1816 à Tramayes, par l'extrait cité dans son acte de mariage du 18 janvier 1837, où elle est dite âgée de vingt-et-un ans non révolus et « aide d'agriculture » — lecture à confirmer, mais c'est la première activité connue d'une femme de cette génération.",
+    "Orpheline : son père Antoine THÉVENET meurt à Lyon le 7 février 1822, sa mère Anne LAPALUS à Tramayes le 21 août 1830. Elle se marie « fille mineure » avec le consentement de ses aïeuls paternels, Jean THÉVENET et Marie BELUZE. La question du patronyme identique des deux époux, notée jusqu'ici comme cousinage ou homonymie, se précise : les témoins Laurent et Jean-Baptiste THÉVENET sont dits « oncles DES ÉPOUX », au pluriel — les deux familles sont bien apparentées, à un degré que l'acte ne dit pas."
    ],
    "sources": [
-    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF66",
    "familles": [
     "JF59"
    ],
    "vivant": false,
    "annee_naissance": 1816,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 2,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
    ]
   },
   "JI124": {
@@ -142129,7 +142207,7 @@
    "vivant": false,
    "annee_naissance": 1874,
    "annee_deces": null,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142182,7 +142260,7 @@
    "vivant": false,
    "annee_naissance": 1875,
    "annee_deces": null,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142340,7 +142418,7 @@
    "vivant": false,
    "annee_naissance": 1876,
    "annee_deces": 1958,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142395,7 +142473,7 @@
    "vivant": false,
    "annee_naissance": 1878,
    "annee_deces": null,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142476,7 +142554,7 @@
    "vivant": false,
    "annee_naissance": 1880,
    "annee_deces": 1966,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142615,7 +142693,7 @@
    "vivant": false,
    "annee_naissance": 1883,
    "annee_deces": 1914,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142667,7 +142745,7 @@
    "vivant": false,
    "annee_naissance": 1885,
    "annee_deces": null,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142859,7 +142937,7 @@
    "vivant": false,
    "annee_naissance": 1891,
    "annee_deces": 1914,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -142951,7 +143029,7 @@
    "vivant": false,
    "annee_naissance": 1839,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143004,7 +143082,7 @@
    "vivant": false,
    "annee_naissance": 1842,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143057,7 +143135,7 @@
    "vivant": false,
    "annee_naissance": 1845,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143110,7 +143188,7 @@
    "vivant": false,
    "annee_naissance": 1846,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143166,7 +143244,7 @@
    "vivant": false,
    "annee_naissance": 1849,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 1,
    "branches": [
     "thevenet"
@@ -143219,7 +143297,7 @@
    "vivant": false,
    "annee_naissance": 1851,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143272,7 +143350,7 @@
    "vivant": false,
    "annee_naissance": 1854,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 3,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143448,7 +143526,7 @@
    "vivant": false,
    "annee_naissance": 1885,
    "annee_deces": null,
-   "generations_ascendance": 2,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -143628,6 +143706,376 @@
     "ad75-td-paris4-1893-1902-jourdren",
     "ad75-naissance-jourdren-1895",
     "ad75-mariage-thevenet-jourdren-1921"
+   ]
+  },
+  "JI145": {
+   "id": "JI145",
+   "prenom": "Jean",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Joseph THÉVENET (1811-1871). Nommé par l'acte de mariage de son fils, à Tramayes le 18 janvier 1837 : « fils majeur des mariés Jean THÉVENET et Jeanne LAMAY, tous cultivateurs, demeurant audit Tramayes ». Il est vivant et PRÉSENT à ce mariage, dont il donne le consentement. Ni sa naissance ni son décès ne sont connus : nouveau point du front d'ascendance.",
+    "Deux Jean THÉVENET apparaissent dans le même acte : le père de Joseph, époux de Jeanne LAMAY, et l'aïeul de Jeanne Marie, époux de Marie BELUZE. Les épouses diffèrent et l'acte ne mentionne aucune dispense de parenté, obligatoire si les mariés avaient été oncle et nièce : ce sont très probablement deux hommes distincts, dans un pays où le patronyme est massif. À trancher sur les actes de naissance."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF65"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
+   ]
+  },
+  "JI146": {
+   "id": "JI146",
+   "prenom": "Jeanne",
+   "nom": "LAMAY",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Joseph THÉVENET (1811-1871), épouse de Jean THÉVENET. Nommée par l'acte de mariage de son fils du 18 janvier 1837, où elle est dite cultivatrice, demeurant à Tramayes, vivante et présente. Graphie du patronyme à confirmer : la main de 1837 se lit LAMAY, mais LOMAY et LAMY restent possibles."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF65"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
+   ]
+  },
+  "JI147": {
+   "id": "JI147",
+   "prenom": "Antoine",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "7 FEB 1822",
+     "date": {
+      "annee": 1822,
+      "mois": 2,
+      "jour": 7
+     }
+    },
+    "lieu": "Lyon (69)",
+    "commune": {
+     "nom": "Lyon",
+     "code": "69123",
+     "departement": "69",
+     "pays": "France",
+     "actuelle": "Lyon",
+     "coordonnees": [
+      4.8351,
+      45.758
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "7 FEB 1822",
+      "date": {
+       "annee": 1822,
+       "mois": 2,
+       "jour": 7
+      }
+     },
+     "lieu": "Lyon (69)",
+     "commune": {
+      "nom": "Lyon",
+      "code": "69123",
+      "departement": "69",
+      "pays": "France",
+      "actuelle": "Lyon",
+      "coordonnees": [
+       4.8351,
+       45.758
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jeanne Marie THÉVENET (1816-). L'acte de mariage de sa fille, le 18 janvier 1837 à Tramayes, le dit défunt et cite en pièce préliminaire « l'extrait de l'acte de décès du père de la future, décédé à LYON le sept février mil huit cent vingt-deux ». Sa fille avait six ans.",
+    "Il meurt à Lyon, pas à Tramayes : la famille THÉVENET a donc un pied à Lyon dès les années 1820 — comme le témoin Laurent THÉVENET, menuisier à Lyon en 1837, et comme Antoine THÉVENET (1889-1978) qui y travaillera de 1913 à 1919. Son acte de décès lyonnais est en ligne aux AD69 et nommera ses parents."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF67",
+   "familles": [
+    "JF66"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1822,
+   "generations_ascendance": 1,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
+   ]
+  },
+  "JI148": {
+   "id": "JI148",
+   "prenom": "Anne",
+   "nom": "LAPALUS",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "21 AUG 1830",
+     "date": {
+      "annee": 1830,
+      "mois": 8,
+      "jour": 21
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "21 AUG 1830",
+      "date": {
+       "annee": 1830,
+       "mois": 8,
+       "jour": 21
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Jeanne Marie THÉVENET (1816-). L'acte de mariage de sa fille, le 18 janvier 1837, cite « l'extrait de l'acte de décès de la mère de la future, à Tramayes, du vingt-un août mil huit cent trente ». Sa fille avait quatorze ans, et devient alors orpheline des deux parents : ce sont ses grands-parents qui consentiront à son mariage."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF66"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1830,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
+   ]
+  },
+  "JI149": {
+   "id": "JI149",
+   "prenom": "Jean",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "propriétaire cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "propriétaire cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Aïeul paternel de Jeanne Marie THÉVENET, donc père d'Antoine († Lyon 1822). Nommé par l'acte de mariage de sa petite-fille, le 18 janvier 1837 à Tramayes : « Marie BELUZE, épouse de Jean THÉVENET, propriétaire cultivateur, demeurant ensemble à Tramayes, ses aïeul et aïeule ». Il est vivant en 1837 mais absent de la cérémonie : il donne pouvoir à sa femme par acte reçu Me TORSY, notaire à Tramayes, le jour même.",
+    "C'est le plus ancien ancêtre THÉVENET nommé par une source primaire : génération +2 par rapport à Jeanne Marie, +4 par rapport à Antoine (1889-1978).",
+    "Deux Jean THÉVENET apparaissent dans le même acte : le père de Joseph, époux de Jeanne LAMAY, et l'aïeul de Jeanne Marie, époux de Marie BELUZE. Les épouses diffèrent et l'acte ne mentionne aucune dispense de parenté, obligatoire si les mariés avaient été oncle et nièce : ce sont très probablement deux hommes distincts, dans un pays où le patronyme est massif. À trancher sur les actes de naissance."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF67"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
+   ]
+  },
+  "JI150": {
+   "id": "JI150",
+   "prenom": "Marie",
+   "nom": "BELUZE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Aïeule paternelle de Jeanne Marie THÉVENET, épouse de Jean THÉVENET, propriétaire cultivateur à Tramayes. C'est elle qui comparaît et consent au mariage de sa petite-fille le 18 janvier 1837, munie du pouvoir de son mari reçu le jour même par Me TORSY, notaire à Tramayes. Le brevet original, annexé à l'un des doubles du mariage, est à chercher dans le fonds des notaires de Tramayes aux AD71."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF67"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
    ]
   }
  },
@@ -181173,15 +181621,71 @@
     "JI140",
     "JI141"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "18 JAN 1837",
+     "date": {
+      "annee": 1837,
+      "mois": 1,
+      "jour": 18
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "18 JAN 1837",
+      "date": {
+       "annee": 1837,
+       "mois": 1,
+       "jour": 18
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
     "Couple donné comme parents de Jean Baptiste THÉVENET par l'arbre alla224. Huit enfants y sont recensés entre 1839 et 1854.",
-    "31/08/2026 : les huit enfants sont intégrés (JI135 à JI141 autour de Jean Baptiste JI120), tous PROBABLES, d'après le seul arbre alla224. Benoît 1849 est le seul à recevoir un début de corroboration, par le registre matricule de son fils présumé Antoine né en 1885 à Cenves."
+    "31/08/2026 : les huit enfants sont intégrés (JI135 à JI141 autour de Jean Baptiste JI120), tous PROBABLES, d'après le seul arbre alla224. Benoît 1849 est le seul à recevoir un début de corroboration, par le registre matricule de son fils présumé Antoine né en 1885 à Cenves.",
+    "MARIAGE PROUVÉ : Tramayes, 18 janvier 1837 à cinq heures du soir, acte n° 2 de l'année (AD71, 5 E 545/8, vue 20/198), dressé par Benoît TORSY, maire. Témoins : Laurent THÉVENET, menuisier demeurant à Lyon, 36 ans, et Jean-Baptiste THÉVENET, propriétaire cultivateur à Tramayes, 33 ans, TOUS DEUX ONCLES DES ÉPOUX ; puis Me Jean-Marie SPAY, juge de paix, 38 ans, et Denis JAMBON, domestique, 38 ans. Un pouvoir notarié de Jean THÉVENET à sa femme Marie BELUZE, reçu le jour même par Me TORSY, notaire à Tramayes, est annexé à l'un des doubles."
    ],
    "branches": [
     "thevenet"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837"
    ]
   },
   "JF61": {
@@ -181293,6 +181797,66 @@
    "evenements": [],
    "notes": [
     "Famille monoparentale : Marcelle Eugénie JOURDREN est née le 12 août 1895 à Paris 4e « de père non dénommé », et reconnue par sa seule mère, Hélène Marie JOURDREN, le 27 août 1895 à la mairie du 12e. Le père n'est nommé ni dans l'acte de naissance, ni dans l'acte de mariage de 1921, où seule la mère comparaît et consent."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF65": {
+   "id": "JF65",
+   "pere": "JI145",
+   "mere": "JI146",
+   "enfants": [
+    "JI122"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de mariage de leur fils Joseph, à Tramayes le 18 janvier 1837 : « fils majeur des mariés Jean THÉVENET et Jeanne LAMAY, tous cultivateurs, demeurant audit Tramayes ». Tous deux vivants et présents. Leur mariage est antérieur à février 1811 : à chercher dans les registres de Tramayes."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF66": {
+   "id": "JF66",
+   "pere": "JI147",
+   "mere": "JI148",
+   "enfants": [
+    "JI123"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de mariage de leur fille Jeanne Marie, à Tramayes le 18 janvier 1837 : « fille mineure des défunts époux Antoine THÉVENET et Anne LAPALUS ». Lui meurt à Lyon le 7 février 1822, elle à Tramayes le 21 août 1830. Leur mariage est antérieur à janvier 1816."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF67": {
+   "id": "JF67",
+   "pere": "JI149",
+   "mere": "JI150",
+   "enfants": [
+    "JI147"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé comme « aïeul et aïeule » de Jeanne Marie THÉVENET dans son acte de mariage du 18 janvier 1837, où l'aïeule comparaît et consent en lieu et place des parents défunts. Ce sont donc les parents d'Antoine THÉVENET († Lyon 1822). Génération la plus ancienne de la branche Thévenet attestée par une source primaire."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "thevenet"
@@ -217920,13 +218484,17 @@
     "firstName": "Joseph",
     "lastName": "THÉVENET",
     "sex": "M",
+    "famc": "JF65",
     "fams": [
      "JF59"
     ],
     "birth": {
      "date": {
+      "day": 21,
+      "month": 2,
       "year": 1811
      },
+     "place": "Tramayes (71)",
      "type": "naissance"
     },
     "death": {
@@ -217943,13 +218511,17 @@
     "firstName": "Jeanne Marie",
     "lastName": "THÉVENET",
     "sex": "F",
+    "famc": "JF66",
     "fams": [
      "JF59"
     ],
     "birth": {
      "date": {
+      "day": 27,
+      "month": 1,
       "year": 1816
      },
+     "place": "Tramayes (71)",
      "type": "naissance"
     }
    },
@@ -218296,6 +218868,87 @@
      },
      "type": "naissance"
     }
+   },
+   {
+    "id": "JI145",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "fams": [
+     "JF65"
+    ]
+   },
+   {
+    "id": "JI146",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "LAMAY",
+    "sex": "F",
+    "fams": [
+     "JF65"
+    ]
+   },
+   {
+    "id": "JI147",
+    "hideId": true,
+    "firstName": "Antoine",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF67",
+    "fams": [
+     "JF66"
+    ],
+    "death": {
+     "date": {
+      "day": 7,
+      "month": 2,
+      "year": 1822
+     },
+     "place": "Lyon (69)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI148",
+    "hideId": true,
+    "firstName": "Anne",
+    "lastName": "LAPALUS",
+    "sex": "F",
+    "fams": [
+     "JF66"
+    ],
+    "death": {
+     "date": {
+      "day": 21,
+      "month": 8,
+      "year": 1830
+     },
+     "place": "Tramayes (71)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI149",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "fams": [
+     "JF67"
+    ]
+   },
+   {
+    "id": "JI150",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "BELUZE",
+    "sex": "F",
+    "fams": [
+     "JF67"
+    ]
    }
   ],
   "fams": [
@@ -231062,7 +231715,16 @@
      "JI139",
      "JI140",
      "JI141"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 18,
+      "month": 1,
+      "year": 1837
+     },
+     "place": "Tramayes (71)",
+     "type": "union"
+    }
    },
    {
     "id": "JF61",
@@ -231100,6 +231762,30 @@
     "children": [
      "JI113"
     ]
+   },
+   {
+    "id": "JF65",
+    "husb": "JI145",
+    "wife": "JI146",
+    "children": [
+     "JI122"
+    ]
+   },
+   {
+    "id": "JF66",
+    "husb": "JI147",
+    "wife": "JI148",
+    "children": [
+     "JI123"
+    ]
+   },
+   {
+    "id": "JF67",
+    "husb": "JI149",
+    "wife": "JI150",
+    "children": [
+     "JI147"
+    ]
    }
   ]
  },
@@ -231120,7 +231806,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 52
+   "personnes": 58
   },
   {
    "id": "vaurie",
@@ -231367,6 +232053,54 @@
    },
    "date": "1921",
    "lieu": "Paris 14e (75)"
+  },
+  "ad71-td-mariages-tramayes-1833-1842": {
+   "type": "table_decennale",
+   "titre": "Table décennale des mariages de Tramayes 1833-1842 : Thévenet Joseph × Thévenet Jeanne Marie",
+   "fichier": "assets/actes/france/71/ad71-td-mariages-tramayes-1833-1842.jpg",
+   "octets": 584645,
+   "sha256": "0974e62968f6b11a4374afec131bd5dfc211f555fd52cba436aa89832f137079",
+   "utilise_par": {
+    "individus": [
+     "JI122",
+     "JI123",
+     "JI145",
+     "JI146",
+     "JI147",
+     "JI148",
+     "JI149",
+     "JI150"
+    ],
+    "familles": [
+     "JF59"
+    ]
+   },
+   "date": "1837",
+   "lieu": "Tramayes (71)"
+  },
+  "ad71-mariage-thevenet-tramayes-1837": {
+   "type": "acte_mariage",
+   "titre": "Acte de mariage THÉVENET × THÉVENET, Tramayes, 18 janvier 1837, acte n° 2",
+   "fichier": "assets/actes/france/71/ad71-mariage-thevenet-tramayes-1837.jpg",
+   "octets": 624771,
+   "sha256": "fe30af30acce2a097c4442e3f1e26fa4fd0a3112187fbcea063429ce6f44ee61",
+   "utilise_par": {
+    "individus": [
+     "JI122",
+     "JI123",
+     "JI145",
+     "JI146",
+     "JI147",
+     "JI148",
+     "JI149",
+     "JI150"
+    ],
+    "familles": [
+     "JF59"
+    ]
+   },
+   "date": "1837",
+   "lieu": "Tramayes (71)"
   }
  }
 }
