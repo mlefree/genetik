@@ -124398,12 +124398,14 @@
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "**Patronyme corrigé le 31/08/2026 : GUIGUE, et non GUIGOU.** Son acte de mariage (AD13, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867) l'écrit GUIGUE **trois fois** — dans la marge, dans la table décennale et dans le corps de l'acte. GUIGOU, forme du relevé familial de 2006, est conservé comme variante. **À vérifier sur la fiche de sa fille AG11**, dont l'acte de naissance de 1868 n'a pas encore été lu et qui porte encore GUIGOU.",
     "ASCENDANCE ÉTABLIE par le même acte : « **fils majeur reconnu de feu sieur Jacques Michel Guigue, layetier, et de Dame Catherine Froucon, ménagère** », celle-ci présente et consentante. Son père est donc mort avant novembre 1867, sa mère vivante. Il est **tonnelier**, né à **Marseille le 26 décembre 1837** — l'arbre ne portait qu'un « vers 1838 ».",
-    "**Résultat négatif délimité, 31/08/2026** : sa naissance, portée au **26 décembre 1837 à Marseille** par son acte de mariage de 1867, **n'est indexée ni sous la lettre G, ni sous la lettre F, ni sous la lettre T** des tables décennales des naissances de Marseille 1833-1842. Décembre 1837 a été dépouillé en entier dans les trois lettres (registres 3 et 4). Le seul GUIGOU de l'année 1837 est *Lin Théophile, fils de Victor*, né le 5 mai — sans rapport. Trois hypothèses restent : le patronyme de la mère n'est ni FROUCON, ni TROUCON, ni FOUCOU (l'acte de 1867 dit « fils majeur **reconnu** », donc enfant naturel inscrit sous le nom de sa mère : c'est cette lecture qu'il faut reprendre en découpe IIIF) ; ou la date de 1837 est approchée ; ou la naissance n'est pas marseillaise."
+    "**Résultat négatif délimité, 31/08/2026** : sa naissance, portée au **26 décembre 1837 à Marseille** par son acte de mariage de 1867, **n'est indexée ni sous la lettre G, ni sous la lettre F, ni sous la lettre T** des tables décennales des naissances de Marseille 1833-1842. Décembre 1837 a été dépouillé en entier dans les trois lettres (registres 3 et 4). Le seul GUIGOU de l'année 1837 est *Lin Théophile, fils de Victor*, né le 5 mai — sans rapport. Trois hypothèses restent : le patronyme de la mère n'est ni FROUCON, ni TROUCON, ni FOUCOU (l'acte de 1867 dit « fils majeur **reconnu** », donc enfant naturel inscrit sous le nom de sa mère : c'est cette lecture qu'il faut reprendre en découpe IIIF) ; ou la date de 1837 est approchée ; ou la naissance n'est pas marseillaise.",
+    "**Le patronyme de sa mère est FIOUCON**, relu le 01/09/2026 en découpe IIIF ×10 sur l'acte de mariage de 1867 ; « FROUCON / TROUCON » était une mauvaise lecture. Comme il est « fils majeur **reconnu** », sa naissance a dû être enregistrée sous **FIOUCON**, donc à la **lettre F**. Voir `assets/france/13/marseille-mariage-guigue-filippi-1867/README.md`."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 22",
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ.",
-    "Résultat négatif délimité, Archives départementales des Bouches-du-Rhône, tables décennales des naissances de Marseille 1833-1842, lettres G (201 E 1441, vues 362-363), F (201 E 1441, vue 312) et T (201 E 1442, vue 278), décembre 1837 dépouillé en entier le 31/08/2026 : ad13-201E-1441-TD18-vue363-naissances-G-1837-dec-1838-janv.jpg."
+    "Résultat négatif délimité, Archives départementales des Bouches-du-Rhône, tables décennales des naissances de Marseille 1833-1842, lettres G (201 E 1441, vues 362-363), F (201 E 1441, vue 312) et T (201 E 1442, vue 278), décembre 1837 dépouillé en entier le 31/08/2026 : ad13-201E-1441-TD18-vue363-naissances-G-1837-dec-1838-janv.jpg.",
+    "Relecture IIIF du 01/09/2026, Archives départementales des Bouches-du-Rhône, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867, région IIIF 620,505,190,60 : ad13-201E-4722-vue184-zoom-nom-mere-fioucon-x10.jpg. Le patronyme de la mère se lit FIOUCON. Image lue : PROUVÉ."
    ],
    "familles": [
     "GF22"
@@ -124419,7 +124421,8 @@
    "generations_descendance": 6,
    "assets": [
     "ad13-mariage-guigue-filippi-1867",
-    "ad13-td-naissances-marseille-1833-1842-G-vue363"
+    "ad13-td-naissances-marseille-1833-1842-G-vue363",
+    "ad13-mariage-guigue-filippi-1867-zoom-nom-mere"
    ]
   },
   "AG23": {
@@ -124834,12 +124837,14 @@
     "**Filiation PROUVÉE le 31/08/2026** : son acte de décès (Marseille, 1er février 1899, 201 E 1118, vue 1, acte n° 377) le dit « fils de **Augustin ZUCCA** et de **Anne MATTA** ». Le couple `GF60`, jusqu'ici PROBABLE d'après le seul relevé familial de 2006, est désormais appuyé par une source primaire lue.",
     "**Correction de date** : l'arbre portait le décès au 1er février 1899. C'est la date de l'**acte** ; celui-ci dit « décédé hier à trois heures du soir », donc le **31 janvier 1899**.",
     "L'acte le dit **âgé de soixante-et-un ans** (naissance vers 1837-1838, ce que l'arbre portait déjà), **épicier**, **né à Castelnovo d'Asti (Italie)** et domicilié **avenue d'Arenc n° 328** à Marseille. Sa profession d'épicier, que le relevé familial donnait et que l'acte de naissance de 1873 contredisait (« journalier »), est donc vraie elle aussi, plus tard dans sa vie.",
-    "**Variante d'index** : la table décennale des décès 1893-1902 l'inscrit « **Zucco** » ; la marge et le corps de l'acte portent « **Zucca** ». Chercher les deux graphies."
+    "**Variante d'index** : la table décennale des décès 1893-1902 l'inscrit « **Zucco** » ; la marge et le corps de l'acte portent « **Zucca** ». Chercher les deux graphies.",
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 30",
     "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ.",
+    "Resultat negatif delimite, Antenati (antenati.cultura.gov.it), Archivio di Stato di Asti (IT-AT0079), inventaire du 01/09/2026 : le fonds Stato civile napoleonico couvre 1803/1804-1813/1814 et le fonds Stato civile italiano 1866-1930 ; il n'existe aucun fonds de la restauration, donc 1814-1865 n'est pas en ligne pour la province. Castelnuovo d'Asti (Castelnuovo Don Bosco) figure dans le fonds napoleonien avec 29 registres 1804-1813 (serie 266751) mais est absente du fonds italien 1866-1930. Index nominatif interroge sans succes : cognome=MATTA&localita_nascita=Castelnuovo, cognome=MATTA&localita=Castelnuovo et cognome=ZUCCA&nome=Giovanni&localita_nascita=Castelnuovo&anno_nascita_inizio=1830&anno_nascita_fine=1845 renvoient tous zero resultat. Voir assets/italie/asti/castelnuovo-antenati-2026-09-01/README.md."
    ],
    "familles": [
     "GF30"
@@ -124909,12 +124914,18 @@
     "Âge PROUVÉ le 31/08/2026 : l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873) la dit **vingt-trois ans**, donc née vers 1850 — ce que le relevé familial donnait déjà, désormais appuyé par un acte. Elle y est **ménagère** ; « épicière » vient d'une autre source et est conservé.",
     "**Son mariage avec Jean ZUCCA n'a pas eu lieu à Marseille**, ou pas dans les années couvertes : les tables décennales des mariages **1853-1858** (201 E 1456, lettre Z) et **1863-1872** (201 E 1465, lettre Z, deux vues) ont été dépouillées en entier, sans aucun ZUCCA. Le couple est pourtant dit « mariés » en 1873. Jean ZUCCA étant né à **Castelnuovo d'Asti**, le mariage est vraisemblablement **piémontais**. Trou restant à combler : **1859-1862**, absent de la vue mise en ligne.",
     "**Profession d'épicière PROUVÉE le 31/08/2026** : l'acte de décès de son mari (Marseille, 1er février 1899) la dit « **Dominique MATTA, épicière** ». Elle est donc **vivante au 31 janvier 1899**, à quarante-neuf ans environ, avenue d'Arenc n° 328.",
-    "**Prochaine cible pour la faire sortir du front** : son propre acte de décès, qui nommerait ses parents. Elle est vivante en janvier 1899 : commencer par la table décennale des décès de Marseille **1893-1902, lettre M** (années 1899-1902 seulement), puis les tables postérieures. Le patronyme MATTA étant piémontais comme celui de son mari, et la mère de celui-ci s'appelant **Anne MATTA**, les deux familles sont vraisemblablement alliées à **Castelnuovo d'Asti** avant l'émigration."
+    "**Prochaine cible pour la faire sortir du front** : son propre acte de décès, qui nommerait ses parents. Elle est vivante en janvier 1899 : commencer par la table décennale des décès de Marseille **1893-1902, lettre M** (années 1899-1902 seulement), puis les tables postérieures. Le patronyme MATTA étant piémontais comme celui de son mari, et la mère de celui-ci s'appelant **Anne MATTA**, les deux familles sont vraisemblablement alliées à **Castelnuovo d'Asti** avant l'émigration.",
+    "**Résultat négatif délimité, 01/09/2026** : elle **ne figure pas** dans la table décennale des décès de Marseille **1893-1902, lettre M** (AD13 `201 E 1494`, ARK `vtab2ba69d519b58217`, 166 vues) pour les années où elle pouvait y être. Périmètre exactement lu : le bloc `Ma` **entier** de **1899** (vues 99-109) et de **1900** (vues 118-127), et le groupe `Mat` à pleine résolution de **1901** (vues 142-143 : dix MATTEI, un MATTEO, un MATTEODA, un MATTERA, un MATTEUCCI, aucune MATTA) et de **1902** (vues 156-157 : les « Matte » ne sont que des **MASSE**). Un « Matta » repéré en vue 124 est, au grossissement, **MASSA**.",
+    "**Structure de ce volume, établie le 01/09/2026 et à réutiliser** : il ne contient que la lettre M pour dix ans ; il est classé par **millésime** (mention centrée dans la colonne des noms), puis par **groupe patronymique** `Ma`, `Me`, `Mi`, `Mo`, `Mou/Mu`, puis par **racine consonantique** dont l'ordre change d'une année à l'autre — on ne peut donc pas sauter directement à `Mat`. Débuts de millésime relevés : 1893 = vue 2, **1899 = vue 99**, **1900 = vue 118**, **1901 = vue 135**, 1902 ≈ vue 151. Environ 16 vues par an, dont 9 à 11 pour le seul bloc `Ma`.",
+    "**Suites, par ordre de rendement** : (1) relire **en entier** la lettre **Z** de la même décennie (`201 E 1495`, 6 vues, dont seule la vue 5 a été lue) — une veuve est parfois inscrite au nom de son mari, « Zucca / Zucco, Dominique, veuve » ; (2) tables décennales des décès de Marseille **1903-1912** puis **1913-1922**, lettres M et Z — née vers 1850, elle peut mourir jusque dans les années 1930 ; (3) le fichier INSEE ne commence qu'en 1970 et ne servira pas ici.",
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 31",
     "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ.",
+    "Résultat négatif délimité, Archives départementales des Bouches-du-Rhône, table décennale des décès de Marseille 1893-1902, lettre M, cote 201 E 1494, ARK https://www.archives13.fr/ark:/40700/vtab2ba69d519b58217 , 166 vues. Dépouillement du 01/09/2026 : bloc Ma entier de 1899 (vues 99-109) et de 1900 (vues 118-127), groupe Mat de 1901 (vues 142-143) et de 1902 (vues 156-157). Aucune MATTA. Vues témoins : ad13-201E-1494-TD99-vue99-millesime-1899-lettre-M.jpg, ad13-201E-1494-TD99-vue124-groupe-Mat-1900.jpg, ad13-201E-1494-TD99-vue143-groupe-Mat-1901.jpg, ad13-201E-1494-TD99-vue157-groupe-Mas-Mat-1902.jpg.",
+    "Resultat negatif delimite, Antenati (antenati.cultura.gov.it), Archivio di Stato di Asti (IT-AT0079), inventaire du 01/09/2026 : le fonds Stato civile napoleonico couvre 1803/1804-1813/1814 et le fonds Stato civile italiano 1866-1930 ; il n'existe aucun fonds de la restauration, donc 1814-1865 n'est pas en ligne pour la province. Castelnuovo d'Asti (Castelnuovo Don Bosco) figure dans le fonds napoleonien avec 29 registres 1804-1813 (serie 266751) mais est absente du fonds italien 1866-1930. Index nominatif interroge sans succes : cognome=MATTA&localita_nascita=Castelnuovo, cognome=MATTA&localita=Castelnuovo et cognome=ZUCCA&nome=Giovanni&localita_nascita=Castelnuovo&anno_nascita_inizio=1830&anno_nascita_fine=1845 renvoient tous zero resultat. Voir assets/italie/asti/castelnuovo-antenati-2026-09-01/README.md."
    ],
    "familles": [
     "GF30"
@@ -124931,7 +124942,8 @@
     "ad13-naissance-zucca-1873",
     "ad13-deces-jean-zucca-1899",
     "ad13-deces-jean-zucca-1899-detail",
-    "ad13-td-deces-marseille-1893-1902-Z"
+    "ad13-td-deces-marseille-1893-1902-Z",
+    "ad13-td-deces-1893-1902-M-vue143-negatif-matta"
    ]
   },
   "AG34": {
@@ -126401,11 +126413,13 @@
    "evenements": [],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "**PROUVÉ le 31/08/2026 comme père** : l'acte de décès de son fils Jean à Marseille (1er février 1899, 201 E 1118, vue 1, acte n° 377) le nomme « Augustin ZUCCA ». Son fils étant né vers 1837-1838 à **Castelnuovo d'Asti** (Piémont, aujourd'hui Castelnuovo Don Bosco, province d'Asti), c'est là qu'il faut chercher son propre acte de mariage avec Anne MATTA et son acte de décès."
+    "**PROUVÉ le 31/08/2026 comme père** : l'acte de décès de son fils Jean à Marseille (1er février 1899, 201 E 1118, vue 1, acte n° 377) le nomme « Augustin ZUCCA ». Son fils étant né vers 1837-1838 à **Castelnuovo d'Asti** (Piémont, aujourd'hui Castelnuovo Don Bosco, province d'Asti), c'est là qu'il faut chercher son propre acte de mariage avec Anne MATTA et son acte de décès.",
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 60",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ.",
+    "Resultat negatif delimite, Antenati (antenati.cultura.gov.it), Archivio di Stato di Asti (IT-AT0079), inventaire du 01/09/2026 : le fonds Stato civile napoleonico couvre 1803/1804-1813/1814 et le fonds Stato civile italiano 1866-1930 ; il n'existe aucun fonds de la restauration, donc 1814-1865 n'est pas en ligne pour la province. Castelnuovo d'Asti (Castelnuovo Don Bosco) figure dans le fonds napoleonien avec 29 registres 1804-1813 (serie 266751) mais est absente du fonds italien 1866-1930. Index nominatif interroge sans succes : cognome=MATTA&localita_nascita=Castelnuovo, cognome=MATTA&localita=Castelnuovo et cognome=ZUCCA&nome=Giovanni&localita_nascita=Castelnuovo&anno_nascita_inizio=1830&anno_nascita_fine=1845 renvoient tous zero resultat. Voir assets/italie/asti/castelnuovo-antenati-2026-09-01/README.md."
    ],
    "familles": [
     "GF60"
@@ -126435,11 +126449,13 @@
    "evenements": [],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "**PROUVÉE le 31/08/2026 comme mère** : l'acte de décès de son fils Jean à Marseille (1er février 1899) la nomme « **Anne MATTA** ». Le relevé familial disait déjà MATTA ; l'acte le confirme. À noter : son fils a épousé une **Dominique MATTA** — les deux familles ZUCCA et MATTA sont donc alliées deux fois, ce qui oriente la recherche vers une même paroisse de **Castelnuovo d'Asti**."
+    "**PROUVÉE le 31/08/2026 comme mère** : l'acte de décès de son fils Jean à Marseille (1er février 1899) la nomme « **Anne MATTA** ». Le relevé familial disait déjà MATTA ; l'acte le confirme. À noter : son fils a épousé une **Dominique MATTA** — les deux familles ZUCCA et MATTA sont donc alliées deux fois, ce qui oriente la recherche vers une même paroisse de **Castelnuovo d'Asti**.",
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 61",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ.",
+    "Resultat negatif delimite, Antenati (antenati.cultura.gov.it), Archivio di Stato di Asti (IT-AT0079), inventaire du 01/09/2026 : le fonds Stato civile napoleonico couvre 1803/1804-1813/1814 et le fonds Stato civile italiano 1866-1930 ; il n'existe aucun fonds de la restauration, donc 1814-1865 n'est pas en ligne pour la province. Castelnuovo d'Asti (Castelnuovo Don Bosco) figure dans le fonds napoleonien avec 29 registres 1804-1813 (serie 266751) mais est absente du fonds italien 1866-1930. Index nominatif interroge sans succes : cognome=MATTA&localita_nascita=Castelnuovo, cognome=MATTA&localita=Castelnuovo et cognome=ZUCCA&nome=Giovanni&localita_nascita=Castelnuovo&anno_nascita_inizio=1830&anno_nascita_fine=1845 renvoient tous zero resultat. Voir assets/italie/asti/castelnuovo-antenati-2026-09-01/README.md."
    ],
    "familles": [
     "GF60"
@@ -147788,7 +147804,7 @@
   "AG45": {
    "id": "AG45",
    "prenom": "Catherine",
-   "nom": "FROUCON",
+   "nom": "FIOUCON",
    "nom_jeune_fille": "",
    "surnom": "",
    "suffixe": "",
@@ -147813,10 +147829,13 @@
    "images": [],
    "notes": [
     "Mère d'Auguste Étienne Démocrite GUIGUE, épouse de Jacques Michel GUIGUE. Nommée par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867, où elle est **présente et consentante**, ménagère — donc vivante et veuve en novembre 1867.",
-    "**Lecture réservée** : le patronyme se lit FROUCON, mais l'initiale peut être un F ou un T. Ne pas le propager sans une seconde source."
+    "**Lecture réservée** : le patronyme se lit FROUCON, mais l'initiale peut être un F ou un T. Ne pas le propager sans une seconde source.",
+    "**Patronyme corrigé le 01/09/2026 : FIOUCON**, et non FROUCON. La ligne de filiation de l'acte de mariage de son fils (AD13, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28/11/1867) a été relue en découpe de région IIIF au grossissement **×10** (`620,505,190,60` rendu à `1900,`). La majuscule initiale est un **F** de ronde à double boucle barrée — **le même glyphe exactement que le F de « Filippi »** tracé quatre lignes plus bas par la même main sur la même page — et la deuxième lettre est un **`i` pointé**, non un `r`. Suivent `o`, `u`, `c`, `o`, `n`. Les lectures antérieures « FROUCON » et « TROUCON » sont **fausses** et conservées seulement comme variantes de lecture datées du 31/08/2026. Seule reste discutable la voyelle avant le `n` final : FIOUCON ou FIOUCAN.",
+    "**Conséquence de recherche** : son fils étant dit « fils majeur **reconnu** », il a été inscrit à sa naissance **sous le nom de sa mère**. La naissance du 26 décembre 1837 est donc à chercher sous **FIOUCON, lettre F** des tables décennales des naissances de Marseille 1833-1842. Décembre 1837 y a déjà été dépouillé en entier sans résultat le 31/08/2026 : reprendre par **janvier-juin 1838**, un enfant naturel étant souvent déclaré avec retard et la table classant à la date de l'**acte**."
    ],
    "sources": [
-    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ.",
+    "Relecture IIIF du 01/09/2026, Archives départementales des Bouches-du-Rhône, acte de mariage de son fils, Marseille 6e, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867 : ad13-201E-4722-vue184-zoom-nom-mere-fioucon-x10.jpg (région IIIF 620,505,190,60) et ad13-201E-4722-vue184-zoom-nom-mere-fioucon.jpg (région 430,440,760,130). Image lue : PROUVÉ pour la graphie FIOUCON."
    ],
    "associations": [],
    "famille_origine": null,
@@ -147832,7 +147851,9 @@
     "gimie"
    ],
    "assets": [
-    "ad13-mariage-guigue-filippi-1867"
+    "ad13-mariage-guigue-filippi-1867",
+    "ad13-mariage-guigue-filippi-1867-zoom-nom-mere",
+    "ad13-mariage-guigue-filippi-1867-filiation-epoux"
    ]
   },
   "LI30001": {
@@ -183089,7 +183110,8 @@
    ],
    "assets": [
     "ad13-mariage-guigue-filippi-1867",
-    "ad13-td-naissances-marseille-1833-1842-G-vue363"
+    "ad13-td-naissances-marseille-1833-1842-G-vue363",
+    "ad13-mariage-guigue-filippi-1867-zoom-nom-mere"
    ]
   },
   "GF28": {
@@ -187250,7 +187272,8 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Couple nommé par l'acte de mariage de leur fils, Marseille 6e, 28 novembre 1867. Le père y est dit défunt, la mère présente et consentante."
+    "Couple nommé par l'acte de mariage de leur fils, Marseille 6e, 28 novembre 1867. Le père y est dit défunt, la mère présente et consentante.",
+    "Le patronyme de la mère est relu **FIOUCON** le 01/09/2026 (découpe IIIF ×10 de l'acte de mariage de 1867) ; « FROUCON » était une mauvaise lecture de l'initiale et de la deuxième lettre."
    ],
    "sources": [
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
@@ -225251,7 +225274,7 @@
     "id": "AG45",
     "hideId": true,
     "firstName": "Catherine",
-    "lastName": "FROUCON",
+    "lastName": "FIOUCON",
     "sex": "F",
     "fams": [
      "GF44"
@@ -239720,6 +239743,60 @@
    "lieu": "Sainte-Mère-Église (50)",
    "cote": "AD50, 5 Mi 1914, BMS 1667-1673, fiche 622606, vue 121/141",
    "url": "https://www.archives-manche.fr/_recherche-images/show/622606/image/1935446/120"
+  },
+  "ad13-mariage-guigue-filippi-1867-zoom-nom-mere": {
+   "type": "detail_acte",
+   "titre": "Marseille 1867 — le patronyme de la mère de l'époux relu à la loupe : FIOUCON",
+   "fichier": "assets/actes/france/13/ad13-mariage-guigue-filippi-1867-zoom-nom-mere.jpg",
+   "octets": 40851,
+   "sha256": "79d1aabe25e20e9cf6af6104f5a22de206ab999bdb8bb2d01344631ac2aac07c",
+   "utilise_par": {
+    "individus": [
+     "AG22",
+     "AG45"
+    ],
+    "familles": [
+     "GF22"
+    ]
+   },
+   "date": "1867-11-28",
+   "lieu": "Marseille 6e (13)",
+   "cote": "AD13, 201 E 4722, vue 184, acte n° 358, région IIIF 620,505,190,60",
+   "url": "https://www.archives13.fr/iiif/Etat_civil/AD13_201E_00781M/AD13_201E_4722_0184.jpg/620,505,190,60/1900,/0/default.jpg"
+  },
+  "ad13-mariage-guigue-filippi-1867-filiation-epoux": {
+   "type": "detail_acte",
+   "titre": "Marseille 1867 — lignes de filiation de l'époux : Jacques Michel GUIGUE, layetier, et Catherine FIOUCON",
+   "fichier": "assets/actes/france/13/ad13-mariage-guigue-filippi-1867-filiation-epoux.jpg",
+   "octets": 76414,
+   "sha256": "7b34ca6801ce26abe9f3d692da1212e9be6680106438ec6f076a98c7d0c8769b",
+   "utilise_par": {
+    "individus": [
+     "AG45"
+    ],
+    "familles": []
+   },
+   "date": "1867-11-28",
+   "lieu": "Marseille 6e (13)",
+   "cote": "AD13, 201 E 4722, vue 184, acte n° 358, région IIIF 430,440,760,130",
+   "url": "https://www.archives13.fr/iiif/Etat_civil/AD13_201E_00781M/AD13_201E_4722_0184.jpg/430,440,760,130/2200,/0/default.jpg"
+  },
+  "ad13-td-deces-1893-1902-M-vue143-negatif-matta": {
+   "type": "table_decennale",
+   "titre": "Marseille, table décennale des décès 1893-1902, lettre M — le groupe MAT de 1901, sans aucune MATTA",
+   "fichier": "assets/actes/france/13/ad13-td-deces-1893-1902-M-vue143-negatif-matta.jpg",
+   "octets": 309260,
+   "sha256": "dfe29441b0c34717f962721dcdcc8a90be57e867f06ebad2fc029b54301b9204",
+   "utilise_par": {
+    "individus": [
+     "AG31"
+    ],
+    "familles": []
+   },
+   "date": "1901",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1494, table décennale des décès 1893-1902 lettre M, vue 143",
+   "url": "https://www.archives13.fr/ark:/40700/vtab2ba69d519b58217"
   }
  }
 }
