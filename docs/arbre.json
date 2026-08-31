@@ -21,7 +21,7 @@
  "statistiques": {
   "individus": 1759,
   "familles": 915,
-  "masques": 8,
+  "masques": 11,
   "generations_max": 41,
   "profondeur_descendance_max": 40,
   "patronymes": [
@@ -116959,7 +116959,7 @@
    "vivant": false,
    "annee_naissance": 1948,
    "annee_deces": 2020,
-   "generations_ascendance": 1,
+   "generations_ascendance": 4,
    "generations_descendance": 2,
    "branches": [
     "thevenet"
@@ -117134,23 +117134,35 @@
    ],
    "images": [],
    "notes": [
-    "Père certain de Michel André THÉVENET et conjoint d'Arlette BAZZOLO. PROUVÉ pour l'identité civile — le fichier INSEE confirme André Antoine THÉVENET, né le 19/03/1926 à Paris 10e et décédé le 29/12/2002 à Montfermeil, acte n° 754. La filiation avec Michel demeure fondée sur l'information familiale et Family Echo."
+    "Père certain de Michel André THÉVENET et conjoint d'Arlette BAZZOLO. PROUVÉ pour l'identité civile — le fichier INSEE confirme André Antoine THÉVENET, né le 19/03/1926 à Paris 10e et décédé le 29/12/2002 à Montfermeil, acte n° 754. La filiation avec Michel demeure fondée sur l'information familiale et Family Echo.",
+    "PROUVÉ pour le lieu de naissance : la table décennale des naissances du 10e arrondissement de Paris pour 1923-1932 porte « Thévenet — André Antoine — 20 mars 1926 ». La date est celle de l'acte, dressé le lendemain de la naissance du 19 mars que donne le fichier INSEE ; le même décalage d'un jour se vérifie sur ses voisins de colonne dont l'INSEE donne aussi les dates. L'identification issue de Family Echo et de l'INSEE est donc confirmée par le registre parisien lui-même. Sa filiation reste inconnue : l'acte de naissance lui-même n'est pas en ligne, les naissances parisiennes ne l'étant que jusqu'en 1918.",
+    "Identification confirmée par le propriétaire de l'arbre le 30/08/2026 devant la ligne de la table décennale du 10e arrondissement : « c'est lui ». Le lieu de naissance parisien est donc acquis à la fois par le registre et par la famille.",
+    "FILIATION TROUVÉE le 30/08/2026 : fils d'Antoine THÉVENET (1889-1978) et de Marcelle Eugénie JOURDREN (1895-1975), d'après l'arbre Geneanet d'Alain LARGE (alla224), qui le donne né le 19 mars 1926 et mort le 29 décembre 2002 à Montfermeil, marié à « Arlette ?? », et lui donne une sœur, présumée vivante et donc non nommée ici. Statut : information familiale CONFIRMÉE des deux côtés — par la sœur d'André via l'arbre alla224, et par le propriétaire de notre arbre le 31/08/2026 — mais toujours pas portée par un acte. Elle concorde toutefois avec tout ce qui est prouvé — dates exactes, épouse Arlette — et avec le prénom de la sœur, que le propriétaire de notre arbre avait donné avant que cette fiche ne soit trouvée.",
+    "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche."
    ],
    "sources": [
-    "Filiation confirmée directement par la famille en août 2026 ; arbre familial Family Echo communiqué par un cousin, fiche XE1AA consultée le 30/08/2026 ; fichier nominatif officiel des personnes décédées de l'INSEE, correction/source 2003 ligne 1174, identifiant MatchID pA_2ylqTAFlH, Montfermeil, acte n° 754"
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Table décennale des naissances du 10e arrondissement de Paris 1923-1932, Archives de Paris cote V11E 228, volume « Tessier → Tiran », vue 3/11, feuillet 53 : « Thévenet — André Antoine — 20 mars 1926 ». IMAGE LUE le 30/08/2026 ; capture V11E228-vue3-td-naissances-paris10-1923-1932-thevenet.png",
+    "Filiation confirmée directement par la famille en août 2026 ; arbre familial Family Echo communiqué par un cousin, fiche XE1AA consultée le 30/08/2026 ; fichier nominatif officiel des personnes décédées de l'INSEE, correction/source 2003 ligne 1174, identifiant MatchID pA_2ylqTAFlH, Montfermeil, acte n° 754",
+    "Identification confirmée par le propriétaire de l'arbre le 30/08/2026",
+    "Index acte-deces.fr pour Montfermeil 2002 : « André THEVENET (André Antoine THEVENET) décédé le 29 décembre 2002 à l'âge de 76 ans et né à Paris 10e arrondissement le 19 mars 1926, acte numéro 000000754 » — https://www.acte-deces.fr/acte-de-deces-montfermeil-2002, consulté le 30/08/2026. Second index dérivé du fichier INSEE, concordant champ par champ avec le relevé MatchID ; il ne porte pas la filiation.",
+    "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF57",
    "familles": [
     "JF3"
    ],
    "vivant": false,
    "annee_naissance": 1926,
    "annee_deces": 2002,
-   "generations_ascendance": 0,
+   "generations_ascendance": 3,
    "generations_descendance": 3,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "paris10-td-naissances-1923-1932-thevenet"
    ]
   },
   "JI68": {
@@ -117262,20 +117274,25 @@
    "images": [],
    "notes": [],
    "sources": [
-    "Filiation confirmée directement par la famille en août 2026 ; fichier des personnes décédées de l’INSEE 2019 ligne 463447, identifiant MatchID L3X7FwLmQNvq, acte de décès n° 629"
+    "Filiation confirmée directement par la famille en août 2026 ; fichier des personnes décédées de l’INSEE 2019 ligne 463447, identifiant MatchID L3X7FwLmQNvq, acte de décès n° 629",
+    "Table décennale des naissances de Sevran 1923-1932, AD93 cote 1E071/64 vue 59 : ligne « Marie Thérèse Arlette — 22 avril », colonne des noms arrachée ; captures 1E071-64-vue59-detail-ligne-marie-therese-arlette.png et 1E071-64-vue59-td-naissances-1923-1932-lettre-B.png"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF52",
    "familles": [
     "JF3"
    ],
    "vivant": false,
    "annee_naissance": 1926,
    "annee_deces": 2019,
-   "generations_ascendance": 0,
+   "generations_ascendance": 3,
    "generations_descendance": 3,
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "sevran-td-naissances-1923-1932-arlette",
+    "sevran-td-naissances-1923-1932-page"
    ]
   },
   "JI69": {
@@ -136774,6 +136791,1569 @@
    ],
    "generations_ascendance": 0,
    "generations_descendance": 14
+  },
+  "JI100": {
+   "id": "JI100",
+   "prenom": "Teresa",
+   "nom": "MORANDIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "13 FEB 1901",
+     "date": {
+      "annee": 1901,
+      "mois": 2,
+      "jour": 13
+     }
+    },
+    "lieu": "Legnaro, frazione Abbà n° 67 (Italie)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "14 NOV 1997",
+     "date": {
+      "annee": 1997,
+      "mois": 11,
+      "jour": 14
+     }
+    },
+    "lieu": "Sevran (93)",
+    "commune": {
+     "nom": "Sevran",
+     "code": "93071",
+     "departement": "93",
+     "actuelle": "Sevran",
+     "coordonnees": [
+      2.5311,
+      48.9378
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "13 FEB 1901",
+      "date": {
+       "annee": 1901,
+       "mois": 2,
+       "jour": 13
+      }
+     },
+     "lieu": "Legnaro, frazione Abbà n° 67 (Italie)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "14 NOV 1997",
+      "date": {
+       "annee": 1997,
+       "mois": 11,
+       "jour": 14
+      }
+     },
+     "lieu": "Sevran (93)",
+     "commune": {
+      "nom": "Sevran",
+      "code": "93071",
+      "departement": "93",
+      "actuelle": "Sevran",
+      "coordonnees": [
+       2.5311,
+       48.9378
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Marie Thérèse Arlette BAZZOLO. Connue dans la famille sous son nom d'épouse, Thérèse BAZZOLO ; MORANDIN est son nom de naissance, celui que porte le fichier de l'INSEE. PROUVÉ pour l'identité civile — née le 13/02/1901 à Legnaro, province de Padoue, décédée le 14/11/1997 à Sevran à 96 ans, acte n° 430. La filiation avec Arlette repose sur l'information familiale, confirmée par le propriétaire de l'arbre le 30/08/2026, et n'est pas encore portée par un acte.",
+    "Acte de naissance retrouvé le 30/08/2026 : Legnaro, 13 février 1901, acte n° 13, fille de Giovanni Battista MORANDIN et de Rosa Santa VOLTAN. La date correspond exactement à celle du fichier INSEE, ce qui confirme l'identification. Elle épouse Cesare BAZZOLO à Padoue le 4 mai 1923, à 22 ans, acte n° 16.",
+    "Acte n° 13 lu en image le 30/08/2026. Née le 13 février 1901 à onze heures, dans la maison sise frazione Abbà au numéro 67, à Legnaro. Déclaration reçue le 17 février 1901 à onze heures du matin à la maison communale par le secrétaire délégué du maire, officier de l'état civil de Legnaro. Déclarant : le père, Morandin Giovanni Battista, villico, domicilié à Legnaro. Mère : Voltan Rosa Santa, son épouse, vivant avec lui. Témoins : Paccagnella Giovanni, 43 ans, et Bacchin Giovanni, 66 ans, tous deux résidant dans la commune, ce dernier déclaré analphabète. L'officier dispensa le déclarant de présenter l'enfant en raison de l'éloignement du lieu de naissance.",
+    "Mention marginale de l'acte : « Nel 4-5-1923 ha celebrato matrimonio con Bazzolo Cesare nel Comune di Legnaro e l'atto fu inserito al N. 16 », annotée à Padoue par le cancelliere. C'est le lien documentaire direct entre son acte de naissance et son mariage."
+   ],
+   "sources": [
+    "Acte de naissance n° 13, Legnaro, registre « Anno 1901 », image 8/63 du lot « Legnaro. Birth Records 1901 », film 1848805 / DGS 4112574 — IMAGE LUE le 30/08/2026, https://www.familysearch.org/ark:/61903/3:1:939K-RZ3G-D9 ; captures dans legnaro-etat-civil-2026-08-30/",
+    "Acte de naissance n° 13, Legnaro, 13 février 1901 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:X3W2-4MWR, consulté le 30/08/2026 ; microfilm 1848805, image group DGS 4112574, registre « Anno 1901 » à l'image 474",
+    "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
+    "Fichier nominatif officiel des personnes décédées de l'INSEE, source 1998 ligne 1639, identifiant MatchID QbbAS3NiDmyS, Sevran, acte de décès n° 00430 ; identification confirmée par le propriétaire de l'arbre le 30/08/2026 ; insee-morandin-bazzolo-2026-08-30/",
+    "Acte de naissance n° 13, Legnaro, 13 février 1901, image lue le 30/08/2026 ; captures legnaro-1901-nati-acte13-morandin-teresa.png et legnaro-1901-nati-acte13-detail-mention-marginale.png"
+   ],
+   "associations": [],
+   "famille_origine": "JF54",
+   "familles": [
+    "JF52"
+   ],
+   "vivant": false,
+   "annee_naissance": 1901,
+   "annee_deces": 1997,
+   "generations_ascendance": 2,
+   "generations_descendance": 4,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI101": {
+   "id": "JI101",
+   "prenom": "Cesare",
+   "nom": "BAZZOLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1897",
+     "date": {
+      "annee": 1897
+     }
+    },
+    "lieu": "Ribeirão Preto (Brésil)"
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    "villico"
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1897",
+      "date": {
+       "annee": 1897
+      }
+     },
+     "lieu": "Ribeirão Preto (Brésil)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Marie Thérèse Arlette BAZZOLO et époux de Teresa MORANDIN, qu'il épouse à Padoue le 4 mai 1923. PROUVÉ par l'acte de mariage n° 16 : Cesare BAZZOLO, 26 ans, villico, né vers 1897 à « Ribiera Preto », c'est-à-dire Ribeirão Preto au Brésil, fils de Daniele BAZZOLO et de Giuditta STIVANELLO. Prénom confirmé par le propriétaire de l'arbre le 30/08/2026. Sa naissance au Brésil situe la famille dans le grand mouvement d'émigration vénète vers les plantations de café de São Paulo à la fin du XIXe siècle, suivi d'un retour en Vénétie : la famille aura donc migré deux fois avant de gagner la France.",
+    "Il n'apparaît pas dans le fichier des décès de l'INSEE, où BAZZOLO ne compte qu'une seule occurrence depuis 1970 : il est décédé avant 1970 ou hors de France.",
+    "L'acte de mariage lui donne 26 ans et la profession de villico, comme son beau-père. L'image de cet acte n'est pas consultable en ligne : la bobine Matrimoni 1922-1929 de Legnaro, film 2337263 / DGS 4113924, est verrouillée par restriction contractuelle et n'est visible que depuis un FamilySearch Center ou une bibliothèque affiliée."
+   ],
+   "sources": [
+    "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
+    "Prénom confirmé par le propriétaire de l'arbre le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": "JF53",
+   "familles": [
+    "JF52"
+   ],
+   "vivant": false,
+   "annee_naissance": 1897,
+   "annee_deces": null,
+   "annee_estimee": 1898,
+   "generations_ascendance": 2,
+   "generations_descendance": 4,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI102": {
+   "id": "JI102",
+   "prenom": "Daniele",
+   "nom": "BAZZOLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1853",
+     "date": {
+      "annee": 1853
+     }
+    },
+    "lieu": "Legnaro (Italie)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "9 FEB 1927",
+     "date": {
+      "annee": 1927,
+      "mois": 2,
+      "jour": 9
+     }
+    },
+    "lieu": "Padoue (Italie)"
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1853",
+      "date": {
+       "annee": 1853
+      }
+     },
+     "lieu": "Legnaro (Italie)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "9 FEB 1927",
+      "date": {
+       "annee": 1927,
+       "mois": 2,
+       "jour": 9
+      }
+     },
+     "lieu": "Padoue (Italie)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Cesare BAZZOLO et époux de Giuditta STIVANELLO, nommé dans l'acte de mariage de son fils à Padoue le 4 mai 1923. Un autre fils, Mosè BAZZOLO, apparaît dans la même collection. La famille est de Legnaro, province de Padoue, et a séjourné au Brésil, Cesare y étant né vers 1897.",
+    "Né vers 1853 à Legnaro, fils d'Angelo BAZZOLO et de Maria FAVARON. Épouse Giuditta STIVANELLO à Padoue le 20 mars 1881. Décédé à Padoue le 9 février 1927. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Le fait que Cesare naisse au Brésil vers 1897 place le séjour brésilien de la famille entre deux séries de naissances vénètes."
+   ],
+   "sources": [
+    "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": "JF55",
+   "familles": [
+    "JF53"
+   ],
+   "vivant": false,
+   "annee_naissance": 1853,
+   "annee_deces": 1927,
+   "generations_ascendance": 1,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI103": {
+   "id": "JI103",
+   "prenom": "Giuditta",
+   "nom": "STIVANELLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Cesare BAZZOLO et épouse de Daniele BAZZOLO, nommée dans l'acte de mariage de son fils à Padoue le 4 mai 1923.",
+    "Épouse Daniele BAZZOLO à Padoue le 20 mars 1881."
+   ],
+   "sources": [
+    "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF53"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1872
+  },
+  "JI104": {
+   "id": "JI104",
+   "prenom": "Giovanni Battista",
+   "nom": "MORANDIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1869",
+     "date": {
+      "annee": 1869
+     }
+    },
+    "lieu": "Legnaro (Italie)"
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    "villico"
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1869",
+      "date": {
+       "annee": 1869
+      }
+     },
+     "lieu": "Legnaro (Italie)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Teresa MORANDIN et époux de Rosa Santa VOLTAN, nommé dans l'acte de naissance n° 13 de sa fille à Legnaro le 13 février 1901 et dans son acte de mariage de 1923.",
+    "Villico, domicilié à Legnaro, frazione Abbà n° 67 en 1901. Épouse Rosa Santa VOLTAN à Legnaro le 15 mars 1896. Fils d'Agostino MORANDIN et de Beatrice MASUTTO."
+   ],
+   "sources": [
+    "Acte de naissance n° 13, Legnaro, registre « Anno 1901 », image 8/63 du lot « Legnaro. Birth Records 1901 », film 1848805 / DGS 4112574 — IMAGE LUE le 30/08/2026, https://www.familysearch.org/ark:/61903/3:1:939K-RZ3G-D9 ; captures dans legnaro-etat-civil-2026-08-30/",
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": "JF56",
+   "familles": [
+    "JF54"
+   ],
+   "vivant": false,
+   "annee_naissance": 1869,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1872
+  },
+  "JI105": {
+   "id": "JI105",
+   "prenom": "Rosa Santa",
+   "nom": "VOLTAN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Teresa MORANDIN et épouse de Giovanni Battista MORANDIN, nommée dans l'acte de naissance n° 13 de sa fille à Legnaro le 13 février 1901 et dans son acte de mariage de 1923.",
+    "Épouse Giovanni Battista MORANDIN à Legnaro le 15 mars 1896. En 1901 elle vit avec lui à Legnaro, frazione Abbà n° 67. L'acte de naissance de sa fille la qualifie d'un mot lu « colica », probablement « colona », c'est-à-dire métayère : à confirmer sur une autre pièce."
+   ],
+   "sources": [
+    "Acte de naissance n° 13, Legnaro, registre « Anno 1901 », image 8/63 du lot « Legnaro. Birth Records 1901 », film 1848805 / DGS 4112574 — IMAGE LUE le 30/08/2026, https://www.familysearch.org/ark:/61903/3:1:939K-RZ3G-D9 ; captures dans legnaro-etat-civil-2026-08-30/",
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF54"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1875
+  },
+  "JI106": {
+   "id": "JI106",
+   "prenom": "Luigia",
+   "nom": "BAZZOLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1923",
+     "date": {
+      "annee": 1923
+     }
+    },
+    "lieu": "Legnaro (Italie)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "8 SEP 1923",
+     "date": {
+      "annee": 1923,
+      "mois": 9,
+      "jour": 8
+     }
+    },
+    "lieu": "Padoue (Italie)"
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1923",
+      "date": {
+       "annee": 1923
+      }
+     },
+     "lieu": "Legnaro (Italie)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "8 SEP 1923",
+      "date": {
+       "annee": 1923,
+       "mois": 9,
+       "jour": 8
+      }
+     },
+     "lieu": "Padoue (Italie)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Sœur aînée de Marie Thérèse Arlette BAZZOLO, premier enfant de Cesare BAZZOLO et de Teresa MORANDIN, mariés à Padoue le 4 mai 1923. Née à Legnaro en 1923, elle meurt à Padoue le 8 septembre 1923, quelques mois après le mariage de ses parents. Sa date de naissance exacte et son acte restent à retrouver."
+   ],
+   "sources": [
+    "Acte de décès du 8 septembre 1923, Padoue — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch, index consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": "JF52",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1923,
+   "annee_deces": 1923,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI107": {
+   "id": "JI107",
+   "prenom": "Agostino",
+   "nom": "MORANDIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Giovanni Battista MORANDIN, nommé dans l'acte de mariage de son fils à Legnaro le 15 mars 1896."
+   ],
+   "sources": [
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF56"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1840
+  },
+  "JI108": {
+   "id": "JI108",
+   "prenom": "Beatrice",
+   "nom": "MASUTTO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Giovanni Battista MORANDIN, nommée dans l'acte de mariage de son fils à Legnaro le 15 mars 1896."
+   ],
+   "sources": [
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF56"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1843
+  },
+  "JI109": {
+   "id": "JI109",
+   "prenom": "Angelo",
+   "nom": "BAZZOLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Daniele BAZZOLO, nommé dans l'acte de mariage de son fils à Padoue le 20 mars 1881."
+   ],
+   "sources": [
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF55"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1825
+  },
+  "JI110": {
+   "id": "JI110",
+   "prenom": "Maria",
+   "nom": "FAVARON",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Daniele BAZZOLO, nommée dans l'acte de mariage de son fils à Padoue le 20 mars 1881. Le nom est transcrit « Faveon » et « Farnon » selon les entrées de l'index ; FAVARON est la forme vénète courante, à confirmer sur l'acte.",
+    "La forme FAVARON est corroborée par Geneanet : les FAVARON de Legnaro s'allient aux BAZZOLO (Angela Teresa × Ottavio Eugenio en 1906, Amalia × Mario en 1934) comme aux MORANDIN (Rosa MORANDIN 1831-1905 × Gioachino FAVARON). Trois familles du même village qui s'entremarient. Cela conforte la lecture FAVARON contre les transcriptions « Faveon » et « Farnon » de l'index FamilySearch, mais ne remplace pas la lecture de l'acte de 1881."
+   ],
+   "sources": [
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF55"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1828
+  },
+  "JI111": {
+   "id": "JI111",
+   "prenom": "Vivant",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": null,
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [],
+   "sources": [],
+   "associations": [],
+   "famille_origine": "JF57",
+   "familles": [],
+   "vivant": true,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "masque": true
+  },
+  "JI112": {
+   "id": "JI112",
+   "prenom": "Antoine",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "13 JAN 1889",
+     "date": {
+      "annee": 1889,
+      "mois": 1,
+      "jour": 13
+     }
+    },
+    "lieu": "Flacé-lès-Mâcon (71)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "9 MAR 1978",
+     "date": {
+      "annee": 1978,
+      "mois": 3,
+      "jour": 9
+     }
+    },
+    "lieu": "Montfermeil (93)"
+   },
+   "inhumation": null,
+   "professions": [
+    "ébéniste"
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1978",
+      "date": {
+       "annee": 1978
+      }
+     },
+     "lieu": "41 rue Pierre Curie, Livry-Gargan (93)"
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "13 JAN 1889",
+      "date": {
+       "annee": 1889,
+       "mois": 1,
+       "jour": 13
+      }
+     },
+     "lieu": "Flacé-lès-Mâcon (71)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "9 MAR 1978",
+      "date": {
+       "annee": 1978,
+       "mois": 3,
+       "jour": 9
+      }
+     },
+     "lieu": "Montfermeil (93)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père d'André Antoine THÉVENET. Huitième des neuf enfants de Jean Baptiste THÉVENET et de Jeanne Marie LASSARA, famille du Mâconnais installée à Romanèche-Thorins. Marié en premières noces à Marcelle Marie Alphonsine PETIT, dont Maurice Joannès (1915-1978) et René Aimé (1917-1917) ; puis à Marcelle Eugénie JOURDREN. C'est lui qui fait passer la famille de Saône-et-Loire à Paris.",
+    "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
+    "Né le 13 janvier 1889 à Flacé-lès-Mâcon, en Saône-et-Loire — acte aux AD71 — et mort le 9 mars 1978 à MONTFERMEIL, la commune même où mourra son fils André vingt-quatre ans plus tard. Ébéniste. Domicilié en 1978 au 41 rue Pierre Curie à Livry-Gargan. Marié une première fois le 27 décembre 1913 à Chiroubles (69) avec Marcelle Marie Alphonsine PETIT, puis le 5 mars 1921 à Paris 14e avec Marcelle Eugénie JOURDREN. C'est donc entre 1913 et 1921 qu'il quitte le Mâconnais pour Paris. Son décès et celui de sa femme à Montfermeil, et son domicile à Livry-Gargan, ancrent la famille dans le même coin de Seine-Saint-Denis que les BAZZOLO de Sevran : c'est là que les deux lignées se rencontrent."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Confirmé par le propriétaire de l'arbre le 31/08/2026",
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+   ],
+   "associations": [],
+   "famille_origine": "JF58",
+   "familles": [
+    "JF57",
+    "JF60"
+   ],
+   "vivant": false,
+   "annee_naissance": 1889,
+   "annee_deces": 1978,
+   "generations_ascendance": 2,
+   "generations_descendance": 4,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI113": {
+   "id": "JI113",
+   "prenom": "Marcelle Eugénie",
+   "nom": "JOURDREN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "12 AUG 1895",
+     "date": {
+      "annee": 1895,
+      "mois": 8,
+      "jour": 12
+     }
+    },
+    "lieu": "Paris 4e (75)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "12 JUL 1975",
+     "date": {
+      "annee": 1975,
+      "mois": 7,
+      "jour": 12
+     }
+    },
+    "lieu": "Montfermeil (93)"
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "12 AUG 1895",
+      "date": {
+       "annee": 1895,
+       "mois": 8,
+       "jour": 12
+      }
+     },
+     "lieu": "Paris 4e (75)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "12 JUL 1975",
+      "date": {
+       "annee": 1975,
+       "mois": 7,
+       "jour": 12
+      }
+     },
+     "lieu": "Montfermeil (93)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère d'André Antoine THÉVENET, seconde épouse d'Antoine THÉVENET. JOURDREN est un patronyme breton, du Finistère : à vérifier, il ouvrirait une cinquième origine dans l'arbre.",
+    "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
+    "Née le 12 août 1895 à Paris 4e et morte le 12 juillet 1975 à Montfermeil. Sa date de naissance est corroborée par l'acte de naissance d'une de ses filles, conservé en mairie de Montfermeil — ce qui indique que cette fille y est née. Malgré son patronyme breton, elle est donc parisienne de naissance ; l'origine bretonne, s'il y en a une, remonte à ses propres parents, inconnus à ce jour."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
+    "Confirmé par le propriétaire de l'arbre le 31/08/2026",
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF57"
+   ],
+   "vivant": false,
+   "annee_naissance": 1895,
+   "annee_deces": 1975,
+   "generations_ascendance": 0,
+   "generations_descendance": 4,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI114": {
+   "id": "JI114",
+   "prenom": "Vivant",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": null,
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [],
+   "sources": [],
+   "associations": [],
+   "famille_origine": "JF57",
+   "familles": [],
+   "vivant": true,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "masque": true
+  },
+  "JI115": {
+   "id": "JI115",
+   "prenom": "Denise",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1924",
+     "date": {
+      "annee": 1924
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1924",
+     "date": {
+      "annee": 1924
+     }
+    },
+    "lieu": null
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1924",
+      "date": {
+       "annee": 1924
+      }
+     },
+     "lieu": null
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1924",
+      "date": {
+       "annee": 1924
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Sœur d'André, morte l'année de sa naissance."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF57",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1924,
+   "annee_deces": 1924,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI116": {
+   "id": "JI116",
+   "prenom": "Vivant",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": null,
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [],
+   "sources": [],
+   "associations": [],
+   "famille_origine": "JF57",
+   "familles": [],
+   "vivant": true,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ],
+   "masque": true
+  },
+  "JI117": {
+   "id": "JI117",
+   "prenom": "Marcelle Marie Alphonsine",
+   "nom": "PETIT",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Première épouse d'Antoine THÉVENET, mère de ses deux premiers enfants."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF60"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 1,
+   "branches": [
+    "thevenet"
+   ],
+   "annee_estimee": 1893
+  },
+  "JI118": {
+   "id": "JI118",
+   "prenom": "Maurice Joannès",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1915",
+     "date": {
+      "annee": 1915
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1978",
+     "date": {
+      "annee": 1978
+     }
+    },
+    "lieu": null
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1915",
+      "date": {
+       "annee": 1915
+      }
+     },
+     "lieu": null
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1978",
+      "date": {
+       "annee": 1978
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Demi-frère aîné d'André."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF60",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1915,
+   "annee_deces": 1978,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI119": {
+   "id": "JI119",
+   "prenom": "René Aimé",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1917",
+     "date": {
+      "annee": 1917
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1917",
+     "date": {
+      "annee": 1917
+     }
+    },
+    "lieu": null
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1917",
+      "date": {
+       "annee": 1917
+      }
+     },
+     "lieu": null
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1917",
+      "date": {
+       "annee": 1917
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Demi-frère d'André, mort l'année de sa naissance."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF60",
+   "familles": [],
+   "vivant": false,
+   "annee_naissance": 1917,
+   "annee_deces": 1917,
+   "generations_ascendance": 3,
+   "generations_descendance": 0,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI120": {
+   "id": "JI120",
+   "prenom": "Jean Baptiste",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "12 OCT 1840",
+     "date": {
+      "annee": 1840,
+      "mois": 10,
+      "jour": 12
+     }
+    },
+    "lieu": "Tramayes (71)"
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "14 AUG 1892",
+     "date": {
+      "annee": 1892,
+      "mois": 8,
+      "jour": 14
+     }
+    },
+    "lieu": "Romanèche-Thorins (71)"
+   },
+   "inhumation": null,
+   "professions": [
+    "fermier cultivateur",
+    "journalier",
+    "fondeur"
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "12 OCT 1840",
+      "date": {
+       "annee": 1840,
+       "mois": 10,
+       "jour": 12
+      }
+     },
+     "lieu": "Tramayes (71)"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "14 AUG 1892",
+      "date": {
+       "annee": 1892,
+       "mois": 8,
+       "jour": 14
+      }
+     },
+     "lieu": "Romanèche-Thorins (71)"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Grand-père paternel d'André. **C'est la souche bourguignonne de la branche THÉVENET.** Né à Tramayes en Saône-et-Loire, mort à Romanèche-Thorins. Fermier cultivateur, journalier, puis fondeur. Marié le 4 février 1873 à Cenves (69) avec Jeanne Marie LASSARA, après contrat passé devant Maître Thomas, notaire à Tramayes, le 16 janvier 1873. Domiciles successifs relevés : Prissé en 1878, 120 rue Rambuteau à Mâcon en 1883, hameau de Lapierre à Romanèche-Thorins en 1892. Neuf enfants. Son acte de décès est coté AD71 5E372/23. Il ne signait pas.",
+    "L'itinéraire Tramayes, Prissé, Mâcon, Romanèche-Thorins situe toute la famille dans le MÂCONNAIS. C'est la confirmation documentaire de l'information familiale « les THÉVENET viennent de Bourgogne » : elle portait bien sur cette génération, pas sur André."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF59",
+   "familles": [
+    "JF58"
+   ],
+   "vivant": false,
+   "annee_naissance": 1840,
+   "annee_deces": 1892,
+   "generations_ascendance": 1,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI121": {
+   "id": "JI121",
+   "prenom": "Jeanne Marie",
+   "nom": "LASSARA",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1853",
+     "date": {
+      "annee": 1853
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1897",
+     "date": {
+      "annee": 1897
+     }
+    },
+    "lieu": null
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1853",
+      "date": {
+       "annee": 1853
+      }
+     },
+     "lieu": null
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1897",
+      "date": {
+       "annee": 1897
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Grand-mère paternelle d'André, mariée à Cenves (69) le 4 février 1873."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "JF61",
+   "familles": [
+    "JF58"
+   ],
+   "vivant": false,
+   "annee_naissance": 1853,
+   "annee_deces": 1897,
+   "generations_ascendance": 1,
+   "generations_descendance": 5,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI122": {
+   "id": "JI122",
+   "prenom": "Joseph",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1811",
+     "date": {
+      "annee": 1811
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "1871",
+     "date": {
+      "annee": 1871
+     }
+    },
+    "lieu": null
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1811",
+      "date": {
+       "annee": 1811
+      }
+     },
+     "lieu": null
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1871",
+      "date": {
+       "annee": 1871
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Arrière-grand-père paternel d'André, du Mâconnais."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF59"
+   ],
+   "vivant": false,
+   "annee_naissance": 1811,
+   "annee_deces": 1871,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI123": {
+   "id": "JI123",
+   "prenom": "Jeanne Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1816",
+     "date": {
+      "annee": 1816
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1816",
+      "date": {
+       "annee": 1816
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Arrière-grand-mère paternelle d'André. Elle porte le même patronyme que son mari : mariage entre cousins ou simple homonymie fréquente dans un pays où le nom est massif, à vérifier sur l'acte."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF59"
+   ],
+   "vivant": false,
+   "annee_naissance": 1816,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI124": {
+   "id": "JI124",
+   "prenom": "Louis",
+   "nom": "LASSARA",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1821",
+     "date": {
+      "annee": 1821
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1821",
+      "date": {
+       "annee": 1821
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jeanne Marie LASSARA, arrière-grand-père paternel d'André."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF61"
+   ],
+   "vivant": false,
+   "annee_naissance": 1821,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JI125": {
+   "id": "JI125",
+   "prenom": "Marie",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "1821",
+     "date": {
+      "annee": 1821
+     }
+    },
+    "lieu": null
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "1821",
+      "date": {
+       "annee": 1821
+      }
+     },
+     "lieu": null
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Jeanne Marie LASSARA. Elle porte le nom THÉVENET, comme la famille de son gendre : dans ce pays mâconnais où le patronyme est massif, cousinage ou homonymie restent à départager sur les actes."
+   ],
+   "sources": [
+    "Arbre Geneanet d'Alain LARGE (alla224), fiches Antoine THEVENET (oc=6) et Marcelle Eugénie JOURDREN, consultées le 31/08/2026. Sources citées par l'arbre : acte de naissance d'Antoine aux AD71, acte de décès d'Antoine en mairie de Montfermeil, acte de naissance d'une de ses filles en mairie de Montfermeil, et témoignage oral de la sœur d'André."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF61"
+   ],
+   "vivant": false,
+   "annee_naissance": 1821,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ]
   }
  },
  "familles": {
@@ -172988,6 +174568,329 @@
    "branches": [
     "gimie"
    ]
+  },
+  "JF52": {
+   "id": "JF52",
+   "pere": "JI101",
+   "mere": "JI100",
+   "enfants": [
+    "JI106",
+    "JI68"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "4 MAY 1923",
+     "date": {
+      "annee": 1923,
+      "mois": 5,
+      "jour": 4
+     }
+    },
+    "lieu": "Legnaro (Italie)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "4 MAY 1923",
+      "date": {
+       "annee": 1923,
+       "mois": 5,
+       "jour": 4
+      }
+     },
+     "lieu": "Legnaro (Italie)"
+    }
+   ],
+   "notes": [
+    "Cesare BAZZOLO, 26 ans, villico, né vers 1897 à Ribeirão Preto (Brésil), épouse Teresa MORANDIN, 22 ans, née à Legnaro, le 4 mai 1923 à Padoue, acte n° 16. PROUVÉ. Leur première fille Luigia naît à Legnaro en 1923 et meurt à Padoue le 8 septembre 1923. Le couple émigre ensuite en France : Marie Thérèse Arlette naît à Sevran le 22 avril 1926. Teresa y mourra le 14 novembre 1997, plus de soixante-dix ans après son arrivée.",
+    "Lieu du mariage : la mention marginale de l'acte de naissance de Teresa, lue en image, porte « nel Comune di Legnaro ». L'index FamilySearch normalise le lieu en « Padova », qui est le siège du Tribunale conservant la copie et non la commune de célébration. Legnaro est retenu. À confirmer sur l'acte de mariage lui-même, dont l'image est actuellement verrouillée."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF53": {
+   "id": "JF53",
+   "pere": "JI102",
+   "mere": "JI103",
+   "enfants": [
+    "JI101"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "20 MAR 1881",
+     "date": {
+      "annee": 1881,
+      "mois": 3,
+      "jour": 20
+     }
+    },
+    "lieu": "Padoue (Italie)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "20 MAR 1881",
+      "date": {
+       "annee": 1881,
+       "mois": 3,
+       "jour": 20
+      }
+     },
+     "lieu": "Padoue (Italie)"
+    }
+   ],
+   "notes": [
+    "Mariage célébré à Padoue le 20 mars 1881. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Aucun de ces actes n'a encore été lu en image."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF54": {
+   "id": "JF54",
+   "pere": "JI104",
+   "mere": "JI105",
+   "enfants": [
+    "JI100"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "15 MAR 1896",
+     "date": {
+      "annee": 1896,
+      "mois": 3,
+      "jour": 15
+     }
+    },
+    "lieu": "Legnaro (Italie)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "15 MAR 1896",
+      "date": {
+       "annee": 1896,
+       "mois": 3,
+       "jour": 15
+      }
+     },
+     "lieu": "Legnaro (Italie)"
+    }
+   ],
+   "notes": [
+    "Mariage célébré à Legnaro le 15 mars 1896. Outre Teresa, l'index de la collection leur attribue au moins quatre autres enfants : Benedetto, Giuseppe, Giovanni et Marta MORANDIN. Aucun de leurs actes n'a encore été lu en image."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF56": {
+   "id": "JF56",
+   "pere": "JI107",
+   "mere": "JI108",
+   "enfants": [
+    "JI104"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé comme parents de l'époux dans l'acte de mariage MORANDIN × VOLTAN, Legnaro, 15 mars 1896."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF55": {
+   "id": "JF55",
+   "pere": "JI109",
+   "mere": "JI110",
+   "enfants": [
+    "JI102"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé comme parents de l'époux dans l'acte de mariage BAZZOLO × STIVANELLO, Padoue, 20 mars 1881."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF57": {
+   "id": "JF57",
+   "pere": "JI112",
+   "mere": "JI113",
+   "enfants": [
+    "JI114",
+    "JI115",
+    "JI67",
+    "JI116",
+    "JI111"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "5 MAR 1921",
+     "date": {
+      "annee": 1921,
+      "mois": 3,
+      "jour": 5
+     }
+    },
+    "lieu": "Paris 14e (75)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "5 MAR 1921",
+      "date": {
+       "annee": 1921,
+       "mois": 3,
+       "jour": 5
+      }
+     },
+     "lieu": "Paris 14e (75)"
+    }
+   ],
+   "notes": [
+    "Antoine THÉVENET (1889-1978) et Marcelle Eugénie JOURDREN (1895-1975), parents d'André Antoine. Cinq enfants connus, dont André 1926-2002 et Denise 1924-1924 ; les trois autres sont présumés vivants et ne sont donc pas nommés ici. Filiation INDEX/PROBABLE, issue de l'arbre Geneanet alla224 dont la source pour cette génération est le témoignage oral de la sœur d'André. Elle concorde avec tout ce qui est prouvé par ailleurs : dates exactes d'André, épouse Arlette, et l'existence d'une sœur, signalée indépendamment par le propriétaire de notre arbre avant que cette fiche ne soit trouvée.",
+    "Filiation confirmée par le propriétaire de l'arbre le 31/08/2026, devant la fiche Geneanet alla224 : « c'est bien ça ». S'ajoute aux trois recoupements documentaires — dates exactes prouvées par l'INSEE et la table décennale du 10e, épouse Arlette, et le prénom de sa sœur, donné spontanément avant la découverte de la fiche.",
+    "Mariage le 5 mars 1921 à Paris 14e. Le couple s'installe ensuite en Seine-Saint-Denis : tous deux meurent à Montfermeil, elle en 1975, lui en 1978."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF60": {
+   "id": "JF60",
+   "pere": "JI112",
+   "mere": "JI117",
+   "enfants": [
+    "JI118",
+    "JI119"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "27 DEC 1913",
+     "date": {
+      "annee": 1913,
+      "mois": 12,
+      "jour": 27
+     }
+    },
+    "lieu": "Chiroubles (69)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "27 DEC 1913",
+      "date": {
+       "annee": 1913,
+       "mois": 12,
+       "jour": 27
+      }
+     },
+     "lieu": "Chiroubles (69)"
+    }
+   ],
+   "notes": [
+    "Premier mariage d'Antoine THÉVENET, avec Marcelle Marie Alphonsine PETIT."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF58": {
+   "id": "JF58",
+   "pere": "JI120",
+   "mere": "JI121",
+   "enfants": [
+    "JI112"
+   ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "4 FEB 1873",
+     "date": {
+      "annee": 1873,
+      "mois": 2,
+      "jour": 4
+     }
+    },
+    "lieu": "Cenves (69)"
+   },
+   "divorce": null,
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "4 FEB 1873",
+      "date": {
+       "annee": 1873,
+       "mois": 2,
+       "jour": 4
+      }
+     },
+     "lieu": "Cenves (69)"
+    }
+   ],
+   "notes": [
+    "Mariage le 4 février 1873 à Cenves (Rhône), contrat notarié du 16 janvier 1873 devant Maître Thomas à Tramayes. Neuf enfants recensés par l'arbre alla224 : Marie Louise 1874, Annette 1875, Jean Marie 1876-1958, Joséphine 1878, Antoine dit Tony 1880-1966, Joseph 1883-1914, François 1885, Antoine 1889-1978 et Louis 1891-1914. Seul Antoine 1889-1978, père d'André, est rattaché ici ; les autres sont attestés mais non intégrés faute de vérification."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF59": {
+   "id": "JF59",
+   "pere": "JI122",
+   "mere": "JI123",
+   "enfants": [
+    "JI120"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple donné comme parents de Jean Baptiste THÉVENET par l'arbre alla224. Huit enfants y sont recensés entre 1839 et 1854."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF61": {
+   "id": "JF61",
+   "pere": "JI124",
+   "mere": "JI125",
+   "enfants": [
+    "JI121"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple donné comme parents de Jeanne Marie LASSARA par l'arbre alla224."
+   ],
+   "branches": [
+    "thevenet"
+   ]
   }
  },
  "topola": {
@@ -203308,6 +205211,7 @@
     "firstName": "André Antoine",
     "lastName": "THÉVENET",
     "sex": "M",
+    "famc": "JF57",
     "fams": [
      "JF3"
     ],
@@ -203337,6 +205241,7 @@
     "firstName": "Marie Thérèse Arlette",
     "lastName": "BAZZOLO",
     "sex": "F",
+    "famc": "JF52",
     "fams": [
      "JF3"
     ],
@@ -209208,6 +211113,464 @@
     "fams": [
      "GF7494"
     ]
+   },
+   {
+    "id": "JI100",
+    "hideId": true,
+    "firstName": "Teresa",
+    "lastName": "MORANDIN",
+    "sex": "F",
+    "famc": "JF54",
+    "fams": [
+     "JF52"
+    ],
+    "birth": {
+     "date": {
+      "day": 13,
+      "month": 2,
+      "year": 1901
+     },
+     "place": "Legnaro, frazione Abbà n° 67 (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 14,
+      "month": 11,
+      "year": 1997
+     },
+     "place": "Sevran (93)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI101",
+    "hideId": true,
+    "firstName": "Cesare",
+    "lastName": "BAZZOLO",
+    "sex": "M",
+    "famc": "JF53",
+    "fams": [
+     "JF52"
+    ],
+    "birth": {
+     "date": {
+      "year": 1897
+     },
+     "place": "Ribeirão Preto (Brésil)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI102",
+    "hideId": true,
+    "firstName": "Daniele",
+    "lastName": "BAZZOLO",
+    "sex": "M",
+    "famc": "JF55",
+    "fams": [
+     "JF53"
+    ],
+    "birth": {
+     "date": {
+      "year": 1853
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 9,
+      "month": 2,
+      "year": 1927
+     },
+     "place": "Padoue (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI103",
+    "hideId": true,
+    "firstName": "Giuditta",
+    "lastName": "STIVANELLO",
+    "sex": "F",
+    "fams": [
+     "JF53"
+    ]
+   },
+   {
+    "id": "JI104",
+    "hideId": true,
+    "firstName": "Giovanni Battista",
+    "lastName": "MORANDIN",
+    "sex": "M",
+    "famc": "JF56",
+    "fams": [
+     "JF54"
+    ],
+    "birth": {
+     "date": {
+      "year": 1869
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI105",
+    "hideId": true,
+    "firstName": "Rosa Santa",
+    "lastName": "VOLTAN",
+    "sex": "F",
+    "fams": [
+     "JF54"
+    ]
+   },
+   {
+    "id": "JI106",
+    "hideId": true,
+    "firstName": "Luigia",
+    "lastName": "BAZZOLO",
+    "sex": "F",
+    "famc": "JF52",
+    "birth": {
+     "date": {
+      "year": 1923
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 8,
+      "month": 9,
+      "year": 1923
+     },
+     "place": "Padoue (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI107",
+    "hideId": true,
+    "firstName": "Agostino",
+    "lastName": "MORANDIN",
+    "sex": "M",
+    "fams": [
+     "JF56"
+    ]
+   },
+   {
+    "id": "JI108",
+    "hideId": true,
+    "firstName": "Beatrice",
+    "lastName": "MASUTTO",
+    "sex": "F",
+    "fams": [
+     "JF56"
+    ]
+   },
+   {
+    "id": "JI109",
+    "hideId": true,
+    "firstName": "Angelo",
+    "lastName": "BAZZOLO",
+    "sex": "M",
+    "fams": [
+     "JF55"
+    ]
+   },
+   {
+    "id": "JI110",
+    "hideId": true,
+    "firstName": "Maria",
+    "lastName": "FAVARON",
+    "sex": "F",
+    "fams": [
+     "JF55"
+    ]
+   },
+   {
+    "id": "JI111",
+    "hideId": true,
+    "firstName": "Vivant",
+    "lastName": "THÉVENET",
+    "famc": "JF57"
+   },
+   {
+    "id": "JI112",
+    "hideId": true,
+    "firstName": "Antoine",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF58",
+    "fams": [
+     "JF57",
+     "JF60"
+    ],
+    "birth": {
+     "date": {
+      "day": 13,
+      "month": 1,
+      "year": 1889
+     },
+     "place": "Flacé-lès-Mâcon (71)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 9,
+      "month": 3,
+      "year": 1978
+     },
+     "place": "Montfermeil (93)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI113",
+    "hideId": true,
+    "firstName": "Marcelle Eugénie",
+    "lastName": "JOURDREN",
+    "sex": "F",
+    "fams": [
+     "JF57"
+    ],
+    "birth": {
+     "date": {
+      "day": 12,
+      "month": 8,
+      "year": 1895
+     },
+     "place": "Paris 4e (75)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 12,
+      "month": 7,
+      "year": 1975
+     },
+     "place": "Montfermeil (93)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI114",
+    "hideId": true,
+    "firstName": "Vivant",
+    "lastName": "THÉVENET",
+    "famc": "JF57"
+   },
+   {
+    "id": "JI115",
+    "hideId": true,
+    "firstName": "Denise",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "famc": "JF57",
+    "birth": {
+     "date": {
+      "year": 1924
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1924
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI116",
+    "hideId": true,
+    "firstName": "Vivant",
+    "lastName": "THÉVENET",
+    "famc": "JF57"
+   },
+   {
+    "id": "JI117",
+    "hideId": true,
+    "firstName": "Marcelle Marie Alphonsine",
+    "lastName": "PETIT",
+    "sex": "F",
+    "fams": [
+     "JF60"
+    ]
+   },
+   {
+    "id": "JI118",
+    "hideId": true,
+    "firstName": "Maurice Joannès",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF60",
+    "birth": {
+     "date": {
+      "year": 1915
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1978
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI119",
+    "hideId": true,
+    "firstName": "René Aimé",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF60",
+    "birth": {
+     "date": {
+      "year": 1917
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1917
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI120",
+    "hideId": true,
+    "firstName": "Jean Baptiste",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "famc": "JF59",
+    "fams": [
+     "JF58"
+    ],
+    "birth": {
+     "date": {
+      "day": 12,
+      "month": 10,
+      "year": 1840
+     },
+     "place": "Tramayes (71)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 14,
+      "month": 8,
+      "year": 1892
+     },
+     "place": "Romanèche-Thorins (71)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI121",
+    "hideId": true,
+    "firstName": "Jeanne Marie",
+    "lastName": "LASSARA",
+    "sex": "F",
+    "famc": "JF61",
+    "fams": [
+     "JF58"
+    ],
+    "birth": {
+     "date": {
+      "year": 1853
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1897
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI122",
+    "hideId": true,
+    "firstName": "Joseph",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "fams": [
+     "JF59"
+    ],
+    "birth": {
+     "date": {
+      "year": 1811
+     },
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "year": 1871
+     },
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "JI123",
+    "hideId": true,
+    "firstName": "Jeanne Marie",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "fams": [
+     "JF59"
+    ],
+    "birth": {
+     "date": {
+      "year": 1816
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI124",
+    "hideId": true,
+    "firstName": "Louis",
+    "lastName": "LASSARA",
+    "sex": "M",
+    "fams": [
+     "JF61"
+    ],
+    "birth": {
+     "date": {
+      "year": 1821
+     },
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "JI125",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "THÉVENET",
+    "sex": "F",
+    "fams": [
+     "JF61"
+    ],
+    "birth": {
+     "date": {
+      "year": 1821
+     },
+     "type": "naissance"
+    }
    }
   ],
   "fams": [
@@ -221828,6 +224191,146 @@
     "children": [
      "AG3747"
     ]
+   },
+   {
+    "id": "JF52",
+    "husb": "JI101",
+    "wife": "JI100",
+    "children": [
+     "JI106",
+     "JI68"
+    ],
+    "marriage": {
+     "date": {
+      "day": 4,
+      "month": 5,
+      "year": 1923
+     },
+     "place": "Legnaro (Italie)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF53",
+    "husb": "JI102",
+    "wife": "JI103",
+    "children": [
+     "JI101"
+    ],
+    "marriage": {
+     "date": {
+      "day": 20,
+      "month": 3,
+      "year": 1881
+     },
+     "place": "Padoue (Italie)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF54",
+    "husb": "JI104",
+    "wife": "JI105",
+    "children": [
+     "JI100"
+    ],
+    "marriage": {
+     "date": {
+      "day": 15,
+      "month": 3,
+      "year": 1896
+     },
+     "place": "Legnaro (Italie)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF56",
+    "husb": "JI107",
+    "wife": "JI108",
+    "children": [
+     "JI104"
+    ]
+   },
+   {
+    "id": "JF55",
+    "husb": "JI109",
+    "wife": "JI110",
+    "children": [
+     "JI102"
+    ]
+   },
+   {
+    "id": "JF57",
+    "husb": "JI112",
+    "wife": "JI113",
+    "children": [
+     "JI114",
+     "JI115",
+     "JI67",
+     "JI116",
+     "JI111"
+    ],
+    "marriage": {
+     "date": {
+      "day": 5,
+      "month": 3,
+      "year": 1921
+     },
+     "place": "Paris 14e (75)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF60",
+    "husb": "JI112",
+    "wife": "JI117",
+    "children": [
+     "JI118",
+     "JI119"
+    ],
+    "marriage": {
+     "date": {
+      "day": 27,
+      "month": 12,
+      "year": 1913
+     },
+     "place": "Chiroubles (69)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF58",
+    "husb": "JI120",
+    "wife": "JI121",
+    "children": [
+     "JI112"
+    ],
+    "marriage": {
+     "date": {
+      "day": 4,
+      "month": 2,
+      "year": 1873
+     },
+     "place": "Cenves (69)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "JF59",
+    "husb": "JI122",
+    "wife": "JI123",
+    "children": [
+     "JI120"
+    ]
+   },
+   {
+    "id": "JF61",
+    "husb": "JI124",
+    "wife": "JI125",
+    "children": [
+     "JI121"
+    ]
    }
   ]
  },
@@ -221848,7 +224351,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 7
+   "personnes": 33
   },
   {
    "id": "vaurie",
@@ -221935,6 +224438,60 @@
    },
    "date": "1922",
    "lieu": "Marseille (13)"
+  },
+  "sevran-td-naissances-1923-1932-arlette": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances de Sevran 1923-1932, ligne « Marie Thérèse Arlette »",
+   "fichier": "assets/actes/france/93/sevran-td-naissances-1923-1932-arlette.png",
+   "octets": 600682,
+   "sha256": "6781be304531a63c1b5e01a390c1ad7e29fe74cd7bef86715df2e06ee0a2737b",
+   "utilise_par": {
+    "individus": [
+     "JI68"
+    ],
+    "familles": []
+   },
+   "description": "Détail de la vue 59 : la dernière ligne de la colonne de gauche porte « Marie Thérèse Arlette — 22 avril ». Le coin de page est arraché sur la colonne des noms, mais l'encadrement alphabétique entre BARTHÉLEMY et BEAURAM situe l'entrée à sa place attendue pour BAZZOLO.",
+   "date": "1923-1932",
+   "lieu": "Sevran (93)",
+   "cote": "AD93, 1E071/64, vue 59",
+   "url": "https://archives.seinesaintdenis.fr/ark:/79690/vtab0ec38ce9283389d"
+  },
+  "sevran-td-naissances-1923-1932-page": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances de Sevran 1923-1932, vue 59, lettres A-B",
+   "fichier": "assets/actes/france/93/sevran-td-naissances-1923-1932-page.png",
+   "octets": 1865955,
+   "sha256": "3f3c3f3ec1a9174132fdbf5c386a17c1f4f681a25836e268683e5c50b4928d89",
+   "utilise_par": {
+    "individus": [
+     "JI68"
+    ],
+    "familles": []
+   },
+   "description": "Double page complète, pour situer la ligne dans sa séquence alphabétique.",
+   "date": "1923-1932",
+   "lieu": "Sevran (93)",
+   "cote": "AD93, 1E071/64, vue 59",
+   "url": "https://archives.seinesaintdenis.fr/ark:/79690/vtab0ec38ce9283389d"
+  },
+  "paris10-td-naissances-1923-1932-thevenet": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances, Paris 10e, 1923-1932 : Thévenet André Antoine",
+   "fichier": "assets/actes/france/75/paris10-td-naissances-1923-1932-thevenet.png",
+   "octets": 660044,
+   "sha256": "c540eacdcdd194b5c70f46be52dec8b029d67b3b3d8c71031c74e6a562fc4518",
+   "utilise_par": {
+    "individus": [
+     "JI67"
+    ],
+    "familles": []
+   },
+   "description": "Le bloc THÉVENET du 10e arrondissement. « Thévenet — André Antoine — 20 mars 1926 », date de l'acte dressé le lendemain de la naissance.",
+   "date": "1923-1932",
+   "lieu": "Paris 10e (75)",
+   "cote": "Archives de Paris, V11E 228, vue 3/11, feuillet 53",
+   "url": "https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/consulter-les-tables-decennales"
   }
  }
 }
