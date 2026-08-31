@@ -119511,7 +119511,7 @@
    "vivant": false,
    "annee_naissance": 1926,
    "annee_deces": 2019,
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 3,
    "branches": [
     "thevenet"
@@ -139657,7 +139657,7 @@
    "vivant": false,
    "annee_naissance": 1901,
    "annee_deces": 1997,
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 4,
    "branches": [
     "thevenet"
@@ -139746,7 +139746,7 @@
    "annee_naissance": 1897,
    "annee_deces": null,
    "annee_estimee": 1898,
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 4,
    "branches": [
     "thevenet"
@@ -139808,7 +139808,12 @@
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "fornaio"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -139856,16 +139861,23 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "fornaio"
     }
    ],
    "images": [],
    "notes": [
     "Père de Cesare BAZZOLO et époux de Giuditta STIVANELLO, nommé dans l'acte de mariage de son fils à Padoue le 4 mai 1923. Un autre fils, Mosè BAZZOLO, apparaît dans la même collection. La famille est de Legnaro, province de Padoue, et a séjourné au Brésil, Cesare y étant né vers 1897.",
-    "Né vers 1853 à Legnaro, fils d'Angelo BAZZOLO et de Maria FAVARON. Épouse Giuditta STIVANELLO à Padoue le 20 mars 1881. Décédé à Padoue le 9 février 1927. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Le fait que Cesare naisse au Brésil vers 1897 place le séjour brésilien de la famille entre deux séries de naissances vénètes."
+    "Né vers 1853 à Legnaro, fils d'Angelo BAZZOLO et de Maria FAVARON. Épouse Giuditta STIVANELLO à Padoue le 20 mars 1881. Décédé à Padoue le 9 février 1927. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Le fait que Cesare naisse au Brésil vers 1897 place le séjour brésilien de la famille entre deux séries de naissances vénètes.",
+    "PROFESSION TROUVÉE le 31/08/2026 : FORNAIO — boulanger. Son acte de mariage, n° 10 à Padoue le 20 mars 1881, le dit âgé de vingt-huit ans, né à Legnaro, fornaio, fils d'Angelo BAZZOLO et de Maria FAVARON. Il n'est donc pas paysan comme son fils Cesare, dit villico : le métier change d'une génération à l'autre.",
+    "Sa mère Maria FAVARON meurt à Padoue le 7 avril 1881, dix-huit jours après ce mariage."
    ],
    "sources": [
     "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
    ],
    "associations": [],
    "famille_origine": "JF55",
@@ -139875,7 +139887,7 @@
    "vivant": false,
    "annee_naissance": 1853,
    "annee_deces": 1927,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
@@ -139889,36 +139901,82 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1861",
+     "date": {
+      "annee": 1861
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1861",
+      "date": {
+       "annee": 1861
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
     "Mère de Cesare BAZZOLO et épouse de Daniele BAZZOLO, nommée dans l'acte de mariage de son fils à Padoue le 4 mai 1923.",
-    "Épouse Daniele BAZZOLO à Padoue le 20 mars 1881."
+    "Épouse Daniele BAZZOLO à Padoue le 20 mars 1881.",
+    "ASCENDANCE ÉTABLIE le 31/08/2026 : fille de Domenico STIVANELLO et d'une PESAROLO, d'après son acte de mariage du 20 mars 1881 à Padoue, où elle est dite âgée de vingt ans et de Legnaro — donc née vers 1861."
    ],
    "sources": [
     "Acte de mariage n° 16, Padoue, 4 mai 1923 — Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929, FamilySearch https://www.familysearch.org/ark:/61903/1:1:XWTM-2PXK (index ; image non disponible), consulté le 30/08/2026",
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF68",
    "familles": [
     "JF53"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1861,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1872
+   "annee_estimee": true
   },
   "JI104": {
    "id": "JI104",
@@ -139982,16 +140040,22 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "villico"
     }
    ],
    "images": [],
    "notes": [
     "Père de Teresa MORANDIN et époux de Rosa Santa VOLTAN, nommé dans l'acte de naissance n° 13 de sa fille à Legnaro le 13 février 1901 et dans son acte de mariage de 1923.",
-    "Villico, domicilié à Legnaro, frazione Abbà n° 67 en 1901. Épouse Rosa Santa VOLTAN à Legnaro le 15 mars 1896. Fils d'Agostino MORANDIN et de Beatrice MASUTTO."
+    "Villico, domicilié à Legnaro, frazione Abbà n° 67 en 1901. Épouse Rosa Santa VOLTAN à Legnaro le 15 mars 1896. Fils d'Agostino MORANDIN et de Beatrice MASUTTO.",
+    "Son acte de mariage, n° 13 à Legnaro le 15 mars 1896, le dit âgé de vingt-sept ans, né à Legnaro, VILLICO, fils d'Agostino MORANDIN et de Beatrice MASUTTO — ce qui confirme sa filiation et sa profession."
    ],
    "sources": [
     "Acte de naissance n° 13, Legnaro, registre « Anno 1901 », image 8/63 du lot « Legnaro. Birth Records 1901 », film 1848805 / DGS 4112574 — IMAGE LUE le 30/08/2026, https://www.familysearch.org/ark:/61903/3:1:939K-RZ3G-D9 ; captures dans legnaro-etat-civil-2026-08-30/",
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
    ],
    "associations": [],
    "famille_origine": "JF56",
@@ -140001,7 +140065,7 @@
    "vivant": false,
    "annee_naissance": 1869,
    "annee_deces": null,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
@@ -140016,36 +140080,82 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1876",
+     "date": {
+      "annee": 1876
+     }
+    },
+    "lieu": "Polverara (Italie)",
+    "commune": {
+     "nom": "Polverara",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Polverara",
+     "coordonnees": [
+      11.9333,
+      45.3167
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1876",
+      "date": {
+       "annee": 1876
+      }
+     },
+     "lieu": "Polverara (Italie)",
+     "commune": {
+      "nom": "Polverara",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Polverara",
+      "coordonnees": [
+       11.9333,
+       45.3167
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
     "Mère de Teresa MORANDIN et épouse de Giovanni Battista MORANDIN, nommée dans l'acte de naissance n° 13 de sa fille à Legnaro le 13 février 1901 et dans son acte de mariage de 1923.",
-    "Épouse Giovanni Battista MORANDIN à Legnaro le 15 mars 1896. En 1901 elle vit avec lui à Legnaro, frazione Abbà n° 67. L'acte de naissance de sa fille la qualifie d'un mot lu « colica », probablement « colona », c'est-à-dire métayère : à confirmer sur une autre pièce."
+    "Épouse Giovanni Battista MORANDIN à Legnaro le 15 mars 1896. En 1901 elle vit avec lui à Legnaro, frazione Abbà n° 67. L'acte de naissance de sa fille la qualifie d'un mot lu « colica », probablement « colona », c'est-à-dire métayère : à confirmer sur une autre pièce.",
+    "ASCENDANCE ÉTABLIE le 31/08/2026 : fille de Prosdocimo VOLTAN et de Teresa TOMMASI, d'après l'acte de mariage du 15 mars 1896 à Legnaro, où elle est dite âgée de vingt ans et de POLVERARA — donc née vers 1876. Polverara, commune voisine de Legnaro, entre dans l'arbre avec elle."
    ],
    "sources": [
     "Acte de naissance n° 13, Legnaro, registre « Anno 1901 », image 8/63 du lot « Legnaro. Birth Records 1901 », film 1848805 / DGS 4112574 — IMAGE LUE le 30/08/2026, https://www.familysearch.org/ark:/61903/3:1:939K-RZ3G-D9 ; captures dans legnaro-etat-civil-2026-08-30/",
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF69",
    "familles": [
     "JF54"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1876,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 5,
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1875
+   "annee_estimee": true
   },
   "JI106": {
    "id": "JI106",
@@ -140166,7 +140276,7 @@
    "vivant": false,
    "annee_naissance": 1923,
    "annee_deces": 1923,
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 0,
    "branches": [
     "thevenet"
@@ -140180,34 +140290,127 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1836",
+     "date": {
+      "annee": 1836
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "15 AUG 1917",
+     "date": {
+      "annee": 1917,
+      "mois": 8,
+      "jour": 15
+     }
+    },
+    "lieu": "Padoue (Italie)",
+    "commune": {
+     "nom": "Padoue",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Padoue",
+     "coordonnees": [
+      11.8768,
+      45.4064
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1836",
+      "date": {
+       "annee": 1836
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "15 AUG 1917",
+      "date": {
+       "annee": 1917,
+       "mois": 8,
+       "jour": 15
+      }
+     },
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
-    "Père de Giovanni Battista MORANDIN, nommé dans l'acte de mariage de son fils à Legnaro le 15 mars 1896."
+    "Père de Giovanni Battista MORANDIN, nommé dans l'acte de mariage de son fils à Legnaro le 15 mars 1896.",
+    "Dates trouvées le 31/08/2026 : né vers 1836 à Legnaro, mort à Padoue le 15 août 1917, d'après son acte de décès. Ses parents y sont nommés — Giovanni MORANDIN et Francesca MANIERO — mais le même acte lui donne pour épouse Antonia MASUTTO là où le mariage de son fils dit Beatrice MASUTTO : remariage probable, ou erreur d'index. Rattachement PROBABLE."
    ],
    "sources": [
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de décès, Padoue, 15 août 1917, MORANDIN Agostino, né vers 1836 à Legnaro. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF72",
    "familles": [
     "JF56"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1836,
+   "annee_deces": 1917,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1840
+   "annee_estimee": true
   },
   "JI108": {
    "id": "JI108",
@@ -140254,34 +140457,127 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1809",
+     "date": {
+      "annee": 1809
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "21 APR 1888",
+     "date": {
+      "annee": 1888,
+      "mois": 4,
+      "jour": 21
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1809",
+      "date": {
+       "annee": 1809
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "21 APR 1888",
+      "date": {
+       "annee": 1888,
+       "mois": 4,
+       "jour": 21
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
-    "Père de Daniele BAZZOLO, nommé dans l'acte de mariage de son fils à Padoue le 20 mars 1881."
+    "Père de Daniele BAZZOLO, nommé dans l'acte de mariage de son fils à Padoue le 20 mars 1881.",
+    "Dates et ascendance trouvées le 31/08/2026 : né vers 1809 à Legnaro, mort à Legnaro le 21 avril 1888, fils d'Andrea BAZZOLO et de Teresa CERATO, époux de Maria FAVARON. Il survit sept ans à sa femme."
    ],
    "sources": [
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF70",
    "familles": [
     "JF55"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1809,
+   "annee_deces": 1888,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1825
+   "annee_estimee": true
   },
   "JI110": {
    "id": "JI110",
@@ -140291,35 +140587,128 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1814",
+     "date": {
+      "annee": 1814
+     }
+    },
+    "lieu": "Legnaro (Italie)",
+    "commune": {
+     "nom": "Legnaro",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Legnaro",
+     "coordonnees": [
+      11.9667,
+      45.35
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "7 APR 1881",
+     "date": {
+      "annee": 1881,
+      "mois": 4,
+      "jour": 7
+     }
+    },
+    "lieu": "Padoue (Italie)",
+    "commune": {
+     "nom": "Padoue",
+     "code": null,
+     "departement": null,
+     "pays": "Italie",
+     "actuelle": "Padoue",
+     "coordonnees": [
+      11.8768,
+      45.4064
+     ],
+     "approximatif": false
+    }
+   },
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1814",
+      "date": {
+       "annee": 1814
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "7 APR 1881",
+      "date": {
+       "annee": 1881,
+       "mois": 4,
+       "jour": 7
+      }
+     },
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "images": [],
    "notes": [
     "Mère de Daniele BAZZOLO, nommée dans l'acte de mariage de son fils à Padoue le 20 mars 1881. Le nom est transcrit « Faveon » et « Farnon » selon les entrées de l'index ; FAVARON est la forme vénète courante, à confirmer sur l'acte.",
-    "La forme FAVARON est corroborée par Geneanet : les FAVARON de Legnaro s'allient aux BAZZOLO (Angela Teresa × Ottavio Eugenio en 1906, Amalia × Mario en 1934) comme aux MORANDIN (Rosa MORANDIN 1831-1905 × Gioachino FAVARON). Trois familles du même village qui s'entremarient. Cela conforte la lecture FAVARON contre les transcriptions « Faveon » et « Farnon » de l'index FamilySearch, mais ne remplace pas la lecture de l'acte de 1881."
+    "La forme FAVARON est corroborée par Geneanet : les FAVARON de Legnaro s'allient aux BAZZOLO (Angela Teresa × Ottavio Eugenio en 1906, Amalia × Mario en 1934) comme aux MORANDIN (Rosa MORANDIN 1831-1905 × Gioachino FAVARON). Trois familles du même village qui s'entremarient. Cela conforte la lecture FAVARON contre les transcriptions « Faveon » et « Farnon » de l'index FamilySearch, mais ne remplace pas la lecture de l'acte de 1881.",
+    "Dates et ascendance trouvées le 31/08/2026 : née vers 1814 à Legnaro, morte à Padoue le 7 avril 1881, fille d'Angelo FAVARON et de Teresa GOLLI. Elle meurt dix-huit jours après le mariage de son fils Daniele, célébré à Padoue le 20 mars 1881."
    ],
    "sources": [
-    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
+    "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
+    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH"
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF71",
    "familles": [
     "JF55"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1814,
+   "annee_deces": 1881,
+   "generations_ascendance": 1,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
    ],
-   "annee_estimee": 1828
+   "annee_estimee": true
   },
   "JI111": {
    "id": "JI111",
@@ -144107,6 +144496,377 @@
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837"
    ]
+  },
+  "JI151": {
+   "id": "JI151",
+   "prenom": "Domenico",
+   "nom": "STIVANELLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Giuditta STIVANELLO. Nommé comme beau-père de l'époux dans l'acte de mariage n° 10 du 20 mars 1881 à Padoue, BAZZOLO Daniele × STIVANELLO Giuditta. Ni dates ni profession connues."
+   ],
+   "sources": [
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF68"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI152": {
+   "id": "JI152",
+   "prenom": "",
+   "nom": "PESAROLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Giuditta STIVANELLO, épouse de Domenico STIVANELLO. Nommée comme belle-mère de l'époux dans l'acte de mariage du 20 mars 1881 à Padoue. L'index FamilySearch transcrit son prénom « Boatine », lecture manifestement fautive : à trancher sur l'image de l'acte — les candidats vraisemblables sont Bortolina, Battistina ou Beatrice. Le patronyme PESAROLO est en revanche net."
+   ],
+   "sources": [
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF68"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI153": {
+   "id": "JI153",
+   "prenom": "Prosdocimo",
+   "nom": "VOLTAN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Rosa Santa VOLTAN, de Polverara. Nommé comme beau-père de l'époux dans l'acte de mariage n° 13 du 15 mars 1896 à Legnaro, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. Prosdocimo est le prénom padouan par excellence — saint Prosdocimo est le patron de Padoue."
+   ],
+   "sources": [
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF69"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI154": {
+   "id": "JI154",
+   "prenom": "Teresa",
+   "nom": "TOMMASI",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Rosa Santa VOLTAN, épouse de Prosdocimo VOLTAN, de Polverara. Nommée comme belle-mère de l'époux dans l'acte de mariage du 15 mars 1896 à Legnaro."
+   ],
+   "sources": [
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF69"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI155": {
+   "id": "JI155",
+   "prenom": "Andrea",
+   "nom": "BAZZOLO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père d'Angelo BAZZOLO (v. 1809-1888). Nommé dans l'acte de décès de son fils, à Legnaro le 21 avril 1888. C'est le plus ancien BAZZOLO connu : né vraisemblablement dans les années 1780, à Legnaro."
+   ],
+   "sources": [
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF70"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI156": {
+   "id": "JI156",
+   "prenom": "Teresa",
+   "nom": "CERATO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère d'Angelo BAZZOLO, épouse d'Andrea BAZZOLO. Nommée dans l'acte de décès de son fils, à Legnaro le 21 avril 1888."
+   ],
+   "sources": [
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF70"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI157": {
+   "id": "JI157",
+   "prenom": "Angelo",
+   "nom": "FAVARON",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Maria FAVARON (v. 1814-1881). Nommé dans l'acte de décès de sa fille, à Padoue le 7 avril 1881. Sa fille porte le prénom de son mari, Angelo BAZZOLO, et lui celui de son gendre : homonymie fréquente, ne pas confondre les deux Angelo."
+   ],
+   "sources": [
+    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF71"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI158": {
+   "id": "JI158",
+   "prenom": "Teresa",
+   "nom": "GOLLI",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Maria FAVARON, épouse d'Angelo FAVARON. Nommée dans l'acte de décès de sa fille, à Padoue le 7 avril 1881."
+   ],
+   "sources": [
+    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF71"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "INDEX OFFICIEL"
+  },
+  "JI159": {
+   "id": "JI159",
+   "prenom": "Giovanni",
+   "nom": "MORANDIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père présumé d'Agostino MORANDIN (v. 1836-1917). Nommé dans l'acte de décès d'Agostino, à Padoue le 15 août 1917.",
+    "RÉSERVE : cet acte donne à Agostino pour épouse « Antonia MASUT[TO] », alors que le mariage de son fils, en 1896, le dit époux de « Beatrice MASUTTO ». Aucun acte de décès de Beatrice n'apparaît dans la collection. Deux lectures possibles : Agostino s'est remarié avec une parente de sa première femme — pratique courante —, ou l'index a mal lu un prénom. L'identification reste donc PROBABLE, à trancher sur l'image de l'acte de 1917."
+   ],
+   "sources": [
+    "Acte de décès, Padoue, 15 août 1917, MORANDIN Agostino, né vers 1836 à Legnaro. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF72"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
+  },
+  "JI160": {
+   "id": "JI160",
+   "prenom": "Francesca",
+   "nom": "MANIERO",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère présumée d'Agostino MORANDIN, épouse de Giovanni MORANDIN. Nommée dans l'acte de décès d'Agostino, à Padoue le 15 août 1917. Même réserve que pour son mari."
+   ],
+   "sources": [
+    "Acte de décès, Padoue, 15 août 1917, MORANDIN Agostino, né vers 1836 à Legnaro. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF72"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "thevenet"
+   ],
+   "confiance": "PROBABLE"
   }
  },
  "familles": {
@@ -181277,13 +182037,41 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "union",
+     "date": {
+      "brut": "20 MAR 1881",
+      "date": {
+       "annee": 1881,
+       "mois": 3,
+       "jour": 20
+      }
+     },
+     "lieu": "Padoue (Italie)",
+     "commune": {
+      "nom": "Padoue",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Padoue",
+      "coordonnees": [
+       11.8768,
+       45.4064
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
-    "Mariage célébré à Padoue le 20 mars 1881. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Aucun de ces actes n'a encore été lu en image."
+    "Mariage célébré à Padoue le 20 mars 1881. L'index de la collection leur attribue au moins huit enfants : Mosè, Virginia, Rosa, Angelo, Eugenia, Elena, Guglielmo et Cesare. Aucun de ces actes n'a encore été lu en image.",
+    "MARIAGE TROUVÉ le 31/08/2026 : acte n° 10, Padoue, 20 mars 1881. Daniele BAZZOLO, vingt-huit ans, de Legnaro, FORNAIO, fils d'Angelo et de Maria FAVARON ; Giuditta STIVANELLO, vingt ans, de Legnaro, fille de Domenico et d'une PESAROLO. C'est cet acte qui fait monter la lignée STIVANELLO d'une génération."
    ],
    "branches": [
     "thevenet"
+   ],
+   "sources": [
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
    ]
   },
   "JF54": {
@@ -181342,13 +182130,41 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "union",
+     "date": {
+      "brut": "15 MAR 1896",
+      "date": {
+       "annee": 1896,
+       "mois": 3,
+       "jour": 15
+      }
+     },
+     "lieu": "Legnaro (Italie)",
+     "commune": {
+      "nom": "Legnaro",
+      "code": null,
+      "departement": null,
+      "pays": "Italie",
+      "actuelle": "Legnaro",
+      "coordonnees": [
+       11.9667,
+       45.35
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
-    "Mariage célébré à Legnaro le 15 mars 1896. Outre Teresa, l'index de la collection leur attribue au moins quatre autres enfants : Benedetto, Giuseppe, Giovanni et Marta MORANDIN. Aucun de leurs actes n'a encore été lu en image."
+    "Mariage célébré à Legnaro le 15 mars 1896. Outre Teresa, l'index de la collection leur attribue au moins quatre autres enfants : Benedetto, Giuseppe, Giovanni et Marta MORANDIN. Aucun de leurs actes n'a encore été lu en image.",
+    "MARIAGE TROUVÉ le 31/08/2026 : acte n° 13, Legnaro, 15 mars 1896. Giovanni Battista MORANDIN, vingt-sept ans, de Legnaro, villico, fils d'Agostino et de Beatrice MASUTTO ; Rosa Santa VOLTAN, vingt ans, de POLVERARA, fille de Prosdocimo et de Teresa TOMMASI. C'est cet acte qui fait monter la lignée VOLTAN d'une génération et fait entrer Polverara dans l'arbre."
    ],
    "branches": [
     "thevenet"
+   ],
+   "sources": [
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
    ]
   },
   "JF56": {
@@ -181362,7 +182178,8 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Couple nommé comme parents de l'époux dans l'acte de mariage MORANDIN × VOLTAN, Legnaro, 15 mars 1896."
+    "Couple nommé comme parents de l'époux dans l'acte de mariage MORANDIN × VOLTAN, Legnaro, 15 mars 1896.",
+    "Le couple est confirmé par l'acte de mariage de leur fils, à Legnaro le 15 mars 1896 : « fils d'Agostino MORANDIN et de Beatrice MASUTTO ». Mais l'acte de décès d'Agostino, à Padoue le 15 août 1917, lui donne pour épouse Antonia MASUTTO, et aucun décès de Beatrice n'apparaît dans la collection padouane : remariage avec une parente de sa première femme, ou erreur d'index. À trancher sur les images."
    ],
    "branches": [
     "thevenet"
@@ -181379,7 +182196,8 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Couple nommé comme parents de l'époux dans l'acte de mariage BAZZOLO × STIVANELLO, Padoue, 20 mars 1881."
+    "Couple nommé comme parents de l'époux dans l'acte de mariage BAZZOLO × STIVANELLO, Padoue, 20 mars 1881.",
+    "Les deux époux sont désormais datés : Angelo né vers 1809 à Legnaro, mort à Legnaro le 21 avril 1888 ; Maria FAVARON née vers 1814 à Legnaro, morte à Padoue le 7 avril 1881. Leurs propres parents sont nommés par leurs actes de décès (JF70 et JF71)."
    ],
    "branches": [
     "thevenet"
@@ -181894,6 +182712,106 @@
    ],
    "branches": [
     "thevenet"
+   ]
+  },
+  "JF68": {
+   "id": "JF68",
+   "pere": "JI151",
+   "mere": "JI152",
+   "enfants": [
+    "JI103"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M"
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Giuditta STIVANELLO, nommés comme beaux-parents de l'époux dans l'acte de mariage du 20 mars 1881 à Padoue. Le prénom de la mère est mal transcrit par l'index (« Boatine ») ; le patronyme PESAROLO est net."
+   ]
+  },
+  "JF69": {
+   "id": "JF69",
+   "pere": "JI153",
+   "mere": "JI154",
+   "enfants": [
+    "JI105"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de mariage n° 13, Legnaro, 15 mars 1896, MORANDIN Giovanni Battista × VOLTAN Rosa Santa. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3W2-49CP"
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Rosa Santa VOLTAN, de POLVERARA — commune voisine de Legnaro, nouvelle dans l'arbre. Nommés comme beaux-parents de l'époux dans l'acte de mariage du 15 mars 1896 à Legnaro."
+   ]
+  },
+  "JF70": {
+   "id": "JF70",
+   "pere": "JI155",
+   "mere": "JI156",
+   "enfants": [
+    "JI109"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents d'Angelo BAZZOLO, nommés dans son acte de décès à Legnaro le 21 avril 1888. Génération la plus ancienne connue de la lignée BAZZOLO."
+   ]
+  },
+  "JF71": {
+   "id": "JF71",
+   "pere": "JI157",
+   "mere": "JI158",
+   "enfants": [
+    "JI110"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH"
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents de Maria FAVARON, nommés dans son acte de décès à Padoue le 7 avril 1881."
+   ]
+  },
+  "JF72": {
+   "id": "JF72",
+   "pere": "JI159",
+   "mere": "JI160",
+   "enfants": [
+    "JI107"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "sources": [
+    "Acte de décès, Padoue, 15 août 1917, MORANDIN Agostino, né vers 1836 à Legnaro. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+   ],
+   "branches": [
+    "thevenet"
+   ],
+   "notes": [
+    "Parents présumés d'Agostino MORANDIN, nommés dans son acte de décès à Padoue le 15 août 1917. PROBABLE : le même acte lui donne pour épouse Antonia MASUTTO là où le mariage de son fils dit Beatrice MASUTTO — remariage ou erreur d'index, à trancher sur l'image."
    ]
   }
  },
@@ -218200,9 +219118,17 @@
     "firstName": "Giuditta",
     "lastName": "STIVANELLO",
     "sex": "F",
+    "famc": "JF68",
     "fams": [
      "JF53"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1861
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    }
    },
    {
     "id": "JI104",
@@ -218228,9 +219154,17 @@
     "firstName": "Rosa Santa",
     "lastName": "VOLTAN",
     "sex": "F",
+    "famc": "JF69",
     "fams": [
      "JF54"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1876
+     },
+     "place": "Polverara (Italie)",
+     "type": "naissance"
+    }
    },
    {
     "id": "JI106",
@@ -218263,9 +219197,27 @@
     "firstName": "Agostino",
     "lastName": "MORANDIN",
     "sex": "M",
+    "famc": "JF72",
     "fams": [
      "JF56"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1836
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 15,
+      "month": 8,
+      "year": 1917
+     },
+     "place": "Padoue (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI108",
@@ -218283,9 +219235,27 @@
     "firstName": "Angelo",
     "lastName": "BAZZOLO",
     "sex": "M",
+    "famc": "JF70",
     "fams": [
      "JF55"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1809
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 21,
+      "month": 4,
+      "year": 1888
+     },
+     "place": "Legnaro (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI110",
@@ -218293,9 +219263,27 @@
     "firstName": "Maria",
     "lastName": "FAVARON",
     "sex": "F",
+    "famc": "JF71",
     "fams": [
      "JF55"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1814
+     },
+     "place": "Legnaro (Italie)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 7,
+      "month": 4,
+      "year": 1881
+     },
+     "place": "Padoue (Italie)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "JI111",
@@ -218982,6 +219970,105 @@
     "sex": "F",
     "fams": [
      "JF67"
+    ]
+   },
+   {
+    "id": "JI151",
+    "hideId": true,
+    "firstName": "Domenico",
+    "lastName": "STIVANELLO",
+    "sex": "M",
+    "fams": [
+     "JF68"
+    ]
+   },
+   {
+    "id": "JI152",
+    "hideId": true,
+    "lastName": "PESAROLO",
+    "sex": "F",
+    "fams": [
+     "JF68"
+    ]
+   },
+   {
+    "id": "JI153",
+    "hideId": true,
+    "firstName": "Prosdocimo",
+    "lastName": "VOLTAN",
+    "sex": "M",
+    "fams": [
+     "JF69"
+    ]
+   },
+   {
+    "id": "JI154",
+    "hideId": true,
+    "firstName": "Teresa",
+    "lastName": "TOMMASI",
+    "sex": "F",
+    "fams": [
+     "JF69"
+    ]
+   },
+   {
+    "id": "JI155",
+    "hideId": true,
+    "firstName": "Andrea",
+    "lastName": "BAZZOLO",
+    "sex": "M",
+    "fams": [
+     "JF70"
+    ]
+   },
+   {
+    "id": "JI156",
+    "hideId": true,
+    "firstName": "Teresa",
+    "lastName": "CERATO",
+    "sex": "F",
+    "fams": [
+     "JF70"
+    ]
+   },
+   {
+    "id": "JI157",
+    "hideId": true,
+    "firstName": "Angelo",
+    "lastName": "FAVARON",
+    "sex": "M",
+    "fams": [
+     "JF71"
+    ]
+   },
+   {
+    "id": "JI158",
+    "hideId": true,
+    "firstName": "Teresa",
+    "lastName": "GOLLI",
+    "sex": "F",
+    "fams": [
+     "JF71"
+    ]
+   },
+   {
+    "id": "JI159",
+    "hideId": true,
+    "firstName": "Giovanni",
+    "lastName": "MORANDIN",
+    "sex": "M",
+    "fams": [
+     "JF72"
+    ]
+   },
+   {
+    "id": "JI160",
+    "hideId": true,
+    "firstName": "Francesca",
+    "lastName": "MANIERO",
+    "sex": "F",
+    "fams": [
+     "JF72"
     ]
    }
   ],
@@ -231820,6 +232907,46 @@
     "children": [
      "JI147"
     ]
+   },
+   {
+    "id": "JF68",
+    "husb": "JI151",
+    "wife": "JI152",
+    "children": [
+     "JI103"
+    ]
+   },
+   {
+    "id": "JF69",
+    "husb": "JI153",
+    "wife": "JI154",
+    "children": [
+     "JI105"
+    ]
+   },
+   {
+    "id": "JF70",
+    "husb": "JI155",
+    "wife": "JI156",
+    "children": [
+     "JI109"
+    ]
+   },
+   {
+    "id": "JF71",
+    "husb": "JI157",
+    "wife": "JI158",
+    "children": [
+     "JI110"
+    ]
+   },
+   {
+    "id": "JF72",
+    "husb": "JI159",
+    "wife": "JI160",
+    "children": [
+     "JI107"
+    ]
    }
   ]
  },
@@ -231840,7 +232967,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 58
+   "personnes": 68
   },
   {
    "id": "vaurie",
