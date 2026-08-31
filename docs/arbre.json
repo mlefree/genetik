@@ -11642,8 +11642,12 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "**Cette fiche est vide de tout fait** : ni prénom, ni nom, ni date, ni lieu, ni source. Elle n'existe que pour porter la paternité d'Aimé Jules BOSSOT. Or l'enfant, né à Paris en 1828, **porte le nom de sa mère**. L'hypothèse la plus économique est celle d'un **enfant naturel, sans père dénommé** — comme Marcelle Eugénie JOURDREN dans la branche Thévenet. À trancher par l'acte de naissance d'Aimé Jules (9 avril 1828, 12e ancien), lui aussi à chercher dans l'état civil reconstitué. Si l'hypothèse se confirme, **cette fiche doit être supprimée** : un père fictif fausse le comptage des générations."
+   ],
+   "sources": [
+    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -11657,6 +11661,9 @@
    "generations_descendance": 7,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad75-fiche-reconstituee-mariage-bossot-hecquet-1839"
    ]
   },
   "LI49": {
@@ -11766,8 +11773,13 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "NÉGATIF DÉLIMITÉ, 31/08/2026. **Son acte de décès du 24 mai 1828 n'a pas été reconstitué.** Le fichier de l'état civil reconstitué de Paris a été dépouillé **fiche par fiche** sur tout le segment BOSSON → BOSSOT (Archives de Paris, V3E/D 156, cinquante vues) : il ne contient **qu'une seule fiche BOSSOT**, celle de Marie Louise Constantine Julie, morte le 20 avril 1858 dans le 12e ancien. L'état civil parisien d'avant 1860 ayant brûlé en 1871, et la reconstitution étant lacunaire, cette voie est close : sa naissance à **Soissons vers 1804** (AD02) devient la seule piste directe.",
+    "PISTE `PROBABLE`, à trancher : le fichier des mariages reconstitués porte **Louise Constantine BOSSOT × Louis Aimé HECQUET, 7 mai 1839, 10e arrondissement ancien**. Même prénom composé que la seule BOSSOT du fichier des décès, laquelle meurt au **12e ancien** — l'arrondissement même où meurt Rosalie en 1828 et où naît son fils. **Sœur probable de Rosalie.** L'acte de mariage reconstitué de 1839 nommerait les parents de l'épouse, donc ceux de Rosalie : c'est la pièce la plus rentable qui reste sur cette lignée."
+   ],
+   "sources": [
+    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -11780,6 +11792,9 @@
    "generations_descendance": 7,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad75-fiche-reconstituee-mariage-bossot-hecquet-1839"
    ]
   },
   "LI50": {
@@ -19029,29 +19044,86 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1778",
+     "date": {
+      "annee": 1778
+     }
+    }
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
-   "professions": [],
-   "residences": [],
-   "evenements": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "laboureur"
+    }
+   ],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1839",
+      "date": {
+       "annee": 1839
+      }
+     },
+     "lieu": "Bachat (Pruniers, 36)"
+    }
+   ],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1778",
+      "date": {
+       "annee": 1778
+      }
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "laboureur"
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1839",
+      "date": {
+       "annee": 1839
+      }
+     },
+     "lieu": "Bachat (Pruniers, 36)"
+    }
+   ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "DATÉ ET SITUÉ le 31/08/2026 par l'acte de décès de sa femme (AD36, Pruniers, 24 août 1839), où il comparaît en personne : « **Silvain CHAVENAT, âgé de soixante-et-un ans, laboureur** », déclarant être **le mari** de la décédée. Il est donc **né vers 1778**, **laboureur**, et **vivant en août 1839**, domicilié au hameau de **Bachat**, commune de Pruniers.",
+    "**Variante de graphie établie : CHAVENAT en 1838-1839, CHABENAT en 1849, 1852 et 1858.** Le même homme, deux orthographes selon la main. Chercher systématiquement les deux formes.",
+    "NÉGATIF DÉLIMITÉ : il **n'est pas mort à Pruniers entre 1833 et 1862** — les tables décennales de la commune ont été lues à la lettre C pour les trois décennies (vues 68, 88, 104-105). Chercher après 1862, ou dans une autre commune."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de l'Indre, Pruniers, registre 3 E 169/08, vue 355/394, acte n° 35 du 24 août 1839. Corroboré par la table décennale 3 E TD 169/01, vue 68. Image lue et archivée le 31/08/2026 : 3e169-08-vue355-deces-catherine-brunet-1839-acte-35.jpg. Source primaire lue : PROUVÉ."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
     "LF56"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1778,
    "annee_deces": null,
    "annee_estimee": 1792,
    "generations_ascendance": 0,
    "generations_descendance": 8,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad36-deces-brunet-catherine-1839"
    ]
   },
   "LI115": {
@@ -19062,7 +19134,15 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1784",
+     "date": {
+      "annee": 1784
+     }
+    }
+   },
    "bapteme": null,
    "deces": {
     "type": "deces",
@@ -19090,8 +19170,28 @@
    },
    "inhumation": null,
    "professions": [],
-   "residences": [],
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1839",
+      "date": {
+       "annee": 1839
+      }
+     },
+     "lieu": "Bachat (Pruniers, 36)"
+    }
+   ],
    "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1784",
+      "date": {
+       "annee": 1784
+      }
+     }
+    },
     {
      "type": "deces",
      "date": {
@@ -19115,23 +19215,42 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1839",
+      "date": {
+       "annee": 1839
+      }
+     },
+     "lieu": "Bachat (Pruniers, 36)"
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "DÉCÈS PROUVÉ le 31/08/2026 (AD36, Pruniers, 3 E 169/08, vue 355, acte n° 35) : « le vingt-quatre du mois d'Août à quatre heures du soir **Catherine BRUNET, âgée de cinquante-cinq ans** […] **femme de Silvain Chavenat, domiciliée à Bachat** […] est décédée en la maison située à Bachat ». Elle est donc **née vers 1784**, et elle vivait au hameau de **Bachat**, commune de Pruniers.",
+    "Les deux déclarants sont de la famille : « Le premier témoin nous a déclaré être **le mari** et le second **gendre** de la décédée ». Le premier est **Silvain CHAVENAT, soixante-et-un ans, laboureur** ; le second **François CHERBONNIER, trente-huit ans, laboureur** — donc une fille du couple était mariée avant 1839, en plus de Françoise. Piste de fratrie à suivre.",
+    "**L'acte ne nomme pas ses parents** : le front d'ascendance ne recule pas. Pour monter, il faut le **mariage CHABENAT × BRUNET**, dont on sait désormais qu'il **n'a pas eu lieu à La Berthenoux entre 1813 et 1822** (table décennale 3 E TD 017/01, vue 13, lue) : il est donc antérieur à 1813, ou dans une autre commune."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de l'Indre, Pruniers, registre 3 E 169/08, vue 355/394, acte n° 35 du 24 août 1839. Corroboré par la table décennale 3 E TD 169/01, vue 68. Image lue et archivée le 31/08/2026 : 3e169-08-vue355-deces-catherine-brunet-1839-acte-35.jpg. Source primaire lue : PROUVÉ."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
     "LF56"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1784,
    "annee_deces": 1839,
    "generations_ascendance": 0,
    "generations_descendance": 8,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad36-deces-brunet-catherine-1839"
    ]
   },
   "LI116": {
@@ -140796,7 +140915,8 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "Mère de Giovanni Battista MORANDIN, nommée dans l'acte de mariage de son fils à Legnaro le 15 mars 1896."
+    "Mère de Giovanni Battista MORANDIN, nommée dans l'acte de mariage de son fils à Legnaro le 15 mars 1896.",
+    "Piste de graphie, **non prouvée**, relevée le 31/08/2026 : les registres de Legnaro portent la forme **MASIERO**, là où l'index civil de Padoue lit MASUTTO. La forme locale existe, la forme d'index non. À vérifier avant de la retenir — la correction avérée de PESAROLO en PESCAROLO montre que ces lectures d'index se trompent."
    ],
    "sources": [
     "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
@@ -140925,11 +141045,13 @@
    "images": [],
    "notes": [
     "Père de Daniele BAZZOLO, nommé dans l'acte de mariage de son fils à Padoue le 20 mars 1881.",
-    "Dates et ascendance trouvées le 31/08/2026 : né vers 1809 à Legnaro, mort à Legnaro le 21 avril 1888, fils d'Andrea BAZZOLO et de Teresa CERATO, époux de Maria FAVARON. Il survit sept ans à sa femme."
+    "Dates et ascendance trouvées le 31/08/2026 : né vers 1809 à Legnaro, mort à Legnaro le 21 avril 1888, fils d'Andrea BAZZOLO et de Teresa CERATO, époux de Maria FAVARON. Il survit sept ans à sa femme.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026 : **absent des tavole alfabetiche des Nati de Legnaro de 1809 et de 1810**, les deux années qui encadrent la naissance « vers 1809 » déduite de son acte de décès. L'âge porté par un acte de décès de 1881 est donc approximatif : élargir la fenêtre aux tavole de 1806-1808 et 1811-1815, et vérifier la graphie **BOSCARO** — les registres de Legnaro l'emploient là où l'index lit BOZZARO."
    ],
    "sources": [
     "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
-    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune.",
+    "Dépouillement des tavole alfabetiche des registres napoléoniens de Legnaro (Archivio di Stato di Padova, Stato civile napoleonico, 1806-1815), consulté sur antenati.cultura.gov.it le 31/08/2026. Détail des registres et des vues : assets/italie/legnaro-polverara-antenati-2026-08-31/README.md. Résultat négatif délimité."
    ],
    "associations": [],
    "famille_origine": "JF70",
@@ -141056,11 +141178,13 @@
    "notes": [
     "Mère de Daniele BAZZOLO, nommée dans l'acte de mariage de son fils à Padoue le 20 mars 1881. Le nom est transcrit « Faveon » et « Farnon » selon les entrées de l'index ; FAVARON est la forme vénète courante, à confirmer sur l'acte.",
     "La forme FAVARON est corroborée par Geneanet : les FAVARON de Legnaro s'allient aux BAZZOLO (Angela Teresa × Ottavio Eugenio en 1906, Amalia × Mario en 1934) comme aux MORANDIN (Rosa MORANDIN 1831-1905 × Gioachino FAVARON). Trois familles du même village qui s'entremarient. Cela conforte la lecture FAVARON contre les transcriptions « Faveon » et « Farnon » de l'index FamilySearch, mais ne remplace pas la lecture de l'acte de 1881.",
-    "Dates et ascendance trouvées le 31/08/2026 : née vers 1814 à Legnaro, morte à Padoue le 7 avril 1881, fille d'Angelo FAVARON et de Teresa GOLLI. Elle meurt dix-huit jours après le mariage de son fils Daniele, célébré à Padoue le 20 mars 1881."
+    "Dates et ascendance trouvées le 31/08/2026 : née vers 1814 à Legnaro, morte à Padoue le 7 avril 1881, fille d'Angelo FAVARON et de Teresa GOLLI. Elle meurt dix-huit jours après le mariage de son fils Daniele, célébré à Padoue le 20 mars 1881.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026 : **absente de la tavola alfabetica des Nati de Legnaro de 1814**, l'année déduite de son acte de décès de 1888. Élargir aux autres années 1806-1815."
    ],
    "sources": [
     "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026",
-    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH"
+    "Acte de décès, Padoue, 7 avril 1881, FAVARON Maria, née vers 1814 à Legnaro, épouse d'Angelo BAZZOLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-7HNH",
+    "Dépouillement des tavole alfabetiche des registres napoléoniens de Legnaro (Archivio di Stato di Padova, Stato civile napoleonico, 1806-1815), consulté sur antenati.cultura.gov.it le 31/08/2026. Détail des registres et des vues : assets/italie/legnaro-polverara-antenati-2026-08-31/README.md. Résultat négatif délimité."
    ],
    "associations": [],
    "famille_origine": "JF71",
@@ -145227,7 +145351,7 @@
   "JI152": {
    "id": "JI152",
    "prenom": "Beatrice",
-   "nom": "PESAROLO",
+   "nom": "PESCAROLO",
    "nom_jeune_fille": "",
    "surnom": "",
    "suffixe": "",
@@ -145243,11 +145367,14 @@
    "notes": [
     "Mère de Giuditta STIVANELLO, épouse de Domenico STIVANELLO. Nommée comme belle-mère de l'époux dans l'acte de mariage du 20 mars 1881 à Padoue. L'index FamilySearch transcrit son prénom « Boatine », lecture manifestement fautive : à trancher sur l'image de l'acte — les candidats vraisemblables sont Bortolina, Battistina ou Beatrice. Le patronyme PESAROLO est en revanche net.",
     "PRÉNOM RÉSOLU le 31/08/2026 : l'acte de décès de son mari Domenico STIVANELLO, à Legnaro le 28 février 1885, la nomme « Beatrice PESANOLO ». Le « Boatine » de l'index du mariage de 1881 était bien une mauvaise transcription. Retenu BEATRICE PESAROLO ; PESANOLO conservé comme variante d'index.",
-    "RÉSULTAT NÉGATIF : aucun décès de Beatrice PESAROLO à Legnaro dans la collection padouane. Elle est donc morte ailleurs, ou avant 1871. Ses parents restent inconnus."
+    "RÉSULTAT NÉGATIF : aucun décès de Beatrice PESAROLO à Legnaro dans la collection padouane. Elle est donc morte ailleurs, ou avant 1871. Ses parents restent inconnus.",
+    "**PATRONYME CORRIGÉ le 31/08/2026 : PESCAROLO.** L'index civil de Padoue le donnait « PESAROLO », avec « PESANOLO » comme variante — deux formes qui n'existent pas localement. Les registres napoléoniens de Legnaro portent **PESCAROLO** : l'acte de mariage n° 27 de 1811 nomme *Santo PESCAROLO × Chiara PREPATO*, et la famille apparaît cinq fois entre 1808 et 1811 dans la même commune. C'est un cas d'école du piège noté ailleurs dans ce dossier : **un index officiel n'est pas une preuve, et une mauvaise lecture d'index se propage.** Chercher désormais PESCAROLO.",
+    "Aucun rattachement prouvé aux PESCAROLO de 1811 : Beatrice appartient à la génération suivante. La correction porte sur la graphie, pas sur la filiation."
    ],
    "sources": [
     "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M",
-    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
+    "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune.",
+    "Acte de mariage n° 27, Legnaro, 1811, même registre (segnatura 651, ark:/12657/an_ua344737). Image lue et archivée le 31/08/2026 : legnaro-1811-matrimoni-atto27-pescarolo-pasquetto.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -145521,19 +145648,51 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1775",
+     "date": {
+      "annee": 1775
+     }
+    },
+    "lieu": "Legnaro (Padoue, Italie)"
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "villico"
+    }
+   ],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1775",
+      "date": {
+       "annee": 1775
+      }
+     },
+     "lieu": "Legnaro (Padoue, Italie)"
+    },
+    {
+     "type": "profession",
+     "texte": "villico"
+    }
+   ],
    "images": [],
    "notes": [
-    "Père d'Angelo BAZZOLO (v. 1809-1888). Nommé dans l'acte de décès de son fils, à Legnaro le 21 avril 1888. C'est le plus ancien BAZZOLO connu : né vraisemblablement dans les années 1780, à Legnaro."
+    "Père d'Angelo BAZZOLO (v. 1809-1888). Nommé dans l'acte de décès de son fils, à Legnaro le 21 avril 1888. C'est le plus ancien BAZZOLO connu : né vraisemblablement dans les années 1780, à Legnaro.",
+    "DATÉ le 31/08/2026 par une source primaire. Il est **premier témoin** du mariage n° 28 de Legnaro, le 19 novembre 1811, où l'acte le dit « **d'anni trentasei, villico** », domicilié à Legnaro, et **illettré** — il ne signe pas. Il est donc **né vers 1775**, et sa profession est *villico*, paysan. Sa fiche ne portait jusqu'ici qu'un « vraisemblablement dans les années 1780 » déduit.",
+    "**Conséquence directe sur la recherche** : s'il est né vers 1775, son mariage avec Teresa CERATO se place vers **1795-1805**, donc **avant l'ouverture des registres d'état civil napoléoniens** (1806). C'est ce qui explique l'échec du dépouillement des mariages de Legnaro 1806-1815 : l'acte n'y est pas, et ne peut pas y être. Il faut passer aux **registres paroissiaux** de Legnaro, à l'Archivio diocesano di Padova."
    ],
    "sources": [
-    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune."
+    "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune.",
+    "Acte de mariage n° 28, Legnaro (province de Padoue), 19 novembre 1811, registre des Matrimoni 1811, Archivio di Stato di Padova, Stato civile napoleonico, segnatura 651, ark:/12657/an_ua344737, vue 31/38. Image lue et archivée le 31/08/2026 : legnaro-1811-matrimoni-atto28-bazzolo-andrea-temoin.jpg. Consulté sur antenati.cultura.gov.it. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -145541,7 +145700,7 @@
     "JF70"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1775,
    "annee_deces": null,
    "generations_ascendance": 0,
    "generations_descendance": 7,
@@ -149817,9 +149976,14 @@
    "union": null,
    "divorce": null,
    "evenements": [],
-   "notes": [],
+   "notes": [
+    "Couple attesté par une source primaire le 31/08/2026 : l'acte de décès de Catherine BRUNET, Pruniers, 24 août 1839, où Silvain se déclare son mari. Leur mariage **n'est pas à La Berthenoux entre 1813 et 1822** : antérieur à 1813, ou ailleurs. Un gendre, **François CHERBONNIER**, apparaît à l'acte."
+   ],
    "branches": [
     "leprevost"
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de l'Indre, Pruniers, registre 3 E 169/08, vue 355/394, acte n° 35 du 24 août 1839. Corroboré par la table décennale 3 E TD 169/01, vue 68. Image lue et archivée le 31/08/2026 : 3e169-08-vue355-deces-catherine-brunet-1839-acte-35.jpg. Source primaire lue : PROUVÉ."
    ]
   },
   "LF57": {
@@ -188238,7 +188402,13 @@
     "sex": "M",
     "fams": [
      "LF56"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1778
+     },
+     "type": "naissance"
+    }
    },
    {
     "id": "LI115",
@@ -188249,6 +188419,12 @@
     "fams": [
      "LF56"
     ],
+    "birth": {
+     "date": {
+      "year": 1784
+     },
+     "type": "naissance"
+    },
     "death": {
      "date": {
       "day": 24,
@@ -222348,7 +222524,7 @@
     "id": "JI152",
     "hideId": true,
     "firstName": "Beatrice",
-    "lastName": "PESAROLO",
+    "lastName": "PESCAROLO",
     "sex": "F",
     "fams": [
      "JF68"
@@ -222417,7 +222593,14 @@
     "sex": "M",
     "fams": [
      "JF70"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1775
+     },
+     "place": "Legnaro (Padoue, Italie)",
+     "type": "naissance"
+    }
    },
    {
     "id": "JI156",
@@ -236292,6 +236475,38 @@
    },
    "date": "1726",
    "lieu": "Neufmontiers-lès-Meaux (77)"
+  },
+  "ad36-deces-brunet-catherine-1839": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Catherine BRUNET, Pruniers, 24 août 1839",
+   "fichier": "assets/actes/france/36/ad36-deces-brunet-catherine-1839.jpg",
+   "octets": 524574,
+   "sha256": "31b399d4f326dcc4c7db6e491f6e3400d3ab4442ef7349b4b599f07187ed36e9",
+   "utilise_par": {
+    "individus": [
+     "LI114",
+     "LI115"
+    ],
+    "familles": []
+   },
+   "date": "1839",
+   "lieu": "Pruniers (36)"
+  },
+  "ad75-fiche-reconstituee-mariage-bossot-hecquet-1839": {
+   "type": "fiche_etat_civil",
+   "titre": "Fiche du fichier reconstitué de Paris : mariage BOSSOT × HECQUET, 7 mai 1839",
+   "fichier": "assets/actes/france/75/ad75-fiche-reconstituee-mariage-bossot-hecquet-1839.jpg",
+   "octets": 113531,
+   "sha256": "c6e2de64ee1b2d5725fadacde19499d396dc001a67e10fa55c0313b9d31b7105",
+   "utilise_par": {
+    "individus": [
+     "LI48",
+     "LI49"
+    ],
+    "familles": []
+   },
+   "date": "1839",
+   "lieu": "Paris (75)"
   }
  }
 }
