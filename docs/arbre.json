@@ -11775,10 +11775,11 @@
    "images": [],
    "notes": [
     "NÉGATIF DÉLIMITÉ, 31/08/2026. **Son acte de décès du 24 mai 1828 n'a pas été reconstitué.** Le fichier de l'état civil reconstitué de Paris a été dépouillé **fiche par fiche** sur tout le segment BOSSON → BOSSOT (Archives de Paris, V3E/D 156, cinquante vues) : il ne contient **qu'une seule fiche BOSSOT**, celle de Marie Louise Constantine Julie, morte le 20 avril 1858 dans le 12e ancien. L'état civil parisien d'avant 1860 ayant brûlé en 1871, et la reconstitution étant lacunaire, cette voie est close : sa naissance à **Soissons vers 1804** (AD02) devient la seule piste directe.",
-    "PISTE `PROBABLE`, à trancher : le fichier des mariages reconstitués porte **Louise Constantine BOSSOT × Louis Aimé HECQUET, 7 mai 1839, 10e arrondissement ancien**. Même prénom composé que la seule BOSSOT du fichier des décès, laquelle meurt au **12e ancien** — l'arrondissement même où meurt Rosalie en 1828 et où naît son fils. **Sœur probable de Rosalie.** L'acte de mariage reconstitué de 1839 nommerait les parents de l'épouse, donc ceux de Rosalie : c'est la pièce la plus rentable qui reste sur cette lignée."
+    "PISTE `PROBABLE`, à trancher : l'acte de mariage reconstitué de **Louise Constantine BOSSOT × Louis Aimé HECQUET**, 7 mai 1839, Paris 10e ancien, a été retrouvé (Archives de Paris, **5Mi1 2108, vue 9/46**). Louise est dite fille de **Nicolas BOSSOT, décédé, et Marie Louise ROUSSIN, sa veuve**. Cette filiation est `PROUVÉE` pour Louise seulement : aucun acte ne démontre encore qu'elle soit sœur de Rosalie, donc ces parents ne sont pas intégrés comme ascendants de `LI49`. L'index nominatif AD02 BOSSOT/Soissons/1800-1812 est négatif mais très partiel ; dépouiller le registre reconstitué **5Mi0909, 1803-1808, 453 vues**."
    ],
    "sources": [
-    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste."
+    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste.",
+    "Archives de Paris, état civil reconstitué, mariage HECQUET × BOSSOT, 7 mai 1839, Paris 10e ancien, cote 5Mi1 2108, vue 9/46, consulté le 31/08/2026. Original et transcription : acte-mariage-hecquet-bossot-1839.jpg. Piste collatérale seulement pour Rosalie."
    ],
    "associations": [],
    "famille_origine": null,
@@ -128177,12 +128178,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "Sa profession de **cultivateur** est prouvée le 31/08/2026 par l'acte de décès de sa femme, Marseille 1er, 14 mars 1815, qui la dit « épouse de Jean Michel Lieutaud, cultivateur », au quartier des Comtes."
+    "IDENTITÉ ET FILIATION PROUVÉES le 31/08/2026 par l'acte de décès n° 859, Marseille registre 3, 6 octobre 1834 : Jean Michel LIEUTAUD, cultivateur, 71 ans, né à Marseille, quartier de Saint-Marcel, veuf de Marie Magdelaine POURCHIER, époux de Marie Anne GISTAGNE, fils des défunts François LIEUTAUD et Anne CAILLOL.",
+    "Sa profession de **cultivateur** est aussi attestée par l'acte de décès de sa première femme, Marseille 1er, 14 mars 1815, qui la dit « épouse de Jean Michel Lieutaud, cultivateur », au quartier des Comtes."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 118",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille registre 3, octobre 1834, cote 201 E 2930, image 144, acte n° 859 du 6 octobre 1834. ARK https://www.archives13.fr/ark:/40700/vta96576564410597c7/daogrp/0. Image lue et archivée le 31/08/2026 : ad13-201E-2930-vue144-deces-jean-michel-lieutaud-1834.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF118"
@@ -128197,7 +128199,8 @@
    "generations_ascendance": 1,
    "generations_descendance": 8,
    "assets": [
-    "ad13-deces-pourchier-1815"
+    "ad13-deces-pourchier-1815",
+    "ad13-deces-lieutaud-1834"
    ]
   },
   "AG119": {
@@ -128449,7 +128452,7 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "Filiation PROUVÉE le 31/08/2026 par l'acte de décès de son fils Jean Michel LIEUTAUD, Marseille registre 3, acte n° 859 du 6 octobre 1834, qui le dit fils de feu François LIEUTAUD et de feue Anne CAILLOL. François était mort avant cette date."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 6, Sosa 130"
@@ -130949,10 +130952,11 @@
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "Filiation PROUVÉE le 31/08/2026 par l'acte de décès de son fils Jean Michel LIEUTAUD, Marseille registre 3, acte n° 859 du 6 octobre 1834, qui le dit fils de feu François LIEUTAUD et de feue Anne CAILLOL. François était mort avant cette date."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 236"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 7, Sosa 236",
+    "Acte de décès de Jean Michel LIEUTAUD, AD13, Marseille registre 3, cote 201 E 2930, image 144, acte n° 859 du 6 octobre 1834. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF236"
@@ -130974,10 +130978,11 @@
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "Filiation PROUVÉE le 31/08/2026 par l'acte de décès de son fils Jean Michel LIEUTAUD, Marseille registre 3, acte n° 859 du 6 octobre 1834, qui le dit fils de feu François LIEUTAUD et de feue Anne CAILLOL. Anne était morte avant cette date."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 237"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 237",
+    "Acte de décès de Jean Michel LIEUTAUD, AD13, Marseille registre 3, cote 201 E 2930, image 144, acte n° 859 du 6 octobre 1834. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF236"
@@ -146593,9 +146598,31 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "22 JAN 1843",
+     "date": {
+      "annee": 1843,
+      "mois": 1,
+      "jour": 22
+     }
+    },
+    "lieu": "Chaleix, Vitrac-sur-Montane (19)"
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "13 JUN 1925",
+     "date": {
+      "annee": 1925,
+      "mois": 6,
+      "jour": 13
+     }
+    },
+    "lieu": "Le Mons, Vitrac-sur-Montane (19)"
+   },
    "inhumation": null,
    "professions": [
     {
@@ -146610,31 +146637,122 @@
      "texte": "cultivatrice"
     }
    ],
-   "images": [],
+   "images": [
+    "vitrac-1843-naissance-jeanne-bonnet-acte2-vue241.jpg",
+    "vitrac-1925-deces-jeanne-bonnet-acte3-vue15.jpg"
+   ],
    "notes": [
-    "Mère de Barthélemy MERCIER, épouse de Léonard MERCIER. Nommée par l'acte de naissance de son fils en 1872 (« de lui déclarant et de Jeanne BONNET, sa femme, demeurant ensemble audit lieu de Chaleix ») et par l'acte de mariage de 1900, où elle est **cultivatrice au Mons**, présente et consentante, et **déclare ne savoir signer**.",
-    "Ni sa naissance ni son décès ne sont connus : nouveau point du front d'ascendance."
+    "Mère de Barthélemy MERCIER, épouse de Jean dit Léonard MERCIER. Nommée par l'acte de naissance de son fils en 1872 et par l'acte de mariage de 1900, où elle est **cultivatrice au Mons**, présente et consentante, et **déclare ne savoir signer**.",
+    "Née le 22 janvier 1843 à Chaleix, Vitrac-sur-Montane, de Martial BONNET, cultivateur âgé de trente ans, et de Marie PRESET, son épouse. Décédée le 13 juin 1925 au Mons, veuve de Jean MERCIER ; l'acte de décès confirme les mêmes parents, tous deux décédés."
    ],
    "sources": [
     "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1820-1848, cote 2E/287/3, vue 241/313, acte n° 2 dressé le 23 janvier 1843 pour la naissance du 22 janvier. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Image lue et archivée le 31/08/2026 : vitrac-1843-naissance-jeanne-bonnet-acte2-vue241.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1922-1932, cote 2E/287/20, vue 15/47, acte n° 3 dressé le 14 juin 1925 pour le décès du 13 juin. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Image lue et archivée le 31/08/2026 : vitrac-1925-deces-jeanne-bonnet-acte3-vue15.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF160",
    "familles": [
     "VF158"
    ],
    "vivant": false,
-   "annee_naissance": null,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1843,
+   "annee_deces": 1925,
+   "generations_ascendance": 1,
    "generations_descendance": 5,
    "branches": [
     "vaurie"
    ],
    "assets": [
+    "vitrac-1843-naissance-jeanne-bonnet",
+    "vitrac-1925-deces-jeanne-bonnet",
     "ad19-mariage-mercier-sicard-1900",
     "ad19-naissance-mercier-barthelemy-1872"
+   ]
+  },
+  "VI26": {
+   "id": "VI26",
+   "prenom": "Martial",
+   "nom": "BONNET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jeanne BONNET, cultivateur âgé de trente ans et domicilié à Chaleix lors de la naissance de sa fille le 22 janvier 1843. Il est dit décédé dans l'acte de décès de Jeanne en 1925. Naissance estimée vers 1812-1813, à confirmer."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF160"
+   ],
+   "vivant": false,
+   "annee_naissance": 1813,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VI27": {
+   "id": "VI27",
+   "prenom": "Marie",
+   "nom": "PRESET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Jeanne BONNET, épouse de Martial BONNET, domiciliée à Chaleix en janvier 1843. Le patronyme se lit PRESET dans l'acte de naissance et est corroboré par l'acte de décès de Jeanne en 1925, où elle est dite décédée."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF160"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
    ]
   },
   "VI24": {
@@ -146900,7 +147018,7 @@
    "notes": [
     "Père d'Auguste Étienne Démocrite GUIGUE. Nommé par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867 : « fils majeur reconnu de **feu sieur Jacques Michel Guigue, layetier** ». **Layetier** — fabricant de caisses et de coffres de bois : le métier du bois précède celui de tonnelier chez le fils. Mort avant novembre 1867 ; son acte de décès à Marseille, à chercher par la table décennale des décès lettre G, nommera ses propres parents.",
     "La lecture du patronyme de son épouse est réservée : **FROUCON**, la lettre initiale pouvant être un F ou un T.",
-    "RÉSULTAT NÉGATIF DÉLIMITÉ, 31/08/2026 — les tables décennales des décès de Marseille, lettre G, ont été ouvertes pour 1853-1862 (AD13, cote 201 E 1459, ARK vta92d15db9d6fca23e, 132 vues) et 1863-1872 (ARK vta3634879b36fa3d0e, 130 vues). Aucun Jacques Michel GUIGUE/GUIGOU n'a été relevé. La recherche Geneanet connectée sur son nom exact et sur celui de son fils n'a rendu aucune fiche. Son décès marseillais, s'il a eu lieu dans la commune, est donc à rechercher en priorité avant 1853 ; la table 1843-1852 a été localisée (ARK vtabe3c6ca7acfad56a) mais son dépouillement reste à achever."
+    "RÉSULTAT NÉGATIF DÉLIMITÉ, 31/08/2026 — les tables décennales des décès de Marseille, lettre G, ont été dépouillées intégralement pour 1843-1852 (ARK vtabe3c6ca7acfad56a, 109 vues), 1853-1862 (AD13, cote 201 E 1459, ARK vta92d15db9d6fca23e, 132 vues) et 1863-1872 (ARK vta3634879b36fa3d0e, 130 vues). Aucun Jacques Michel GUIGUE/GUIGOU n'a été relevé. La recherche Geneanet connectée sur son nom exact et sur celui de son fils n'a rendu aucune fiche. Son décès marseillais, s'il a eu lieu dans la commune, est donc à rechercher avant 1843, en priorité dans la décennie 1833-1842."
    ],
    "sources": [
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
@@ -182184,7 +182302,10 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "Couple et filiation PROUVÉS par l'acte de décès de leur fils Jean Michel LIEUTAUD, Marseille registre 3, acte n° 859 du 6 octobre 1834 ; les deux parents y sont dits défunts."
+   ],
+   "sources": [
+    "Acte de décès de Jean Michel LIEUTAUD, AD13, Marseille registre 3, cote 201 E 2930, image 144, acte n° 859 du 6 octobre 1834. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "gimie"
@@ -185349,6 +185470,27 @@
    ],
    "sources": [
     "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1903-1921, cote 2E/287/19, vue 42/99, acte n° 2 dressé le 13 avril 1912. ARK https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69. Image lue et archivée le 31/08/2026 : vitrac-1912-deces-jean-leonard-mercier-acte2-vue42.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF160": {
+   "id": "VF160",
+   "pere": "VI26",
+   "mere": "VI27",
+   "enfants": [
+    "VI13"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de naissance de leur fille Jeanne BONNET, née à Chaleix le 22 janvier 1843. Martial BONNET est cultivateur, âgé de trente ans ; Marie PRESET est son épouse. L'acte de décès de Jeanne en 1925 confirme les deux parents et les dit décédés."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "vaurie"
@@ -222973,8 +223115,48 @@
     "firstName": "Jeanne",
     "lastName": "BONNET",
     "sex": "F",
+    "famc": "VF160",
     "fams": [
      "VF158"
+    ],
+    "birth": {
+     "date": {
+      "day": 22,
+      "month": 1,
+      "year": 1843
+     },
+     "place": "Chaleix, Vitrac-sur-Montane (19)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 13,
+      "month": 6,
+      "year": 1925
+     },
+     "place": "Le Mons, Vitrac-sur-Montane (19)",
+     "type": "deces",
+     "confirmed": true
+    }
+   },
+   {
+    "id": "VI26",
+    "hideId": true,
+    "firstName": "Martial",
+    "lastName": "BONNET",
+    "sex": "M",
+    "fams": [
+     "VF160"
+    ]
+   },
+   {
+    "id": "VI27",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "PRESET",
+    "sex": "F",
+    "fams": [
+     "VF160"
     ]
    },
    {
@@ -236042,6 +236224,14 @@
     ]
    },
    {
+    "id": "VF160",
+    "husb": "VI26",
+    "wife": "VI27",
+    "children": [
+     "VI13"
+    ]
+   },
+   {
     "id": "GF168",
     "husb": "AG168",
     "wife": "AG169",
@@ -236090,7 +236280,7 @@
    "id": "vaurie",
    "libelle": "VAURIE",
    "racine": "VI1",
-   "personnes": 314
+   "personnes": 316
   }
  ],
  "assets": {
@@ -236188,6 +236378,40 @@
    "lieu": "Vitrac-sur-Montane (19)",
    "cote": "AD19, 2E/287/19, acte n° 2, vue 42/99",
    "url": "https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69"
+  },
+  "vitrac-1843-naissance-jeanne-bonnet": {
+   "type": "acte_naissance",
+   "titre": "Naissance de Jeanne BONNET, Vitrac-sur-Montane, 1843",
+   "fichier": "assets/actes/france/19/vitrac-1843-naissance-jeanne-bonnet.jpg",
+   "octets": 498200,
+   "sha256": "8167436b61dcf388bbd84deda613fde2cf83119b8b3afe0896fee7a6c8473ba3",
+   "utilise_par": {
+    "individus": [
+     "VI13"
+    ],
+    "familles": []
+   },
+   "date": "1843",
+   "lieu": "Vitrac-sur-Montane (19)",
+   "cote": "AD19, 2E/287/3, acte n° 2, vue 241/313",
+   "url": "https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67"
+  },
+  "vitrac-1925-deces-jeanne-bonnet": {
+   "type": "acte_deces",
+   "titre": "Décès de Jeanne BONNET, Vitrac-sur-Montane, 1925",
+   "fichier": "assets/actes/france/19/vitrac-1925-deces-jeanne-bonnet.jpg",
+   "octets": 958212,
+   "sha256": "6c12cb333d3764272f82cf6ad717724a2c8ef5acec1771a91710f47a05308d9d",
+   "utilise_par": {
+    "individus": [
+     "VI13"
+    ],
+    "familles": []
+   },
+   "date": "1925",
+   "lieu": "Vitrac-sur-Montane (19)",
+   "cote": "AD19, 2E/287/20, acte n° 3, vue 15/47",
+   "url": "https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e"
   },
   "dampniat-mariage-roux-brugeille-1782-suite": {
    "type": "acte_mariage",
@@ -236640,6 +236864,21 @@
     "familles": []
    },
    "date": "1815",
+   "lieu": "Marseille (13)"
+  },
+  "ad13-deces-lieutaud-1834": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Jean Michel LIEUTAUD, Marseille, 6 octobre 1834",
+   "fichier": "assets/actes/france/13/ad13-deces-lieutaud-1834.jpg",
+   "octets": 690024,
+   "sha256": "2ca9dbcf43c43a5dbb81059315a06632bfd322e3bf5dc0033f379e9318b383b9",
+   "utilise_par": {
+    "individus": [
+     "AG118"
+    ],
+    "familles": []
+   },
+   "date": "1834",
    "lieu": "Marseille (13)"
   },
   "ad13-mariage-guigue-filippi-1867": {
