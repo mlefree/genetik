@@ -8635,8 +8635,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "L'acte de décès n° 6 de Velles, 8 mai 1894, le dit âgé de 66 ans, garde champêtre au bourg de Velles, époux de Cécile FAUVEAU, né à Paris et **fils de Rosalie BOSSOT décédée et de père inconnu**. Filiation maternelle et absence de père `PROUVÉES` par source primaire."
+   ],
+   "sources": [
+    "Archives départementales de l'Indre, Velles, décès du 8 mai 1894, acte n° 6, cote 3 E 231/16, détail 9284, image 9008, vue technique 290, consulté le 31/08/2026. Original et transcription : acte-deces-aime-jules-bossot-1894.jpg."
+   ],
    "associations": [],
    "famille_origine": "LF25",
    "familles": [
@@ -11643,10 +11647,11 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "**Cette fiche est vide de tout fait** : ni prénom, ni nom, ni date, ni lieu, ni source. Elle n'existe que pour porter la paternité d'Aimé Jules BOSSOT. Or l'enfant, né à Paris en 1828, **porte le nom de sa mère**. L'hypothèse la plus économique est celle d'un **enfant naturel, sans père dénommé** — comme Marcelle Eugénie JOURDREN dans la branche Thévenet. À trancher par l'acte de naissance d'Aimé Jules (9 avril 1828, 12e ancien), lui aussi à chercher dans l'état civil reconstitué. Si l'hypothèse se confirme, **cette fiche doit être supprimée** : un père fictif fausse le comptage des générations."
+    "**FICHE ARTIFICIELLE À SUPPRIMER.** L'acte de décès primaire d'Aimé Jules BOSSOT (Velles, 8 mai 1894, acte n° 6) le dit explicitement **fils de Rosalie BOSSOT décédée et de père inconnu**. Cette fiche est vide de tout fait et ne correspond à aucun individu identifié ; conserver la famille `LF25` avec Rosalie comme mère seule lors d'une opération structurelle contrôlée."
    ],
    "sources": [
-    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste."
+    "Fichier de l'état civil reconstitué de Paris, Archives de Paris, série des décès, volume V3E/D 156 (BOSSON → BOSSOT), 50 vues dépouillées fiche par fiche le 31/08/2026, et série des mariages. Images archivées : v3e-d156-fiche-deces-bossot-marie-louise-constantine-julie-1858.jpg et v3e-m-fiche-mariage-bossot-louise-constantine-hecquet-1839.jpg. Résultat négatif délimité et piste.",
+    "Archives départementales de l'Indre, Velles, décès d'Aimé Jules BOSSOT le 8 mai 1894, acte n° 6, cote 3 E 231/16, détail 9284/image 9008/vue technique 290 : père déclaré inconnu. Original : acte-deces-aime-jules-bossot-1894.jpg."
    ],
    "associations": [],
    "famille_origine": null,
@@ -27860,8 +27865,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "DÉCÈS `PROUVÉ` : mort le 20 février 1817 au château de Fougères à Étrechet, âgé de 63 ans, garde particulier, époux de Jeanne GRIMAUD. L'acte ne nomme pas ses parents : négatif délimité ; viser le mariage du couple avant 1777 dans le registre paroissial d'Étrechet 3 E 071/02."
+   ],
+   "sources": [
+    "Archives départementales de l'Indre, Étrechet, décès de Silvain PASQUET, 20 février 1817, cote 3 E 071/05, détail 5197/image 4930/vue technique 123, consulté le 31/08/2026. Original : deces-silvain-pasquet-1817.jpg."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -27957,8 +27966,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "DÉCÈS `PROUVÉ` : morte le 5 novembre 1825 au château de Fougères à Étrechet, âgée de 72 ans, veuve de Silvain PASQUET. Les déclarants Jacques PASQUET, 48 ans, et Pierre PASQUET, 29 ans, sont dits ses fils ; Antoine DUPLAN est son gendre. L'acte ne nomme pas ses parents : négatif délimité."
+   ],
+   "sources": [
+    "Archives départementales de l'Indre, Étrechet, décès de Jeanne GRIMAUD, 5 novembre 1825, acte n° 8, cote 3 E 071/06, détail 9830/image 9554/vue technique 164, consulté le 31/08/2026. Original : deces-jeanne-grimaud-1825.jpg."
+   ],
    "associations": [],
    "famille_origine": null,
    "familles": [
@@ -98495,7 +98508,7 @@
    "vivant": false,
    "annee_naissance": 1913,
    "annee_deces": 1974,
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 3,
    "branches": [
     "vaurie"
@@ -98881,7 +98894,7 @@
    "vivant": false,
    "annee_naissance": 1872,
    "annee_deces": 1935,
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 4,
    "branches": [
     "vaurie"
@@ -128211,9 +128224,11 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "ABT 1775",
+     "brut": "23 APR 1775",
      "date": {
-      "annee": 1775
+      "annee": 1775,
+      "mois": 4,
+      "jour": 23
      }
     },
     "lieu": "Auriol (13)",
@@ -128258,9 +128273,11 @@
     {
      "type": "naissance",
      "date": {
-      "brut": "ABT 1775",
+      "brut": "23 APR 1775",
       "date": {
-       "annee": 1775
+       "annee": 1775,
+       "mois": 4,
+       "jour": 23
       }
      },
      "lieu": "Auriol (13)",
@@ -128302,13 +128319,17 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "NAISSANCE ET FILIATION PROUVÉES le 31/08/2026 par le registre paroissial d'Auriol, cote 201 E 2196, image AD13_201E_2196_0139, vue 12/32 : Marie Magdeleine POURCHIER, fille légitime de Jean Martin POURCHIER et Magdeleine ARNAUD son épouse, est née le 23 avril 1775 à trois heures du matin ; ondoyée par la sage-femme, elle reçoit ensuite les cérémonies du baptême.",
     "ASCENDANCE ÉTABLIE le 31/08/2026 par son acte de décès (AD13, Marseille 1er, 201 E 2829, vue 116, acte n° 441 du 14 mars 1815) : « décédée hier à deux heures du soir, âgée de **quarante ans**, **née à Auriol**, quartier des Comtes, **fille de feu Jean Martin Pourchier et de feue Magdelaine Arnaud**, **épouse de Jean Michel Lieutaud, cultivateur** ». Le décès du 13 mars 1815 est confirmé, elle est née vers 1774-1775 à **Auriol**, et deux parents entrent dans l'arbre.",
     "Elle meurt à quarante ans, deux ans après la naissance de sa fille Anne Françoise (15 février 1813) — et six semaines après Samaya UZIEL, dans le même registre marseillais."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 119",
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême, Archives départementales des Bouches-du-Rhône, Auriol, baptêmes 1775, cote 201 E 2196, image AD13_201E_2196_0139, vue 12/32. ARK https://www.archives13.fr/ark:/40700/vta3e292173c608c890/daogrp/0. Image lue et archivée le 31/08/2026 : ad13-201E-2196-image139-bapteme-marie-magdeleine-pourchier-1775.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "images": [
+    "ad13-bapteme-pourchier-1775"
    ],
    "familles": [
     "GF118"
@@ -128335,7 +128356,8 @@
    "generations_ascendance": 1,
    "generations_descendance": 8,
    "assets": [
-    "ad13-deces-pourchier-1815"
+    "ad13-deces-pourchier-1815",
+    "ad13-bapteme-pourchier-1775"
    ]
   },
   "AG130": {
@@ -145017,7 +145039,31 @@
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "date": {
+      "brut": "1830",
+      "date": {
+       "annee": 1830
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "valeur": "Domestique",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "residences": [
     {
      "type": "residence",
@@ -145092,6 +145138,29 @@
      }
     },
     {
+     "type": "profession",
+     "date": {
+      "brut": "1830",
+      "date": {
+       "annee": 1830
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "valeur": "Domestique",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    },
+    {
      "type": "residence",
      "date": {
       "brut": "1811",
@@ -145118,12 +145187,14 @@
    "notes": [
     "Mère de Jeanne Marie THÉVENET (1816-). L'acte de mariage de sa fille, le 18 janvier 1837, cite « l'extrait de l'acte de décès de la mère de la future, à Tramayes, du vingt-un août mil huit cent trente ». Sa fille avait quatorze ans, et devient alors orpheline des deux parents : ce sont ses grands-parents qui consentiront à son mariage.",
     "Nommée dans les actes de naissance de ses deux enfants à Tramayes, en 1815 et 1816 (AD71, 5 E 545/4, vues 70 et 90). En 1816, c'est Claudine MAILLON, VEUVE LAPALUS, sage-femme, qui déclare la naissance de Jeanne Marie : le même patronyme suggère une parente proche, et une piste vers la famille LAPALUS.",
-    "DATÉE ET RATTACHÉE le 31/08/2026 par son acte de mariage, Tramayes le 3 juin 1811 : « âgée de vingt-sept ans, née à Tramayes le six du mois d'avril an 1784, demeurant à BUFFIÈRES, fille majeure de Claude LAPALUS, profession de propriétaire, demeurant à Tramayes, et de Marie ROBILET ». Elle meurt à Tramayes le 21 août 1830, à quarante-six ans."
+    "DATÉE ET RATTACHÉE le 31/08/2026 par son acte de mariage, Tramayes le 3 juin 1811 : « âgée de vingt-sept ans, née à Tramayes le six du mois d'avril an 1784, demeurant à BUFFIÈRES, fille majeure de Claude LAPALUS, profession de propriétaire, demeurant à Tramayes, et de Marie ROBILET ». Elle meurt à Tramayes le 21 août 1830, à quarante-six ans.",
+    "Acte de décès retrouvé le 31/08/2026 : Anne LAPALUS est dite domestique, veuve d'Antoine THÉVENET, fille des défunts Claude LAPALUS et Marie [graphie difficile, possiblement Rotiale ; ROBILET dans le mariage de 1811]. Son frère Antoine LAPALUS, propriétaire cultivateur, est déclarant."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
     "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1813-1822, cote 5 E 545/4, vue 90/238, acte du 27 janvier 1816. Image lue et archivée le 31/08/2026 : 5e545-4-vue90-naissance-thevenet-jeanne-marie-1816.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1809-1812, cote 5 E 545/3, vue 39/51, acte du 3 juin 1811. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Images lues et archivées le 31/08/2026 : 5e545-3-vue39-mariage-thevenet-lapalus-1811.jpg et td-mariages-tramayes-1802-1812-thevenet.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1809-1812, cote 5 E 545/3, vue 39/51, acte du 3 juin 1811. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Images lues et archivées le 31/08/2026 : 5e545-3-vue39-mariage-thevenet-lapalus-1811.jpg et td-mariages-tramayes-1802-1812-thevenet.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales de Saône-et-Loire, Tramayes, décès 1823-1832, cote 5 E 545/7, vue 86/112, acte n° 63 du 21 août 1830. Image lue et archivée le 31/08/2026 : 5e545-7-vue86-deces-anne-lapalus-1830-acte63.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "JF76",
@@ -145143,7 +145214,8 @@
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-jeanne-marie-1816",
     "ad71-td-mariages-tramayes-1802-1812",
-    "ad71-mariage-thevenet-lapalus-1811"
+    "ad71-mariage-thevenet-lapalus-1811",
+    "ad71-deces-anne-lapalus-1830"
    ]
   },
   "JI149": {
@@ -146659,7 +146731,7 @@
    "vivant": false,
    "annee_naissance": 1843,
    "annee_deces": 1925,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 5,
    "branches": [
     "vaurie"
@@ -146674,6 +146746,127 @@
   "VI26": {
    "id": "VI26",
    "prenom": "Martial",
+   "nom": "BONNET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "21 DEC 1813",
+     "date": {
+      "annee": 1813,
+      "mois": 12,
+      "jour": 21
+     }
+    },
+    "lieu": "Corrèze (19)"
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [
+    "vitrac-1842-mariage-bonnet-preset-vue280.jpg"
+   ],
+   "notes": [
+    "Père de Jeanne BONNET, cultivateur à Chaleix en 1843. Son mariage le dit né à Corrèze le 21 décembre 1813, cultivateur aux Respinaiges, commune de Corrèze, fils majeur de Jean BONNET et Marie AGIOUX, présents et consentants. Il est dit décédé dans l'acte de décès de Jeanne en 1925."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ.",
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, mariages 1803-1848, cote 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Image lue et archivée le 31/08/2026 : vitrac-1842-mariage-bonnet-preset-vue280.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "VF161",
+   "familles": [
+    "VF160"
+   ],
+   "vivant": false,
+   "annee_naissance": 1813,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "vitrac-1842-mariage-bonnet-preset"
+   ]
+  },
+  "VI27": {
+   "id": "VI27",
+   "prenom": "Marie",
+   "nom": "PRESET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "7 FEB 1821",
+     "date": {
+      "annee": 1821,
+      "mois": 2,
+      "jour": 7
+     }
+    },
+    "lieu": "Bar (19)"
+   },
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [
+    "vitrac-1842-mariage-bonnet-preset-vue280.jpg",
+    "bar-1821-naissance-marie-preset-vue250.jpg"
+   ],
+   "notes": [
+    "Mère de Jeanne BONNET, cultivatrice à Chaleix. Son mariage la dit née à Bar le 7 février 1821, fille majeure de Barthélemy PRESET et Jeanne LACROIX, cultivateurs à Chaleix, présents et consentants. Le patronyme PRESET est confirmé par trois actes."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ.",
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, mariages 1803-1848, cote 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Image lue et archivée le 31/08/2026 : vitrac-1842-mariage-bonnet-preset-vue280.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de naissance, AD19, Bar, naissances 1803-1823, cote 2E/16/3, vue 250/294, acte dressé le 8 février 1821 pour la naissance du 7 février. ARK https://www.archives.correze.fr/ark:/69090/6hmjn8g5r3bl/014b342a-7ab1-4076-9e21-60b08ec7fb70. Fille de Barthélemy PRESET et Jeanne LACROIX, cultivateurs. Image lue et archivée le 31/08/2026 : bar-1821-naissance-marie-preset-vue250.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": "VF162",
+   "familles": [
+    "VF160"
+   ],
+   "vivant": false,
+   "annee_naissance": 1821,
+   "annee_deces": null,
+   "generations_ascendance": 1,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "vitrac-1842-mariage-bonnet-preset",
+    "bar-1821-naissance-marie-preset"
+   ]
+  },
+  "VI28": {
+   "id": "VI28",
+   "prenom": "Jean",
    "nom": "BONNET",
    "nom_jeune_fille": "",
    "surnom": "",
@@ -146698,30 +146891,29 @@
    ],
    "images": [],
    "notes": [
-    "Père de Jeanne BONNET, cultivateur âgé de trente ans et domicilié à Chaleix lors de la naissance de sa fille le 22 janvier 1843. Il est dit décédé dans l'acte de décès de Jeanne en 1925. Naissance estimée vers 1812-1813, à confirmer."
+    "Père de Martial BONNET, cultivateur aux Respinaiges, commune de Corrèze, présent et consentant au mariage de son fils le 6 avril 1842."
    ],
    "sources": [
-    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
-    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
    "familles": [
-    "VF160"
+    "VF161"
    ],
    "vivant": false,
-   "annee_naissance": 1813,
+   "annee_naissance": null,
    "annee_deces": null,
    "generations_ascendance": 0,
-   "generations_descendance": 6,
+   "generations_descendance": 7,
    "branches": [
     "vaurie"
    ]
   },
-  "VI27": {
-   "id": "VI27",
+  "VI29": {
+   "id": "VI29",
    "prenom": "Marie",
-   "nom": "PRESET",
+   "nom": "AGIOUX",
    "nom_jeune_fille": "",
    "surnom": "",
    "suffixe": "",
@@ -146730,27 +146922,128 @@
    "bapteme": null,
    "deces": null,
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
    "residences": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
    "images": [],
    "notes": [
-    "Mère de Jeanne BONNET, épouse de Martial BONNET, domiciliée à Chaleix en janvier 1843. Le patronyme se lit PRESET dans l'acte de naissance et est corroboré par l'acte de décès de Jeanne en 1925, où elle est dite décédée."
+    "Mère de Martial BONNET, cultivatrice aux Respinaiges, commune de Corrèze, présente et consentante au mariage de son fils le 6 avril 1842."
    ],
    "sources": [
-    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
-    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
    "familles": [
-    "VF160"
+    "VF161"
    ],
    "vivant": false,
    "annee_naissance": null,
    "annee_deces": null,
    "generations_ascendance": 0,
-   "generations_descendance": 6,
+   "generations_descendance": 7,
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VI30": {
+   "id": "VI30",
+   "prenom": "Barthélemy",
+   "nom": "PRESET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Marie PRESET, cultivateur à Chaleix, commune de Vitrac, présent et consentant au mariage de sa fille le 6 avril 1842."
+   ],
+   "sources": [
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF162"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VI31": {
+   "id": "VI31",
+   "prenom": "Jeanne",
+   "nom": "LACROIX",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "cultivatrice"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère de Marie PRESET, cultivatrice à Chaleix, commune de Vitrac, présente et consentante au mariage de sa fille le 6 avril 1842."
+   ],
+   "sources": [
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF162"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
    "branches": [
     "vaurie"
    ]
@@ -146931,7 +147224,8 @@
     "Père de Marie Madeleine POURCHIER. Nommé par l'acte de décès de sa fille, Marseille 1er, 14 mars 1815, où il est dit **feu** : mort avant mars 1815. Sa fille étant née à **Auriol** vers 1774-1775, c'est là qu'il faut chercher son mariage avec Magdelaine ARNAUD, dans les registres paroissiaux d'Auriol antérieurs à 1775."
    ],
    "sources": [
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de leur fille Marie Magdeleine POURCHIER, Archives départementales des Bouches-du-Rhône, Auriol, cote 201 E 2196, image AD13_201E_2196_0139, vue 12/32, avril 1775. L'acte nomme Jean Martin POURCHIER et Magdeleine ARNAUD comme ses parents légitimes. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -146970,7 +147264,8 @@
     "Mère de Marie Madeleine POURCHIER, épouse de Jean Martin POURCHIER. Nommée par l'acte de décès de sa fille, Marseille 1er, 14 mars 1815, où elle est dite **feue** : morte avant mars 1815. À chercher à Auriol (13)."
    ],
    "sources": [
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de sa fille Marie Magdeleine POURCHIER, Archives départementales des Bouches-du-Rhône, Auriol, cote 201 E 2196, image AD13_201E_2196_0139, vue 12/32, avril 1775. L'acte la nomme Magdeleine ARNAUD, épouse de Jean Martin POURCHIER. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -147018,7 +147313,7 @@
    "notes": [
     "Père d'Auguste Étienne Démocrite GUIGUE. Nommé par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867 : « fils majeur reconnu de **feu sieur Jacques Michel Guigue, layetier** ». **Layetier** — fabricant de caisses et de coffres de bois : le métier du bois précède celui de tonnelier chez le fils. Mort avant novembre 1867 ; son acte de décès à Marseille, à chercher par la table décennale des décès lettre G, nommera ses propres parents.",
     "La lecture du patronyme de son épouse est réservée : **FROUCON**, la lettre initiale pouvant être un F ou un T.",
-    "RÉSULTAT NÉGATIF DÉLIMITÉ, 31/08/2026 — les tables décennales des décès de Marseille, lettre G, ont été dépouillées intégralement pour 1843-1852 (ARK vtabe3c6ca7acfad56a, 109 vues), 1853-1862 (AD13, cote 201 E 1459, ARK vta92d15db9d6fca23e, 132 vues) et 1863-1872 (ARK vta3634879b36fa3d0e, 130 vues). Aucun Jacques Michel GUIGUE/GUIGOU n'a été relevé. La recherche Geneanet connectée sur son nom exact et sur celui de son fils n'a rendu aucune fiche. Son décès marseillais, s'il a eu lieu dans la commune, est donc à rechercher avant 1843, en priorité dans la décennie 1833-1842."
+    "RÉSULTAT NÉGATIF DÉLIMITÉ, 31/08/2026 — les tables décennales des décès de Marseille, lettre G, ont été dépouillées intégralement pour 1833-1842 (ARK vta95902c878f41b2d3, 96 vues), 1843-1852 (ARK vtabe3c6ca7acfad56a, 109 vues), 1853-1862 (AD13, cote 201 E 1459, ARK vta92d15db9d6fca23e, 132 vues) et 1863-1872 (ARK vta3634879b36fa3d0e, 130 vues). Aucun Jacques Michel GUIGUE/GUIGOU n'a été relevé. La recherche Geneanet connectée sur son nom exact et sur celui de son fils n'a rendu aucune fiche. Son décès marseillais, s'il a eu lieu dans la commune et sous l'une de ces graphies, est donc à rechercher avant 1833."
    ],
    "sources": [
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
@@ -185168,7 +185463,8 @@
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-jeanne-marie-1816",
     "ad71-td-mariages-tramayes-1802-1812",
-    "ad71-mariage-thevenet-lapalus-1811"
+    "ad71-mariage-thevenet-lapalus-1811",
+    "ad71-deces-anne-lapalus-1830"
    ]
   },
   "JF67": {
@@ -185482,15 +185778,71 @@
    "enfants": [
     "VI13"
    ],
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "6 APR 1842",
+     "date": {
+      "annee": 1842,
+      "mois": 4,
+      "jour": 6
+     }
+    },
+    "lieu": "Vitrac-sur-Montane (19)"
+   },
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Mariage célébré à Vitrac-sur-Montane le 6 avril 1842. L'acte donne les dates et lieux de naissance des époux et leurs quatre parents, tous présents et consentants. Leur fille Jeanne naît à Chaleix le 22 janvier 1843."
+   ],
+   "sources": [
+    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
+    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ.",
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Image lue et archivée le 31/08/2026 : vitrac-1842-mariage-bonnet-preset-vue280.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "vitrac-1842-mariage-bonnet-preset",
+    "bar-1821-naissance-marie-preset"
+   ]
+  },
+  "VF161": {
+   "id": "VF161",
+   "pere": "VI28",
+   "mere": "VI29",
+   "enfants": [
+    "VI26"
+   ],
    "union": null,
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Couple nommé par l'acte de naissance de leur fille Jeanne BONNET, née à Chaleix le 22 janvier 1843. Martial BONNET est cultivateur, âgé de trente ans ; Marie PRESET est son épouse. L'acte de décès de Jeanne en 1925 confirme les deux parents et les dit décédés."
+    "Parents de Martial BONNET, cultivateurs aux Respinaiges, commune de Corrèze, présents au mariage de leur fils le 6 avril 1842."
    ],
    "sources": [
-    "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
-    "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF162": {
+   "id": "VF162",
+   "pere": "VI30",
+   "mere": "VI31",
+   "enfants": [
+    "VI27"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Parents de Marie PRESET, cultivateurs à Chaleix, commune de Vitrac, présents au mariage de leur fille le 6 avril 1842."
+   ],
+   "sources": [
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "vaurie"
@@ -185530,7 +185882,8 @@
     "Couple nommé par l'acte de décès de leur fille Marie Madeleine POURCHIER, Marseille 1er, 14 mars 1815, où tous deux sont dits défunts. Leur fille est née à **Auriol** vers 1774-1775 : leur mariage y est antérieur, dans les registres paroissiaux de la commune."
    ],
    "sources": [
-    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de leur fille Marie Magdeleine POURCHIER, Archives départementales des Bouches-du-Rhône, Auriol, cote 201 E 2196, image AD13_201E_2196_0139, vue 12/32, avril 1775. L'acte confirme le couple Jean Martin POURCHIER × Magdeleine ARNAUD. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "gimie"
@@ -218099,6 +218452,8 @@
     ],
     "birth": {
      "date": {
+      "day": 23,
+      "month": 4,
       "year": 1775
      },
      "place": "Auriol (13)",
@@ -223145,9 +223500,19 @@
     "firstName": "Martial",
     "lastName": "BONNET",
     "sex": "M",
+    "famc": "VF161",
     "fams": [
      "VF160"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 21,
+      "month": 12,
+      "year": 1813
+     },
+     "place": "Corrèze (19)",
+     "type": "naissance"
+    }
    },
    {
     "id": "VI27",
@@ -223155,8 +223520,58 @@
     "firstName": "Marie",
     "lastName": "PRESET",
     "sex": "F",
+    "famc": "VF162",
     "fams": [
      "VF160"
+    ],
+    "birth": {
+     "date": {
+      "day": 7,
+      "month": 2,
+      "year": 1821
+     },
+     "place": "Bar (19)",
+     "type": "naissance"
+    }
+   },
+   {
+    "id": "VI28",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "BONNET",
+    "sex": "M",
+    "fams": [
+     "VF161"
+    ]
+   },
+   {
+    "id": "VI29",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "AGIOUX",
+    "sex": "F",
+    "fams": [
+     "VF161"
+    ]
+   },
+   {
+    "id": "VI30",
+    "hideId": true,
+    "firstName": "Barthélemy",
+    "lastName": "PRESET",
+    "sex": "M",
+    "fams": [
+     "VF162"
+    ]
+   },
+   {
+    "id": "VI31",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "LACROIX",
+    "sex": "F",
+    "fams": [
+     "VF162"
     ]
    },
    {
@@ -236229,6 +236644,31 @@
     "wife": "VI27",
     "children": [
      "VI13"
+    ],
+    "marriage": {
+     "date": {
+      "day": 6,
+      "month": 4,
+      "year": 1842
+     },
+     "place": "Vitrac-sur-Montane (19)",
+     "type": "union"
+    }
+   },
+   {
+    "id": "VF161",
+    "husb": "VI28",
+    "wife": "VI29",
+    "children": [
+     "VI26"
+    ]
+   },
+   {
+    "id": "VF162",
+    "husb": "VI30",
+    "wife": "VI31",
+    "children": [
+     "VI27"
     ]
    },
    {
@@ -236280,7 +236720,7 @@
    "id": "vaurie",
    "libelle": "VAURIE",
    "racine": "VI1",
-   "personnes": 316
+   "personnes": 320
   }
  ],
  "assets": {
@@ -236395,6 +236835,45 @@
    "lieu": "Vitrac-sur-Montane (19)",
    "cote": "AD19, 2E/287/3, acte n° 2, vue 241/313",
    "url": "https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67"
+  },
+  "vitrac-1842-mariage-bonnet-preset": {
+   "type": "acte_mariage",
+   "titre": "Mariage BONNET × PRESET, Vitrac-sur-Montane, 1842",
+   "fichier": "assets/actes/france/19/vitrac-1842-mariage-bonnet-preset.jpg",
+   "octets": 956568,
+   "sha256": "98ac00d494886f5f425110df953679b3967ca7fef0b615fe826e0b1262d8eb4e",
+   "utilise_par": {
+    "individus": [
+     "VI26",
+     "VI27"
+    ],
+    "familles": [
+     "VF160"
+    ]
+   },
+   "date": "1842",
+   "lieu": "Vitrac-sur-Montane (19)",
+   "cote": "AD19, 2E/287/4, vue 280/320",
+   "url": "https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db"
+  },
+  "bar-1821-naissance-marie-preset": {
+   "type": "acte_naissance",
+   "titre": "Naissance de Marie PRESET, Bar, 1821",
+   "fichier": "assets/actes/france/19/bar-1821-naissance-marie-preset.jpg",
+   "octets": 1786793,
+   "sha256": "367c04fadbe621a6afd5ff0e8dd422c406dbd19d3e81cab743b84559c62206b7",
+   "utilise_par": {
+    "individus": [
+     "VI27"
+    ],
+    "familles": [
+     "VF160"
+    ]
+   },
+   "date": "1821",
+   "lieu": "Bar (19)",
+   "cote": "AD19, 2E/16/3, vue 250/294, acte du 8 février 1821",
+   "url": "https://www.archives.correze.fr/ark:/69090/6hmjn8g5r3bl/014b342a-7ab1-4076-9e21-60b08ec7fb70"
   },
   "vitrac-1925-deces-jeanne-bonnet": {
    "type": "acte_deces",
@@ -236881,6 +237360,21 @@
    "date": "1834",
    "lieu": "Marseille (13)"
   },
+  "ad13-bapteme-pourchier-1775": {
+   "type": "acte_naissance",
+   "titre": "Baptême de Marie Magdeleine POURCHIER, Auriol, avril 1775",
+   "fichier": "assets/actes/france/13/ad13-bapteme-pourchier-1775.jpg",
+   "octets": 1007536,
+   "sha256": "b78e10df31496bb33cb46766d487bc0f723c58a713cc0a084c82828e72697e59",
+   "utilise_par": {
+    "individus": [
+     "AG119"
+    ],
+    "familles": []
+   },
+   "date": "1775",
+   "lieu": "Auriol (13)"
+  },
   "ad13-mariage-guigue-filippi-1867": {
    "type": "acte_mariage",
    "titre": "Acte de mariage GUIGUE × FILIPPI, Marseille 6e, 28 novembre 1867",
@@ -237017,6 +237511,23 @@
    },
    "date": "1895",
    "lieu": "Paris 12e (75)"
+  },
+  "ad71-deces-anne-lapalus-1830": {
+   "type": "acte_deces",
+   "titre": "Acte de décès d'Anne LAPALUS, Tramayes, 21 août 1830",
+   "fichier": "assets/actes/france/71/ad71-deces-anne-lapalus-1830.jpg",
+   "octets": 676444,
+   "sha256": "3a9d75a7f99618b52bd8477c7c8d20dcce158bef7e2cefe190b7afd0cd15e6ed",
+   "utilise_par": {
+    "individus": [
+     "JI148"
+    ],
+    "familles": [
+     "JF66"
+    ]
+   },
+   "date": "1830",
+   "lieu": "Tramayes (71)"
   }
  }
 }
