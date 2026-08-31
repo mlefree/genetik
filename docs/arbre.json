@@ -124373,11 +124373,13 @@
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "**Patronyme corrigé le 31/08/2026 : GUIGUE, et non GUIGOU.** Son acte de mariage (AD13, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867) l'écrit GUIGUE **trois fois** — dans la marge, dans la table décennale et dans le corps de l'acte. GUIGOU, forme du relevé familial de 2006, est conservé comme variante. **À vérifier sur la fiche de sa fille AG11**, dont l'acte de naissance de 1868 n'a pas encore été lu et qui porte encore GUIGOU.",
-    "ASCENDANCE ÉTABLIE par le même acte : « **fils majeur reconnu de feu sieur Jacques Michel Guigue, layetier, et de Dame Catherine Froucon, ménagère** », celle-ci présente et consentante. Son père est donc mort avant novembre 1867, sa mère vivante. Il est **tonnelier**, né à **Marseille le 26 décembre 1837** — l'arbre ne portait qu'un « vers 1838 »."
+    "ASCENDANCE ÉTABLIE par le même acte : « **fils majeur reconnu de feu sieur Jacques Michel Guigue, layetier, et de Dame Catherine Froucon, ménagère** », celle-ci présente et consentante. Son père est donc mort avant novembre 1867, sa mère vivante. Il est **tonnelier**, né à **Marseille le 26 décembre 1837** — l'arbre ne portait qu'un « vers 1838 ».",
+    "**Résultat négatif délimité, 31/08/2026** : sa naissance, portée au **26 décembre 1837 à Marseille** par son acte de mariage de 1867, **n'est indexée ni sous la lettre G, ni sous la lettre F, ni sous la lettre T** des tables décennales des naissances de Marseille 1833-1842. Décembre 1837 a été dépouillé en entier dans les trois lettres (registres 3 et 4). Le seul GUIGOU de l'année 1837 est *Lin Théophile, fils de Victor*, né le 5 mai — sans rapport. Trois hypothèses restent : le patronyme de la mère n'est ni FROUCON, ni TROUCON, ni FOUCOU (l'acte de 1867 dit « fils majeur **reconnu** », donc enfant naturel inscrit sous le nom de sa mère : c'est cette lecture qu'il faut reprendre en découpe IIIF) ; ou la date de 1837 est approchée ; ou la naissance n'est pas marseillaise."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 22",
-    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ.",
+    "Résultat négatif délimité, Archives départementales des Bouches-du-Rhône, tables décennales des naissances de Marseille 1833-1842, lettres G (201 E 1441, vues 362-363), F (201 E 1441, vue 312) et T (201 E 1442, vue 278), décembre 1837 dépouillé en entier le 31/08/2026 : ad13-201E-1441-TD18-vue363-naissances-G-1837-dec-1838-janv.jpg."
    ],
    "familles": [
     "GF22"
@@ -124388,10 +124390,12 @@
    ],
    "annee_naissance": 1837,
    "famille_origine": "GF44",
+   "annee_deces": null,
    "generations_ascendance": 1,
    "generations_descendance": 6,
    "assets": [
-    "ad13-mariage-guigue-filippi-1867"
+    "ad13-mariage-guigue-filippi-1867",
+    "ad13-td-naissances-marseille-1833-1842-G-vue363"
    ]
   },
   "AG23": {
@@ -124713,11 +124717,11 @@
    "deces": {
     "type": "deces",
     "date": {
-     "brut": "1 FEB 1899",
+     "brut": "31 JAN 1899",
      "date": {
       "annee": 1899,
-      "mois": 2,
-      "jour": 1
+      "mois": 1,
+      "jour": 31
      }
     },
     "lieu": "Marseille (13)",
@@ -124768,13 +124772,21 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "journalier"
+    },
+    {
+     "type": "profession",
+     "texte": "épicier"
+    },
+    {
      "type": "deces",
      "date": {
-      "brut": "1 FEB 1899",
+      "brut": "31 JAN 1899",
       "date": {
        "annee": 1899,
-       "mois": 2,
-       "jour": 1
+       "mois": 1,
+       "jour": 31
       }
      },
      "lieu": "Marseille (13)",
@@ -124790,23 +124802,20 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "journalier"
-    },
-    {
-     "type": "profession",
-     "texte": "épicier"
     }
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "Profession de **journalier** prouvée le 31/08/2026 par l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873). Le relevé familial le disait épicier : les deux sont conservés, l'épicerie étant sans doute postérieure. La famille habite alors le quartier de **Séon-Saint-André**."
+    "Profession de **journalier** prouvée le 31/08/2026 par l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873). Le relevé familial le disait épicier : les deux sont conservés, l'épicerie étant sans doute postérieure. La famille habite alors le quartier de **Séon-Saint-André**.",
+    "**Filiation PROUVÉE le 31/08/2026** : son acte de décès (Marseille, 1er février 1899, 201 E 1118, vue 1, acte n° 377) le dit « fils de **Augustin ZUCCA** et de **Anne MATTA** ». Le couple `GF60`, jusqu'ici PROBABLE d'après le seul relevé familial de 2006, est désormais appuyé par une source primaire lue.",
+    "**Correction de date** : l'arbre portait le décès au 1er février 1899. C'est la date de l'**acte** ; celui-ci dit « décédé hier à trois heures du soir », donc le **31 janvier 1899**.",
+    "L'acte le dit **âgé de soixante-et-un ans** (naissance vers 1837-1838, ce que l'arbre portait déjà), **épicier**, **né à Castelnovo d'Asti (Italie)** et domicilié **avenue d'Arenc n° 328** à Marseille. Sa profession d'épicier, que le relevé familial donnait et que l'acte de naissance de 1873 contredisait (« journalier »), est donc vraie elle aussi, plus tard dans sa vie.",
+    "**Variante d'index** : la table décennale des décès 1893-1902 l'inscrit « **Zucco** » ; la marge et le corps de l'acte portent « **Zucca** ». Chercher les deux graphies."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 30",
-    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF30"
@@ -124821,7 +124830,10 @@
    "generations_ascendance": 1,
    "generations_descendance": 6,
    "assets": [
-    "ad13-naissance-zucca-1873"
+    "ad13-naissance-zucca-1873",
+    "ad13-deces-jean-zucca-1899",
+    "ad13-deces-jean-zucca-1899-detail",
+    "ad13-td-deces-marseille-1893-1902-Z"
    ]
   },
   "AG31": {
@@ -124851,6 +124863,15 @@
    ],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "1850",
+      "date": {
+       "annee": 1850
+      }
+     }
+    },
+    {
      "type": "profession",
      "texte": "ménagère"
     },
@@ -124862,11 +124883,14 @@
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "Âge PROUVÉ le 31/08/2026 : l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873) la dit **vingt-trois ans**, donc née vers 1850 — ce que le relevé familial donnait déjà, désormais appuyé par un acte. Elle y est **ménagère** ; « épicière » vient d'une autre source et est conservé.",
-    "**Son mariage avec Jean ZUCCA n'a pas eu lieu à Marseille**, ou pas dans les années couvertes : les tables décennales des mariages **1853-1858** (201 E 1456, lettre Z) et **1863-1872** (201 E 1465, lettre Z, deux vues) ont été dépouillées en entier, sans aucun ZUCCA. Le couple est pourtant dit « mariés » en 1873. Jean ZUCCA étant né à **Castelnuovo d'Asti**, le mariage est vraisemblablement **piémontais**. Trou restant à combler : **1859-1862**, absent de la vue mise en ligne."
+    "**Son mariage avec Jean ZUCCA n'a pas eu lieu à Marseille**, ou pas dans les années couvertes : les tables décennales des mariages **1853-1858** (201 E 1456, lettre Z) et **1863-1872** (201 E 1465, lettre Z, deux vues) ont été dépouillées en entier, sans aucun ZUCCA. Le couple est pourtant dit « mariés » en 1873. Jean ZUCCA étant né à **Castelnuovo d'Asti**, le mariage est vraisemblablement **piémontais**. Trou restant à combler : **1859-1862**, absent de la vue mise en ligne.",
+    "**Profession d'épicière PROUVÉE le 31/08/2026** : l'acte de décès de son mari (Marseille, 1er février 1899) la dit « **Dominique MATTA, épicière** ». Elle est donc **vivante au 31 janvier 1899**, à quarante-neuf ans environ, avenue d'Arenc n° 328.",
+    "**Prochaine cible pour la faire sortir du front** : son propre acte de décès, qui nommerait ses parents. Elle est vivante en janvier 1899 : commencer par la table décennale des décès de Marseille **1893-1902, lettre M** (années 1899-1902 seulement), puis les tables postérieures. Le patronyme MATTA étant piémontais comme celui de son mari, et la mère de celui-ci s'appelant **Anne MATTA**, les deux familles sont vraisemblablement alliées à **Castelnuovo d'Asti** avant l'émigration."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 31",
-    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF30"
@@ -124876,10 +124900,14 @@
     "gimie"
    ],
    "annee_naissance": 1850,
+   "annee_deces": null,
    "generations_ascendance": 0,
    "generations_descendance": 6,
    "assets": [
-    "ad13-naissance-zucca-1873"
+    "ad13-naissance-zucca-1873",
+    "ad13-deces-jean-zucca-1899",
+    "ad13-deces-jean-zucca-1899-detail",
+    "ad13-td-deces-marseille-1893-1902-Z"
    ]
   },
   "AG34": {
@@ -126348,10 +126376,12 @@
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "**PROUVÉ le 31/08/2026 comme père** : l'acte de décès de son fils Jean à Marseille (1er février 1899, 201 E 1118, vue 1, acte n° 377) le nomme « Augustin ZUCCA ». Son fils étant né vers 1837-1838 à **Castelnuovo d'Asti** (Piémont, aujourd'hui Castelnuovo Don Bosco, province d'Asti), c'est là qu'il faut chercher son propre acte de mariage avec Anne MATTA et son acte de décès."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 60"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 60",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF60"
@@ -126360,8 +126390,15 @@
    "branches": [
     "gimie"
    ],
+   "annee_naissance": null,
+   "annee_deces": null,
    "generations_ascendance": 0,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "ad13-deces-jean-zucca-1899",
+    "ad13-deces-jean-zucca-1899-detail",
+    "ad13-td-deces-marseille-1893-1902-Z"
+   ]
   },
   "AG61": {
    "id": "AG61",
@@ -126373,10 +126410,12 @@
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "**PROUVÉE le 31/08/2026 comme mère** : l'acte de décès de son fils Jean à Marseille (1er février 1899) la nomme « **Anne MATTA** ». Le relevé familial disait déjà MATTA ; l'acte le confirme. À noter : son fils a épousé une **Dominique MATTA** — les deux familles ZUCCA et MATTA sont donc alliées deux fois, ce qui oriente la recherche vers une même paroisse de **Castelnuovo d'Asti**."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 61"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 61",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF60"
@@ -126385,8 +126424,15 @@
    "branches": [
     "gimie"
    ],
+   "annee_naissance": null,
+   "annee_deces": null,
    "generations_ascendance": 0,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "ad13-deces-jean-zucca-1899",
+    "ad13-deces-jean-zucca-1899-detail",
+    "ad13-td-deces-marseille-1893-1902-Z"
+   ]
   },
   "AG66": {
    "id": "AG66",
@@ -182468,7 +182514,8 @@
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ],
    "assets": [
-    "ad13-mariage-guigue-filippi-1867"
+    "ad13-mariage-guigue-filippi-1867",
+    "ad13-td-naissances-marseille-1833-1842-G-vue363"
    ]
   },
   "GF28": {
@@ -182500,13 +182547,15 @@
    "evenements": [],
    "notes": [
     "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
-    "Couple **prouvé** le 31/08/2026 par l'acte de naissance de leur fille Thérèse Anne, Marseille 8e, 7 novembre 1873, qui les dit mariés. Leur mariage reste introuvable à Marseille — probablement piémontais."
+    "Couple **prouvé** le 31/08/2026 par l'acte de naissance de leur fille Thérèse Anne, Marseille 8e, 7 novembre 1873, qui les dit mariés. Leur mariage reste introuvable à Marseille — probablement piémontais.",
+    "Le couple est encore uni au **31 janvier 1899** : l'acte de décès de Jean ZUCCA le dit « époux de Dominique MATTA, épicière ». Ils tenaient alors une épicerie **avenue d'Arenc n° 328** à Marseille. Leur mariage reste introuvable à Marseille et demeure très probablement piémontais."
    ],
    "branches": [
     "gimie"
    ],
    "sources": [
-    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ]
   },
   "GF34": {
@@ -182660,10 +182709,14 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "**Couple et filiation PROUVÉS le 31/08/2026** par l'acte de décès de leur fils Jean ZUCCA à Marseille, 1er février 1899 (201 E 1118, vue 1, acte n° 377) : « fils de Augustin ZUCCA et de Anne MATTA ». La mention PROBABLE héritée du relevé familial de 2006 est levée. Le couple vivait à **Castelnuovo d'Asti** (Piémont) vers 1837."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille, décès février 1899, registre 1, cote 201 E 1118, vue 1/57, acte n° 377 dressé le 1er février 1899. Repéré par la table décennale des décès 1893-1902, cote 201 E 1495, lettre Z, vue 5/6. ARK : https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0 . Image lue et archivée le 31/08/2026 : ad13-201E-1118-vue1-deces-jean-zucca-1899.jpg (détail : ad13-201E-1118-vue1-deces-jean-zucca-1899-detail.jpg ; table : ad13-201E-1495-TD101-vue5-deces-1893-1902-lettre-Z.jpg). Source primaire lue : PROUVÉ."
    ]
   },
   "GF66": {
@@ -218299,8 +218352,8 @@
     },
     "death": {
      "date": {
-      "day": 1,
-      "month": 2,
+      "day": 31,
+      "month": 1,
       "year": 1899
      },
      "place": "Marseille (13)",
@@ -238466,6 +238519,85 @@
    },
    "date": "1830",
    "lieu": "Tramayes (71)"
+  },
+  "ad13-deces-jean-zucca-1899": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Jean ZUCCA, Marseille, 1er février 1899",
+   "fichier": "assets/actes/france/13/ad13-deces-jean-zucca-1899.jpg",
+   "octets": 970329,
+   "sha256": "e0abd3efecf5ae9b02ccd8096119a350d357939759d3f8ffa9f7bc2c96480fb5",
+   "utilise_par": {
+    "individus": [
+     "AG30",
+     "AG31",
+     "AG60",
+     "AG61"
+    ],
+    "familles": []
+   },
+   "date": "1899-02-01",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1118, décès février 1899 registre 1, vue 1/57, acte n° 377",
+   "url": "https://www.archives13.fr/ark:/40700/vta4de643a8c722ae1c/daogrp/0"
+  },
+  "ad13-deces-jean-zucca-1899-detail": {
+   "type": "acte_deces",
+   "titre": "Décès de Jean ZUCCA, 1899 — détail de l'acte n° 377",
+   "fichier": "assets/actes/france/13/ad13-deces-jean-zucca-1899-detail.jpg",
+   "octets": 180559,
+   "sha256": "4a2a663fd9adcfa7ef196000c155c91a24345b349da12f9777d71894a161dc83",
+   "utilise_par": {
+    "individus": [
+     "AG30",
+     "AG31",
+     "AG60",
+     "AG61"
+    ],
+    "familles": []
+   },
+   "date": "1899-02-01",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1118, vue 1/57, acte n° 377, région IIIF 280,1590,1720,560",
+   "url": "https://www.archives13.fr/iiif/Etat_civil/AD13_201E_01118M/AD13_201E_6088_0064.jpg/280,1590,1720,560/2400,/0/default.jpg"
+  },
+  "ad13-td-deces-marseille-1893-1902-Z": {
+   "type": "table_decennale",
+   "titre": "Table décennale des décès de Marseille 1893-1902, lettre Z, vue 5",
+   "fichier": "assets/actes/france/13/ad13-td-deces-marseille-1893-1902-Z.jpg",
+   "octets": 1777452,
+   "sha256": "078cbfdc8d51858a03dda8a8b51c853bda4c9f2c8f1297d1e4cd32e85644c9f1",
+   "utilise_par": {
+    "individus": [
+     "AG30",
+     "AG31",
+     "AG60",
+     "AG61"
+    ],
+    "familles": []
+   },
+   "date": "1893-1902",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1495, TD décès 1893-1902, lettre Z, vue 5/6",
+   "url": "https://www.archives13.fr/ark:/40700/vta63622f2f9cd83e20/daogrp/0"
+  },
+  "ad13-td-naissances-marseille-1833-1842-G-vue363": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances de Marseille 1833-1842, lettre G, décembre 1837",
+   "fichier": "assets/actes/france/13/ad13-td-naissances-marseille-1833-1842-G-vue363.jpg",
+   "octets": 710636,
+   "sha256": "c21adcfaa341f7d0f44a33953ab3624fe19ba714d8b61ee14ba8d0162b7bb8ea",
+   "utilise_par": {
+    "individus": [
+     "AG22"
+    ],
+    "familles": [
+     "GF22"
+    ]
+   },
+   "date": "1837",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1441, TD naissances 1833-1842, lettre G, vue 34/71",
+   "url": "https://www.archives13.fr/ark:/40700/vtaa48f1411a3f7658d/daogrp/0"
   }
  }
 }
