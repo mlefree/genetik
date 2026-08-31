@@ -30957,8 +30957,14 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "PROUVÉ 01/09/2026 : « Jean Louis le Prevost fils de Charles le Prevost et de Françoise Gougeon sa femme est né et baptisé en l'église le traise [treize] d'octobre mil sept cent unze ». Né ET baptisé le même jour, le 13 octobre 1711, à Sainte-Mère-Église, par Jean Antoine BUCAILLE, prêtre vicaire. La date portée par l'arbre hérité est confirmée à l'acte. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 141/173 (haut de la page de droite).",
+    "PROUVÉ : parrain Jean Louis LE CAUF, sieur des Fresnes — il signe, et l'enfant porte ses deux prénoms ; marraine Marie LE CHESNE, qui signe également. Un parrain « sieur des Fresnes » signale une parenté ou un patronage notable : piste à ouvrir pour situer socialement la famille.",
+    "Transcription : « Jean Louis le Prevost fils de Charles le Prevost et de Françoise Gougeon sa femme est né et baptisé en l'église le traise [treize] d'octobre mil sept cent unze par moy Jean Antoine Bucaille prestre vicaire de Ste Mere Eglise, et nommé par Jean Louis le Cauf sieur des Fresnes assisté de Marie le Chesne, sous signés. »"
+   ],
+   "sources": [
+    "ad50-5mi1915-sainte-mere-eglise-bapteme-jean-louis-leprevost-1711-vue141.jpg"
+   ],
    "associations": [],
    "famille_origine": "LF210",
    "familles": [
@@ -30971,6 +30977,9 @@
    "generations_descendance": 10,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-bapteme-jean-louis-leprevost-1711"
    ]
   },
   "LI257": {
@@ -44978,10 +44987,16 @@
    "images": [],
    "notes": [
     "Son mariage avec Françoise GOUGEON, porté au 21/11/1708 à Sainte-Mère-Église par l'arbre hérité (LF210), n'a jamais été prouvé par acte. Le registre est en ligne et identifié : AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, 173 vues. Dans les registres de cette paroisse la section des mariages occupe le dernier sixième du volume : chercher vers les vues 145-173.",
-    "Son année de naissance 1675 est héritée et non prouvée ; elle est cohérente avec un mariage des parents antérieur à 1673 ou vers 1674."
+    "Son année de naissance 1675 est héritée et non prouvée ; elle est cohérente avec un mariage des parents antérieur à 1673 ou vers 1674.",
+    "PROUVÉ 01/09/2026 : marié le mardi 27 novembre 1708 en l'église de Sainte-Mère-Église avec Françoise GOUGEON, de la paroisse de Sébeville, par Jean Antoine BUCAILLE, prêtre vicaire du lieu. La date de 21/11/1708 portée par l'arbre hérité est FAUSSE : l'acte dit « le mardy vingt septiesme jour de novembre » — et le 27 novembre 1708 était bien un mardi, le 21 un mercredi. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite).",
+    "PROUVÉ : Charles LE PROVOST ne savait pas signer — l'acte de 1708 précise que les mariés « ont marqué avec moy, ayant déclaré ne sçavoir signer ». Sa marque figure au bas de l'acte.",
+    "NÉGATIF UTILE : l'acte de mariage de 1708 ne nomme PAS les parents de l'époux, alors qu'il nomme le père de l'épouse. La preuve indirecte de la filiation Gilles LE PROVOST → Charles (LF345) par ce mariage a donc échoué. Prochaine cible pour la prouver : le baptême de Charles vers 1675, registre AD50 5 Mi 1915, BMS 1670-1679, fiche 622608, 168 vues, idPremiereVue 1935448 — l'année 1675 y commence à la vue 83 (nouveau cahier « POUR NORMANDIE », premiers actes de février 1675) ; la vue 71 porte juillet-août 1674 et les vues 83-84 sont un doublon de prise de vue.",
+    "Transcription : « L'an mil sept cent huit le mardy vingt septiesme jour de novembre, après avoir publié par trois dimanches ou prosnes de la messe parroissiale de Ste Mere Eglise les bans de Charles le Prevost de cette parroisse et de Françoise Gougeon de la parroisse de Sébeville, avec attestation de la publication desd. bans par le curé dud. lieu, sans qu'il s'y soit trouvé d'empeschement, et les cérémonies de l'Église ayant esté duement observées, moy Jean Antoine Bucaille prestre vicaire dud. lieu les ay conjoints en mariage par paroles de présent, après quoi leur ai donné la bénédiction nuptiale, ce que lesd. mariés ont marqué avec moy, ayant déclaré ne sçavoir signer, aux présences de Charles Gougeon père de lad. future espouse, [Marin] des Ruelles, Sulpice Gougeon, Marie des Vergés et autres. »"
    ],
    "sources": [
-    "Cote repérée le 31/08/2026 pour le mariage du 21/11/1708 : AD50, Sainte-Mère-Église, 5 Mi 1915, BMS 1704-1712, fiche 622612 (173 vues). Acte non encore lu."
+    "Cote repérée le 31/08/2026 pour le mariage du 21/11/1708 : AD50, Sainte-Mère-Église, 5 Mi 1915, BMS 1704-1712, fiche 622612 (173 vues). Acte non encore lu.",
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg",
+    "ad50-5mi1915-sainte-mere-eglise-bapteme-jean-louis-leprevost-1711-vue141.jpg"
    ],
    "associations": [],
    "famille_origine": "LF345",
@@ -44995,6 +45010,10 @@
    "generations_descendance": 11,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-mariage-leprevost-gougeon-1708",
+    "ad50-smee-bapteme-jean-louis-leprevost-1711"
    ]
   },
   "LI513": {
@@ -45061,8 +45080,16 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "PROUVÉ 01/09/2026 : mariée le 27 novembre 1708 à Sainte-Mère-Église avec Charles LE PROVOST. L'acte la dit « Françoise Gougeon de la parroisse de Sébeville », avec attestation de publication des bans délivrée par le curé de Sébeville. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite).",
+    "PROUVÉ : son père Charles GOUGEON (LI1026) est présent au mariage et désigné par l'acte comme « Charles Gougeon père de lad. future espouse ». La filiation LF346, jusqu'ici sans aucune source, est donc établie par acte.",
+    "ALERTE DE COHÉRENCE : l'arbre hérité la fait naître le 4 octobre 1689 à Sainte-Mère-Église, mais l'acte de 1708 la rattache à la paroisse de SÉBEVILLE — la publication des bans se fait à la paroisse de résidence, souvent celle de naissance. Vérifier son baptême dans les registres de Sébeville avant ceux de Sainte-Mère-Église, et considérer que la naissance de 1689 à Sainte-Mère-Église peut être celle d'une homonyme.",
+    "L'acte de 1708 la dit illettrée : elle a marqué et non signé."
+   ],
+   "sources": [
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg",
+    "ad50-5mi1915-sainte-mere-eglise-bapteme-jean-louis-leprevost-1711-vue141.jpg"
+   ],
    "associations": [],
    "famille_origine": "LF346",
    "familles": [
@@ -45075,6 +45102,10 @@
    "generations_descendance": 11,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-mariage-leprevost-gougeon-1708",
+    "ad50-smee-bapteme-jean-louis-leprevost-1711"
    ]
   },
   "LI514": {
@@ -63203,10 +63234,14 @@
    "notes": [
     "Recherche du 31/08/2026 (nuit) : son mariage avec Gillette MONCEL (LI1025) a été cherché à Sainte-Mère-Église dans la section des mariages du registre AD50 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120 à 141, soit l'intégralité des mariages de mai 1667 à 1673. NÉGATIF : aucun acte ne porte LE PROVOST, LE PREVOST, PROVOST, MONCEL ni MOUCEL. Le mariage est donc antérieur à mai 1667 (registre 622605, BMS 1655-1667), postérieur à 1673 (registre 622608, 5 Mi 1915, BMS 1670-1679), ou célébré dans une autre paroisse (Ravenoville, Turqueville, Foucarville, Audouville-la-Hubert).",
     "L'année de naissance 1640 est héritée d'un arbre secondaire et n'est appuyée par aucun acte. Elle n'a servi ici qu'à borner la fenêtre de recherche du mariage.",
-    "Prochaine cible plus sûre que le mariage lui-même : le registre AD50 5 Mi 1915, fiche 622612, BMS 1704-1712 de Sainte-Mère-Église (173 vues), qui contient nécessairement le mariage du 21/11/1708 de son fils Charles (LI512) avec Françoise GOUGEON. Un acte de mariage normand de cette époque nomme couramment les pères des époux : il donnerait Gilles par voie indirecte."
+    "Prochaine cible plus sûre que le mariage lui-même : le registre AD50 5 Mi 1915, fiche 622612, BMS 1704-1712 de Sainte-Mère-Église (173 vues), qui contient nécessairement le mariage du 21/11/1708 de son fils Charles (LI512) avec Françoise GOUGEON. Un acte de mariage normand de cette époque nomme couramment les pères des époux : il donnerait Gilles par voie indirecte.",
+    "Recherche du 01/09/2026 : la voie indirecte a été tentée et a échoué. L'acte de mariage de son fils Charles (27 novembre 1708, Sainte-Mère-Église) ne nomme pas les parents de l'époux, alors qu'il nomme le père de l'épouse. Gilles n'y apparaît donc pas, ni vivant ni défunt.",
+    "Périmètre restant à fouiller pour son propre mariage avec Gillette MONCEL, après le négatif de mai 1667-1673 : AD50 5 Mi 1914, BMS 1655-1667, fiche 622605 (141 vues) pour l'avant ; AD50 5 Mi 1915, BMS 1670-1679, fiche 622608 (168 vues, idPremiereVue 1935448) pour l'après. ATTENTION MÉTHODE : contrairement au registre 1667-1673, ces registres ne groupent PAS les mariages en fin de volume — baptêmes, mariages et sépultures y sont mêlés au fil des jours, le type d'acte figurant en note de marge. Le repère « mariages dans le dernier sixième » ne s'y applique pas.",
+    "Bonne nouvelle de méthode : dans 5 Mi 1915 fiche 622608, les actes de mariage nomment les quatre parents des époux — exemple relevé à la vue 83, mariage du 19 février 1675 de Pierre HUBERT, « fils de Guillaume Hubert et Marguerite Fontenille ses père et mère de la paroisse de Ste Marie du Mont », et de Jeanne Françoise LE CHESNE, « fille de Michel le Chesne et Jeanne de Bout Gosseaume ». Si le mariage de Gilles est postérieur à 1673, l'acte donnera directement ses parents et fera reculer le front de deux points."
    ],
    "sources": [
-    "AD50, Sainte-Mère-Église, 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120-141, section des mariages dépouillée intégralement le 31/08/2026 — résultat négatif. Pièces : ad50-5mi1914-sainte-mere-eglise-1667-1673-vue001-titre.jpg et ad50-5mi1914-sainte-mere-eglise-mariages-1667-vue121-ouverture.jpg"
+    "AD50, Sainte-Mère-Église, 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120-141, section des mariages dépouillée intégralement le 31/08/2026 — résultat négatif. Pièces : ad50-5mi1914-sainte-mere-eglise-1667-1673-vue001-titre.jpg et ad50-5mi1914-sainte-mere-eglise-mariages-1667-vue121-ouverture.jpg",
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg"
    ],
    "associations": [],
    "famille_origine": null,
@@ -63223,7 +63258,8 @@
    ],
    "assets": [
     "ad50-smee-1667-1673-titre",
-    "ad50-smee-mariages-1667-ouverture"
+    "ad50-smee-mariages-1667-ouverture",
+    "ad50-smee-mariage-leprevost-gougeon-1708"
    ]
   },
   "LI1025": {
@@ -63245,7 +63281,8 @@
    "notes": [
     "Recherche du 31/08/2026 (nuit) : cherchée avec son époux Gilles LE PROVOST (LI1024) dans la section des mariages du registre AD50 5 Mi 1914, BMS 1667-1673 de Sainte-Mère-Église (fiche 622606), vues 120-141. NÉGATIF sur les graphies MONCEL et MOUCEL.",
     "Graphie à surveiller : l'index nominatif des AD50 écrit MOUCEL au moins une fois pour ce qui est ailleurs MONCEL. Chercher les deux formes, ainsi que MONSEL.",
-    "L'index nominatif collaboratif des AD50 (34 230 annotations) ne couvre ni Sainte-Mère-Église ni le XVIIe siècle : il ne peut servir à établir une absence."
+    "L'index nominatif collaboratif des AD50 (34 230 annotations) ne couvre ni Sainte-Mère-Église ni le XVIIe siècle : il ne peut servir à établir une absence.",
+    "Recherche du 01/09/2026 : absente de l'acte de mariage de son fils Charles du 27 novembre 1708 à Sainte-Mère-Église, qui ne nomme aucun des parents de l'époux. Son mariage reste à trouver dans les fiches 622605 (1655-1667) et 622608 (1670-1679)."
    ],
    "sources": [
     "AD50, Sainte-Mère-Église, 5 Mi 1914, BMS 1667-1673 (fiche 622606), vues 120-141, dépouillement négatif du 31/08/2026. Pièce : ad50-5mi1914-sainte-mere-eglise-mariages-1667-vue121-ouverture.jpg"
@@ -63284,8 +63321,13 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "PROUVÉ 01/09/2026 : vivant le 27 novembre 1708 et présent au mariage de sa fille Françoise GOUGEON avec Charles LE PROVOST à Sainte-Mère-Église, où l'acte le nomme « Charles Gougeon père de lad. future espouse ». C'est la première source d'acte de cette fiche et de la filiation LF346. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite).",
+    "Autres GOUGEON présents au même acte, très probablement de la même parenté de Sébeville : François GOUGEON et Sulpice GOUGEON, tous deux marquants. Un Charles GOUGEON signe au bas de l'acte. À exploiter pour remonter la famille GOUGEON de Sébeville."
+   ],
+   "sources": [
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg"
+   ],
    "associations": [],
    "famille_origine": "LF507",
    "familles": [
@@ -63299,6 +63341,9 @@
    "generations_descendance": 12,
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-mariage-leprevost-gougeon-1708"
    ]
   },
   "LI1027": {
@@ -145086,12 +145131,15 @@
     "Graphie précisée le 31/08/2026 : l'acte de naissance de son fils Joseph, en 1811, écrit clairement LAMAIN, là où le mariage de 1837 se lisait LAMAY. Retenu LAMAIN ; LAMAY conservé comme variante.",
     "Son acte de mariage du 13 juin 1808 à Tramayes la dit « fille MINEURE » — le greffier a rayé la mention imprimée pour écrire « mineure » : elle est donc née après le 13 juin 1787. Son père y est dit « défunt sieur », mort avant juin 1808 et demeurant à Tramayes à son décès. Le sieur Jacques MAZOYER, géomètre à Tramayes, âgé de 61 ans, premier témoin, « a déclaré être BEAU-PÈRE de la future » : sa mère s'était remariée. La ligne qui nomme la mère est écrite en travers des blancs du formulaire et reste à relire (lecture provisoire « Jacquine MAZOYER », incompatible avec la qualité de beau-père de Jacques MAZOYER). Ni le prénom du père ni le nom de la mère ne sont donc retenus : DOUTEUX tant que la vue 56 n'aura pas été relue à plus fort grossissement.",
     "NÉGATIF DÉLIMITÉ, 31/08/2026. La table décennale des MARIAGES de Tramayes 1802-1812 (AD71, 6 E 545/1, `detail=135344`, vue 3/6) ne porte **aucun MAZOYER** parmi les époux. Le remariage de sa mère avec le géomètre Jacques MAZOYER est donc **antérieur à 1802**, comme le décès de son père : registre des mariages de Tramayes 1793-1802, AD71 `5 E 545/1`, `detail=666458`, 89 vues, sans table décennale. Les deux pièces qui nommeront ses parents sont dans le même registre décennal, à feuilleter ensemble.",
-    "01/09/2026 — sa mère n'est pas Josephte PERRIN. Le dépouillement intégral des décès de Tramayes de l'an IV à l'an X (film FamilySearch 008304039, images 1690-1745) ne fait apparaître qu'un seul foyer LAMAIN, celui de François LAMAIN et Josephte PERRIN, dont deux enfants meurent en l'an VI. François est vivant en avril 1798, alors que le père de Jeanne est mort avant le remariage de sa veuve avec Jacques MAZOYER, lui-même antérieur à 1802 : ce foyer est celui d'un collatéral, pas celui de ses parents. Le nom de sa mère reste donc inconnu, et la pièce qui le donnera est le mariage MAZOYER x veuve LAMAIN, à chercher dans les images 1398-1689 du même film."
+    "01/09/2026 — sa mère n'est pas Josephte PERRIN. Le dépouillement intégral des décès de Tramayes de l'an IV à l'an X (film FamilySearch 008304039, images 1690-1745) ne fait apparaître qu'un seul foyer LAMAIN, celui de François LAMAIN et Josephte PERRIN, dont deux enfants meurent en l'an VI. François est vivant en avril 1798, alors que le père de Jeanne est mort avant le remariage de sa veuve avec Jacques MAZOYER, lui-même antérieur à 1802 : ce foyer est celui d'un collatéral, pas celui de ses parents. Le nom de sa mère reste donc inconnu, et la pièce qui le donnera est le mariage MAZOYER x veuve LAMAIN, à chercher dans les images 1398-1689 du même film.",
+    "01/09/2026 — sa mère et son père restent anonymes, mais leur milieu se précise. Les LAMAIN que le registre de Tramayes fait apparaître sont des MARCHANDS de Clermain qui SAVENT SIGNER (Étienne et Claude LAMAIN signent leur acte du 28 brumaire an III), ce qui concorde avec le « défunt sieur » de son propre acte de mariage de 1808 et avec le remariage de sa mère à un géomètre. Chercher désormais sa naissance (vers 1788-1791) et le décès de son père à CLERMAIN (71), pas à Tramayes."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
     "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1803-1812, cote 5 E 545/2, vue 163/204, acte du 21 février 1811. Image lue et archivée le 31/08/2026 : 5e545-2-vue163-naissance-thevenet-joseph-1811.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ.",
+    "AD71, Tramayes, 5 E 545/1, mariages 1793-1802 : dépouillement intégral du 01/09/2026, négatif sur le remariage de sa mère.",
+    "Vues du dépouillement négatif du remariage de sa mère, AD71 Tramayes 5 E 545/1, table alphabétique des époux : 5e545-1-vue56-table-alphabetique.jpg et 5e545-1-vue57-table-alphabetique-suite.jpg."
    ],
    "associations": [],
    "famille_origine": "JF78",
@@ -145110,7 +145158,9 @@
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-joseph-1811",
-    "ad71-mariage-thevenet-lamain-1808"
+    "ad71-mariage-thevenet-lamain-1808",
+    "ad71-tramayes-5e545-1-vue56-table-alphabetique",
+    "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite"
    ]
   },
   "JI147": {
@@ -146791,12 +146841,17 @@
     "PISTE PRÉCISÉE le 31/08/2026, et l'outil est désormais en main. Le registre AD71 5 E 545/1 (Tramayes, N.M.D. 1792-1802), qui n'a pas de table décennale et n'est pas exploitable en ligne sur archives71.fr, est intégralement sur le microfilm FamilySearch DGS 008304039, item 4, images 1398 à 1748. Sa partie « décès » est un formulaire imprimé de la République qui appelle explicitement la filiation du défunt : sondage de l'image 1735 (vendémiaire an X) — « Acte de décès de Françoise Braillon … fils de Jacques Braillon et de Magdeleine Paffot ». Le dernier acte de décès est à l'image 1745. Un LAMAIN mort à Tramayes entre 1793 et 1802 y rendrait donc d'un coup son prénom, sa profession, son âge, le nom de sa veuve et ses propres parents. C'est la prochaine pièce à ouvrir sur cette branche.",
     "NÉGATIF DÉLIMITÉ, 01/09/2026 — le plus large posé sur cette piste. La section des DÉCÈS du registre de Tramayes 1792-1802 (AD71 5 E 545/1) a été dépouillée VUE PAR VUE, marges lues, sur le microfilm FamilySearch DGS 008304039 : images 1690 à 1745, soit la totalité des décès de l'an IV à l'an X (1795 - septembre 1802), dernier acte image 1745, suite blanche. Découpage relevé au passage, car le registre n'est PAS un bloc « décès » continu mais une reliure de cahiers annuels, chacun ouvert par sa page de titre imprimée : décès an IV = 1690-1693 ; titre an V = 1694, décès an V = 1695-1700 ; titre an VI = 1701, décès an VI = 1702-1707 (1707 = vue noire) ; décès an VII = 1708-1713, titre an VII = 1714 ; titre an VIII = 1715-1716, décès an VIII = 1716-1722 ; titre an IX = 1723, décès an IX = 1724-1733 ; titre an X = 1734, décès an X = 1735-1745 (1735 = vue noire). RÉSULTAT : AUCUN décès d'un LAMAIN adulte dans tout ce périmètre. Les deux seuls LAMAIN sont des enfants en bas âge, images 1703 et 1705.",
     "CONSÉQUENCE, 01/09/2026 — la fenêtre du décès se referme sur trois ans. Sa veuve s'est remariée avec le géomètre Jacques MAZOYER AVANT 1802 (la table décennale des mariages 1802-1812 ne porte aucun MAZOYER), donc il est mort avant 1802 ; et les décès de Tramayes de l'an IV à l'an X, images 1690 à 1745, ne portent aucun LAMAIN adulte. Il est donc mort à Tramayes entre septembre 1792 et septembre 1795 (an I à an III), ou avant septembre 1792 dans le registre paroissial. Périmètre suivant, et il est petit : images 1398 à 1689 du même film, qui contiennent les cahiers annuels N., M. et D. des ans I à IV et la fin des baptêmes paroissiaux. LA PIÈCE À CHERCHER EN PREMIER N'EST PAS SON ACTE DE DÉCÈS MAIS LE REMARIAGE DE SA VEUVE : le mariage Jacques MAZOYER x veuve LAMAIN, célébré à Tramayes avant 1802 et donc dans ce même film, nommera d'un seul coup la mère de Jeanne, le prénom du premier mari et, formulaire républicain oblige, les parents des deux époux.",
-    "ÉCARTÉ, 01/09/2026, mais à garder en mémoire. Le seul LAMAIN adulte documenté à Tramayes dans ce registre est François LAMAIN, habitant, environ 34-35 ans en l'an VI (né vers 1762-1764), sachant signer, marié à Josephte PERRIN : il déclare la mort de deux de ses enfants, François (un mois) le 2 nivôse an VI et Philibert (deux ans) le 20 germinal an VI. Il n'est PAS le père de Jeanne : il est vivant en avril 1798, or le père de Jeanne était mort avant le remariage de sa veuve, antérieur à 1802, et aucun LAMAIN adulte ne meurt à Tramayes de l'an IV à l'an X. François LAMAIN est donc un collatéral — frère ou cousin très probable — et Josephte PERRIN n'est pas la mère de Jeanne. Aucune fiche créée : un collatéral non rattaché n'élargit l'arbre sans le faire monter."
+    "ÉCARTÉ, 01/09/2026, mais à garder en mémoire. Le seul LAMAIN adulte documenté à Tramayes dans ce registre est François LAMAIN, habitant, environ 34-35 ans en l'an VI (né vers 1762-1764), sachant signer, marié à Josephte PERRIN : il déclare la mort de deux de ses enfants, François (un mois) le 2 nivôse an VI et Philibert (deux ans) le 20 germinal an VI. Il n'est PAS le père de Jeanne : il est vivant en avril 1798, or le père de Jeanne était mort avant le remariage de sa veuve, antérieur à 1802, et aucun LAMAIN adulte ne meurt à Tramayes de l'an IV à l'an X. François LAMAIN est donc un collatéral — frère ou cousin très probable — et Josephte PERRIN n'est pas la mère de Jeanne. Aucune fiche créée : un collatéral non rattaché n'élargit l'arbre sans le faire monter.",
+    "NÉGATIF DÉLIMITÉ À LA VUE, 01/09/2026. Le registre des MARIAGES de Tramayes 1793-1802 (AD71, `5 E 545/1`, `detail=666458`, identifiant d'image 423652) a été téléchargé et dépouillé INTÉGRALEMENT : 88 vues servies sur 89 annoncées, les vues 1 à 30 lues page entière, les vues 31 à 88 par bandes de marge (l'officier public y porte le nom des deux époux en marge), plus la TABLE ALPHABÉTIQUE des époux des vues 56-57 lue en pleine résolution. **Aucun MAZOYER n'y est époux, aucun LAMAIN n'y est épouse.** Le remariage de la veuve LAMAIN avec le géomètre Jacques MAZOYER — attesté par le mariage de 1808 où il se dit « beau-père de la future », 61 ans — n'a donc PAS eu lieu à Tramayes sous la République. Il est soit antérieur à septembre 1792 (registre paroissial, FamilySearch DGS 008304039 images 1-1397), soit célébré dans la commune d'origine de la veuve, très probablement CLERMAIN (71).",
+    "PISTE OUVERTE LE 01/09/2026 — les LAMAIN sont de CLERMAIN, pas de Tramayes. Trois indices concordants tirés du registre des mariages de Tramayes 1793-1802 (AD71, `5 E 545/1`) : (1) vues 16-17, mariage du 28 brumaire an III (18/11/1794) d'Étienne LAMAIN, « marchand à Chermain », fils de Benoît LAMAIN et de Jeanne LECHERE, avec Pierrette THOMAS — publications faites « à Chermain », et son témoin Claude LAMAIN, 26 ans, est lui aussi « marchand demeurant à la commune de Chermain » ; (2) vue 65, mariage de Pierre BERTHOUD, de Brandon, avec Antoinette LAMAIN, « de Clermain » ; (3) sur dix ans le registre de Tramayes ne connaît aucun LAMAIN natif de la commune, ils y arrivent tous par mariage. *Chermain* est la graphie du greffier pour CLERMAIN, commune limitrophe de Tramayes. C'est à Clermain qu'il faut chercher — mariage MAZOYER × veuve LAMAIN, naissance de Jeanne vers 1788-1791, décès de son père. Voir `assets/france/71/ad71-tramayes-mariages-1793-1802/README.md`.",
+    "MISE EN GARDE, 01/09/2026 : il y a AU MOINS DEUX Jacques MAZOYER propriétaires à Tramayes. Celui qui témoigne au mariage LAMAIN × THOMAS du 28 brumaire an III est dit « âgé de vingt-huit ans » (né vers 1766) ; le géomètre beau-père de Jeanne LAMAIN a 61 ans en juin 1808 (né vers 1747). Ne pas les confondre, comme on avait failli confondre les deux Jean THÉVENET. Aucune fiche n'a été créée sur cette base."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ.",
     "Acte de décès, Tramayes (71), registre N.M.D. 1792-1802, AD71 cote 5 E 545/1, consulté sur microfilm FamilySearch DGS 008304039, item 4, image 1703/1748, page de droite, premier acte, 2 nivôse an VI (22 décembre 1797) : décès de François LAMAIN, un mois, « fils dudit Lamain et de Josephte Perrin », déclaré par François LAMAIN, habitant, 35 ans. Image lue le 01/09/2026. Source primaire lue : PROUVÉ.",
-    "Acte de décès, Tramayes (71), registre N.M.D. 1792-1802, AD71 cote 5 E 545/1, consulté sur microfilm FamilySearch DGS 008304039, item 4, image 1705/1748, page de gauche, deuxième acte, 20 germinal an VI (9 avril 1798) : décès de Philibert LAMAIN, deux ans, « fils dudit Lamain », déclaré par François LAMAIN, habitant, 34 ans, qui signe « Lamain ». Image lue le 01/09/2026. Source primaire lue : PROUVÉ."
+    "Acte de décès, Tramayes (71), registre N.M.D. 1792-1802, AD71 cote 5 E 545/1, consulté sur microfilm FamilySearch DGS 008304039, item 4, image 1705/1748, page de gauche, deuxième acte, 20 germinal an VI (9 avril 1798) : décès de Philibert LAMAIN, deux ans, « fils dudit Lamain », déclaré par François LAMAIN, habitant, 34 ans, qui signe « Lamain ». Image lue le 01/09/2026. Source primaire lue : PROUVÉ.",
+    "AD71, Tramayes, 5 E 545/1, mariages 1793-1802, detail=666458, 88 vues dépouillées le 01/09/2026 : aucun mariage MAZOYER × veuve LAMAIN. Négatif délimité à la vue.",
+    "Vues du dépouillement, AD71 Tramayes 5 E 545/1 : table alphabétique des époux 5e545-1-vue56-table-alphabetique.jpg et 5e545-1-vue57-table-alphabetique-suite.jpg — aucun MAZOYER époux, aucune LAMAIN épouse ; et le mariage d'Étienne LAMAIN de Clermain du 28 brumaire an III, 5e545-1-vue16-mariage-lamain-thomas-an3.jpg et 5e545-1-vue17-mariage-lamain-thomas-an3-suite.jpg, qui ouvre la piste de Clermain."
    ],
    "associations": [],
    "famille_origine": null,
@@ -146812,7 +146867,11 @@
     "thevenet"
    ],
    "assets": [
-    "ad71-mariage-thevenet-lamain-1808"
+    "ad71-mariage-thevenet-lamain-1808",
+    "ad71-tramayes-5e545-1-vue16-mariage-lamain-thomas-an3",
+    "ad71-tramayes-5e545-1-vue17-mariage-lamain-thomas-an3-suite",
+    "ad71-tramayes-5e545-1-vue56-table-alphabetique",
+    "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite"
    ]
   },
   "VI14": {
@@ -155185,6 +155244,9 @@
    "notes": [],
    "branches": [
     "leprevost"
+   ],
+   "assets": [
+    "ad50-smee-bapteme-jean-louis-leprevost-1711"
    ]
   },
   "LF117": {
@@ -159763,14 +159825,14 @@
    "union": {
     "type": "union",
     "date": {
-     "brut": "21 NOV 1708",
+     "brut": "27 NOV 1708",
      "date": {
       "annee": 1708,
       "mois": 11,
-      "jour": 21
+      "jour": 27
      }
     },
-    "lieu": "Ste Mère- Eglise (50)",
+    "lieu": "Sainte-Mère-Église (50)",
     "commune": {
      "nom": "Sainte-Mère-Église",
      "code": "50523",
@@ -159789,14 +159851,14 @@
     {
      "type": "union",
      "date": {
-      "brut": "21 NOV 1708",
+      "brut": "27 NOV 1708",
       "date": {
        "annee": 1708,
        "mois": 11,
-       "jour": 21
+       "jour": 27
       }
      },
-     "lieu": "Ste Mère- Eglise (50)",
+     "lieu": "Sainte-Mère-Église (50)",
      "commune": {
       "nom": "Sainte-Mère-Église",
       "code": "50523",
@@ -159812,12 +159874,23 @@
     }
    ],
    "notes": [
-    "Mariage porté au 21/11/1708 à Sainte-Mère-Église sans aucune source. Registre identifié et en ligne : AD50, 5 Mi 1915, BMS 1704-1712, fiche 622612, 173 vues. C'est la pièce la plus rentable de la lignée agnatique : si elle nomme les pères des époux, elle prouve la filiation de Charles LE PROVOST et fait reculer le front de deux points."
+    "Mariage porté au 21/11/1708 à Sainte-Mère-Église sans aucune source. Registre identifié et en ligne : AD50, 5 Mi 1915, BMS 1704-1712, fiche 622612, 173 vues. C'est la pièce la plus rentable de la lignée agnatique : si elle nomme les pères des époux, elle prouve la filiation de Charles LE PROVOST et fait reculer le front de deux points.",
+    "PROUVÉ 01/09/2026 par l'acte : le mariage a été célébré le mardi 27 novembre 1708 en l'église de Sainte-Mère-Église, par Jean Antoine BUCAILLE, prêtre vicaire. La date de 21/11/1708 portée par l'arbre hérité, jamais sourcée, est corrigée ici. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite).",
+    "Bans publiés trois dimanches à Sainte-Mère-Église pour l'époux et à Sébeville pour l'épouse, avec attestation du curé de Sébeville ; aucun empêchement. Les deux époux ont marqué, ne sachant signer.",
+    "Témoins nommés : Charles GOUGEON, père de l'épouse ; [Marin] des Ruelles ; Sulpice GOUGEON ; Marie des Vergés.",
+    "Transcription : « L'an mil sept cent huit le mardy vingt septiesme jour de novembre, après avoir publié par trois dimanches ou prosnes de la messe parroissiale de Ste Mere Eglise les bans de Charles le Prevost de cette parroisse et de Françoise Gougeon de la parroisse de Sébeville, avec attestation de la publication desd. bans par le curé dud. lieu, sans qu'il s'y soit trouvé d'empeschement, et les cérémonies de l'Église ayant esté duement observées, moy Jean Antoine Bucaille prestre vicaire dud. lieu les ay conjoints en mariage par paroles de présent, après quoi leur ai donné la bénédiction nuptiale, ce que lesd. mariés ont marqué avec moy, ayant déclaré ne sçavoir signer, aux présences de Charles Gougeon père de lad. future espouse, [Marin] des Ruelles, Sulpice Gougeon, Marie des Vergés et autres. »"
    ],
    "branches": [
     "leprevost"
    ],
-   "sources": []
+   "sources": [
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg",
+    "ad50-5mi1915-sainte-mere-eglise-bapteme-jean-louis-leprevost-1711-vue141.jpg"
+   ],
+   "assets": [
+    "ad50-smee-mariage-leprevost-gougeon-1708",
+    "ad50-smee-bapteme-jean-louis-leprevost-1711"
+   ]
   },
   "LF211": {
    "id": "LF211",
@@ -165838,7 +165911,8 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Union non datée et non localisée. Dépouillement du 31/08/2026 : absente de la section des mariages de Sainte-Mère-Église pour mai 1667-1673 (AD50, 5 Mi 1914, fiche 622606, vues 120-141). Restent à dépouiller, par ordre de rendement : 5 Mi 1914 fiche 622605 (BMS 1655-1667, 141 vues), 5 Mi 1915 fiche 622608 (BMS 1670-1679, 168 vues), puis les paroisses voisines."
+    "Union non datée et non localisée. Dépouillement du 31/08/2026 : absente de la section des mariages de Sainte-Mère-Église pour mai 1667-1673 (AD50, 5 Mi 1914, fiche 622606, vues 120-141). Restent à dépouiller, par ordre de rendement : 5 Mi 1914 fiche 622605 (BMS 1655-1667, 141 vues), 5 Mi 1915 fiche 622608 (BMS 1670-1679, 168 vues), puis les paroisses voisines.",
+    "NÉGATIF UTILE 01/09/2026 : cette filiation (Gilles LE PROVOST × Gillette MONCEL → Charles) reste sans source. L'acte de mariage de Charles du 27 novembre 1708 a été lu à l'image : il ne nomme pas les parents de l'époux. Il faut donc le baptême de Charles, à chercher dans AD50 5 Mi 1915, BMS 1670-1679, fiche 622608 — l'année 1675 y débute à la vue 83."
    ],
    "branches": [
     "leprevost"
@@ -165903,9 +165977,17 @@
      }
     }
    ],
-   "notes": [],
+   "notes": [
+    "PROUVÉ 01/09/2026 : la filiation Charles GOUGEON → Françoise GOUGEON, jusqu'ici portée sans aucune source, est établie par l'acte de mariage du 27 novembre 1708 à Sainte-Mère-Église, qui nomme « Charles Gougeon père de lad. future espouse » parmi les présents. AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite)."
+   ],
    "branches": [
     "leprevost"
+   ],
+   "sources": [
+    "ad50-5mi1915-sainte-mere-eglise-mariage-leprevost-gougeon-1708-vue077.jpg"
+   ],
+   "assets": [
+    "ad50-smee-mariage-leprevost-gougeon-1708"
    ]
   },
   "LF347": {
@@ -186754,7 +186836,9 @@
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-joseph-1811",
-    "ad71-mariage-thevenet-lamain-1808"
+    "ad71-mariage-thevenet-lamain-1808",
+    "ad71-tramayes-5e545-1-vue56-table-alphabetique",
+    "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite"
    ]
   },
   "JF66": {
@@ -228743,11 +228827,11 @@
     ],
     "marriage": {
      "date": {
-      "day": 21,
+      "day": 27,
       "month": 11,
       "year": 1708
      },
-     "place": "Ste Mère- Eglise (50)",
+     "place": "Sainte-Mère-Église (50)",
      "type": "union"
     }
    },
@@ -240000,6 +240084,125 @@
    "lieu": "Saint-Augustin (19)",
    "cote": "AD19, EDEP/181/GG/7, vue 160/221 (détail)",
    "url": "https://www.archives.correze.fr/images/026a84b1-41c1-41b3-9f16-420d5d1ae476.jpg"
+  },
+  "ad71-tramayes-5e545-1-vue16-mariage-lamain-thomas-an3": {
+   "type": "acte_mariage",
+   "titre": "Mariage Étienne LAMAIN × Pierrette THOMAS, Tramayes, 28 brumaire an III (18 novembre 1794) — début de l'acte",
+   "fichier": "assets/actes/france/71/ad71-tramayes-5e545-1-vue16-mariage-lamain-thomas-an3.jpg",
+   "octets": 632479,
+   "sha256": "e3c2d421bac6991101b3096a160901cc82070a92696ae51f9206dda63a43602b",
+   "utilise_par": {
+    "individus": [
+     "JI171"
+    ],
+    "familles": []
+   },
+   "date": "1794-11-18",
+   "lieu": "Tramayes (71)",
+   "cote": "AD71, 5 E 545/1, mariages 1793-1802, vue 16/88",
+   "url": "https://www.archives71.fr/_recherche-images/show/666458/image/423652/16/full/full/0/default.jpg"
+  },
+  "ad71-tramayes-5e545-1-vue17-mariage-lamain-thomas-an3-suite": {
+   "type": "acte_mariage",
+   "titre": "Mariage Étienne LAMAIN × Pierrette THOMAS, Tramayes, 28 brumaire an III — suite, témoins et signatures",
+   "fichier": "assets/actes/france/71/ad71-tramayes-5e545-1-vue17-mariage-lamain-thomas-an3-suite.jpg",
+   "octets": 941574,
+   "sha256": "89602314e3af33609e5a4c587ff0521f31290c34658539df88581ed6092f7381",
+   "utilise_par": {
+    "individus": [
+     "JI171"
+    ],
+    "familles": []
+   },
+   "date": "1794-11-18",
+   "lieu": "Tramayes (71)",
+   "cote": "AD71, 5 E 545/1, mariages 1793-1802, vue 17/88",
+   "url": "https://www.archives71.fr/_recherche-images/show/666458/image/423652/17/full/full/0/default.jpg"
+  },
+  "ad71-tramayes-5e545-1-vue56-table-alphabetique": {
+   "type": "table",
+   "titre": "Table alphabétique des époux, mariages de Tramayes 1793-an VIII (première page)",
+   "fichier": "assets/actes/france/71/ad71-tramayes-5e545-1-vue56-table-alphabetique.jpg",
+   "octets": 616290,
+   "sha256": "1c297838a3d735a13e5975a87cb456f2f389f01ec2a0f6d506495c512b53929d",
+   "utilise_par": {
+    "individus": [
+     "JI146",
+     "JI171"
+    ],
+    "familles": [
+     "JF65"
+    ]
+   },
+   "date": "1793-1799",
+   "lieu": "Tramayes (71)",
+   "cote": "AD71, 5 E 545/1, mariages 1793-1802, vue 56/88",
+   "url": "https://www.archives71.fr/_recherche-images/show/666458/image/423652/56/full/full/0/default.jpg"
+  },
+  "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite": {
+   "type": "table",
+   "titre": "Table alphabétique des époux, mariages de Tramayes 1793-an VIII (seconde page)",
+   "fichier": "assets/actes/france/71/ad71-tramayes-5e545-1-vue57-table-alphabetique-suite.jpg",
+   "octets": 583588,
+   "sha256": "a2bee9665b708c63f3855f6cd8a226832130b405e981aafb927d962e5fa91de0",
+   "utilise_par": {
+    "individus": [
+     "JI146",
+     "JI171"
+    ],
+    "familles": [
+     "JF65"
+    ]
+   },
+   "date": "1793-1799",
+   "lieu": "Tramayes (71)",
+   "cote": "AD71, 5 E 545/1, mariages 1793-1802, vue 57/88",
+   "url": "https://www.archives71.fr/_recherche-images/show/666458/image/423652/57/full/full/0/default.jpg"
+  },
+  "ad50-smee-mariage-leprevost-gougeon-1708": {
+   "type": "acte_mariage",
+   "titre": "Mariage de Charles LE PROVOST et Françoise GOUGEON, 27 novembre 1708, Sainte-Mère-Église",
+   "fichier": "assets/actes/france/50/ad50-smee-mariage-leprevost-gougeon-1708.jpg",
+   "octets": 409556,
+   "sha256": "a9162389f3f4dd8e584c67cce9e81b16794646f5451315939a43803600398dd2",
+   "utilise_par": {
+    "individus": [
+     "LI512",
+     "LI513",
+     "LI1024",
+     "LI1026"
+    ],
+    "familles": [
+     "LF210",
+     "LF346"
+    ]
+   },
+   "date": "27 novembre 1708",
+   "lieu": "Sainte-Mère-Église (50)",
+   "cote": "AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 77/173 (bas de la page de gauche, suite en haut de la page de droite)",
+   "url": "https://www.archives-manche.fr/_recherche-images/show/622612/image/1935452/76"
+  },
+  "ad50-smee-bapteme-jean-louis-leprevost-1711": {
+   "type": "acte_bapteme",
+   "titre": "Baptême de Jean Louis LE PROVOST, 13 octobre 1711, Sainte-Mère-Église",
+   "fichier": "assets/actes/france/50/ad50-smee-bapteme-jean-louis-leprevost-1711.jpg",
+   "octets": 526447,
+   "sha256": "a43e7e3d260aa1bb77fc0bb13375cd0ed47d08b939db4ed85947c950939516b3",
+   "utilise_par": {
+    "individus": [
+     "LI256",
+     "LI512",
+     "LI513"
+    ],
+    "familles": [
+     "LF116",
+     "LF210"
+    ]
+   },
+   "date": "13 octobre 1711",
+   "lieu": "Sainte-Mère-Église (50)",
+   "cote": "AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 141/173 (haut de la page de droite)",
+   "url": "https://www.archives-manche.fr/_recherche-images/show/622612/image/1935452/140"
   }
  }
 }
