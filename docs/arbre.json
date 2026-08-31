@@ -147106,6 +147106,18 @@
    "residences": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "21 DEC 1813",
+      "date": {
+       "annee": 1813,
+       "mois": 12,
+       "jour": 21
+      }
+     },
+     "lieu": "Corrèze (19)"
+    },
+    {
      "type": "profession",
      "texte": "cultivateur"
     }
@@ -147114,12 +147126,16 @@
     "vitrac-1842-mariage-bonnet-preset-vue280.jpg"
    ],
    "notes": [
-    "Père de Jeanne BONNET, cultivateur à Chaleix en 1843. Son mariage le dit né à Corrèze le 21 décembre 1813, cultivateur aux Respinaiges, commune de Corrèze, fils majeur de Jean BONNET et Marie AGIOUX, présents et consentants. Il est dit décédé dans l'acte de décès de Jeanne en 1925."
+    "Père de Jeanne BONNET, cultivateur à Chaleix en 1843. Son mariage le dit né à Corrèze le 21 décembre 1813, cultivateur aux Respinaiges, commune de Corrèze, fils majeur de Jean BONNET et Marie AGIOUX, présents et consentants. Il est dit décédé dans l'acte de décès de Jeanne en 1925.",
+    "**Acte de naissance retrouvé et lu** : né le **21 décembre 1813 à une heure du matin**, au village de **Reignac, commune de Corrèze**, où ses parents sont **locataires**. L'acte est dressé le jour même à deux heures de l'après-midi, sur la réquisition de **Jean BONNET, père de l'enfant**, par Antoine TERRIEU, adjoint faisant fonction d'officier de l'état civil, le maire de Corrèze absent.",
+    "Témoins : **Martial AGNOUX, oncle de l'enfant, de la commune de Saint-Augustin**, et Antoine COUMERTY, sonneur des cloches de Corrèze. Tous ont déclaré ne savoir signer.",
+    "C'est cet acte qui **prouve** le rattachement de Martial BONNET au couple marié à Corrèze le 13 août 1807 : il porte les mêmes deux parents, et le témoin AGNOUX de Saint-Augustin recoupe l'origine de la mère. Le lien reposait jusqu'ici sur une concordance de noms, de commune et de période."
    ],
    "sources": [
     "Acte de naissance de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/3, acte n° 2, vue 241/313, 23 janvier 1843. ARK https://www.archives.correze.fr/ark:/69090/hxw7250bp6nk/a7a0dbd3-107b-4e7a-843a-3b3c73142f67. Source primaire lue : PROUVÉ.",
     "Acte de décès de Jeanne BONNET, AD19, Vitrac-sur-Montane, 2E/287/20, acte n° 3, vue 15/47, 14 juin 1925. ARK https://www.archives.correze.fr/ark:/69090/htq93rjbg1ld/70b164e6-75bc-4ab5-b548-0cdbb532b94e. Source primaire lue : PROUVÉ.",
-    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, mariages 1803-1848, cote 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Image lue et archivée le 31/08/2026 : vitrac-1842-mariage-bonnet-preset-vue280.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, mariages 1803-1848, cote 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Image lue et archivée le 31/08/2026 : vitrac-1842-mariage-bonnet-preset-vue280.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de naissance de Martial BONNET, Archives départementales de la Corrèze, Corrèze (commune), naissances 1803-1821, cote 2E/62/3, vue 334/586, acte du 21 décembre 1813. ARK https://www.archives.correze.fr/ark:/69090/4c1fnzhktldp/ed16a11b-2bcd-4884-b719-e1059168e732 . Image lue et archivée le 01/09/2026 : correze-1813-naissance-martial-bonnet-vue334.jpg et correze-1813-naissance-martial-bonnet-filiation-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "VF161",
@@ -147135,7 +147151,9 @@
     "vaurie"
    ],
    "assets": [
-    "vitrac-1842-mariage-bonnet-preset"
+    "vitrac-1842-mariage-bonnet-preset",
+    "correze-1813-naissance-martial-bonnet-vue334",
+    "correze-1813-naissance-martial-bonnet-filiation-detail"
    ]
   },
   "VI27": {
@@ -147248,12 +147266,15 @@
     "Père de Martial BONNET, cultivateur aux Respinaiges, commune de Corrèze, présent et consentant au mariage de son fils le 6 avril 1842.",
     "Son acte de mariage (Corrèze, 13 août 1807) le dit **garçon majeur**, **né à Corrèze le 11 mars 1783**, **cultivateur**, demeurant à **Bouisse, commune de Corrèze**. L'âge déclaré (23 ans) diverge d'un an de la date écrite : la date l'emporte.",
     "Ses parents sont **feu Jean BONNET** et **Jeanne CHAUMEIL** : il sort du front d'ascendance.",
-    "Rattachement : ce mariage est identifié à celui des parents de Martial BONNET (né à Corrèze le 21 décembre 1813) par concordance de noms, de commune et de période ; c'est le seul couple Jean BONNET × Marie AGNOUX de la table décennale des mariages de Corrèze 1803-1812. À confirmer par l'acte de naissance de Martial, 2E/62/3, ARK 4c1fnzhktldp."
+    "Rattachement : ce mariage est identifié à celui des parents de Martial BONNET (né à Corrèze le 21 décembre 1813) par concordance de noms, de commune et de période ; c'est le seul couple Jean BONNET × Marie AGNOUX de la table décennale des mariages de Corrèze 1803-1812. À confirmer par l'acte de naissance de Martial, 2E/62/3, ARK 4c1fnzhktldp.",
+    "En décembre 1813 il est **locataire au village de Reignac, commune de Corrèze**, et requiert lui-même l'acte de naissance de son fils Martial. Il ne sait pas signer.",
+    "Sa paternité sur Martial BONNET est **prouvée par l'acte de naissance du 21 décembre 1813**, et non plus déduite d'une concordance."
    ],
    "sources": [
     "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
     "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
-    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026."
+    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026.",
+    "Acte de naissance de Martial BONNET, Archives départementales de la Corrèze, Corrèze (commune), naissances 1803-1821, cote 2E/62/3, vue 334/586, acte du 21 décembre 1813. ARK https://www.archives.correze.fr/ark:/69090/4c1fnzhktldp/ed16a11b-2bcd-4884-b719-e1059168e732 . Image lue et archivée le 01/09/2026 : correze-1813-naissance-martial-bonnet-vue334.jpg et correze-1813-naissance-martial-bonnet-filiation-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "VF50003",
@@ -147272,7 +147293,9 @@
     "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
     "correze-1807-mariage-bonnet-agnoux-filiations-detail",
     "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
-    "correze-1807-table-annuelle-mariages-vue90"
+    "correze-1807-table-annuelle-mariages-vue90",
+    "correze-1813-naissance-martial-bonnet-vue334",
+    "correze-1813-naissance-martial-bonnet-filiation-detail"
    ]
   },
   "VI29": {
@@ -147328,12 +147351,20 @@
     "Mère de Martial BONNET, cultivatrice aux Respinaiges, commune de Corrèze, présente et consentante au mariage de son fils le 6 avril 1842.",
     "Son acte de mariage (Corrèze, 13 août 1807) la dit **fille majeure**, âgée de trente ans, **née à Saint-Augustin le 31 juillet 1777**, demeurant à Corrèze. L'âge et la date concordent exactement.",
     "Ses parents sont **feu Jean AGNOUX** et **Marie CHAZALVIEL**, du village de **Tourondel, commune de Saint-Augustin** : elle sort du front d'ascendance.",
-    "**Graphie** : l'acte de 1807 écrit **AGNOUX** ; l'acte de mariage de Vitrac de 1842, plus tardif de trente-cinq ans, écrit AGIOUX. L'acte le plus proche du fait l'emporte pour la forme du nom ; l'arbre conserve AGIOUX comme forme d'usage."
+    "**Graphie** : l'acte de 1807 écrit **AGNOUX** ; l'acte de mariage de Vitrac de 1842, plus tardif de trente-cinq ans, écrit AGIOUX. L'acte le plus proche du fait l'emporte pour la forme du nom ; l'arbre conserve AGIOUX comme forme d'usage.",
+    "En décembre 1813 elle est **locataire au village de Reignac, commune de Corrèze**. Sa maternité sur Martial BONNET est **prouvée par l'acte de naissance du 21 décembre 1813**.",
+    "**Son baptême a été retrouvé** : Saint-Augustin, **31 juillet 1777**, *« j'ay baptisé Marie, fille légitime d'Antoine AGNOUX, laboureur, et de Marie CHAZALVIEL, née ce matin au village du Tourondel ; a été parrain Pierre AGNOUX, laboureur du village de Beyssat, et marraine Marie CHAZALVIEL du village de Ronjiat, paroisse de Savan »*. La date et le village correspondent mot pour mot à ce que déclare son acte de mariage de 1807.",
+    "**Un frère documenté** : Martial AGNOUX, baptisé à Saint-Augustin le **23 juin 1780**, né la veille au Tourondel, des mêmes père et mère. C'est lui qui figure comme **oncle de l'enfant** au baptême civil de Martial BONNET en 1813, et lui, très probablement, qui se marie à Corrèze le 19 mars 1807 (2E/62/4, acte n° 9). L'acte de 1807 le disait né le 19 mai 1780 : le registre paroissial donne le 22 juin.",
+    "**Réserve de lecture, à ne pas trancher sans pièce nouvelle** : le registre paroissial de Saint-Augustin nomme le père **Antoine AGNOUX** (graphié *anion* / *agnoux* selon la main), laboureur au village de Tourondel, aux deux baptêmes de 1777 et de 1780 ; l'acte de mariage civil de 1807 le dit **feu Jean**. Le prénom seul diverge : la date (31 juillet 1777), le village (Tourondel) et le nom de la mère (Marie CHAZALVIEL / *chasoviel*, *chasauviel*) concordent exactement. Il n'existe qu'un ménage AGNOUX × CHAZALVIEL à Tourondel dans ce registre. Hypothèses ouvertes : erreur de prénom du greffier de 1807, ou prénom double *Jean Antoine*. Le prénom **Jean** est conservé dans l'arbre faute d'acte qui tranche.",
+    "**Graphie** : la paroisse de Saint-Augustin écrit **AGNOUX** (le curé Bovie trace un *g* que l'on peut lire *ni*) ; l'état civil de Corrèze écrit AGNOUX en 1807 et 1813, AGIOUX en 1842."
    ],
    "sources": [
     "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
     "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
-    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026."
+    "Table décennale des mariages, naissances et décès de la commune de Corrèze 1802-1812, AD19, cote 2E/TD/62/1, ARK https://www.archives.correze.fr/ark:/69090/1qkw968s2rxp , vue 1/162, section B : « Bonnet Jean à Marie agnoux ». Table annuelle des mariages de 1807, 2E/62/4, vue 90/368, 18e ligne. Images archivées : correze-td-mariages-1803-1812-bonnet-agnoux-vue1.jpg, correze-1807-table-annuelle-mariages-vue90.jpg. Consulté le 31/08/2026.",
+    "Acte de naissance de Martial BONNET, Archives départementales de la Corrèze, Corrèze (commune), naissances 1803-1821, cote 2E/62/3, vue 334/586, acte du 21 décembre 1813. ARK https://www.archives.correze.fr/ark:/69090/4c1fnzhktldp/ed16a11b-2bcd-4884-b719-e1059168e732 . Image lue et archivée le 01/09/2026 : correze-1813-naissance-martial-bonnet-vue334.jpg et correze-1813-naissance-martial-bonnet-filiation-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de Marie AGNOUX, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 96/221, 31 juillet 1777. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/e6c879a9-b960-4533-9e30-7df71420565e . Image lue et archivée le 01/09/2026 : st-augustin-1777-bapteme-marie-agnoux-vue96.jpg et st-augustin-1777-bapteme-marie-agnoux-detail.jpg. Acte lu : PROUVÉ pour son contenu ; l'identification à Marie AGNOUX épouse BONNET reste PROBABLE (voir note).",
+    "Acte de baptême de Martial AGNOUX, frère présumé, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 160/221, 23 juin 1780. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/026a84b1-41c1-41b3-9f16-420d5d1ae476 . Image lue et archivée le 01/09/2026 : st-augustin-1780-bapteme-martial-agnoux-vue160.jpg et st-augustin-1780-bapteme-martial-agnoux-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "VF50004",
@@ -147352,7 +147383,13 @@
     "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
     "correze-1807-mariage-bonnet-agnoux-filiations-detail",
     "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
-    "correze-1807-table-annuelle-mariages-vue90"
+    "correze-1807-table-annuelle-mariages-vue90",
+    "correze-1813-naissance-martial-bonnet-vue334",
+    "correze-1813-naissance-martial-bonnet-filiation-detail",
+    "st-augustin-1777-bapteme-marie-agnoux-vue96",
+    "st-augustin-1777-bapteme-marie-agnoux-detail",
+    "st-augustin-1780-bapteme-martial-agnoux-vue160",
+    "st-augustin-1780-bapteme-martial-agnoux-detail"
    ]
   },
   "VI30": {
@@ -148584,9 +148621,18 @@
     }
    },
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "laboureur"
+    }
+   ],
    "residences": [],
    "evenements": [
+    {
+     "type": "profession",
+     "texte": "laboureur"
+    },
     {
      "type": "deces",
      "date": {
@@ -148602,10 +148648,14 @@
     "Père de Marie AGNOUX. Nommé par l'acte de mariage de sa fille, Corrèze, 13 août 1807 : « fille légitime de **feu Jean** et de Marie CHAZALVIEL ». Il est **mort avant le 13 août 1807**.",
     "Le patronyme se lit AGNOUX dans l'acte de 1807 ; l'acte de mariage de Vitrac de 1842 l'écrit AGIOUX. Chercher les deux formes, ainsi que AYJOUX et AGIAUX. Un **Martial AGNOUX**, garçon majeur né à Saint-Augustin le 19 mai 1780, se marie à Corrèze le 19 mars 1807 (acte n° 9, même registre, vue 76) : très probablement un frère de Marie, à ne pas développer mais à retenir comme point d'entrée.",
     "Suite : son décès et son mariage avec Marie CHAZALVIEL à Saint-Augustin (19) avant juillet 1777.",
-    "CONFIANCE : PROUVÉ"
+    "CONFIANCE : PROUVÉ",
+    "Le registre paroissial de Saint-Augustin le nomme **Antoine AGNOUX, laboureur au village de Tourondel**, aux baptêmes de sa fille Marie (31 juillet 1777) et de son fils Martial (23 juin 1780). L'acte de mariage civil de 1807 le dit **feu Jean**. **Réserve de lecture, à ne pas trancher sans pièce nouvelle** : le registre paroissial de Saint-Augustin nomme le père **Antoine AGNOUX** (graphié *anion* / *agnoux* selon la main), laboureur au village de Tourondel, aux deux baptêmes de 1777 et de 1780 ; l'acte de mariage civil de 1807 le dit **feu Jean**. Le prénom seul diverge : la date (31 juillet 1777), le village (Tourondel) et le nom de la mère (Marie CHAZALVIEL / *chasoviel*, *chasauviel*) concordent exactement. Il n'existe qu'un ménage AGNOUX × CHAZALVIEL à Tourondel dans ce registre. Hypothèses ouvertes : erreur de prénom du greffier de 1807, ou prénom double *Jean Antoine*. Le prénom **Jean** est conservé dans l'arbre faute d'acte qui tranche.",
+    "Il est mort avant le 13 août 1807, et vivant en juin 1780."
    ],
    "sources": [
-    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de Marie AGNOUX, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 96/221, 31 juillet 1777. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/e6c879a9-b960-4533-9e30-7df71420565e . Image lue et archivée le 01/09/2026 : st-augustin-1777-bapteme-marie-agnoux-vue96.jpg et st-augustin-1777-bapteme-marie-agnoux-detail.jpg. Acte lu : PROUVÉ pour son contenu ; l'identification à Marie AGNOUX épouse BONNET reste PROBABLE (voir note).",
+    "Acte de baptême de Martial AGNOUX, frère présumé, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 160/221, 23 juin 1780. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/026a84b1-41c1-41b3-9f16-420d5d1ae476 . Image lue et archivée le 01/09/2026 : st-augustin-1780-bapteme-martial-agnoux-vue160.jpg et st-augustin-1780-bapteme-martial-agnoux-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -148623,7 +148673,11 @@
    "generations_descendance": 8,
    "assets": [
     "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
-    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail",
+    "st-augustin-1777-bapteme-marie-agnoux-vue96",
+    "st-augustin-1777-bapteme-marie-agnoux-detail",
+    "st-augustin-1780-bapteme-martial-agnoux-vue160",
+    "st-augustin-1780-bapteme-martial-agnoux-detail"
    ]
   },
   "VI50008": {
@@ -148645,10 +148699,15 @@
    "notes": [
     "Mère de Marie AGNOUX, épouse de feu Jean AGNOUX. Nommée par l'acte de mariage de sa fille, Corrèze, 13 août 1807 : « et de **Marie CHAZALVIEL**, demeurant au **village de Tourondel, commune de Saint-Augustin** ». Elle est **vivante** et consent aux publications.",
     "Lecture : le patronyme se lit CHAZALVIEL, éventuellement CHAZALVAIL. **Saint-Augustin (Corrèze) est une commune nouvelle pour la branche** : c'est là qu'il faut chercher la génération suivante.",
-    "CONFIANCE : PROUVÉ"
+    "CONFIANCE : PROUVÉ",
+    "Le registre paroissial de Saint-Augustin l'écrit **CHAZALVIEL** (*chasoviel* en 1777, *chasauviel* en 1780) et la donne pour épouse d'**Antoine AGNOUX**, laboureur au village de **Tourondel**, aux baptêmes de Marie (31 juillet 1777) et de Martial (23 juin 1780).",
+    "Une **Marie CHAZALVIEL du village de Ronjiat, paroisse de Savan**, est marraine de sa fille Marie en 1777 : parente probable, non identifiée.",
+    "Elle est encore vivante en août 1807, où elle consent au mariage de sa fille."
    ],
    "sources": [
-    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de baptême de Marie AGNOUX, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 96/221, 31 juillet 1777. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/e6c879a9-b960-4533-9e30-7df71420565e . Image lue et archivée le 01/09/2026 : st-augustin-1777-bapteme-marie-agnoux-vue96.jpg et st-augustin-1777-bapteme-marie-agnoux-detail.jpg. Acte lu : PROUVÉ pour son contenu ; l'identification à Marie AGNOUX épouse BONNET reste PROBABLE (voir note).",
+    "Acte de baptême de Martial AGNOUX, frère présumé, Archives départementales de la Corrèze, Saint-Augustin, baptêmes, mariages, sépultures 1773-1782, cote EDEP/181/GG/7, vue 160/221, 23 juin 1780. ARK https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/026a84b1-41c1-41b3-9f16-420d5d1ae476 . Image lue et archivée le 01/09/2026 : st-augustin-1780-bapteme-martial-agnoux-vue160.jpg et st-augustin-1780-bapteme-martial-agnoux-detail.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -148666,7 +148725,11 @@
    "generations_descendance": 8,
    "assets": [
     "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
-    "correze-1807-mariage-bonnet-agnoux-filiations-detail"
+    "correze-1807-mariage-bonnet-agnoux-filiations-detail",
+    "st-augustin-1777-bapteme-marie-agnoux-vue96",
+    "st-augustin-1777-bapteme-marie-agnoux-detail",
+    "st-augustin-1780-bapteme-martial-agnoux-vue160",
+    "st-augustin-1780-bapteme-martial-agnoux-detail"
    ]
   }
  },
@@ -187113,7 +187176,9 @@
    ],
    "assets": [
     "vitrac-1842-mariage-bonnet-preset",
-    "bar-1821-naissance-marie-preset"
+    "bar-1821-naissance-marie-preset",
+    "correze-1813-naissance-martial-bonnet-vue334",
+    "correze-1813-naissance-martial-bonnet-filiation-detail"
    ]
   },
   "VF161": {
@@ -187152,7 +187217,9 @@
    ],
    "notes": [
     "Parents de Martial BONNET, cultivateurs aux Respinaiges, commune de Corrèze, présents au mariage de leur fils le 6 avril 1842.",
-    "**Mariage retrouvé** : Jean BONNET et Marie AGNOUX se sont mariés à **Corrèze le 13 août 1807** (2E/62/4, acte n° 18, vue 85/368). L'acte donne les quatre parents des époux, leurs dates et lieux de naissance et le domicile du couple à Bouisse, commune de Corrèze."
+    "**Mariage retrouvé** : Jean BONNET et Marie AGNOUX se sont mariés à **Corrèze le 13 août 1807** (2E/62/4, acte n° 18, vue 85/368). L'acte donne les quatre parents des époux, leurs dates et lieux de naissance et le domicile du couple à Bouisse, commune de Corrèze.",
+    "**Rattachement fermé le 01/09/2026** : l'acte de naissance de Martial BONNET (Corrèze, 21 décembre 1813, 2E/62/3, vue 334/586) nomme le père **Jean BONNET** et la mère **Marie AGNOUX**, locataires au village de **Reignac, commune de Corrèze**, et donne pour témoin **Martial AGNOUX, oncle de l'enfant, de la commune de Saint-Augustin**. Le lien avec le couple marié le 13 août 1807 ne repose donc plus sur une concordance de noms, de commune et de période, mais sur une pièce.",
+    "Domiciles successifs du couple : **Bouisse** en 1807, **Reignac** en 1813, **les Respinaiges** en 1842, tous trois commune de Corrèze."
    ],
    "sources": [
     "Acte de mariage BONNET × PRESET, AD19, Vitrac-sur-Montane, 2E/287/4, vue 280/320, 6 avril 1842. ARK https://www.archives.correze.fr/ark:/69090/vg2w6x7k3zs9/91dc3619-9978-40d3-bc8e-7dca92a269db. Source primaire lue : PROUVÉ.",
@@ -187165,7 +187232,13 @@
     "correze-1807-mariage-bonnet-agnoux-acte18-vue85",
     "correze-1807-mariage-bonnet-agnoux-filiations-detail",
     "correze-td-mariages-1803-1812-bonnet-agnoux-vue1",
-    "correze-1807-table-annuelle-mariages-vue90"
+    "correze-1807-table-annuelle-mariages-vue90",
+    "correze-1813-naissance-martial-bonnet-vue334",
+    "correze-1813-naissance-martial-bonnet-filiation-detail",
+    "st-augustin-1777-bapteme-marie-agnoux-vue96",
+    "st-augustin-1777-bapteme-marie-agnoux-detail",
+    "st-augustin-1780-bapteme-martial-agnoux-vue160",
+    "st-augustin-1780-bapteme-martial-agnoux-detail"
    ]
   },
   "VF162": {
@@ -187484,7 +187557,9 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "Parents de Marie AGNOUX, nommés par l'acte de mariage de leur fille à Corrèze le 13 août 1807. Le père est dit défunt ; la mère, Marie CHAZALVIEL, demeure au village de Tourondel, commune de Saint-Augustin (19). Leur fille naît à Saint-Augustin le 31 juillet 1777."
+    "Parents de Marie AGNOUX, nommés par l'acte de mariage de leur fille à Corrèze le 13 août 1807. Le père est dit défunt ; la mère, Marie CHAZALVIEL, demeure au village de Tourondel, commune de Saint-Augustin (19). Leur fille naît à Saint-Augustin le 31 juillet 1777.",
+    "Le couple est établi au village de **Tourondel, commune de Saint-Augustin**, où deux enfants sont baptisés : **Marie** le 31 juillet 1777 et **Martial** le 23 juin 1780. Le père y est nommé **Antoine** et non Jean (voir la réserve portée sur sa fiche).",
+    "**Le mariage n'est pas encore trouvé.** Il n'est pas dans les marges du registre EDEP/181/GG/7 (Saint-Augustin, BMS 1773-1782) entre les vues 2 et 89, soit de janvier 1773 à juillet 1777 : ces marges nomment les deux conjoints de chaque mariage et aucune ne porte AGNOUX × CHAZALVIEL. Reprendre par **EDEP/181/GG/6** (BMS 1763-1772, ARK n5z4rkj8g2hp), puis GG/5 (1753-1762, ARK mw26fcjvxk1z), et envisager la paroisse de la mariée — **Savan / Ronjiat** est le village d'où vient sa marraine homonyme."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de la Corrèze, Corrèze (commune), mariages 1803-1824, cote 2E/62/4, acte n° 18 de 1807, vue 85/368, 13 août 1807. ARK https://www.archives.correze.fr/ark:/69090/xwzjs5t8f072/5d56c616-052b-4387-b6c9-89235e0de598 . Image lue et archivée le 31/08/2026 : correze-1807-mariage-bonnet-agnoux-acte18-vue85.jpg et correze-1807-mariage-bonnet-agnoux-filiations-detail.jpg. Source primaire lue : PROUVÉ."
@@ -239797,6 +239872,134 @@
    "lieu": "Marseille (13)",
    "cote": "AD13, 201 E 1494, table décennale des décès 1893-1902 lettre M, vue 143",
    "url": "https://www.archives13.fr/ark:/40700/vtab2ba69d519b58217"
+  },
+  "correze-1813-naissance-martial-bonnet-vue334": {
+   "type": "acte_naissance",
+   "titre": "Naissance de Martial BONNET, commune de Corrèze, 21 décembre 1813",
+   "fichier": "assets/actes/france/19/correze-1813-naissance-martial-bonnet-vue334.jpg",
+   "octets": 417067,
+   "sha256": "54a6863e3ef93b940237686ad48b4bb0ee9d553a727d50a80ecfe3ac3d4417be",
+   "utilise_par": {
+    "individus": [
+     "VI26",
+     "VI28",
+     "VI29"
+    ],
+    "familles": [
+     "VF160",
+     "VF161"
+    ]
+   },
+   "date": "1813",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/62/3, naissances 1803-1821, vue 334/586",
+   "url": "https://www.archives.correze.fr/ark:/69090/4c1fnzhktldp/ed16a11b-2bcd-4884-b719-e1059168e732"
+  },
+  "correze-1813-naissance-martial-bonnet-filiation-detail": {
+   "type": "acte_naissance",
+   "titre": "Filiation de Martial BONNET et témoignage de son oncle Martial AGNOUX, agrandissement",
+   "fichier": "assets/actes/france/19/correze-1813-naissance-martial-bonnet-filiation-detail.jpg",
+   "octets": 161988,
+   "sha256": "fb794e668f0cdce01babfc91e6bb094ede29ce19b3734a88ac85fc9d2e995d63",
+   "utilise_par": {
+    "individus": [
+     "VI26",
+     "VI28",
+     "VI29"
+    ],
+    "familles": [
+     "VF160",
+     "VF161"
+    ]
+   },
+   "date": "1813",
+   "lieu": "Corrèze (19)",
+   "cote": "AD19, 2E/62/3, vue 334/586 (détail)",
+   "url": "https://www.archives.correze.fr/images/ed16a11b-2bcd-4884-b719-e1059168e732.jpg"
+  },
+  "st-augustin-1777-bapteme-marie-agnoux-vue96": {
+   "type": "acte_bapteme",
+   "titre": "Baptême de Marie AGNOUX, Saint-Augustin, 31 juillet 1777",
+   "fichier": "assets/actes/france/19/st-augustin-1777-bapteme-marie-agnoux-vue96.jpg",
+   "octets": 742896,
+   "sha256": "ec9b198d0c92aee93f651c1024b73e867dfddcacab0956272101ace2f7220836",
+   "utilise_par": {
+    "individus": [
+     "VI29",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1777",
+   "lieu": "Saint-Augustin (19)",
+   "cote": "AD19, EDEP/181/GG/7, baptêmes-mariages-sépultures 1773-1782, vue 96/221",
+   "url": "https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/e6c879a9-b960-4533-9e30-7df71420565e"
+  },
+  "st-augustin-1777-bapteme-marie-agnoux-detail": {
+   "type": "acte_bapteme",
+   "titre": "Filiation de Marie AGNOUX au village de Tourondel, agrandissement du baptême de 1777",
+   "fichier": "assets/actes/france/19/st-augustin-1777-bapteme-marie-agnoux-detail.jpg",
+   "octets": 289461,
+   "sha256": "4fdf8033d2cb87fe433575ee788bf8f7f503b7f4d5f4feadedca7fbee547383e",
+   "utilise_par": {
+    "individus": [
+     "VI29",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1777",
+   "lieu": "Saint-Augustin (19)",
+   "cote": "AD19, EDEP/181/GG/7, vue 96/221 (détail)",
+   "url": "https://www.archives.correze.fr/images/e6c879a9-b960-4533-9e30-7df71420565e.jpg"
+  },
+  "st-augustin-1780-bapteme-martial-agnoux-vue160": {
+   "type": "acte_bapteme",
+   "titre": "Baptême de Martial AGNOUX, frère de Marie, Saint-Augustin, 23 juin 1780",
+   "fichier": "assets/actes/france/19/st-augustin-1780-bapteme-martial-agnoux-vue160.jpg",
+   "octets": 800174,
+   "sha256": "8d3ac3095c205fa5fca7c2d3eb84142fbc1cf6383d8f27a3eebee6527e9121f0",
+   "utilise_par": {
+    "individus": [
+     "VI29",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1780",
+   "lieu": "Saint-Augustin (19)",
+   "cote": "AD19, EDEP/181/GG/7, vue 160/221",
+   "url": "https://www.archives.correze.fr/ark:/69090/3p7zqnsl9xc2/026a84b1-41c1-41b3-9f16-420d5d1ae476"
+  },
+  "st-augustin-1780-bapteme-martial-agnoux-detail": {
+   "type": "acte_bapteme",
+   "titre": "Filiation de Martial AGNOUX, agrandissement du baptême de 1780",
+   "fichier": "assets/actes/france/19/st-augustin-1780-bapteme-martial-agnoux-detail.jpg",
+   "octets": 363690,
+   "sha256": "f738fce8b94dc956eaae47bf4a2895e8680f54700256314c4e5379419998ca1d",
+   "utilise_par": {
+    "individus": [
+     "VI29",
+     "VI50007",
+     "VI50008"
+    ],
+    "familles": [
+     "VF161"
+    ]
+   },
+   "date": "1780",
+   "lieu": "Saint-Augustin (19)",
+   "cote": "AD19, EDEP/181/GG/7, vue 160/221 (détail)",
+   "url": "https://www.archives.correze.fr/images/026a84b1-41c1-41b3-9f16-420d5d1ae476.jpg"
   }
  }
 }
