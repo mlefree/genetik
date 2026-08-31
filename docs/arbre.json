@@ -142085,7 +142085,8 @@
     "Trois mentions marginales de cet acte prouvent ce que nous ne tenions que d'index : sa reconnaissance de 1895, son MARIAGE le 5 mars 1921 au 14e avec Antoine THÉVENET, et son DÉCÈS à Montfermeil le 12 juillet 1975.",
     "PROFESSION, enfin : l'acte de mariage de 1921 la dit « CHARCUTIÈRE ». C'est la seule profession connue d'une femme de cette branche. Sa mère y est dite ménagère, et journalière en 1895.",
     "Le patronyme est écrit JOURDREN dans la table décennale et en marge de l'acte, plutôt « Jourdin » dans le corps de l'acte : variante à conserver.",
-    "Décès CONFIRMÉ une seconde fois le 31/08/2026 par le fichier INSEE des décès, identifiant MatchID `GAUmy0ZasCjZ` : « JOURDIN Marcelle Eugénie, née le 12/08/1895 à Paris 4e, décédée le 12/07/1975 à Montfermeil ». Deux sources indépendantes — la mention marginale de son acte de naissance et le fichier national — donnent la même date et le même lieu. L'INSEE l'enregistre sous la graphie **JOURDIN**, celle du corps de son acte de naissance, et non JOURDREN, celle de la marge et de la table décennale : la variante n'est donc pas une erreur isolée d'officier, elle a suivi la personne toute sa vie."
+    "Décès CONFIRMÉ une seconde fois le 31/08/2026 par le fichier INSEE des décès, identifiant MatchID `GAUmy0ZasCjZ` : « JOURDIN Marcelle Eugénie, née le 12/08/1895 à Paris 4e, décédée le 12/07/1975 à Montfermeil ». Deux sources indépendantes — la mention marginale de son acte de naissance et le fichier national — donnent la même date et le même lieu. L'INSEE l'enregistre sous la graphie **JOURDIN**, celle du corps de son acte de naissance, et non JOURDREN, celle de la marge et de la table décennale : la variante n'est donc pas une erreur isolée d'officier, elle a suivi la personne toute sa vie.",
+    "Sa reconnaissance par sa mère, connue jusque-là par la seule mention marginale de son acte de naissance, est désormais **lue dans l'acte lui-même** (Archives de Paris, V4E 9364, vue 26, acte n° 2127 du 27 août 1895) : elle y est reconnue « comme fille de Hélène Marie Jourdin, et de père non dénommé », quinze jours après sa naissance."
    ],
    "sources": [
     "Arbre Geneanet d'Alain LARGE (alla224), fiches consultées le 30/08/2026 : https://gw.geneanet.org/alla224?n=thevenet&p=andre , ?p=jean+baptiste . Arbre collaboratif, mais sourcé par actes pour les générations anciennes (actes d'état civil, AD71 et AD69, contrat de mariage notarié) et par témoignage ORAL familial (témoignage oral d'une sœur d'André et de son époux, recueilli par l'auteur de l'arbre) pour André. Statut INDEX/PROBABLE, non PROUVÉ.",
@@ -142094,7 +142095,8 @@
     "Recensement de Paris, 1926, Archives de Paris, cote D2M8 272, vue 251/727 : d2m8-272-vue-251-51-rue-daguerre.jpg. Consulté le 31/08/2026.",
     "Acte de naissance, Archives de Paris, naissances du 4e arrondissement, 1895, cote V4E 8260, vue 26/31, acte n° 1325, dressé le 13 août 1895. Image lue et archivée le 31/08/2026 : v4e8260-vue26-naissance-jourdren-marcelle-eugenie-1895-acte-1325.jpg — repérée par la table décennale D1M9 175, vue 10/12 (d1m9-175-vue10-td-naissances-paris4-1893-1902-jourdren.jpg). Source primaire lue : PROUVÉ.",
     "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ.",
-    "Fichier des décès de l'INSEE, interrogé par l'API MatchID le 31/08/2026 : https://deces.matchid.io/deces/api/v1/search?lastName=JOURDREN&deathCity=Montfermeil — identifiant `GAUmy0ZasCjZ`, « Jourdin Marcelle Eugenie », naissance 18950812 Paris 4e, décès 19750712 Montfermeil. Source officielle : PROUVÉ."
+    "Fichier des décès de l'INSEE, interrogé par l'API MatchID le 31/08/2026 : https://deces.matchid.io/deces/api/v1/search?lastName=JOURDREN&deathCity=Montfermeil — identifiant `GAUmy0ZasCjZ`, « Jourdin Marcelle Eugenie », naissance 18950812 Paris 4e, décès 19750712 Montfermeil. Source officielle : PROUVÉ.",
+    "Acte de reconnaissance, Archives de Paris, 12e arrondissement, naissances 1895, cote V4E 9364, volume des actes 1990-2134, vue 26/31, acte n° 2127 du 27 août 1895. IIIF : https://archives.paris.fr/_recherche-images/show/404465/image/281586/26/full/full/0/default.jpg — fiche ?detail=404465. Image lue et archivée le 31/08/2026 : v4e9364-vue26-reconnaissance-jourdren-marcelle-eugenie-1895-acte-2127.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "JF64",
@@ -142112,7 +142114,8 @@
    "assets": [
     "ad75-td-paris4-1893-1902-jourdren",
     "ad75-naissance-jourdren-1895",
-    "ad75-mariage-thevenet-jourdren-1921"
+    "ad75-mariage-thevenet-jourdren-1921",
+    "ad75-reconnaissance-jourdren-1895"
    ]
   },
   "JI114": {
@@ -144445,6 +144448,10 @@
    "professions": [
     {
      "type": "profession",
+     "texte": "domestique"
+    },
+    {
+     "type": "profession",
      "texte": "journalière"
     },
     {
@@ -144461,43 +144468,7 @@
        "annee": 1895
       }
      },
-     "lieu": "Paris 12e (75)",
-     "detail": "8 avenue Ledru-Rollin",
-     "commune": {
-      "nom": "Paris 12e",
-      "code": "75112",
-      "departement": "75",
-      "pays": "France",
-      "actuelle": "Paris 12e Arrondissement",
-      "coordonnees": [
-       2.4173,
-       48.8342
-      ],
-      "approximatif": false
-     }
-    },
-    {
-     "type": "residence",
-     "date": {
-      "brut": "1921",
-      "date": {
-       "annee": 1921
-      }
-     },
-     "lieu": "Paris 14e (75)",
-     "detail": "51 rue Daguerre",
-     "commune": {
-      "nom": "Paris 14e Arrondissement",
-      "code": "75114",
-      "departement": "75",
-      "pays": "France",
-      "actuelle": "Paris 14e Arrondissement",
-      "coordonnees": [
-       2.323,
-       48.8297
-      ],
-      "approximatif": false
-     }
+     "lieu": "8 avenue Ledru-Rollin, Paris 12e (75)"
     }
    ],
    "evenements": [
@@ -144509,14 +144480,6 @@
        "annee": 1865
       }
      }
-    },
-    {
-     "type": "profession",
-     "texte": "journalière"
-    },
-    {
-     "type": "profession",
-     "texte": "ménagère"
     },
     {
      "type": "residence",
@@ -144563,6 +144526,18 @@
       ],
       "approximatif": false
      }
+    },
+    {
+     "type": "profession",
+     "texte": "domestique"
+    },
+    {
+     "type": "profession",
+     "texte": "journalière"
+    },
+    {
+     "type": "profession",
+     "texte": "ménagère"
     }
    ],
    "images": [],
@@ -144571,11 +144546,18 @@
     "PROUVÉE par l'acte de naissance de sa fille (AD75, V4E 8260, vue 26, acte n° 1325, Paris 4e, 13 août 1895) : « fille de Hélène Marie JOURDREN, âgée de trente ans, journalière, demeurant avenue Ledru-Rollin n° 8, et de père non dénommé ». Elle a donc trente ans en août 1895 : née vers 1865, l'année reste à préciser.",
     "Elle reconnaît sa fille par un acte dressé à la mairie du douzième arrondissement de Paris le 27 août 1895, quinze jours après la naissance — mention marginale de l'acte n° 1325.",
     "Vingt-six ans plus tard, l'acte de mariage du 5 mars 1921 (AD75, 14M 270, acte n° 493) la redonne « Hélène JOURDREN, ménagère, domiciliée à Paris, 51 rue Daguerre, présente et consentante » : elle vit avec sa fille, et c'est Antoine THÉVENET qui vient s'installer chez elles. Elle signe l'acte.",
-    "JOURDREN est un patronyme du Finistère. Son lieu de naissance et sa filiation sont inconnus : c'est le nouveau point du front d'ascendance de cette branche. Ni date ni lieu de décès connus."
+    "JOURDREN est un patronyme du Finistère. Son lieu de naissance et sa filiation sont inconnus : c'est le nouveau point du front d'ascendance de cette branche. Ni date ni lieu de décès connus.",
+    "ACTE DE RECONNAISSANCE RETROUVÉ ET LU le 31/08/2026 (Archives de Paris, 12e arrondissement, V4E 9364, vue 26/31, acte n° 2127 du 27 août 1895) : « Acte de Reconnaissance de **Marcelle Eugénie JOURDREN** […] comme fille de **Hélène Marie Jourdin, et de père non dénommé** […] sur la déclaration de **Hélène Jourdren, âgée de trente ans, Domestique, demeurant Avenue Ledru-Rollin n° 8** ». Témoins **Hippolyte Labozey, soixante-douze ans, garçon de place**, et **Pierre Carrier, vingt-huit ans, charbonnier**. Dressé par Joseph Aimé Albert Sabot, adjoint au maire.",
+    "**Elle signe elle-même « Jourdren ».** C'est la preuve la plus directe qu'on puisse avoir sur une graphie : le corps de l'acte écrit « Jourdin », l'intéressée signe JOURDREN. La forme retenue par le dépôt est donc validée par la personne elle-même, et « Jourdin » n'est qu'une main d'officier — celle que l'INSEE a reprise pour sa fille.",
+    "**Troisième profession, et la plus précoce : domestique** en août 1895 — puis *journalière* le 13 août 1895 dans l'acte de naissance de sa fille, et *ménagère* en 1921. Trois mots pour la même condition, à vingt-six ans d'intervalle.",
+    "**PISTE ÉPUISÉE.** On espérait de cet acte un lieu de naissance ou une filiation : il n'en porte aucun. Le formulaire parisien de reconnaissance ne prévoit ni l'un ni l'autre. Le front ne recule pas — mais cette porte-là est désormais fermée pour de bon, et il ne faut plus y revenir.",
+    "NÉGATIF DÉLIMITÉ, 31/08/2026 : **aucune JOURDREN, JOURDIN ni JOURDAIN née vers 1865 dans le fichier INSEE des décès**. Elle est donc **morte avant 1970** — un fait établi par une absence.",
+    "MUR DOCUMENTAIRE CARTOGRAPHIÉ : **Paris n'a aucun index de décès en ligne pour 1903-1932**. Les tables décennales D1M9 s'arrêtent en 1902 ; les V11E 1903-1974 n'existent que pour les 1er, 2e et 3e arrondissements ; les tables annuelles V12E commencent en 1933 ; les répertoires de transports de corps payants ont une lacune 1921-1943. Seuls les **convois gratuits (série 2484W)** couvrent 1918-1938 sans trou. La lettre J de **1921** (2484W 132, ?detail=49982, vues 5 et 6) a été dépouillée en entier : **aucun JOURDREN ni JOURDIN**. Réserve de méthode : un convoi gratuit est un enterrement d'indigent — son absence ne prouve pas grand-chose sur une personne qui vivait chez sa fille."
    ],
    "sources": [
     "Acte de naissance, Archives de Paris, naissances du 4e arrondissement, 1895, cote V4E 8260, vue 26/31, acte n° 1325, dressé le 13 août 1895. Image lue et archivée le 31/08/2026 : v4e8260-vue26-naissance-jourdren-marcelle-eugenie-1895-acte-1325.jpg — repérée par la table décennale D1M9 175, vue 10/12 (d1m9-175-vue10-td-naissances-paris4-1893-1902-jourdren.jpg). Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives de Paris, mariages du 14e arrondissement, 1921, cote 14M 270, vue 29/31, acte n° 493, du 5 mars 1921. Le registre orthographie THÉVENET « Chevenet ». Image lue et archivée le 31/08/2026 : 14m270-vue29-mariage-thevenet-jourdren-1921-acte-493.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de reconnaissance, Archives de Paris, 12e arrondissement, naissances 1895, cote V4E 9364, volume des actes 1990-2134, vue 26/31, acte n° 2127 du 27 août 1895. IIIF : https://archives.paris.fr/_recherche-images/show/404465/image/281586/26/full/full/0/default.jpg — fiche ?detail=404465. Image lue et archivée le 31/08/2026 : v4e9364-vue26-reconnaissance-jourdren-marcelle-eugenie-1895-acte-2127.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": null,
@@ -144594,7 +144576,8 @@
    "assets": [
     "ad75-td-paris4-1893-1902-jourdren",
     "ad75-naissance-jourdren-1895",
-    "ad75-mariage-thevenet-jourdren-1921"
+    "ad75-mariage-thevenet-jourdren-1921",
+    "ad75-reconnaissance-jourdren-1895"
    ]
   },
   "JI145": {
@@ -184394,7 +184377,8 @@
     "ad71-matricule-thevenet-antoine-1909",
     "ad75-td-paris4-1893-1902-jourdren",
     "ad75-naissance-jourdren-1895",
-    "ad75-mariage-thevenet-jourdren-1921"
+    "ad75-mariage-thevenet-jourdren-1921",
+    "ad75-reconnaissance-jourdren-1895"
    ]
   },
   "JF60": {
@@ -236507,6 +236491,24 @@
    },
    "date": "1839",
    "lieu": "Paris (75)"
+  },
+  "ad75-reconnaissance-jourdren-1895": {
+   "type": "acte_reconnaissance",
+   "titre": "Acte de reconnaissance de Marcelle Eugénie JOURDREN par sa mère, Paris 12e, 27 août 1895",
+   "fichier": "assets/actes/france/75/ad75-reconnaissance-jourdren-1895.jpg",
+   "octets": 1203541,
+   "sha256": "e4410ee3dfdc99d1271efd9e464d9eb2540858dbfc107fedd340f0db378635ad",
+   "utilise_par": {
+    "individus": [
+     "JI113",
+     "JI144"
+    ],
+    "familles": [
+     "JF57"
+    ]
+   },
+   "date": "1895",
+   "lieu": "Paris 12e (75)"
   }
  }
 }
