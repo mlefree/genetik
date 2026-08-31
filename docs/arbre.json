@@ -139697,7 +139697,10 @@
    "deces": null,
    "inhumation": null,
    "professions": [
-    "villico"
+    {
+     "type": "profession",
+     "texte": "villico"
+    }
    ],
    "residences": [],
    "evenements": [
@@ -139951,7 +139954,10 @@
    "deces": null,
    "inhumation": null,
    "professions": [
-    "villico"
+    {
+     "type": "profession",
+     "texte": "villico"
+    }
    ],
    "residences": [],
    "evenements": [
@@ -140406,8 +140412,14 @@
    },
    "inhumation": null,
    "professions": [
-    "menuisier",
-    "ébéniste"
+    {
+     "type": "profession",
+     "texte": "menuisier"
+    },
+    {
+     "type": "profession",
+     "texte": "ébéniste"
+    }
    ],
    "residences": [
     {
@@ -141051,7 +141063,10 @@
    },
    "inhumation": null,
    "professions": [
-    "charcutière"
+    {
+     "type": "profession",
+     "texte": "charcutière"
+    }
    ],
    "residences": [
     {
@@ -141660,9 +141675,18 @@
    },
    "inhumation": null,
    "professions": [
-    "fermier cultivateur",
-    "journalier",
-    "fondeur"
+    {
+     "type": "profession",
+     "texte": "fermier cultivateur"
+    },
+    {
+     "type": "profession",
+     "texte": "journalier"
+    },
+    {
+     "type": "profession",
+     "texte": "fondeur"
+    }
    ],
    "residences": [],
    "evenements": [
@@ -142209,7 +142233,10 @@
    },
    "inhumation": null,
    "professions": [
-    "cultivateur"
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
    ],
    "residences": [
     {
@@ -142404,7 +142431,10 @@
    },
    "inhumation": null,
    "professions": [
-    "menuisier-ébéniste"
+    {
+     "type": "profession",
+     "texte": "menuisier-ébéniste"
+    }
    ],
    "residences": [],
    "evenements": [
@@ -142704,7 +142734,10 @@
    },
    "inhumation": null,
    "professions": [
-    "cultivateur"
+    {
+     "type": "profession",
+     "texte": "cultivateur"
+    }
    ],
    "residences": [
     {
@@ -143319,7 +143352,10 @@
    "deces": null,
    "inhumation": null,
    "professions": [
-    "domestique"
+    {
+     "type": "profession",
+     "texte": "domestique"
+    }
    ],
    "residences": [
     {
@@ -143440,8 +143476,14 @@
    "deces": null,
    "inhumation": null,
    "professions": [
-    "journalière",
-    "ménagère"
+    {
+     "type": "profession",
+     "texte": "journalière"
+    },
+    {
+     "type": "profession",
+     "texte": "ménagère"
+    }
    ],
    "residences": [
     {
