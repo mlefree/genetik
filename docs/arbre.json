@@ -119081,7 +119081,7 @@
    "vivant": false,
    "annee_naissance": 1894,
    "annee_deces": 1987,
-   "generations_ascendance": 4,
+   "generations_ascendance": 5,
    "generations_descendance": 4,
    "branches": [
     "gimie"
@@ -123086,7 +123086,7 @@
    "annee_naissance": 1860,
    "annee_deces": 1935,
    "famille_origine": "GF20",
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 5
   },
   "AG11": {
@@ -123518,10 +123518,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "FILIATION PROUVÉE le 31/08/2026 par son acte de naissance (AD13, Marseille 8e, 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873) : née le **6 novembre 1873 à neuf heures du soir, quartier de Séon-Saint-André**, fille de **Jean ZUCCA, journalier**, et de **Dominique MATTA, vingt-trois ans, ménagère**, dits **mariés**. Le couple `GF30`, jusque-là `PROBABLE`, est **prouvé**.",
+    "Premier témoin de l'acte : **Joseph MATTA, cinquante-cinq ans, journalier, du même quartier**. L'homonymie avec le patronyme de la mère et son âge en font un **père probable de Dominique MATTA** — mais l'acte ne le dit pas, et il n'a donc **pas** été rattaché à l'arbre. Piste, pas preuve."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 15"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 15",
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF14"
@@ -123534,7 +123537,10 @@
    "annee_deces": 1963,
    "famille_origine": "GF30",
    "generations_ascendance": 2,
-   "generations_descendance": 5
+   "generations_descendance": 5,
+   "assets": [
+    "ad13-naissance-zucca-1873"
+   ]
   },
   "AG18": {
    "id": "AG18",
@@ -123915,50 +123921,83 @@
    ],
    "annee_naissance": 1836,
    "famille_origine": "GF42",
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 6
   },
   "AG22": {
    "id": "AG22",
    "prenom": "Auguste Étienne Démocrite",
-   "nom": "GUIGOU",
+   "nom": "GUIGUE",
    "sexe": "M",
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1838",
+     "brut": "26 DEC 1837",
      "date": {
-      "annee": 1838
+      "annee": 1837,
+      "mois": 12,
+      "jour": 26
      }
+    },
+    "lieu": "Marseille (13)",
+    "commune": {
+     "nom": "Marseille",
+     "code": "13055",
+     "departement": "13",
+     "pays": "France",
+     "actuelle": "Marseille",
+     "coordonnees": [
+      5.3806,
+      43.2803
+     ],
+     "approximatif": false
     }
    },
    "deces": null,
    "professions": [
     {
      "type": "profession",
-     "texte": "Tonnelier"
+     "texte": "tonnelier"
     }
    ],
    "evenements": [
     {
      "type": "naissance",
      "date": {
-      "brut": "1838",
+      "brut": "26 DEC 1837",
       "date": {
-       "annee": 1838
+       "annee": 1837,
+       "mois": 12,
+       "jour": 26
       }
+     },
+     "lieu": "Marseille (13)",
+     "commune": {
+      "nom": "Marseille",
+      "code": "13055",
+      "departement": "13",
+      "pays": "France",
+      "actuelle": "Marseille",
+      "coordonnees": [
+       5.3806,
+       43.2803
+      ],
+      "approximatif": false
      }
     },
     {
      "type": "profession",
-     "texte": "Tonnelier"
+     "texte": "tonnelier"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "**Patronyme corrigé le 31/08/2026 : GUIGUE, et non GUIGOU.** Son acte de mariage (AD13, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867) l'écrit GUIGUE **trois fois** — dans la marge, dans la table décennale et dans le corps de l'acte. GUIGOU, forme du relevé familial de 2006, est conservé comme variante. **À vérifier sur la fiche de sa fille AG11**, dont l'acte de naissance de 1868 n'a pas encore été lu et qui porte encore GUIGOU.",
+    "ASCENDANCE ÉTABLIE par le même acte : « **fils majeur reconnu de feu sieur Jacques Michel Guigue, layetier, et de Dame Catherine Froucon, ménagère** », celle-ci présente et consentante. Son père est donc mort avant novembre 1867, sa mère vivante. Il est **tonnelier**, né à **Marseille le 26 décembre 1837** — l'arbre ne portait qu'un « vers 1838 »."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 22"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 22",
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF22"
@@ -123967,9 +124006,13 @@
    "branches": [
     "gimie"
    ],
-   "annee_naissance": 1838,
-   "generations_ascendance": 0,
-   "generations_descendance": 6
+   "annee_naissance": 1837,
+   "famille_origine": "GF44",
+   "generations_ascendance": 1,
+   "generations_descendance": 6,
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
+   ]
   },
   "AG23": {
    "id": "AG23",
@@ -123979,39 +124022,79 @@
    "naissance": {
     "type": "naissance",
     "date": {
-     "brut": "1845",
+     "brut": "25 OCT 1845",
      "date": {
-      "annee": 1845
+      "annee": 1845,
+      "mois": 10,
+      "jour": 25
      }
+    },
+    "lieu": "Marseille (13)",
+    "commune": {
+     "nom": "Marseille",
+     "code": "13055",
+     "departement": "13",
+     "pays": "France",
+     "actuelle": "Marseille",
+     "coordonnees": [
+      5.3806,
+      43.2803
+     ],
+     "approximatif": false
     }
    },
    "deces": null,
    "professions": [
     {
      "type": "profession",
-     "texte": "Tailleuse"
+     "texte": "couturière"
+    },
+    {
+     "type": "profession",
+     "texte": "tailleuse"
     }
    ],
    "evenements": [
     {
      "type": "naissance",
      "date": {
-      "brut": "1845",
+      "brut": "25 OCT 1845",
       "date": {
-       "annee": 1845
+       "annee": 1845,
+       "mois": 10,
+       "jour": 25
       }
+     },
+     "lieu": "Marseille (13)",
+     "commune": {
+      "nom": "Marseille",
+      "code": "13055",
+      "departement": "13",
+      "pays": "France",
+      "actuelle": "Marseille",
+      "coordonnees": [
+       5.3806,
+       43.2803
+      ],
+      "approximatif": false
      }
     },
     {
      "type": "profession",
-     "texte": "Tailleuse"
+     "texte": "couturière"
+    },
+    {
+     "type": "profession",
+     "texte": "tailleuse"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROUVÉE le 31/08/2026 par son acte de mariage (AD13, Marseille 6e, 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867) : « **Claire Françoise Filippi, couturière, née à Marseille le 25 octobre 1845**, fille de **Thomas Filippi, voilier**, et de **Madelaine Claire Gaubert** ». Sa filiation, jusque-là `PROBABLE` d'après le relevé familial, devient **`PROUVÉE`**, et sa date de naissance est exacte. L'acte la dit **couturière** là où le relevé disait tailleuse : les deux sont conservés."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 23"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 23",
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF22"
@@ -124023,7 +124106,10 @@
    "annee_naissance": 1845,
    "famille_origine": "GF46",
    "generations_ascendance": 2,
-   "generations_descendance": 6
+   "generations_descendance": 6,
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
+   ]
   },
   "AG24": {
    "id": "AG24",
@@ -124271,7 +124357,11 @@
    "professions": [
     {
      "type": "profession",
-     "texte": "Épicier"
+     "texte": "journalier"
+    },
+    {
+     "type": "profession",
+     "texte": "épicier"
     }
    ],
    "evenements": [
@@ -124323,14 +124413,20 @@
     },
     {
      "type": "profession",
-     "texte": "Épicier"
+     "texte": "journalier"
+    },
+    {
+     "type": "profession",
+     "texte": "épicier"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Profession de **journalier** prouvée le 31/08/2026 par l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873). Le relevé familial le disait épicier : les deux sont conservés, l'épicerie étant sans doute postérieure. La famille habite alors le quartier de **Séon-Saint-André**."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 30"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 30",
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF30"
@@ -124343,7 +124439,10 @@
    "annee_deces": 1899,
    "famille_origine": "GF60",
    "generations_ascendance": 1,
-   "generations_descendance": 6
+   "generations_descendance": 6,
+   "assets": [
+    "ad13-naissance-zucca-1873"
+   ]
   },
   "AG31": {
    "id": "AG31",
@@ -124363,29 +124462,31 @@
    "professions": [
     {
      "type": "profession",
-     "texte": "Ménagère, épicière"
+     "texte": "ménagère"
+    },
+    {
+     "type": "profession",
+     "texte": "épicière"
     }
    ],
    "evenements": [
     {
-     "type": "naissance",
-     "date": {
-      "brut": "1850",
-      "date": {
-       "annee": 1850
-      }
-     }
+     "type": "profession",
+     "texte": "ménagère"
     },
     {
      "type": "profession",
-     "texte": "Ménagère, épicière"
+     "texte": "épicière"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Âge PROUVÉ le 31/08/2026 : l'acte de naissance de sa fille Thérèse Anne (Marseille 8e, 7 novembre 1873) la dit **vingt-trois ans**, donc née vers 1850 — ce que le relevé familial donnait déjà, désormais appuyé par un acte. Elle y est **ménagère** ; « épicière » vient d'une autre source et est conservé.",
+    "**Son mariage avec Jean ZUCCA n'a pas eu lieu à Marseille**, ou pas dans les années couvertes : les tables décennales des mariages **1853-1858** (201 E 1456, lettre Z) et **1863-1872** (201 E 1465, lettre Z, deux vues) ont été dépouillées en entier, sans aucun ZUCCA. Le couple est pourtant dit « mariés » en 1873. Jean ZUCCA étant né à **Castelnuovo d'Asti**, le mariage est vraisemblablement **piémontais**. Trou restant à combler : **1859-1862**, absent de la vue mise en ligne."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 31"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 31",
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF30"
@@ -124396,7 +124497,10 @@
    ],
    "annee_naissance": 1850,
    "generations_ascendance": 0,
-   "generations_descendance": 6
+   "generations_descendance": 6,
+   "assets": [
+    "ad13-naissance-zucca-1873"
+   ]
   },
   "AG34": {
    "id": "AG34",
@@ -125170,7 +125274,7 @@
    ],
    "annee_naissance": 1807,
    "famille_origine": "GF84",
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 7
   },
   "AG43": {
@@ -125315,10 +125419,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Filiation de sa fille Claire Françoise **PROUVÉE** le 31/08/2026 par l'acte de mariage de celle-ci (Marseille 6e, 28 novembre 1867), qui le dit **voilier** — métier de la voile et du port, cohérent avec le « marin » du relevé et avec sa naissance à Ajaccio."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 46"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 46",
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF46"
@@ -125330,7 +125436,10 @@
    "annee_naissance": 1810,
    "famille_origine": "GF92",
    "generations_ascendance": 1,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
+   ]
   },
   "AG47": {
    "id": "AG47",
@@ -125399,10 +125508,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Filiation de sa fille Claire Françoise **PROUVÉE** le 31/08/2026 par l'acte de mariage de celle-ci (Marseille 6e, 28 novembre 1867), qui la nomme « Madelaine Claire Gaubert »."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 47"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 47",
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF46"
@@ -125414,7 +125525,10 @@
    "annee_naissance": 1818,
    "famille_origine": "GF94",
    "generations_ascendance": 1,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
+   ]
   },
   "AG56": {
    "id": "AG56",
@@ -127054,7 +127168,16 @@
    "prenom": "Simaja Isaac",
    "nom": "UZIEL",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1752",
+     "date": {
+      "annee": 1752
+     }
+    },
+    "lieu": "Mahón (Minorque, Espagne)"
+   },
    "deces": {
     "type": "deces",
     "date": {
@@ -127082,10 +127205,32 @@
    "professions": [
     {
      "type": "profession",
-     "texte": "Marchand, négociant"
+     "texte": "marchand"
+    },
+    {
+     "type": "profession",
+     "texte": "négociant"
     }
    ],
    "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1752",
+      "date": {
+       "annee": 1752
+      }
+     },
+     "lieu": "Mahón (Minorque, Espagne)"
+    },
+    {
+     "type": "profession",
+     "texte": "marchand"
+    },
+    {
+     "type": "profession",
+     "texte": "négociant"
+    },
     {
      "type": "deces",
      "date": {
@@ -127109,17 +127254,17 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Marchand, négociant"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "ASCENDANCE ÉTABLIE le 31/08/2026 par son acte de décès (AD13, Marseille 1er, 201 E 2829, vue 37, acte n° 133 du 27 janvier 1815) : « **Samaya Uziel**, décédé hier à trois heures du soir, âgé de **soixante-trois ans**, **ancien marchand**, **né à Mahon**, demeurant rue Neuve n° 13, **fils de feu Isaac Uziel et de feue Rachel Baruquel**, **époux d'Anna Sasias** ». Le décès du 26 janvier 1815 est donc confirmé, et deux parents entrent dans l'arbre.",
+    "**Une cinquième origine s'ouvre : Mahón, à Minorque.** Né vers 1751-1752 dans le principal port des Baléares, il meurt marchand à Marseille à soixante-trois ans. Les patronymes UZIEL et BARUQUEL sont **séfarades** ; la communauté juive de Mahón, tolérée sous l'occupation britannique de Minorque au XVIIIe siècle, se disperse après le retour de l'île à l'Espagne en 1802. La trajectoire vers Marseille s'inscrit dans ce mouvement. Piste, pas preuve : elle demande les registres de Mahón.",
+    "L'acte l'appelle **Samaya**, là où le relevé familial de 2006 écrit « Simaja Isaac ». Prénom d'acte conservé comme surnom."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 84"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 84",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 37/51, acte n° 133 dressé le 27 janvier 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre U. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue37-deces-samaya-uziel-1815.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF84"
@@ -127129,23 +127274,43 @@
     "gimie"
    ],
    "annee_deces": 1815,
-   "generations_ascendance": 0,
-   "generations_descendance": 8
+   "surnom": "Samaya",
+   "annee_naissance": 1752,
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1815",
+      "date": {
+       "annee": 1815
+      }
+     },
+     "lieu": "Rue Neuve n° 13, Marseille (13)"
+    }
+   ],
+   "famille_origine": "GF168",
+   "generations_ascendance": 1,
+   "generations_descendance": 8,
+   "assets": [
+    "ad13-deces-uziel-1815"
+   ]
   },
   "AG85": {
    "id": "AG85",
    "prenom": "Anne",
-   "nom": "SAZIAN",
+   "nom": "SASIAS",
    "sexe": "F",
    "naissance": null,
    "deces": null,
    "professions": [],
    "evenements": [],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "**Patronyme corrigé le 31/08/2026 : SASIAS, et non SAZIAN.** L'acte de décès de son mari, dressé à Marseille le 27 janvier 1815, la nomme « **Anna Sasias** ». Le relevé familial de 2006 écrivait SAZIAN ; entre un acte contemporain du fait et un relevé tardif, c'est l'acte qui l'emporte. SAZIAN conservé comme variante. Elle est vivante en janvier 1815, veuve."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 85"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 85",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 37/51, acte n° 133 dressé le 27 janvier 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre U. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue37-deces-samaya-uziel-1815.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF84"
@@ -127155,7 +127320,10 @@
     "gimie"
    ],
    "generations_ascendance": 0,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "ad13-deces-uziel-1815"
+   ]
   },
   "AG86": {
    "id": "AG86",
@@ -127872,10 +128040,12 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "Sa profession de **cultivateur** est prouvée le 31/08/2026 par l'acte de décès de sa femme, Marseille 1er, 14 mars 1815, qui la dit « épouse de Jean Michel Lieutaud, cultivateur », au quartier des Comtes."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 118"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 118",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF118"
@@ -127888,14 +128058,37 @@
    "annee_deces": 1834,
    "famille_origine": "GF236",
    "generations_ascendance": 1,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "ad13-deces-pourchier-1815"
+   ]
   },
   "AG119": {
    "id": "AG119",
    "prenom": "Marie Madeleine",
    "nom": "POURCHIER",
    "sexe": "F",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "ABT 1775",
+     "date": {
+      "annee": 1775
+     }
+    },
+    "lieu": "Auriol (13)",
+    "commune": {
+     "nom": "Auriol",
+     "code": "13007",
+     "departement": "13",
+     "actuelle": "Auriol",
+     "coordonnees": [
+      5.6559,
+      43.3594
+     ],
+     "approximatif": false
+    }
+   },
    "deces": {
     "type": "deces",
     "date": {
@@ -127923,6 +128116,27 @@
    "professions": [],
    "evenements": [
     {
+     "type": "naissance",
+     "date": {
+      "brut": "ABT 1775",
+      "date": {
+       "annee": 1775
+      }
+     },
+     "lieu": "Auriol (13)",
+     "commune": {
+      "nom": "Auriol",
+      "code": "13007",
+      "departement": "13",
+      "actuelle": "Auriol",
+      "coordonnees": [
+       5.6559,
+       43.3594
+      ],
+      "approximatif": false
+     }
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "13 MAR 1815",
@@ -127948,10 +128162,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "ASCENDANCE ÉTABLIE le 31/08/2026 par son acte de décès (AD13, Marseille 1er, 201 E 2829, vue 116, acte n° 441 du 14 mars 1815) : « décédée hier à deux heures du soir, âgée de **quarante ans**, **née à Auriol**, quartier des Comtes, **fille de feu Jean Martin Pourchier et de feue Magdelaine Arnaud**, **épouse de Jean Michel Lieutaud, cultivateur** ». Le décès du 13 mars 1815 est confirmé, elle est née vers 1774-1775 à **Auriol**, et deux parents entrent dans l'arbre.",
+    "Elle meurt à quarante ans, deux ans après la naissance de sa fille Anne Françoise (15 février 1813) — et six semaines après Samaya UZIEL, dans le même registre marseillais."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 119"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 5, Sosa 119",
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
    ],
    "familles": [
     "GF118"
@@ -127961,8 +128178,25 @@
     "gimie"
    ],
    "annee_deces": 1815,
-   "generations_ascendance": 0,
-   "generations_descendance": 8
+   "annee_naissance": 1775,
+   "residences": [
+    {
+     "type": "residence",
+     "date": {
+      "brut": "1815",
+      "date": {
+       "annee": 1815
+      }
+     },
+     "lieu": "Quartier des Comtes, Marseille (13)"
+    }
+   ],
+   "famille_origine": "GF238",
+   "generations_ascendance": 1,
+   "generations_descendance": 8,
+   "assets": [
+    "ad13-deces-pourchier-1815"
+   ]
   },
   "AG130": {
    "id": "AG130",
@@ -146145,6 +146379,262 @@
    "assets": [
     "ad19-mariage-mercier-sicard-1900",
     "ad19-naissance-mercier-barthelemy-1872"
+   ]
+  },
+  "AG168": {
+   "id": "AG168",
+   "prenom": "Isaac",
+   "nom": "UZIEL",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Samaya UZIEL. Nommé par l'acte de décès de son fils, Marseille 1er, 27 janvier 1815 : « fils de **feu Isaac Uziel** et de feue Rachel Baruquel ». Il est donc mort avant janvier 1815. Son fils étant né à Mahón vers 1752, le couple y vivait au milieu du XVIIIe siècle : c'est là qu'il faut chercher, dans les registres de la communauté juive de Minorque."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 37/51, acte n° 133 dressé le 27 janvier 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre U. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue37-deces-samaya-uziel-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF168"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 9,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-deces-uziel-1815"
+   ]
+  },
+  "AG169": {
+   "id": "AG169",
+   "prenom": "Rachel",
+   "nom": "BARUQUEL",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Samaya UZIEL, épouse d'Isaac UZIEL. Nommée par l'acte de décès de son fils, Marseille 1er, 27 janvier 1815, où elle est dite **feue** : morte avant janvier 1815. BARUQUEL est un patronyme séfarade ; à chercher à Mahón (Minorque)."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 37/51, acte n° 133 dressé le 27 janvier 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre U. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue37-deces-samaya-uziel-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF168"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 9,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-deces-uziel-1815"
+   ]
+  },
+  "AG238": {
+   "id": "AG238",
+   "prenom": "Jean Martin",
+   "nom": "POURCHIER",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Marie Madeleine POURCHIER. Nommé par l'acte de décès de sa fille, Marseille 1er, 14 mars 1815, où il est dit **feu** : mort avant mars 1815. Sa fille étant née à **Auriol** vers 1774-1775, c'est là qu'il faut chercher son mariage avec Magdelaine ARNAUD, dans les registres paroissiaux d'Auriol antérieurs à 1775."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF238"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 9,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-deces-pourchier-1815"
+   ]
+  },
+  "AG239": {
+   "id": "AG239",
+   "prenom": "Magdelaine",
+   "nom": "ARNAUD",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Marie Madeleine POURCHIER, épouse de Jean Martin POURCHIER. Nommée par l'acte de décès de sa fille, Marseille 1er, 14 mars 1815, où elle est dite **feue** : morte avant mars 1815. À chercher à Auriol (13)."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF238"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 9,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-deces-pourchier-1815"
+   ]
+  },
+  "AG44": {
+   "id": "AG44",
+   "prenom": "Jacques Michel",
+   "nom": "GUIGUE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "layetier"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "layetier"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père d'Auguste Étienne Démocrite GUIGUE. Nommé par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867 : « fils majeur reconnu de **feu sieur Jacques Michel Guigue, layetier** ». **Layetier** — fabricant de caisses et de coffres de bois : le métier du bois précède celui de tonnelier chez le fils. Mort avant novembre 1867 ; son acte de décès à Marseille, à chercher par la table décennale des décès lettre G, nommera ses propres parents.",
+    "La lecture du patronyme de son épouse est réservée : **FROUCON**, la lettre initiale pouvant être un F ou un T."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF44"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
+   ]
+  },
+  "AG45": {
+   "id": "AG45",
+   "prenom": "Catherine",
+   "nom": "FROUCON",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "ménagère"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "ménagère"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Mère d'Auguste Étienne Démocrite GUIGUE, épouse de Jacques Michel GUIGUE. Nommée par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867, où elle est **présente et consentante**, ménagère — donc vivante et veuve en novembre 1867.",
+    "**Lecture réservée** : le patronyme se lit FROUCON, mais l'initiale peut être un F ou un T. Ne pas le propager sans une seconde source."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF44"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 7,
+   "branches": [
+    "gimie"
+   ],
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
    ]
   }
  },
@@ -180502,14 +180992,69 @@
    "enfants": [
     "AG11"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "28 NOV 1867",
+     "date": {
+      "annee": 1867,
+      "mois": 11,
+      "jour": 28
+     }
+    },
+    "lieu": "Marseille 6e (13)",
+    "commune": {
+     "nom": "Marseille 6e Arrondissement",
+     "code": "13206",
+     "departement": "13",
+     "pays": "France",
+     "actuelle": "Marseille 6e Arrondissement",
+     "coordonnees": [
+      5.3814,
+      43.2876
+     ],
+     "approximatif": false
+    }
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "28 NOV 1867",
+      "date": {
+       "annee": 1867,
+       "mois": 11,
+       "jour": 28
+      }
+     },
+     "lieu": "Marseille 6e (13)",
+     "commune": {
+      "nom": "Marseille 6e Arrondissement",
+      "code": "13206",
+      "departement": "13",
+      "pays": "France",
+      "actuelle": "Marseille 6e Arrondissement",
+      "coordonnees": [
+       5.3814,
+       43.2876
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "MARIAGE LU le 31/08/2026 : Marseille 6e arrondissement, 28 novembre 1867, acte n° 358 (AD13, 201 E 4722, vue 184). Il donne les deux filiations, les deux dates de naissance exactes et deux professions, et fait reculer le front d'ascendance de deux points du côté GUIGUE."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "assets": [
+    "ad13-mariage-guigue-filippi-1867"
    ]
   },
   "GF28": {
@@ -180540,10 +181085,14 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "Couple **prouvé** le 31/08/2026 par l'acte de naissance de leur fille Thérèse Anne, Marseille 8e, 7 novembre 1873, qui les dit mariés. Leur mariage reste introuvable à Marseille — probablement piémontais."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
    ]
   },
   "GF34": {
@@ -180642,10 +181191,14 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "Couple confirmé par une source primaire le 31/08/2026 : l'acte de mariage de leur fille Claire Françoise, Marseille 6e, 28 novembre 1867, les nomme tous deux et donne au père la profession de **voilier**. Ce couple n'était jusque-là attesté que par le relevé familial de 2006."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
    ]
   },
   "GF56": {
@@ -184425,6 +184978,66 @@
    ],
    "branches": [
     "vaurie"
+   ]
+  },
+  "GF168": {
+   "id": "GF168",
+   "pere": "AG168",
+   "mere": "AG169",
+   "enfants": [
+    "AG84"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de décès de leur fils Samaya UZIEL, Marseille 1er, 27 janvier 1815, où tous deux sont dits défunts. Vivaient vraisemblablement à **Mahón, Minorque**, vers 1752. Génération la plus ancienne connue de cette lignée séfarade."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 37/51, acte n° 133 dressé le 27 janvier 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre U. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue37-deces-samaya-uziel-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF238": {
+   "id": "GF238",
+   "pere": "AG238",
+   "mere": "AG239",
+   "enfants": [
+    "AG119"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de décès de leur fille Marie Madeleine POURCHIER, Marseille 1er, 14 mars 1815, où tous deux sont dits défunts. Leur fille est née à **Auriol** vers 1774-1775 : leur mariage y est antérieur, dans les registres paroissiaux de la commune."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales des Bouches-du-Rhône, Marseille 1er arrondissement, décès 1815, cote 201 E 2829, vue 116, acte n° 441 dressé le 14 mars 1815. Repéré par la table décennale des décès 1813-1822, cote 201 E 1436, lettre P, vue 12. Image lue et archivée le 31/08/2026 : ad13-201E-2829-vue116-deces-marie-magdelaine-pourchier-1815.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "gimie"
+   ]
+  },
+  "GF44": {
+   "id": "GF44",
+   "pere": "AG44",
+   "mere": "AG45",
+   "enfants": [
+    "AG22"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de mariage de leur fils, Marseille 6e, 28 novembre 1867. Le père y est dit défunt, la mère présente et consentante."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "gimie"
    ]
   }
  },
@@ -215911,15 +216524,19 @@
     "id": "AG22",
     "hideId": true,
     "firstName": "Auguste Étienne Démocrite",
-    "lastName": "GUIGOU",
+    "lastName": "GUIGUE",
     "sex": "M",
+    "famc": "GF44",
     "fams": [
      "GF22"
     ],
     "birth": {
      "date": {
-      "year": 1838
+      "day": 26,
+      "month": 12,
+      "year": 1837
      },
+     "place": "Marseille (13)",
      "type": "naissance"
     }
    },
@@ -215935,8 +216552,11 @@
     ],
     "birth": {
      "date": {
+      "day": 25,
+      "month": 10,
       "year": 1845
      },
+     "place": "Marseille (13)",
      "type": "naissance"
     }
    },
@@ -216709,9 +217329,17 @@
     "firstName": "Simaja Isaac",
     "lastName": "UZIEL",
     "sex": "M",
+    "famc": "GF168",
     "fams": [
      "GF84"
     ],
+    "birth": {
+     "date": {
+      "year": 1752
+     },
+     "place": "Mahón (Minorque, Espagne)",
+     "type": "naissance"
+    },
     "death": {
      "date": {
       "day": 26,
@@ -216727,7 +217355,7 @@
     "id": "AG85",
     "hideId": true,
     "firstName": "Anne",
-    "lastName": "SAZIAN",
+    "lastName": "SASIAS",
     "sex": "F",
     "fams": [
      "GF84"
@@ -216937,9 +217565,17 @@
     "firstName": "Marie Madeleine",
     "lastName": "POURCHIER",
     "sex": "F",
+    "famc": "GF238",
     "fams": [
      "GF118"
     ],
+    "birth": {
+     "date": {
+      "year": 1775
+     },
+     "place": "Auriol (13)",
+     "type": "naissance"
+    },
     "death": {
      "date": {
       "day": 13,
@@ -221928,6 +222564,66 @@
     "sex": "F",
     "fams": [
      "VF158"
+    ]
+   },
+   {
+    "id": "AG168",
+    "hideId": true,
+    "firstName": "Isaac",
+    "lastName": "UZIEL",
+    "sex": "M",
+    "fams": [
+     "GF168"
+    ]
+   },
+   {
+    "id": "AG169",
+    "hideId": true,
+    "firstName": "Rachel",
+    "lastName": "BARUQUEL",
+    "sex": "F",
+    "fams": [
+     "GF168"
+    ]
+   },
+   {
+    "id": "AG238",
+    "hideId": true,
+    "firstName": "Jean Martin",
+    "lastName": "POURCHIER",
+    "sex": "M",
+    "fams": [
+     "GF238"
+    ]
+   },
+   {
+    "id": "AG239",
+    "hideId": true,
+    "firstName": "Magdelaine",
+    "lastName": "ARNAUD",
+    "sex": "F",
+    "fams": [
+     "GF238"
+    ]
+   },
+   {
+    "id": "AG44",
+    "hideId": true,
+    "firstName": "Jacques Michel",
+    "lastName": "GUIGUE",
+    "sex": "M",
+    "fams": [
+     "GF44"
+    ]
+   },
+   {
+    "id": "AG45",
+    "hideId": true,
+    "firstName": "Catherine",
+    "lastName": "FROUCON",
+    "sex": "F",
+    "fams": [
+     "GF44"
     ]
    }
   ],
@@ -233269,7 +233965,16 @@
     "wife": "AG23",
     "children": [
      "AG11"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 28,
+      "month": 11,
+      "year": 1867
+     },
+     "place": "Marseille 6e (13)",
+     "type": "union"
+    }
    },
    {
     "id": "GF28",
@@ -234896,6 +235601,30 @@
     "children": [
      "VI6"
     ]
+   },
+   {
+    "id": "GF168",
+    "husb": "AG168",
+    "wife": "AG169",
+    "children": [
+     "AG84"
+    ]
+   },
+   {
+    "id": "GF238",
+    "husb": "AG238",
+    "wife": "AG239",
+    "children": [
+     "AG119"
+    ]
+   },
+   {
+    "id": "GF44",
+    "husb": "AG44",
+    "wife": "AG45",
+    "children": [
+     "AG22"
+    ]
    }
   ]
  },
@@ -234910,7 +235639,7 @@
    "id": "gimie",
    "libelle": "GIMIÉ",
    "racine": "JI56",
-   "personnes": 347
+   "personnes": 353
   },
   {
    "id": "thevenet",
@@ -235380,6 +236109,81 @@
    },
    "date": "1872",
    "lieu": "Vitrac-sur-Montane (19)"
+  },
+  "ad13-deces-uziel-1815": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Samaya UZIEL, Marseille, 27 janvier 1815",
+   "fichier": "assets/actes/france/13/ad13-deces-uziel-1815.jpg",
+   "octets": 902876,
+   "sha256": "611270b9b1a84f3f135dc2381f673d86dbcabb9f2c0550844e0109e7a330e54e",
+   "utilise_par": {
+    "individus": [
+     "AG84",
+     "AG85",
+     "AG168",
+     "AG169"
+    ],
+    "familles": []
+   },
+   "date": "1815",
+   "lieu": "Marseille (13)"
+  },
+  "ad13-deces-pourchier-1815": {
+   "type": "acte_deces",
+   "titre": "Acte de décès de Marie Madeleine POURCHIER, Marseille, 14 mars 1815",
+   "fichier": "assets/actes/france/13/ad13-deces-pourchier-1815.jpg",
+   "octets": 949039,
+   "sha256": "4c6aae325064192638846210e6cba52879f7a4d06b3050d387d9cc5ef4771cfb",
+   "utilise_par": {
+    "individus": [
+     "AG118",
+     "AG119",
+     "AG238",
+     "AG239"
+    ],
+    "familles": []
+   },
+   "date": "1815",
+   "lieu": "Marseille (13)"
+  },
+  "ad13-mariage-guigue-filippi-1867": {
+   "type": "acte_mariage",
+   "titre": "Acte de mariage GUIGUE × FILIPPI, Marseille 6e, 28 novembre 1867",
+   "fichier": "assets/actes/france/13/ad13-mariage-guigue-filippi-1867.jpg",
+   "octets": 960928,
+   "sha256": "23130b3c6333ab194e73dc21c6f70e223bdb0d6c667795f29df4e1f61310996b",
+   "utilise_par": {
+    "individus": [
+     "AG22",
+     "AG23",
+     "AG46",
+     "AG47",
+     "AG44",
+     "AG45"
+    ],
+    "familles": [
+     "GF22"
+    ]
+   },
+   "date": "1867",
+   "lieu": "Marseille (13)"
+  },
+  "ad13-naissance-zucca-1873": {
+   "type": "acte_naissance",
+   "titre": "Acte de naissance de Thérèse Anne ZUCCA, Marseille 8e, 7 novembre 1873",
+   "fichier": "assets/actes/france/13/ad13-naissance-zucca-1873.jpg",
+   "octets": 902228,
+   "sha256": "73f671906cdbf9a7eab39629cb435caebee86801b32df354453461d4557f27ff",
+   "utilise_par": {
+    "individus": [
+     "AG15",
+     "AG30",
+     "AG31"
+    ],
+    "familles": []
+   },
+   "date": "1873",
+   "lieu": "Marseille (13)"
   }
  }
 }
