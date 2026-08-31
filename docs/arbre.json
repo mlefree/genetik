@@ -142331,7 +142331,7 @@
    "vivant": false,
    "annee_naissance": 1811,
    "annee_deces": 1871,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 6,
    "branches": [
     "thevenet"
@@ -144112,11 +144112,38 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "23 MAY 1783",
+     "date": {
+      "annee": 1783,
+      "mois": 5,
+      "jour": 23
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
    "bapteme": null,
    "deces": null,
    "inhumation": null,
    "professions": [
+    {
+     "type": "profession",
+     "texte": "propriétaire"
+    },
     {
      "type": "profession",
      "texte": "cultivateur"
@@ -144124,6 +144151,34 @@
    ],
    "residences": [],
    "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "23 MAY 1783",
+      "date": {
+       "annee": 1783,
+       "mois": 5,
+       "jour": 23
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "propriétaire"
+    },
     {
      "type": "profession",
      "texte": "cultivateur"
@@ -144133,21 +144188,23 @@
    "notes": [
     "Père de Joseph THÉVENET (1811-1871). Nommé par l'acte de mariage de son fils, à Tramayes le 18 janvier 1837 : « fils majeur des mariés Jean THÉVENET et Jeanne LAMAY, tous cultivateurs, demeurant audit Tramayes ». Il est vivant et PRÉSENT à ce mariage, dont il donne le consentement. Ni sa naissance ni son décès ne sont connus : nouveau point du front d'ascendance.",
     "Deux Jean THÉVENET apparaissent dans le même acte : le père de Joseph, époux de Jeanne LAMAY, et l'aïeul de Jeanne Marie, époux de Marie BELUZE. Les épouses diffèrent et l'acte ne mentionne aucune dispense de parenté, obligatoire si les mariés avaient été oncle et nièce : ce sont très probablement deux hommes distincts, dans un pays où le patronyme est massif. À trancher sur les actes de naissance.",
-    "Confirmé par l'acte de naissance de son fils Joseph, Tramayes, 21 février 1811 (AD71, 5 E 545/2, vue 163) : « fils de Jean THEVENOT, profession de cultivateur, et de Jeanne LAMAIN ». Son mariage avec Jeanne LAMAIN est antérieur à février 1811 : à chercher dans les mariages de Tramayes 1803-1808 (5 E 545/2) ou 1809-1812 (5 E 545/3)."
+    "Confirmé par l'acte de naissance de son fils Joseph, Tramayes, 21 février 1811 (AD71, 5 E 545/2, vue 163) : « fils de Jean THEVENOT, profession de cultivateur, et de Jeanne LAMAIN ». Son mariage avec Jeanne LAMAIN est antérieur à février 1811 : à chercher dans les mariages de Tramayes 1803-1808 (5 E 545/2) ou 1809-1812 (5 E 545/3).",
+    "PROUVÉ le 31/08/2026 par son propre acte de mariage, Tramayes 13 juin 1808 : « Jean THEVENET, âgé de vingt-cinq ans, né à Tramayes, département de Saône-et-Loire, le vingt-trois du mois de may an 1783, profession de PROPRIÉTAIRE, demeurant à Tramayes, fils majeur de Jean THEVENET, profession de propriétaire, demeurant audit Tramayes, et de Marie DELAGE ». Il est donc propriétaire en 1808 et dit cultivateur en 1837 : la même terre, deux mots. Son père est vivant et consent au mariage ; il signe l'acte, où la main du greffier l'écrit « THEVENOT père »."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1803-1812, cote 5 E 545/2, vue 163/204, acte du 21 février 1811. Image lue et archivée le 31/08/2026 : 5e545-2-vue163-naissance-thevenet-joseph-1811.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1803-1812, cote 5 E 545/2, vue 163/204, acte du 21 février 1811. Image lue et archivée le 31/08/2026 : 5e545-2-vue163-naissance-thevenet-joseph-1811.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF77",
    "familles": [
     "JF65"
    ],
    "vivant": false,
-   "annee_naissance": null,
+   "annee_naissance": 1783,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "thevenet"
@@ -144155,7 +144212,8 @@
    "assets": [
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
-    "ad71-naissance-thevenet-joseph-1811"
+    "ad71-naissance-thevenet-joseph-1811",
+    "ad71-mariage-thevenet-lamain-1808"
    ]
   },
   "JI146": {
@@ -144186,21 +144244,23 @@
    "images": [],
    "notes": [
     "Mère de Joseph THÉVENET (1811-1871), épouse de Jean THÉVENET. Nommée par l'acte de mariage de son fils du 18 janvier 1837, où elle est dite cultivatrice, demeurant à Tramayes, vivante et présente. Graphie du patronyme à confirmer : la main de 1837 se lit LAMAY, mais LOMAY et LAMY restent possibles.",
-    "Graphie précisée le 31/08/2026 : l'acte de naissance de son fils Joseph, en 1811, écrit clairement LAMAIN, là où le mariage de 1837 se lisait LAMAY. Retenu LAMAIN ; LAMAY conservé comme variante."
+    "Graphie précisée le 31/08/2026 : l'acte de naissance de son fils Joseph, en 1811, écrit clairement LAMAIN, là où le mariage de 1837 se lisait LAMAY. Retenu LAMAIN ; LAMAY conservé comme variante.",
+    "Son acte de mariage du 13 juin 1808 à Tramayes la dit « fille MINEURE » — le greffier a rayé la mention imprimée pour écrire « mineure » : elle est donc née après le 13 juin 1787. Son père y est dit « défunt sieur », mort avant juin 1808 et demeurant à Tramayes à son décès. Le sieur Jacques MAZOYER, géomètre à Tramayes, âgé de 61 ans, premier témoin, « a déclaré être BEAU-PÈRE de la future » : sa mère s'était remariée. La ligne qui nomme la mère est écrite en travers des blancs du formulaire et reste à relire (lecture provisoire « Jacquine MAZOYER », incompatible avec la qualité de beau-père de Jacques MAZOYER). Ni le prénom du père ni le nom de la mère ne sont donc retenus : DOUTEUX tant que la vue 56 n'aura pas été relue à plus fort grossissement."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1803-1812, cote 5 E 545/2, vue 163/204, acte du 21 février 1811. Image lue et archivée le 31/08/2026 : 5e545-2-vue163-naissance-thevenet-joseph-1811.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1803-1812, cote 5 E 545/2, vue 163/204, acte du 21 février 1811. Image lue et archivée le 31/08/2026 : 5e545-2-vue163-naissance-thevenet-joseph-1811.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "JF78",
    "familles": [
     "JF65"
    ],
    "vivant": false,
    "annee_naissance": null,
    "annee_deces": null,
-   "generations_ascendance": 0,
+   "generations_ascendance": 1,
    "generations_descendance": 7,
    "branches": [
     "thevenet"
@@ -144208,7 +144268,8 @@
    "assets": [
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
-    "ad71-naissance-thevenet-joseph-1811"
+    "ad71-naissance-thevenet-joseph-1811",
+    "ad71-mariage-thevenet-lamain-1808"
    ]
   },
   "JI147": {
@@ -145616,6 +145677,180 @@
    "assets": [
     "ad71-td-mariages-tramayes-1802-1812",
     "ad71-mariage-thevenet-lapalus-1811"
+   ]
+  },
+  "JI169": {
+   "id": "JI169",
+   "prenom": "Jean",
+   "nom": "THÉVENET",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "propriétaire"
+    }
+   ],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "propriétaire"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jean THÉVENET (né 1783), donc arrière-arrière-grand-père d'Antoine THÉVENET (1889-1966). Nommé par l'acte de mariage de son fils, Tramayes 13 juin 1808 : « fils majeur de Jean THEVENET, profession de propriétaire, demeurant audit Tramayes, et de Marie DELAGE ». Il est VIVANT en juin 1808 : c'est lui qui donne le consentement au mariage et qui signe « THEVENOT père ».",
+    "À ne pas confondre avec Jean THÉVENET × Marie BELUZE (JI149/JI150), propriétaire cultivateur au même Tramayes et à la même époque, père d'Antoine THÉVENET († Lyon 1822). Les deux hommes portent le même nom, le même prénom, le même métier et la même commune, mais les épouses diffèrent — DELAGE ici, BELUZE là. Deux lignées THÉVENET distinctes coexistent donc à Tramayes, ce qui explique que Joseph et Jeanne Marie THÉVENET aient pu se marier en 1837 sans dispense : ils ne sont pas cousins germains. Hypothèse à tester : un même homme veuf remarié — elle exigerait un acte de décès ou un second mariage, non trouvé à ce jour."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF77"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-mariage-thevenet-lamain-1808"
+   ]
+  },
+  "JI170": {
+   "id": "JI170",
+   "prenom": "Marie",
+   "nom": "DELAGE",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Jean THÉVENET (né 1783), nommée par l'acte de mariage de son fils, Tramayes 13 juin 1808. La main du greffier écrit « marie delage » ; DELAYE et DELOGE restent possibles, la lettre médiane étant un g bouclé. Rien ne dit qu'elle soit vivante en 1808 : seul le père consent au mariage.",
+    "Distincte de Marie BELUZE (JI150), épouse de l'autre Jean THÉVENET de Tramayes."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF77"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-mariage-thevenet-lamain-1808"
+   ]
+  },
+  "JI171": {
+   "id": "JI171",
+   "prenom": "",
+   "nom": "LAMAIN",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "BEF 13 JUN 1808",
+     "date": {
+      "annee": 1808
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "BEF 13 JUN 1808",
+      "date": {
+       "annee": 1808
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Père de Jeanne LAMAIN, épouse de Jean THÉVENET. L'acte de mariage de sa fille, Tramayes 13 juin 1808, le dit « défunt sieur » et « à son décès demeurant » à Tramayes : il est donc mort avant le 13 juin 1808. Son prénom est écrit dans un blanc du formulaire que la main traverse et que la lecture à l'écran n'a pas encore rendu : fiche volontairement sans prénom plutôt qu'avec un prénom inventé. Le qualificatif « sieur » le range parmi les notables de la commune, comme le géomètre MAZOYER qui épouse sa veuve.",
+    "Prochaine pièce : le registre des décès de Tramayes 1793-1808 (AD71, série 5 E 545), puis les tables décennales, pour un LAMAIN mort à Tramayes avant juin 1808 laissant une fille mineure."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "JF78"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": 1808,
+   "generations_ascendance": 0,
+   "generations_descendance": 8,
+   "branches": [
+    "thevenet"
+   ],
+   "assets": [
+    "ad71-mariage-thevenet-lamain-1808"
    ]
   }
  },
@@ -183409,19 +183644,75 @@
    "enfants": [
     "JI122"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "13 JUN 1808",
+     "date": {
+      "annee": 1808,
+      "mois": 6,
+      "jour": 13
+     }
+    },
+    "lieu": "Tramayes (71)",
+    "commune": {
+     "nom": "Tramayes",
+     "code": "71545",
+     "departement": "71",
+     "pays": "France",
+     "actuelle": "Tramayes",
+     "coordonnees": [
+      4.6013,
+      46.3069
+     ],
+     "approximatif": false
+    }
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "13 JUN 1808",
+      "date": {
+       "annee": 1808,
+       "mois": 6,
+       "jour": 13
+      }
+     },
+     "lieu": "Tramayes (71)",
+     "commune": {
+      "nom": "Tramayes",
+      "code": "71545",
+      "departement": "71",
+      "pays": "France",
+      "actuelle": "Tramayes",
+      "coordonnees": [
+       4.6013,
+       46.3069
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
     "Couple nommé par l'acte de mariage de leur fils Joseph, à Tramayes le 18 janvier 1837 : « fils majeur des mariés Jean THÉVENET et Jeanne LAMAY, tous cultivateurs, demeurant audit Tramayes ». Tous deux vivants et présents. Leur mariage est antérieur à février 1811 : à chercher dans les registres de Tramayes.",
     "Confirmé par l'acte de naissance de Joseph, Tramayes, 21 février 1811 : « fils de Jean THEVENOT, cultivateur, et de Jeanne LAMAIN ».",
-    "DATE DU MARIAGE TROUVÉE le 31/08/2026 dans la table décennale des mariages de Tramayes 1802-1812 (AD71, 6 E 545/1, vue 4/6) : « Chevenet Jean × Lamain Jeanne — 13 juin 1808 ». L'acte lui-même reste à lire : registre des mariages 1803-1808, cote 5 E 545/2, 60 images, tout à la fin. Il nommera les parents des deux époux — deux couples de plus."
+    "DATE DU MARIAGE TROUVÉE le 31/08/2026 dans la table décennale des mariages de Tramayes 1802-1812 (AD71, 6 E 545/1, vue 4/6) : « Chevenet Jean × Lamain Jeanne — 13 juin 1808 ». L'acte lui-même reste à lire : registre des mariages 1803-1808, cote 5 E 545/2, 60 images, tout à la fin. Il nommera les parents des deux époux — deux couples de plus.",
+    "MARIAGE LU le 31/08/2026 : Tramayes, 13 juin 1808, neuf heures du matin, devant Claude BRUYS, maire (AD71, 5 E 545/2, vue 56/60). L'acte nomme les parents des deux époux et fait reculer le front d'ascendance de deux points. Témoins : sieur Jacques MAZOYER, géomètre à Tramayes, 61 ans, beau-père de la future ; Michel CUQUIN, cordonnier, 26 ans ; Jacques DELORME, domestique, 26 ans ; Jean LAROCHETTE, 29 ans, tous de Tramayes."
    ],
    "sources": [
-    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "thevenet"
+   ],
+   "assets": [
+    "ad71-td-mariages-tramayes-1833-1842",
+    "ad71-mariage-thevenet-tramayes-1837",
+    "ad71-naissance-thevenet-joseph-1811",
+    "ad71-mariage-thevenet-lamain-1808"
    ]
   },
   "JF66": {
@@ -183702,6 +183993,46 @@
    ],
    "notes": [
     "Parents d'Anne LAPALUS, nommés dans l'acte de mariage de leur fille à Tramayes le 3 juin 1811. Claude LAPALUS y est dit propriétaire, demeurant à Tramayes."
+   ]
+  },
+  "JF77": {
+   "id": "JF77",
+   "pere": "JI169",
+   "mere": "JI170",
+   "enfants": [
+    "JI145"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de mariage de leur fils Jean, à Tramayes le 13 juin 1808 : « fils majeur de Jean THEVENET, profession de propriétaire, demeurant audit Tramayes, et de Marie DELAGE ». Génération +1 par rapport à Jean (1783), soit la sixième génération ascendante prouvée de la branche Thévenet. Leur mariage est antérieur à mai 1783 et reste à trouver dans les registres paroissiaux de Tramayes."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "thevenet"
+   ]
+  },
+  "JF78": {
+   "id": "JF78",
+   "pere": "JI171",
+   "mere": null,
+   "enfants": [
+    "JI146"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Famille d'origine de Jeanne LAMAIN, connue par son acte de mariage du 13 juin 1808 à Tramayes. Le père y est « défunt sieur LAMAIN », mort avant juin 1808 ; la mère est nommée sur une ligne écrite en travers du formulaire, encore illisible avec certitude, et n'a donc pas de fiche. Elle s'était remariée : le sieur Jacques MAZOYER, géomètre à Tramayes, 61 ans, déclare au bas de l'acte être « beau-père de la future »."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "thevenet"
    ]
   }
  },
@@ -220787,9 +221118,19 @@
     "firstName": "Jean",
     "lastName": "THÉVENET",
     "sex": "M",
+    "famc": "JF77",
     "fams": [
      "JF65"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "day": 23,
+      "month": 5,
+      "year": 1783
+     },
+     "place": "Tramayes (71)",
+     "type": "naissance"
+    }
    },
    {
     "id": "JI146",
@@ -220797,6 +221138,7 @@
     "firstName": "Jeanne",
     "lastName": "LAMAIN",
     "sex": "F",
+    "famc": "JF78",
     "fams": [
      "JF65"
     ]
@@ -221113,6 +221455,43 @@
     "fams": [
      "JF76"
     ]
+   },
+   {
+    "id": "JI169",
+    "hideId": true,
+    "firstName": "Jean",
+    "lastName": "THÉVENET",
+    "sex": "M",
+    "fams": [
+     "JF77"
+    ]
+   },
+   {
+    "id": "JI170",
+    "hideId": true,
+    "firstName": "Marie",
+    "lastName": "DELAGE",
+    "sex": "F",
+    "fams": [
+     "JF77"
+    ]
+   },
+   {
+    "id": "JI171",
+    "hideId": true,
+    "lastName": "LAMAIN",
+    "sex": "M",
+    "fams": [
+     "JF78"
+    ],
+    "death": {
+     "date": {
+      "year": 1808
+     },
+     "place": "Tramayes (71)",
+     "type": "deces",
+     "confirmed": true
+    }
    }
   ],
   "fams": [
@@ -233933,7 +234312,16 @@
     "wife": "JI146",
     "children": [
      "JI122"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 13,
+      "month": 6,
+      "year": 1808
+     },
+     "place": "Tramayes (71)",
+     "type": "union"
+    }
    },
    {
     "id": "JF66",
@@ -234031,6 +234419,21 @@
     "children": [
      "JI148"
     ]
+   },
+   {
+    "id": "JF77",
+    "husb": "JI169",
+    "wife": "JI170",
+    "children": [
+     "JI145"
+    ]
+   },
+   {
+    "id": "JF78",
+    "husb": "JI171",
+    "children": [
+     "JI146"
+    ]
    }
   ]
  },
@@ -234051,7 +234454,7 @@
    "id": "thevenet",
    "libelle": "THÉVENET",
    "racine": "JI63",
-   "personnes": 76
+   "personnes": 79
   },
   {
    "id": "vaurie",
@@ -234318,6 +234721,7 @@
     ],
     "familles": [
      "JF59",
+     "JF65",
      "JF66"
     ]
    },
@@ -234343,6 +234747,7 @@
     ],
     "familles": [
      "JF59",
+     "JF65",
      "JF66"
     ]
    },
@@ -234362,7 +234767,8 @@
      "JI146"
     ],
     "familles": [
-     "JF59"
+     "JF59",
+     "JF65"
     ]
    },
    "date": "1811",
@@ -234430,6 +234836,27 @@
     ]
    },
    "date": "1811",
+   "lieu": "Tramayes (71)"
+  },
+  "ad71-mariage-thevenet-lamain-1808": {
+   "type": "acte_mariage",
+   "titre": "Acte de mariage THÉVENET × LAMAIN, Tramayes, 13 juin 1808",
+   "fichier": "assets/actes/france/71/ad71-mariage-thevenet-lamain-1808.jpg",
+   "octets": 740777,
+   "sha256": "ed023b87eef5b303e9ac13b1a6e9af410f4fb5eb0e6fe538b8b5864b3cc31338",
+   "utilise_par": {
+    "individus": [
+     "JI145",
+     "JI146",
+     "JI169",
+     "JI170",
+     "JI171"
+    ],
+    "familles": [
+     "JF65"
+    ]
+   },
+   "date": "1808",
    "lieu": "Tramayes (71)"
   }
  }
