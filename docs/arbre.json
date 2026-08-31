@@ -81416,7 +81416,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "PISTE AD50 31/08/2026 — dossier généalogique Famille Binet, cote 13 J 175, non numérisé ; à consulter pour retrouver une cote primaire concernant Louis BINET × Suzanne LEFORT et Marie Suzanne BINET. La notice seule ne prouve aucune filiation."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": null,
@@ -81449,7 +81451,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "PISTE AD50 31/08/2026 — le dossier Famille Binet, cote 13 J 175, doit être dépouillé pour le mariage supposé avec Louis BINET et la filiation de Marie Suzanne BINET ; aucune preuve primaire trouvée en ligne."
+   ],
    "sources": [],
    "associations": [],
    "famille_origine": "JF5",
@@ -98490,7 +98494,7 @@
    "vivant": false,
    "annee_naissance": 1913,
    "annee_deces": 1974,
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 3,
    "branches": [
     "vaurie"
@@ -98876,7 +98880,7 @@
    "vivant": false,
    "annee_naissance": 1872,
    "annee_deces": 1935,
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 4,
    "branches": [
     "vaurie"
@@ -106756,7 +106760,12 @@
    "bapteme": null,
    "deces": null,
    "inhumation": null,
-   "professions": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "praticien bourgeois"
+    }
+   ],
    "residences": [],
    "evenements": [
     {
@@ -106770,8 +106779,12 @@
     }
    ],
    "images": [],
-   "notes": [],
-   "sources": [],
+   "notes": [
+    "Le mariage original du 20 juillet 1730 confirme Jean GASQUET, **praticien bourgeois**, et demoiselle Toinette DUVERDIER, mais **ne nomme aucun parent**. Il ne permet donc pas de trancher entre la filiation actuelle Jean GASQUET × Marie NEYRAT et le baptême homonyme du 24 mars 1705, fils de Jean GASQUET × Toinette QUEYROLS. La naissance de 1709 et la filiation actuelle restent à contrôler par contrat de mariage ou autre acte explicite."
+   ],
+   "sources": [
+    "Acte de mariage, Archives départementales de la Corrèze, Bassignac-le-Bas, EDEP/17/GG/1, vue 273/297, 20 juillet 1730. ARK https://www.archives.correze.fr/ark:/69090/fh8qsjt6kdzx/160b1fed-8f66-4e0b-8bc0-65690dc14d0f. Image lue et archivée le 31/08/2026 : bassignac-le-bas-1730-mariage-gasquet-duverdier-vue273.jpg. Source primaire lue : PROUVÉ pour l'union et la profession ; ne porte pas la filiation."
+   ],
    "associations": [],
    "famille_origine": "VF88",
    "familles": [
@@ -106784,6 +106797,9 @@
    "generations_descendance": 11,
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "bassignac-1730-mariage-gasquet-duverdier"
    ]
   },
   "VI671": {
@@ -115252,7 +115268,9 @@
    "residences": [],
    "evenements": [],
    "images": [],
-   "notes": [],
+   "notes": [
+    "PISTE AD50 31/08/2026 — dossier généalogique Famille d'Aigremont, cote 13 J 18, non numérisé ; à consulter pour retrouver les sources primaires des maillons d'AIGREMONT–LE JOLIVET–AUX ÉPAULES. La notice ne vaut pas preuve."
+   ],
    "sources": [
     "Arbre familial photographié transmis par Patrick Leprevost le 29/08/2026, 2026-08-29/"
    ],
@@ -144785,11 +144803,11 @@
    "deces": {
     "type": "deces",
     "date": {
-     "brut": "7 FEB 1822",
+     "brut": "6 FEB 1822",
      "date": {
       "annee": 1822,
       "mois": 2,
-      "jour": 7
+      "jour": 6
      }
     },
     "lieu": "Lyon (69)",
@@ -144815,9 +144833,26 @@
     {
      "type": "profession",
      "texte": "manouvrier"
+    },
+    {
+     "type": "profession",
+     "texte": "charpentier"
     }
    ],
-   "residences": [],
+   "residences": [
+    {
+     "type": "residence",
+     "lieu": "4 rue des Trois-Maries, Lyon (69)",
+     "date": {
+      "brut": "6 FEB 1822",
+      "date": {
+       "annee": 1822,
+       "mois": 2,
+       "jour": 6
+      }
+     }
+    }
+   ],
    "evenements": [
     {
      "type": "naissance",
@@ -144846,11 +144881,11 @@
     {
      "type": "deces",
      "date": {
-      "brut": "7 FEB 1822",
+      "brut": "6 FEB 1822",
       "date": {
        "annee": 1822,
        "mois": 2,
-       "jour": 7
+       "jour": 6
       }
      },
      "lieu": "Lyon (69)",
@@ -144874,13 +144909,17 @@
     {
      "type": "profession",
      "texte": "manouvrier (1815-1816)"
+    },
+    {
+     "type": "profession",
+     "texte": "charpentier à Lyon (1822)"
     }
    ],
    "images": [],
    "notes": [
     "Père de Jeanne Marie THÉVENET (1816-). L'acte de mariage de sa fille, le 18 janvier 1837 à Tramayes, le dit défunt et cite en pièce préliminaire « l'extrait de l'acte de décès du père de la future, décédé à LYON le sept février mil huit cent vingt-deux ». Sa fille avait six ans.",
-    "Il meurt à Lyon, pas à Tramayes : la famille THÉVENET a donc un pied à Lyon dès les années 1820 — comme le témoin Laurent THÉVENET, menuisier à Lyon en 1837, et comme Antoine THÉVENET (1889-1978) qui y travaillera de 1913 à 1919. Son acte de décès lyonnais est en ligne aux AD69 et nommera ses parents.",
-    "COTE TROUVÉE le 31/08/2026, acte non encore lu. La table décennale des décès de Lyon 1813-1822 (Archives municipales de Lyon, cote 2E212, lettre T, vue 401/459) porte « Thévenet — Antoine — 443 — 7 févr[ier] », le millésime 1822 étant reporté des lignes précédentes. L'acte est donc le DÉCÈS N° 443 du registre des décès de Lyon, Mairie unique, 1er janvier - 15 juillet 1822, AML cote 2E204 (visionneuse id 690011531, 221 vues, l'acte attendu vers la vue 74). Il nommera ses parents — Jean THÉVENET et Marie BELUZE — et dira son métier et son adresse à Lyon.",
+    "Il meurt à Lyon, pas à Tramayes : la famille THÉVENET a donc un pied à Lyon dès les années 1820 — comme le témoin Laurent THÉVENET, menuisier à Lyon en 1837, et comme Antoine THÉVENET (1889-1978) qui y travaillera de 1913 à 1919.",
+    "ACTE DE DÉCÈS TROUVÉ ET LU le 31/08/2026 : Ville de Lyon, Archives municipales, 2E204, acte n° 443, vue 47/221. L’acte dressé le 7 février déclare qu’Antoine THÉVENET, 37 ans, natif de Tramayes, charpentier, domicilié 4 rue des Trois-Maries à Lyon, époux d’Anne LAPALUS, est mort la veille 6 février à une heure du matin. Il ne nomme pas ses parents : la filiation Jean THÉVENET × Marie BELUZE reste prouvée par le mariage de 1811, mais n’est pas confirmée par cet acte. Image : aml-2e204-vue47-deces-antoine-thevenet-1822-acte443.jpg.",
     "PROFESSION TROUVÉE le 31/08/2026 : MANOUVRIER, d'après les actes de naissance de ses enfants à Tramayes — Joseph le 25 janvier 1815 et Jeanne Marie le 27 janvier 1816 (AD71, 5 E 545/4, vues 70 et 90). Le contraste avec sa parenté est net : son père Jean est « propriétaire cultivateur », les Jean THÉVENET témoins sont « cultivateurs ». Le manouvrier est le journalier sans terre, le degré le plus bas de la hiérarchie rurale. Il meurt à Lyon six ans plus tard : le parcours se lit.",
     "DATÉ ET REQUALIFIÉ le 31/08/2026 par son acte de mariage, Tramayes le 3 juin 1811 : « âgé de vingt-six ans, né à Tramayes le douze du mois d'octobre an 1785, profession de MENUISIER, fils majeur de Jean THEVENET, profession de propriétaire, et de Marie BELUZE ». Il meurt à Lyon en 1822, à trente-six ans.",
     "SA CHUTE SE LIT EN TROIS ACTES. Menuisier à son mariage en 1811 ; MANOUVRIER — journalier sans terre — aux naissances de ses enfants en 1815 et 1816 ; mort à Lyon en 1822. Entre le mariage et la première naissance, il perd son métier ; six ans plus tard il a quitté le village.",
@@ -144890,7 +144929,8 @@
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances, mariages et décès 1837-1840, cote 5 E 545/8, vue 20/198, acte de mariage n° 2 du 18 janvier 1837. Repéré par la table décennale des mariages 1833-1842, cote 6 E 545/1, vue 9/11. Images lues et archivées le 31/08/2026 : 5e545-8-vue20-mariage-thevenet-thevenet-1837-acte-2.jpg et td-mariages-tramayes-1833-1842-thevenet-joseph.jpg. Source primaire lue : PROUVÉ.",
     "Table décennale des décès de Lyon 1813-1822, Archives municipales de Lyon, cote 2E212, lettre T, vue 401/459, consultée le 31/08/2026 : « Thévenet — Antoine — 443 — 7 février » [1822]. INDEX OFFICIEL : la table est lue, l'acte ne l'est pas encore.",
     "Acte de naissance, Archives départementales de Saône-et-Loire, Tramayes, registre des naissances 1813-1822, cote 5 E 545/4, vue 90/238, acte du 27 janvier 1816. Image lue et archivée le 31/08/2026 : 5e545-4-vue90-naissance-thevenet-jeanne-marie-1816.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1809-1812, cote 5 E 545/3, vue 39/51, acte du 3 juin 1811. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Images lues et archivées le 31/08/2026 : 5e545-3-vue39-mariage-thevenet-lapalus-1811.jpg et td-mariages-tramayes-1802-1812-thevenet.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1809-1812, cote 5 E 545/3, vue 39/51, acte du 3 juin 1811. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Images lues et archivées le 31/08/2026 : 5e545-3-vue39-mariage-thevenet-lapalus-1811.jpg et td-mariages-tramayes-1802-1812-thevenet.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Ville de Lyon, Archives municipales, Lyon mairie unique, cote 2E204, acte n° 443 dressé le 7 février 1822, décès du 6 février, vue 47/221, consulté le 31/08/2026. Image lue et archivée : aml-2e204-vue47-deces-antoine-thevenet-1822-acte443.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
    "famille_origine": "JF67",
@@ -144906,6 +144946,7 @@
     "thevenet"
    ],
    "assets": [
+    "lyon-1822-deces-antoine-thevenet",
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-jeanne-marie-1816",
@@ -146477,9 +146518,29 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "M",
-   "naissance": null,
+   "naissance": {
+    "type": "naissance",
+    "date": {
+     "brut": "vers 1842",
+     "date": {
+      "annee": 1842
+     }
+    },
+    "lieu": "Bar (19)"
+   },
    "bapteme": null,
-   "deces": null,
+   "deces": {
+    "type": "deces",
+    "date": {
+     "brut": "12 APR 1912",
+     "date": {
+      "annee": 1912,
+      "mois": 4,
+      "jour": 12
+     }
+    },
+    "lieu": "Le Mons, Vitrac-sur-Montane (19)"
+   },
    "inhumation": null,
    "professions": [
     {
@@ -146498,26 +146559,28 @@
    "notes": [
     "Père de Barthélemy MERCIER. Nommé par l'acte de naissance de son fils, Vitrac-sur-Montane, 7 juillet 1872, où il comparaît : « **MERCIER Léonard, cultivateur, âgé de trente-et-un ans, demeurant à Chaleix** » — donc **né vers 1841**. Il **ne sait pas signer**.",
     "Confirmé une seconde fois par l'acte de mariage de son fils (Venarsal, 26 mai 1900), où il est présent et consentant, **cultivateur au Mons, commune de Vitrac, canton de Corrèze** : la famille a changé de hameau entre 1872 et 1900, de Chaleix au Mons.",
-    "Son mariage avec Jeanne BONNET est **repéré mais pas encore lu** : la table décennale des mariages de Vitrac 1863-1872 porte « Mercier **Jean** à Bonnet Jeanne — 1er mai 186? ». Les années 1863 et 1867 ont été dépouillées sans le trouver. Le prénom « Jean » de la table peut être une erreur d'index, ou désigner un autre couple. À reprendre par les tables alphabétiques annuelles des registres de mariages de Vitrac."
+    "Son décès établit qu'il se prénommait aussi **Jean**, qu'il était né à Bar vers 1842, et qu'il est mort au Mons le 12 avril 1912, âgé de soixante-dix ans, époux de Jeanne BONNET. Il nomme ses parents défunts : **Léonard MERCIER × Marguerite BACH**. La table décennale du mariage doit être reprise : les tables annuelles de Vitrac 1863-1872, toutes lues, ne portent pas le couple."
    ],
    "sources": [
     "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+    "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1903-1921, cote 2E/287/19, vue 42/99, acte n° 2 dressé le 13 avril 1912 pour le décès du 12 avril. ARK https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69. Image lue et archivée le 31/08/2026 : vitrac-1912-deces-jean-leonard-mercier-acte2-vue42.jpg. Source primaire lue : PROUVÉ."
    ],
    "associations": [],
-   "famille_origine": null,
+   "famille_origine": "VF159",
    "familles": [
     "VF158"
    ],
    "vivant": false,
-   "annee_naissance": 1841,
-   "annee_deces": null,
-   "generations_ascendance": 0,
+   "annee_naissance": 1842,
+   "annee_deces": 1912,
+   "generations_ascendance": 1,
    "generations_descendance": 5,
    "branches": [
     "vaurie"
    ],
    "assets": [
+    "vitrac-1912-deces-jean-leonard-mercier",
     "ad19-mariage-mercier-sicard-1900",
     "ad19-naissance-mercier-barthelemy-1872"
    ]
@@ -146572,6 +146635,84 @@
    "assets": [
     "ad19-mariage-mercier-sicard-1900",
     "ad19-naissance-mercier-barthelemy-1872"
+   ]
+  },
+  "VI24": {
+   "id": "VI24",
+   "prenom": "Léonard",
+   "nom": "MERCIER",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Père de Jean dit Léonard MERCIER. Nommé comme **défunt** dans l'acte de décès de son fils, Vitrac-sur-Montane, 13 avril 1912. Le fils étant né à Bar vers 1842, chercher le couple MERCIER × BACH dans les registres de Bar avant cette date."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1903-1921, cote 2E/287/19, vue 42/99, acte n° 2 dressé le 13 avril 1912. ARK https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69. Image lue et archivée le 31/08/2026 : vitrac-1912-deces-jean-leonard-mercier-acte2-vue42.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF159"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "vitrac-1912-deces-jean-leonard-mercier"
+   ]
+  },
+  "VI25": {
+   "id": "VI25",
+   "prenom": "Marguerite",
+   "nom": "BACH",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "Mère de Jean dit Léonard MERCIER, épouse de Léonard MERCIER. Nommée comme **défunte** dans l'acte de décès de son fils, Vitrac-sur-Montane, 13 avril 1912. Le fils étant né à Bar vers 1842, chercher le couple MERCIER × BACH dans les registres de Bar avant cette date."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1903-1921, cote 2E/287/19, vue 42/99, acte n° 2 dressé le 13 avril 1912. ARK https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69. Image lue et archivée le 31/08/2026 : vitrac-1912-deces-jean-leonard-mercier-acte2-vue42.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "VF159"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "generations_ascendance": 0,
+   "generations_descendance": 6,
+   "branches": [
+    "vaurie"
+   ],
+   "assets": [
+    "vitrac-1912-deces-jean-leonard-mercier"
    ]
   },
   "AG168": {
@@ -146758,7 +146899,8 @@
    "images": [],
    "notes": [
     "Père d'Auguste Étienne Démocrite GUIGUE. Nommé par l'acte de mariage de son fils, Marseille 6e, 28 novembre 1867 : « fils majeur reconnu de **feu sieur Jacques Michel Guigue, layetier** ». **Layetier** — fabricant de caisses et de coffres de bois : le métier du bois précède celui de tonnelier chez le fils. Mort avant novembre 1867 ; son acte de décès à Marseille, à chercher par la table décennale des décès lettre G, nommera ses propres parents.",
-    "La lecture du patronyme de son épouse est réservée : **FROUCON**, la lettre initiale pouvant être un F ou un T."
+    "La lecture du patronyme de son épouse est réservée : **FROUCON**, la lettre initiale pouvant être un F ou un T.",
+    "RÉSULTAT NÉGATIF DÉLIMITÉ, 31/08/2026 — les tables décennales des décès de Marseille, lettre G, ont été ouvertes pour 1853-1862 (AD13, cote 201 E 1459, ARK vta92d15db9d6fca23e, 132 vues) et 1863-1872 (ARK vta3634879b36fa3d0e, 130 vues). Aucun Jacques Michel GUIGUE/GUIGOU n'a été relevé. La recherche Geneanet connectée sur son nom exact et sur celui de son fils n'a rendu aucune fiche. Son décès marseillais, s'il a eu lieu dans la commune, est donc à rechercher en priorité avant 1853 ; la table 1843-1852 a été localisée (ARK vtabe3c6ca7acfad56a) mais son dépouillement reste à achever."
    ],
    "sources": [
     "Acte de mariage, Archives départementales des Bouches-du-Rhône, Marseille 6e arrondissement, mariages 1867, cote 201 E 4722, vue 184, acte n° 358 du 28 novembre 1867. Repéré par la table décennale des mariages 1863-1872, cote 201 E 1464, lettre G. Image lue et archivée le 31/08/2026 : ad13-201E-4722-vue184-mariage-guigue-filippi-1867.jpg. Source primaire lue : PROUVÉ."
@@ -177030,6 +177172,9 @@
    "notes": [],
    "branches": [
     "vaurie"
+   ],
+   "assets": [
+    "bassignac-1730-mariage-gasquet-duverdier"
    ]
   },
   "VF63": {
@@ -184897,6 +185042,7 @@
     "thevenet"
    ],
    "assets": [
+    "lyon-1822-deces-antoine-thevenet",
     "ad71-td-mariages-tramayes-1833-1842",
     "ad71-mariage-thevenet-tramayes-1837",
     "ad71-naissance-thevenet-jeanne-marie-1816",
@@ -185183,6 +185329,26 @@
    "sources": [
     "Acte de naissance, Archives départementales de la Corrèze, Vitrac-sur-Montane, naissances 1869-1881, cote 2E/287/9, vue 46/144, acte n° 15 du 7 juillet 1872. ARK https://www.archives.correze.fr/ark:/69090/sv4kc9mpb0q1 — vue 20f6d57b-0372-47dd-b303-8c9d806dc4d6. Image lue et archivée le 31/08/2026 : vitrac-sur-montane-1872-naissance-barthelemy-mercier-acte15-vue46.jpg. Source primaire lue : PROUVÉ.",
     "Acte de mariage, Archives départementales de la Corrèze, Venarsal, mariages 1883-1902, cote 2E/282/11, vue 106/122, acte n° 3 du 26 mai 1900. ARK https://www.archives.correze.fr/ark:/69090/2xs34b6frktn — vue 13b0937f-cb83-44a9-803f-91801e4c7748. Image lue et archivée le 31/08/2026 : venarsal-1900-mariage-mercier-sicard-acte3-vue106.jpg. Source primaire lue : PROUVÉ."
+   ],
+   "branches": [
+    "vaurie"
+   ]
+  },
+  "VF159": {
+   "id": "VF159",
+   "pere": "VI24",
+   "mere": "VI25",
+   "enfants": [
+    "VI12"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple nommé par l'acte de décès de leur fils Jean dit Léonard MERCIER, né à Bar vers 1842 et mort à Vitrac-sur-Montane le 12 avril 1912. Les deux parents y sont dits défunts."
+   ],
+   "sources": [
+    "Acte de décès, Archives départementales de la Corrèze, Vitrac-sur-Montane, décès 1903-1921, cote 2E/287/19, vue 42/99, acte n° 2 dressé le 13 avril 1912. ARK https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69. Image lue et archivée le 31/08/2026 : vitrac-1912-deces-jean-leonard-mercier-acte2-vue42.jpg. Source primaire lue : PROUVÉ."
    ],
    "branches": [
     "vaurie"
@@ -222417,7 +222583,7 @@
     },
     "death": {
      "date": {
-      "day": 7,
+      "day": 6,
       "month": 2,
       "year": 1822
      },
@@ -222779,9 +222945,27 @@
     "firstName": "Léonard",
     "lastName": "MERCIER",
     "sex": "M",
+    "famc": "VF159",
     "fams": [
      "VF158"
-    ]
+    ],
+    "birth": {
+     "date": {
+      "year": 1842
+     },
+     "place": "Bar (19)",
+     "type": "naissance"
+    },
+    "death": {
+     "date": {
+      "day": 12,
+      "month": 4,
+      "year": 1912
+     },
+     "place": "Le Mons, Vitrac-sur-Montane (19)",
+     "type": "deces",
+     "confirmed": true
+    }
    },
    {
     "id": "VI13",
@@ -222791,6 +222975,26 @@
     "sex": "F",
     "fams": [
      "VF158"
+    ]
+   },
+   {
+    "id": "VI24",
+    "hideId": true,
+    "firstName": "Léonard",
+    "lastName": "MERCIER",
+    "sex": "M",
+    "fams": [
+     "VF159"
+    ]
+   },
+   {
+    "id": "VI25",
+    "hideId": true,
+    "firstName": "Marguerite",
+    "lastName": "BACH",
+    "sex": "F",
+    "fams": [
+     "VF159"
     ]
    },
    {
@@ -235830,6 +236034,14 @@
     ]
    },
    {
+    "id": "VF159",
+    "husb": "VI24",
+    "wife": "VI25",
+    "children": [
+     "VI12"
+    ]
+   },
+   {
     "id": "GF168",
     "husb": "AG168",
     "wife": "AG169",
@@ -235878,10 +236090,29 @@
    "id": "vaurie",
    "libelle": "VAURIE",
    "racine": "VI1",
-   "personnes": 312
+   "personnes": 314
   }
  ],
  "assets": {
+  "lyon-1822-deces-antoine-thevenet": {
+   "type": "acte_deces",
+   "titre": "Décès d’Antoine THÉVENET, Lyon, 1822",
+   "fichier": "assets/actes/france/69/lyon-1822-deces-antoine-thevenet.jpg",
+   "octets": 380184,
+   "sha256": "c9fdd723ae9add8207571afa1c4702aa9e088b412d1067cd6d5f86b4c1a3e8aa",
+   "utilise_par": {
+    "individus": [
+     "JI147"
+    ],
+    "familles": [
+     "JF66"
+    ]
+   },
+   "date": "1822",
+   "lieu": "Lyon (69)",
+   "cote": "Ville de Lyon, Archives municipales, 2E204, acte n° 443, vue 47/221",
+   "url": "https://www.fondsenligne.archives-lyon.fr/v2/ac69/visualiseur/etatcivil.html?id=690011531"
+  },
   "lanteuil-mariage-vaurie-jouvenel-1851": {
    "type": "acte_mariage",
    "titre": "Mariage VAURIE × JOUVENEL, Lanteuil, 1851",
@@ -235919,6 +236150,44 @@
    },
    "date": "1782",
    "lieu": "Dampniat (19)"
+  },
+  "bassignac-1730-mariage-gasquet-duverdier": {
+   "type": "acte_mariage",
+   "titre": "Mariage GASQUET × DUVERDIER, Bassignac-le-Bas, 1730",
+   "fichier": "assets/actes/france/19/bassignac-1730-mariage-gasquet-duverdier.jpg",
+   "octets": 445402,
+   "sha256": "cd6756682d0f499bc2de1cc9d328cb7824aceb74781efe0f410bcc3cac24e9a6",
+   "utilise_par": {
+    "individus": [
+     "VI670"
+    ],
+    "familles": [
+     "VF62"
+    ]
+   },
+   "date": "1730",
+   "lieu": "Bassignac-le-Bas (19)",
+   "cote": "AD19, EDEP/17/GG/1, vue 273/297",
+   "url": "https://www.archives.correze.fr/ark:/69090/fh8qsjt6kdzx/160b1fed-8f66-4e0b-8bc0-65690dc14d0f"
+  },
+  "vitrac-1912-deces-jean-leonard-mercier": {
+   "type": "acte_deces",
+   "titre": "Décès de Jean dit Léonard MERCIER, Vitrac-sur-Montane, 1912",
+   "fichier": "assets/actes/france/19/vitrac-1912-deces-jean-leonard-mercier.jpg",
+   "octets": 1009408,
+   "sha256": "94650dea340de57bd61be0f679e247a96103e99281e04467733ce88bbc570978",
+   "utilise_par": {
+    "individus": [
+     "VI12",
+     "VI24",
+     "VI25"
+    ],
+    "familles": []
+   },
+   "date": "1912",
+   "lieu": "Vitrac-sur-Montane (19)",
+   "cote": "AD19, 2E/287/19, acte n° 2, vue 42/99",
+   "url": "https://www.archives.correze.fr/ark:/69090/dklfgmb01qnp/96780158-2f6a-4b4d-a84a-3719723b9e69"
   },
   "dampniat-mariage-roux-brugeille-1782-suite": {
    "type": "acte_mariage",
