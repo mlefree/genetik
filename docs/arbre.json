@@ -123270,7 +123270,9 @@
     "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; décès en 1696 proposé par Geneanet, acte original à lire.",
     "07/09/2026 — Le mariage GIMIÉ × BOURGES du 27/09/1689 à Gruissan reste la pièce la plus rentable de la branche : il nommerait d'un coup les parents des deux époux et ferait reculer le front de deux points. À chercher dans le registre BMS 1647-1699 de Gruissan, une fois son idUd trouvé sur mdr.aude.fr.",
     "PROUVÉE 07/09/2026 par l'acte de mariage du 27 septembre 1689 à Gruissan (AD11, registre paroissial 1647-1699, vue 188) : « Joan Gimié et Margarite Bourges du présent lieu de Gruissan ». Elle est dite « du présent lieu », donc de Gruissan.",
-    "L'acte est une formule brève de rite languedocien : il ne nomme ni les parents des époux, ni leur âge, ni leur état antérieur — seulement les témoins, Jean JOURNES et Louis SABATUT. Sa filiation reste donc inconnue et elle demeure sur le front d'ascendance. Son baptême est à chercher dans le même registre, entre 1660 et 1670."
+    "L'acte est une formule brève de rite languedocien : il ne nomme ni les parents des époux, ni leur âge, ni leur état antérieur — seulement les témoins, Jean JOURNES et Louis SABATUT. Sa filiation reste donc inconnue et elle demeure sur le front d'ascendance. Son baptême est à chercher dans le même registre, entre 1660 et 1670.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "Négatif délimité, et rien de plus : son baptême a été cherché sur la seule vue 108 (baptêmes d'octobre 1668). La marge qui ressemblait à « Bourges » y est en réalité « Benas » — l'acte du 23 octobre 1668 baptise Marguerite BENAS, fille de Benoît et de Claire ALBOÜINE. Les vues 106-107 et 109-113, ainsi que la première section de baptêmes (vues 50-71), n'ont pas été lues. Mariée le 27/09/1689 et morte en 1696, elle est vraisemblablement née entre 1660 et 1672 : c'est cette fenêtre qu'il faut dépouiller, à la note de marge."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026",
@@ -132442,6 +132444,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Pêcheur"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "5 SEP 1763",
@@ -132464,14 +132470,12 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Pêcheur"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "La note de marge « Azibert » a été aperçue sur les vues 68, 108 et 188 : la famille est présente à Gruissan dès 1666. Baptême à chercher autour de 1697, en fin de volume."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 274"
@@ -132923,6 +132927,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Ménager"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "20 DEC 1769",
@@ -132945,14 +132953,12 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Ménager"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "La note de marge « Rizoulieres » a été aperçue sur la vue 71 (sépulture de 1648) : la famille est dans ce volume. Le baptême cherché, vers 1704, est en revanche postérieur à la fin du registre (1699) et se trouvera dans le dossier suivant de la série AC170."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 9, Sosa 284"
@@ -135395,7 +135401,9 @@
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "07/09/2026 — Front audois : les Archives de l'Aude sont de nouveau atteignables en curl par leur moteur d'images mdr.aude.fr (GAIA 9). Les registres d'état civil de Gruissan 5E170/005 à 5E170/029 portent les identifiants d'unité documentaire contigus 504592 à 504616 ; les registres paroissiaux antérieurs restent à localiser."
+    "07/09/2026 — Front audois : les Archives de l'Aude sont de nouveau atteignables en curl par leur moteur d'images mdr.aude.fr (GAIA 9). Les registres d'état civil de Gruissan 5E170/005 à 5E170/029 portent les identifiants d'unité documentaire contigus 504592 à 504616 ; les registres paroissiaux antérieurs restent à localiser.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "La note de marge « Nouvelles » a été aperçue sur la vue 188 du registre : la famille est bien dans ce volume. Baptême à chercher autour de 1671, section des baptêmes postérieurs à 1667 (vues ~106 et suivantes)."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 517"
@@ -135513,7 +135521,9 @@
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "07/09/2026 — Même point d'accès que pour Élisabeth NOUVELLES : mdr.aude.fr est ouvert en curl, la sépulture du 29/09/1761 à Gruissan est à chercher dans 5E170/002 ou 5E170/003 une fois leur identifiant trouvé."
+    "07/09/2026 — Même point d'accès que pour Élisabeth NOUVELLES : mdr.aude.fr est ouvert en curl, la sépulture du 29/09/1761 à Gruissan est à chercher dans 5E170/002 ou 5E170/003 une fois leur identifiant trouvé.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "La note de marge « Gaubert » a été aperçue sur les vues 188-189 : la famille est dans ce volume. Baptême à chercher autour de 1671. Sa sépulture du 29/09/1761 est en revanche hors de ce registre, qui s'arrête en 1699 — elle se trouvera dans 5E170/002 ou /003."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 519"
@@ -136699,7 +136709,9 @@
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "07/09/2026 — Sépulture du 16/04/1764 à Gruissan à chercher dans les registres 5E170/002-003, désormais accessibles en principe par mdr.aude.fr."
+    "07/09/2026 — Sépulture du 16/04/1764 à Gruissan à chercher dans les registres 5E170/002-003, désormais accessibles en principe par mdr.aude.fr.",
+    "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
+    "La note de marge « Labatut » a été aperçue sur les vues 71 et 188 : la famille est dans ce volume depuis 1648. Baptême à chercher autour de 1680, dans la seconde section de baptêmes. Sa sépulture du 16/04/1764 est hors de ce registre."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 589"
