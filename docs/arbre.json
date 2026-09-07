@@ -141406,7 +141406,8 @@
    "images": [],
    "notes": [
     "Mère de Giovanni Battista MORANDIN, nommée dans l'acte de mariage de son fils à Legnaro le 15 mars 1896.",
-    "Piste de graphie, **non prouvée**, relevée le 31/08/2026 : les registres de Legnaro portent la forme **MASIERO**, là où l'index civil de Padoue lit MASUTTO. La forme locale existe, la forme d'index non. À vérifier avant de la retenir — la correction avérée de PESAROLO en PESCAROLO montre que ces lectures d'index se trompent."
+    "Piste de graphie, **non prouvée**, relevée le 31/08/2026 : les registres de Legnaro portent la forme **MASIERO**, là où l'index civil de Padoue lit MASUTTO. La forme locale existe, la forme d'index non. À vérifier avant de la retenir — la correction avérée de PESAROLO en PESCAROLO montre que ces lectures d'index se trompent.",
+    "PISTE DE GRAPHIE RENFORCÉE, 07/09/2026. La Tavola alfabetica des Nati de Polverara de 1810 (Antenati ark:/12657/an_ua347111, vue 31/31) porte trois MASIERO à la lettre M — Antonio, Andrea et Pasquale. La forme locale MASIERO est donc attestée dans la parenté géographique immédiate, là où l'index civil de Padoue lit MASUTTO. Toujours pas de preuve pour Beatrice ; la réserve inscrite le 31/08/2026 est maintenue et le faisceau se resserre."
    ],
    "sources": [
     "Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 — index nominatif FamilySearch de la collection microfilmée depuis l'Archivio del Tribunale di Padova, consulté le 30/08/2026"
@@ -145925,7 +145926,8 @@
     "RÉSULTAT NÉGATIF : aucun décès de Beatrice PESAROLO à Legnaro dans la collection padouane. Elle est donc morte ailleurs, ou avant 1871. Ses parents restent inconnus.",
     "**PATRONYME CORRIGÉ le 31/08/2026 : PESCAROLO.** L'index civil de Padoue le donnait « PESAROLO », avec « PESANOLO » comme variante — deux formes qui n'existent pas localement. Les registres napoléoniens de Legnaro portent **PESCAROLO** : l'acte de mariage n° 27 de 1811 nomme *Santo PESCAROLO × Chiara PREPATO*, et la famille apparaît cinq fois entre 1808 et 1811 dans la même commune. C'est un cas d'école du piège noté ailleurs dans ce dossier : **un index officiel n'est pas une preuve, et une mauvaise lecture d'index se propage.** Chercher désormais PESCAROLO.",
     "Aucun rattachement prouvé aux PESCAROLO de 1811 : Beatrice appartient à la génération suivante. La correction porte sur la graphie, pas sur la filiation.",
-    "BLOCAGE D'ACCÈS, 07/09/2026 : la session FamilySearch du propriétaire n'est plus ouverte dans Chrome (page de connexion servie) et l'API catalogue répond 401 en curl. Le dépouillement du catalogue des registres paroissiaux de Legnaro, Polverara et du fonds de la Diocesi di Padova, ainsi que la recherche des Stati delle anime, n'a donc pas pu être commencé. Rien n'a été vérifié : ce n'est pas un négatif, c'est une porte fermée."
+    "BLOCAGE D'ACCÈS, 07/09/2026 : la session FamilySearch du propriétaire n'est plus ouverte dans Chrome (page de connexion servie) et l'API catalogue répond 401 en curl. Le dépouillement du catalogue des registres paroissiaux de Legnaro, Polverara et du fonds de la Diocesi di Padova, ainsi que la recherche des Stati delle anime, n'a donc pas pu être commencé. Rien n'a été vérifié : ce n'est pas un négatif, c'est une porte fermée.",
+    "CORROBORATION DE GRAPHIE, 07/09/2026, sans preuve d'identité. La Tavola alfabetica des Nati de Polverara de 1810 (Antenati ark:/12657/an_ua347111, vue 31/31) porte « Pescarolo Agostino », né en mars 1810. PESCAROLO est donc un patronyme réellement porté dans la commune voisine de Legnaro à cette date. La lecture retenue par le dépôt cesse d'être orpheline face au PESANOLO de l'acte de décès de son mari ; cela ne prouve rien sur elle, mais écarte l'hypothèse d'une forme inexistante."
    ],
    "sources": [
     "Acte de mariage n° 10, Padoue, 20 mars 1881, BAZZOLO Daniele × STIVANELLO Giuditta. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune. ark:/61903/1:1:X3WV-WH4M",
@@ -146244,7 +146246,9 @@
    "notes": [
     "Père d'Angelo BAZZOLO (v. 1809-1888). Nommé dans l'acte de décès de son fils, à Legnaro le 21 avril 1888. C'est le plus ancien BAZZOLO connu : né vraisemblablement dans les années 1780, à Legnaro.",
     "DATÉ le 31/08/2026 par une source primaire. Il est **premier témoin** du mariage n° 28 de Legnaro, le 19 novembre 1811, où l'acte le dit « **d'anni trentasei, villico** », domicilié à Legnaro, et **illettré** — il ne signe pas. Il est donc **né vers 1775**, et sa profession est *villico*, paysan. Sa fiche ne portait jusqu'ici qu'un « vraisemblablement dans les années 1780 » déduit.",
-    "**Conséquence directe sur la recherche** : s'il est né vers 1775, son mariage avec Teresa CERATO se place vers **1795-1805**, donc **avant l'ouverture des registres d'état civil napoléoniens** (1806). C'est ce qui explique l'échec du dépouillement des mariages de Legnaro 1806-1815 : l'acte n'y est pas, et ne peut pas y être. Il faut passer aux **registres paroissiaux** de Legnaro, à l'Archivio diocesano di Padova."
+    "**Conséquence directe sur la recherche** : s'il est né vers 1775, son mariage avec Teresa CERATO se place vers **1795-1805**, donc **avant l'ouverture des registres d'état civil napoléoniens** (1806). C'est ce qui explique l'échec du dépouillement des mariages de Legnaro 1806-1815 : l'acte n'y est pas, et ne peut pas y être. Il faut passer aux **registres paroissiaux** de Legnaro, à l'Archivio diocesano di Padova.",
+    "NÉGATIF DÉLIMITÉ, 07/09/2026 — le catalogue FamilySearch de la Vénétie a été dépouillé, session du propriétaire ouverte. Legnaro (q.place=Legnaro, Padova, Veneto, Italy) : 3 notices, toutes « Civil registration » — olib:2456144 (Stato civile, Archivio di Stato di Padova), olib:2387600 (Tribunale 1871-1944), koha:741604 (1871-1929). Polverara : 3 notices équivalentes (olib:2456151, olib:2387621, koha:817289). La paroisse San Biagio de Legnaro existe comme lieu (identifiant 10293535, « Catholic Parish ») et rend ZÉRO notice. Au niveau de la province, « Padova, Veneto, Italy » affiche « Church records (17) » qui sont en totalité des Kirchenbücher de l'armée autrichienne (hôpitaux de campagne et garnison de Padoue, 1799-1866) : rien de la Diocesi di Padova, aucun Stato d'anime. CONCLUSION : FamilySearch n'a filmé aucun registre paroissial de Legnaro ni de Polverara, et sa couverture civile de ces deux communes est exactement 1806-1815 puis 1871-1929 — la même fenêtre qu'Antenati, le même fonds de l'Archivio di Stato di Padova. La piste « fonds caché sur FamilySearch » est CLOSE. Ce qui reste : l'Archivio diocesano di Padova et les paroisses, non numérisés. Détail, DGS et recette d'accès : assets/familysearch/veneto-legnaro-polverara-catalogue-2026-09-07/README.md",
+    "Conséquence pour Andrea BAZZOLO : né vers 1775, marié vers 1795-1805, il est antérieur à toute source en ligne. Son baptême et son mariage sont dans les registres paroissiaux de San Biagio de Legnaro, conservés au diocèse ou à la paroisse, et ni Antenati ni FamilySearch ne les servent. Prochaine action : écrire à l'Archivio della Curia vescovile di Padova."
    ],
    "sources": [
     "Acte de décès, Legnaro, 21 avril 1888, BAZZOLO Angelo, né vers 1809 à Legnaro, époux de Maria FAVARON. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Les images FamilySearch ne sont pas rediffusables ; pour publier, demander une copie à la commune.",
@@ -146543,7 +146547,10 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "Père de Prosdocimo VOLTAN. Nommé dans l'acte de décès de son fils, à Polverara le 28 juin 1922. Né vraisemblablement vers 1810 à Polverara."
+    "Père de Prosdocimo VOLTAN. Nommé dans l'acte de décès de son fils, à Polverara le 28 juin 1922. Né vraisemblablement vers 1810 à Polverara.",
+    "PISTE PRÉCISÉE, 07/09/2026. Domenico VOLTAN est dit né vers 1810 à Polverara. Le registre des Nati de Polverara pour 1810 existe et est en ligne : Antenati ark:/12657/an_ua347111, cote Archivio di Stato di Padova SCN-654, 31 vues ; le même registre est chez FamilySearch sous le DGS 100174743, mais son visionneur rend « Cannot Display Image Group » et la recherche Images par numéro de groupe ne rend rien — passer par Antenati.",
+    "NÉGATIF DÉLIMITÉ ET INCOMPLET, 07/09/2026. La vue 31/31 est la « Tavola Alfabetica per gli Atti delle Nascite ch'ebbero Luogo nell'Anno 1810, Comune di Polverara » ; la vue 30 porte la clôture du registre au 31 décembre 1810 par l'officier Paolo Fabris. La table lue court de la lettre B à la lettre P et S'ARRÊTE À P en bas de page ; il n'y a pas de vue 32. La section Q-Z est donc absente de cette vue : on ne peut NI trouver NI écarter un VOLTAN né à Polverara en 1810 par la table. Reprendre par le feuilletage des vues 1 à 29, puis par les Nati 1806-1809 et 1811-1815.",
+    "NÉGATIF DÉLIMITÉ, 07/09/2026 — le catalogue FamilySearch de la Vénétie a été dépouillé, session du propriétaire ouverte. Legnaro (q.place=Legnaro, Padova, Veneto, Italy) : 3 notices, toutes « Civil registration » — olib:2456144 (Stato civile, Archivio di Stato di Padova), olib:2387600 (Tribunale 1871-1944), koha:741604 (1871-1929). Polverara : 3 notices équivalentes (olib:2456151, olib:2387621, koha:817289). La paroisse San Biagio de Legnaro existe comme lieu (identifiant 10293535, « Catholic Parish ») et rend ZÉRO notice. Au niveau de la province, « Padova, Veneto, Italy » affiche « Church records (17) » qui sont en totalité des Kirchenbücher de l'armée autrichienne (hôpitaux de campagne et garnison de Padoue, 1799-1866) : rien de la Diocesi di Padova, aucun Stato d'anime. CONCLUSION : FamilySearch n'a filmé aucun registre paroissial de Legnaro ni de Polverara, et sa couverture civile de ces deux communes est exactement 1806-1815 puis 1871-1929 — la même fenêtre qu'Antenati, le même fonds de l'Archivio di Stato di Padova. La piste « fonds caché sur FamilySearch » est CLOSE. Ce qui reste : l'Archivio diocesano di Padova et les paroisses, non numérisés. Détail, DGS et recette d'accès : assets/familysearch/veneto-legnaro-polverara-catalogue-2026-09-07/README.md"
    ],
    "sources": [
     "Acte de décès, Polverara, 28 juin 1922, VOLTAN Prosdocimo, né vers 1838 à Polverara Isola, époux de Teresa TOMMASI. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
@@ -146617,7 +146624,8 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "Père de Domenico STIVANELLO. Nommé dans l'acte de décès de son fils, à Legnaro le 28 février 1885. Né vraisemblablement vers 1790 à Legnaro."
+    "Père de Domenico STIVANELLO. Nommé dans l'acte de décès de son fils, à Legnaro le 28 février 1885. Né vraisemblablement vers 1790 à Legnaro.",
+    "NÉGATIF DÉLIMITÉ, 07/09/2026 — le catalogue FamilySearch de la Vénétie a été dépouillé, session du propriétaire ouverte. Legnaro (q.place=Legnaro, Padova, Veneto, Italy) : 3 notices, toutes « Civil registration » — olib:2456144 (Stato civile, Archivio di Stato di Padova), olib:2387600 (Tribunale 1871-1944), koha:741604 (1871-1929). Polverara : 3 notices équivalentes (olib:2456151, olib:2387621, koha:817289). La paroisse San Biagio de Legnaro existe comme lieu (identifiant 10293535, « Catholic Parish ») et rend ZÉRO notice. Au niveau de la province, « Padova, Veneto, Italy » affiche « Church records (17) » qui sont en totalité des Kirchenbücher de l'armée autrichienne (hôpitaux de campagne et garnison de Padoue, 1799-1866) : rien de la Diocesi di Padova, aucun Stato d'anime. CONCLUSION : FamilySearch n'a filmé aucun registre paroissial de Legnaro ni de Polverara, et sa couverture civile de ces deux communes est exactement 1806-1815 puis 1871-1929 — la même fenêtre qu'Antenati, le même fonds de l'Archivio di Stato di Padova. La piste « fonds caché sur FamilySearch » est CLOSE. Ce qui reste : l'Archivio diocesano di Padova et les paroisses, non numérisés. Détail, DGS et recette d'accès : assets/familysearch/veneto-legnaro-polverara-catalogue-2026-09-07/README.md"
    ],
    "sources": [
     "Acte de décès, Legnaro, 28 février 1885, STIVANELLO Domenico, né vers 1819 à Legnaro, époux de Beatrice PESAROLO. « Italia, Padova, Padova, Stato Civile (Tribunale), 1871-1929 », index nominatif FamilySearch, consulté le 31/08/2026 avec la session du propriétaire. INDEX OFFICIEL : l'index est lu, l'image ne l'est pas. Images non rediffusables ; pour publier, demander une copie à la commune."
@@ -146794,11 +146802,13 @@
     "Père de Jean THÉVENET (né 1783), donc arrière-arrière-grand-père d'Antoine THÉVENET (1889-1966). Nommé par l'acte de mariage de son fils, Tramayes 13 juin 1808 : « fils majeur de Jean THEVENET, profession de propriétaire, demeurant audit Tramayes, et de Marie DELAGE ». Il est VIVANT en juin 1808 : c'est lui qui donne le consentement au mariage et qui signe « THEVENOT père ».",
     "À ne pas confondre avec Jean THÉVENET × Marie BELUZE (JI149/JI150), propriétaire cultivateur au même Tramayes et à la même époque, père d'Antoine THÉVENET († Lyon 1822). Les deux hommes portent le même nom, le même prénom, le même métier et la même commune, mais les épouses diffèrent — DELAGE ici, BELUZE là. Deux lignées THÉVENET distinctes coexistent donc à Tramayes, ce qui explique que Joseph et Jeanne Marie THÉVENET aient pu se marier en 1837 sans dispense : ils ne sont pas cousins germains. Hypothèse à tester : un même homme veuf remarié — elle exigerait un acte de décès ou un second mariage, non trouvé à ce jour.",
     "CONFIRMÉ PAR UNE SECONDE SOURCE, vingt-cinq ans plus tôt : l'acte de baptême de son fils Jean, Tramayes 23 mai 1783 (registres paroissiaux, FamilySearch DGS 8304039, image 1302/1748), le nomme « jean thevenet » père de « jean fils Légitime … et de Marie Delaye ». Le mariage de 1808 le donnait comme père du marié ; le baptême le donne au moment même du fait. La filiation JI169 → JI145 n'est donc plus portée par un seul acte.",
-    "Son mariage avec Marie DELAGE/DELAYE est antérieur à mai 1783 et se trouve, s'il a été célébré à Tramayes, dans les mêmes registres paroissiaux : film FamilySearch DGS 8304039, à remonter depuis l'image 1302 à la cadence d'environ douze images par année (image 1312 = mai-juin 1784, image 1301 = mars-avril 1783). Cote AD71 inexistante : les registres antérieurs à 1792 ne sont pas en ligne sur archives71.fr."
+    "Son mariage avec Marie DELAGE/DELAYE est antérieur à mai 1783 et se trouve, s'il a été célébré à Tramayes, dans les mêmes registres paroissiaux : film FamilySearch DGS 8304039, à remonter depuis l'image 1302 à la cadence d'environ douze images par année (image 1312 = mai-juin 1784, image 1301 = mars-avril 1783). Cote AD71 inexistante : les registres antérieurs à 1792 ne sont pas en ligne sur archives71.fr.",
+    "PISTE OUVERTE À CLERMAIN, 07/09/2026. La table annuelle du registre 5 E 134/1 de Clermain (AD71, vue 38) porte côte à côte « Delaye Jeanne » et « Thévenet Antoine Marie », et la marge d'un acte de la vue 30 porte « Jeanne Chevenet ». Le greffier de Clermain écrit THÉVENET « CHEVENET » — la même déformation qu'à Paris. Les deux noms du couple JI169 × JI170 circulent donc dans cette commune voisine de Tramayes, et toute recherche à Clermain doit interroger THEVENET, THEVENOT et CHEVENET. Pièce : ad71-clermain-5e134-1-vue038-table-annuelle.jpg"
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ.",
-    "Acte de baptême de son fils Jean, registres paroissiaux de Tramayes (Saône-et-Loire), FamilySearch, DGS 008304039, image 1302/1748, ARK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR6-C3T5-L, 23 mai 1783. Image lue et archivée le 31/08/2026 : tramayes-1783-05-23-bapteme-jean-thevenet-detail.png. Source primaire lue : PROUVÉ. Pièce privée (FamilySearch)."
+    "Acte de baptême de son fils Jean, registres paroissiaux de Tramayes (Saône-et-Loire), FamilySearch, DGS 008304039, image 1302/1748, ARK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR6-C3T5-L, 23 mai 1783. Image lue et archivée le 31/08/2026 : tramayes-1783-05-23-bapteme-jean-thevenet-detail.png. Source primaire lue : PROUVÉ. Pièce privée (FamilySearch).",
+    "AD71, Clermain, 5 E 134/1, vue 38/127, table alphabétique annuelle portant « Delaye Jeanne » et « Thévenet Antoine Marie » — ad71-clermain-5e134-1-vue038-table-annuelle.jpg"
    ],
    "associations": [],
    "famille_origine": null,
@@ -146814,7 +146824,8 @@
     "thevenet"
    ],
    "assets": [
-    "ad71-mariage-thevenet-lamain-1808"
+    "ad71-mariage-thevenet-lamain-1808",
+    "ad71-clermain-5e134-1-vue038-table"
    ]
   },
   "JI170": {
@@ -146931,14 +146942,21 @@
     "NÉGATIF DÉLIMITÉ À LA VUE, 01/09/2026. Le registre des MARIAGES de Tramayes 1793-1802 (AD71, `5 E 545/1`, `detail=666458`, identifiant d'image 423652) a été téléchargé et dépouillé INTÉGRALEMENT : 88 vues servies sur 89 annoncées, les vues 1 à 30 lues page entière, les vues 31 à 88 par bandes de marge (l'officier public y porte le nom des deux époux en marge), plus la TABLE ALPHABÉTIQUE des époux des vues 56-57 lue en pleine résolution. **Aucun MAZOYER n'y est époux, aucun LAMAIN n'y est épouse.** Le remariage de la veuve LAMAIN avec le géomètre Jacques MAZOYER — attesté par le mariage de 1808 où il se dit « beau-père de la future », 61 ans — n'a donc PAS eu lieu à Tramayes sous la République. Il est soit antérieur à septembre 1792 (registre paroissial, FamilySearch DGS 008304039 images 1-1397), soit célébré dans la commune d'origine de la veuve, très probablement CLERMAIN (71).",
     "PISTE OUVERTE LE 01/09/2026 — les LAMAIN sont de CLERMAIN, pas de Tramayes. Trois indices concordants tirés du registre des mariages de Tramayes 1793-1802 (AD71, `5 E 545/1`) : (1) vues 16-17, mariage du 28 brumaire an III (18/11/1794) d'Étienne LAMAIN, « marchand à Chermain », fils de Benoît LAMAIN et de Jeanne LECHERE, avec Pierrette THOMAS — publications faites « à Chermain », et son témoin Claude LAMAIN, 26 ans, est lui aussi « marchand demeurant à la commune de Chermain » ; (2) vue 65, mariage de Pierre BERTHOUD, de Brandon, avec Antoinette LAMAIN, « de Clermain » ; (3) sur dix ans le registre de Tramayes ne connaît aucun LAMAIN natif de la commune, ils y arrivent tous par mariage. *Chermain* est la graphie du greffier pour CLERMAIN, commune limitrophe de Tramayes. C'est à Clermain qu'il faut chercher — mariage MAZOYER × veuve LAMAIN, naissance de Jeanne vers 1788-1791, décès de son père. Voir `assets/france/71/ad71-tramayes-mariages-1793-1802/README.md`.",
     "MISE EN GARDE, 01/09/2026 : il y a AU MOINS DEUX Jacques MAZOYER propriétaires à Tramayes. Celui qui témoigne au mariage LAMAIN × THOMAS du 28 brumaire an III est dit « âgé de vingt-huit ans » (né vers 1766) ; le géomètre beau-père de Jeanne LAMAIN a 61 ans en juin 1808 (né vers 1747). Ne pas les confondre, comme on avait failli confondre les deux Jean THÉVENET. Aucune fiche n'a été créée sur cette base.",
-    "PISTE OPÉRATIONNELLE, 07/09/2026 — CLERMAIN (71) est ouvert. Les registres de Clermain ont été localisés dans le moteur état civil des AD71 : E Dépôt 3406 (BMS 1639-1701, 183 images), E Dépôt 3407 (BMS 1701-1750, 192 images), E Dépôt 3408 (BMS 1751-1792, 236 images), 5 E 134/1 (N.M.D 1792-1802, 127 images), 5 E 134/2 (N.M.D 1803-1812, 169 images), 5 E 134/3 (N.M.D 1813-1822, 198 images). La fiche 5 E 134/1 porte l'identifiant AD71 664847 et ses images se tirent par /_recherche-images/show/664847/image/421978/<vue-1>. Les deux registres à dépouiller pour le père de Jeanne LAMAIN sont E Dépôt 3408 (sa naissance vers 1788-1791, sa sépulture avant 1792) et 5 E 134/1 (son décès 1792-1802 et le remariage de sa veuve avec Jacques MAZOYER)."
+    "PISTE OPÉRATIONNELLE, 07/09/2026 — CLERMAIN (71) est ouvert. Les registres de Clermain ont été localisés dans le moteur état civil des AD71 : E Dépôt 3406 (BMS 1639-1701, 183 images), E Dépôt 3407 (BMS 1701-1750, 192 images), E Dépôt 3408 (BMS 1751-1792, 236 images), 5 E 134/1 (N.M.D 1792-1802, 127 images), 5 E 134/2 (N.M.D 1803-1812, 169 images), 5 E 134/3 (N.M.D 1813-1822, 198 images). La fiche 5 E 134/1 porte l'identifiant AD71 664847 et ses images se tirent par /_recherche-images/show/664847/image/421978/<vue-1>. Les deux registres à dépouiller pour le père de Jeanne LAMAIN sont E Dépôt 3408 (sa naissance vers 1788-1791, sa sépulture avant 1792) et 5 E 134/1 (son décès 1792-1802 et le remariage de sa veuve avec Jacques MAZOYER).",
+    "PROUVÉ, 07/09/2026 — le milieu LAMAIN de Clermain est documenté par une source primaire. Registre de Clermain (AD71, 5 E 134/1, Naissances Mariages Décès 1792-1802, fiche 664847, 127 vues), VUE 30, acte du 9 brumaire an VI (30 octobre 1797) : « Le neuf brumaire an six de la république française par devant Moy Etienne Lamain a[gent municipal] … la commune de Clermain, canton de …, département de Saône-et-Loire, soussigné, est représenté … marchand dudit lieu … ». Étienne LAMAIN, marchand, est donc officier public de l'état civil de Clermain à l'automne 1797 : il rédige et signe les actes de la commune. Cela confirme le milieu que le mariage de Tramayes de 1808 laissait deviner pour le père de Jeanne — « défunt sieur » LAMAIN, d'une famille qui signe — mais NE PROUVE AUCUNE FILIATION : rien ne relie encore Étienne à Jeanne. Aucune fiche n'a été créée pour lui, un collatéral non rattaché n'étant pas une montée. Pièce : ad71-clermain-5e134-1-vue030-etienne-lamain-officier-public-an6.jpg",
+    "NÉGATIF DÉLIMITÉ ET PARTIEL, 07/09/2026, sur le registre 5 E 134/1 de Clermain. Ont été réellement regardés : la planche-contact des 127 vues (structure du volume, pas son contenu) et dix vues lues au texte — 0, 29, 37, 113, 114, 115, 121, 122, 125, 126. Sur ce périmètre : AUCUN MAZOYER, et un seul LAMAIN, Étienne, comme officier public. Le mariage MAZOYER × veuve LAMAIN n'est donc NI trouvé NI écarté ; les pages de mariages du volume n'ont pas été ouvertes.",
+    "STRUCTURE DU REGISTRE, relevée le 07/09/2026 et qui rend le dépouillement bon marché. 5 E 134/1 est une reliure de cahiers annuels : chacun s'ouvre par une page de titre imprimée « DISTRICT DE MACON / DÉPARTEMENT DE SAÔNE-ET-LOIRE — FORMULE » et se clôt par une TABLE ALPHABÉTIQUE manuscrite à trois colonnes, « NOMS et PRÉNOMS / DATES DES ACTES / OBSERVATIONS ». Pages de titre repérées aux vues 4, 14, 23, 44-45, 51-52, 56, 59, 62, 65, 79, 81, 83, 89, 91, 99, 120, 123 ; tables annuelles aux vues 37, 113-115, 121, 126. Se dépouille par ses tables, une page par année, lettre L et lettre M — pas en feuilletant. Pièce : ad71-clermain-5e134-1-vue001-titre-1792.jpg",
+    "REPRISE, par ordre de rendement : (1) les tables annuelles de 5 E 134/1, lettres L et M, pour le mariage MAZOYER × veuve LAMAIN et pour le décès du père de Jeanne ; (2) E Dépôt 3408, baptêmes mariages sépultures de Clermain 1751-1792, 236 images, pour la NAISSANCE de Jeanne LAMAIN vers 1788-1791 et pour le MARIAGE de ses parents vers 1785 — un mariage d'Ancien Régime nomme les quatre parents, soit deux à quatre points de front ; (3) 5 E 134/2 (1803-1812) si le remariage de la veuve est plus tardif qu'attendu."
    ],
    "sources": [
     "Acte de mariage, Archives départementales de Saône-et-Loire, Tramayes, registre des mariages 1803-1808, cote 5 E 545/2, vue 56/60, acte du 13 juin 1808, neuf heures du matin, dressé par Claude BRUYS, maire. Repéré par la table décennale des mariages 1802-1812, cote 6 E 545/1, vue 4/6. Image lue et archivée le 31/08/2026 : 5e545-2-vue56-mariage-thevenet-lamain-1808.jpg. Source primaire lue : PROUVÉ.",
     "Acte de décès, Tramayes (71), registre N.M.D. 1792-1802, AD71 cote 5 E 545/1, consulté sur microfilm FamilySearch DGS 008304039, item 4, image 1703/1748, page de droite, premier acte, 2 nivôse an VI (22 décembre 1797) : décès de François LAMAIN, un mois, « fils dudit Lamain et de Josephte Perrin », déclaré par François LAMAIN, habitant, 35 ans. Image lue le 01/09/2026. Source primaire lue : PROUVÉ.",
     "Acte de décès, Tramayes (71), registre N.M.D. 1792-1802, AD71 cote 5 E 545/1, consulté sur microfilm FamilySearch DGS 008304039, item 4, image 1705/1748, page de gauche, deuxième acte, 20 germinal an VI (9 avril 1798) : décès de Philibert LAMAIN, deux ans, « fils dudit Lamain », déclaré par François LAMAIN, habitant, 34 ans, qui signe « Lamain ». Image lue le 01/09/2026. Source primaire lue : PROUVÉ.",
     "AD71, Tramayes, 5 E 545/1, mariages 1793-1802, detail=666458, 88 vues dépouillées le 01/09/2026 : aucun mariage MAZOYER × veuve LAMAIN. Négatif délimité à la vue.",
-    "Vues du dépouillement, AD71 Tramayes 5 E 545/1 : table alphabétique des époux 5e545-1-vue56-table-alphabetique.jpg et 5e545-1-vue57-table-alphabetique-suite.jpg — aucun MAZOYER époux, aucune LAMAIN épouse ; et le mariage d'Étienne LAMAIN de Clermain du 28 brumaire an III, 5e545-1-vue16-mariage-lamain-thomas-an3.jpg et 5e545-1-vue17-mariage-lamain-thomas-an3-suite.jpg, qui ouvre la piste de Clermain."
+    "Vues du dépouillement, AD71 Tramayes 5 E 545/1 : table alphabétique des époux 5e545-1-vue56-table-alphabetique.jpg et 5e545-1-vue57-table-alphabetique-suite.jpg — aucun MAZOYER époux, aucune LAMAIN épouse ; et le mariage d'Étienne LAMAIN de Clermain du 28 brumaire an III, 5e545-1-vue16-mariage-lamain-thomas-an3.jpg et 5e545-1-vue17-mariage-lamain-thomas-an3-suite.jpg, qui ouvre la piste de Clermain.",
+    "AD71, Clermain, 5 E 134/1, Naissances Mariages Décès 1792-1802, vue 30/127, acte du 9 brumaire an VI : Étienne LAMAIN, marchand, officier public de l'état civil de Clermain — ad71-clermain-5e134-1-vue030-etienne-lamain-officier-public-an6.jpg",
+    "AD71, Clermain, 5 E 134/1, vue 1/127, page de titre du cahier de 1792 — ad71-clermain-5e134-1-vue001-titre-1792.jpg",
+    "AD71, Clermain, 5 E 134/1, vue 38/127, table alphabétique annuelle — ad71-clermain-5e134-1-vue038-table-annuelle.jpg"
    ],
    "associations": [],
    "famille_origine": null,
@@ -146958,7 +146976,10 @@
     "ad71-tramayes-5e545-1-vue16-mariage-lamain-thomas-an3",
     "ad71-tramayes-5e545-1-vue17-mariage-lamain-thomas-an3-suite",
     "ad71-tramayes-5e545-1-vue56-table-alphabetique",
-    "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite"
+    "ad71-tramayes-5e545-1-vue57-table-alphabetique-suite",
+    "ad71-clermain-5e134-1-vue030-etienne-lamain-an6",
+    "ad71-clermain-5e134-1-vue001-titre-1792",
+    "ad71-clermain-5e134-1-vue038-table"
    ]
   },
   "VI14": {
@@ -240290,6 +240311,58 @@
    "lieu": "Sainte-Mère-Église (50)",
    "cote": "AD50, 5 Mi 1915, BMS 1704-1712 de Sainte-Mère-Église, fiche 622612, vue 141/173 (haut de la page de droite)",
    "url": "https://www.archives-manche.fr/_recherche-images/show/622612/image/1935452/140"
+  },
+  "ad71-clermain-5e134-1-vue030-etienne-lamain-an6": {
+   "type": "acte_naissance",
+   "titre": "Clermain (71), registre 5 E 134/1, vue 30 : Étienne LAMAIN, marchand, officier public de l'état civil, 9 brumaire an VI",
+   "fichier": "assets/actes/france/71/ad71-clermain-5e134-1-vue030-etienne-lamain-an6.jpg",
+   "octets": 699396,
+   "sha256": "8799a91549e930e516883ac7d5ee22c16e51032a941213fcca10611be9204e73",
+   "utilise_par": {
+    "individus": [
+     "JI171"
+    ],
+    "familles": []
+   },
+   "date": "1797-10-30",
+   "lieu": "Clermain (71)",
+   "cote": "AD71, 5 E 134/1, Naissances Mariages Décès 1792-1802, vue 30/127",
+   "url": "https://www.archives71.fr/consulter/en-ligne/familles-et-individus/etat-civil?detail=664847"
+  },
+  "ad71-clermain-5e134-1-vue001-titre-1792": {
+   "type": "registre",
+   "titre": "Clermain (71), registre 5 E 134/1, vue 1 : page de titre du cahier de 1792 et table alphabétique vierge",
+   "fichier": "assets/actes/france/71/ad71-clermain-5e134-1-vue001-titre-1792.jpg",
+   "octets": 385104,
+   "sha256": "db9a8c2a280384d87475970e1270f110bd7a8a225113c5c4f1b3978f11c4ed31",
+   "utilise_par": {
+    "individus": [
+     "JI171"
+    ],
+    "familles": []
+   },
+   "date": "1792",
+   "lieu": "Clermain (71)",
+   "cote": "AD71, 5 E 134/1, vue 1/127",
+   "url": "https://www.archives71.fr/consulter/en-ligne/familles-et-individus/etat-civil?detail=664847"
+  },
+  "ad71-clermain-5e134-1-vue038-table": {
+   "type": "registre",
+   "titre": "Clermain (71), registre 5 E 134/1, vue 38 : table alphabétique annuelle, avec Delaye Jeanne et Thévenet Antoine Marie",
+   "fichier": "assets/actes/france/71/ad71-clermain-5e134-1-vue038-table.jpg",
+   "octets": 403584,
+   "sha256": "ae9a815cc8dfbcfccf15b63480a8b441719734d8965f0b8a97d1ab255da60f45",
+   "utilise_par": {
+    "individus": [
+     "JI169",
+     "JI171"
+    ],
+    "familles": []
+   },
+   "date": "1792-1802",
+   "lieu": "Clermain (71)",
+   "cote": "AD71, 5 E 134/1, vue 38/127",
+   "url": "https://www.archives71.fr/consulter/en-ligne/familles-et-individus/etat-civil?detail=664847"
   }
  }
 }
