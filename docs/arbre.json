@@ -122142,6 +122142,10 @@
     {
      "type": "profession",
      "texte": "Brassier, manouvrier, fournier et cultivateur"
+    },
+    {
+     "type": "profession",
+     "texte": "Brassier à Gruissan en 1816"
     }
    ],
    "evenements": [
@@ -122170,6 +122174,14 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Brassier, manouvrier, fournier et cultivateur"
+    },
+    {
+     "type": "profession",
+     "texte": "Brassier à Gruissan en 1816"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "3 JUN 1865",
@@ -122192,17 +122204,16 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Brassier, manouvrier, fournier, cultivateur"
     }
    ],
    "notes": [
-    "PROBABLE — lignée fournie par le relevé familial et cohérente avec les arbres indexés ; actes originaux à lire."
+    "PROBABLE — lignée fournie par le relevé familial et cohérente avec les arbres indexés ; actes originaux à lire.",
+    "PROUVÉ 07/09/2026 — acte de mariage du 27 novembre 1816 à Gruissan (AD11, 100NUM/5E170/12, vue 233) : « Jean Gimié, brassier, né et domicilié en ce bourg, âgé de vingt huit ans révolus, fils majeur de Martin Gimié présent et consentant et de feue Anne Sabatié ». L'âge de 28 ans révolus au 27/11/1816 est cohérent avec la naissance portée au 23/05/1788. Il signe l'acte.",
+    "Sa filiation à GF64 (Martin GIMIÉ × Anne SABATIER) n'est plus PROBABLE mais PROUVÉE : le père est présent et consentant à l'acte, et le décès de la mère y est justifié par la production de son acte de décès."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 32"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 32",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "famille_origine": "GF64",
    "familles": [
@@ -122214,8 +122225,14 @@
    "branches": [
     "gimie"
    ],
+   "confiance": "PROUVÉ",
    "generations_ascendance": 4,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG33": {
    "id": "AG33",
@@ -122302,6 +122319,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Fournière"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "8 MAY 1866",
@@ -122324,17 +122345,17 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Fournière"
     }
    ],
    "notes": [
-    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; actes à contrôler."
+    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; actes à contrôler.",
+    "PROUVÉ 07/09/2026 — même acte : « Elizabeth Crouzat, née et domiciliée en ce bourg, âgée de vingt quatre ans accomplis, fille majeure de feu Bernard Crouzat […] et de Marie Clotilde Gibert, mariés, ici présente et consentante ». L'âge de 24 ans accomplis est cohérent avec la naissance portée au 16/09/1792.",
+    "Elle ne sait pas signer : l'acte se clôt sur « l'ont signé avec l'époux, et non l'épouse pour ne savoir ».",
+    "Sa filiation à GF66 (Bernard CROUZAT × Marie Clotilde GIBERT) est PROUVÉE : la mère est présente et consentante, et le décès du père est justifié par la production de son acte de décès."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 33"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 3, Sosa 33",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "famille_origine": "GF66",
    "familles": [
@@ -122346,8 +122367,14 @@
    "branches": [
     "gimie"
    ],
+   "confiance": "PROUVÉ",
    "generations_ascendance": 5,
-   "generations_descendance": 7
+   "generations_descendance": 7,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG64": {
    "id": "AG64",
@@ -122410,6 +122437,10 @@
     {
      "type": "profession",
      "texte": "Cultivateur"
+    },
+    {
+     "type": "profession",
+     "texte": "Fournier à Gruissan en 1816"
     }
    ],
    "evenements": [
@@ -122439,15 +122470,50 @@
     },
     {
      "type": "profession",
+     "texte": "Brassier et fournier"
+    },
+    {
+     "type": "profession",
      "texte": "Cultivateur"
+    },
+    {
+     "type": "profession",
+     "texte": "Fournier à Gruissan en 1816"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "2 JAN 1843",
+      "date": {
+       "annee": 1843,
+       "mois": 1,
+       "jour": 2
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
     }
    ],
    "notes": [
-    "PROBABLE — lignée du relevé familial recoupée par la reconstruction Geneanet de Gruissan ; décès, baptême du 13/07/1765 et métiers restent à vérifier sur les actes originaux."
+    "PROBABLE — lignée du relevé familial recoupée par la reconstruction Geneanet de Gruissan ; décès, baptême du 13/07/1765 et métiers restent à vérifier sur les actes originaux.",
+    "PROUVÉ 07/09/2026 comme père de Jean GIMIÉ — il comparaît au mariage du 27/11/1816 à Gruissan, « présent et consentant », puis figure parmi les témoins : « sieur Martin Gimié, fournier, âgé de cinquante ans, père de l'époux ». Il signe. L'âge déclaré (50 ans) est cohérent avec la naissance portée au 11/07/1765, à un an près, comme il est ordinaire dans les déclarations d'âge.",
+    "Sa propre filiation (GF128) et sa date de naissance restent PROBABLES : l'acte de 1816 ne nomme aucun grand-parent."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 64 ; Geneanet remyfasy, fiche Martin GIMIÉ, consultée le 30/08/2026",
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 64"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 64",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "famille_origine": "GF128",
    "familles": [
@@ -122460,7 +122526,12 @@
     "gimie"
    ],
    "generations_ascendance": 3,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG65": {
    "id": "AG65",
@@ -122567,11 +122638,15 @@
     }
    ],
    "notes": [
-    "PROBABLE — épouse de Martin GIMIÉ. Contradiction non résolue : le relevé familial donne le 17/12/1763, Geneanet remyfasy donne 1766 ; acte original requis."
+    "PROBABLE — épouse de Martin GIMIÉ. Contradiction non résolue : le relevé familial donne le 17/12/1763, Geneanet remyfasy donne 1766 ; acte original requis.",
+    "PROUVÉE 07/09/2026 comme mère de Jean GIMIÉ, et morte avant le mariage : l'acte du 27/11/1816 la dit « feue Anne Sabatié », épouse de Martin Gimié, « décédée à Gruissan le dix et sept mai mil huit cent six comme il conste par l'acte de décès à nous présenté ».",
+    "CONTRADICTION conservée sur le jour du décès : l'arbre porte le 16 mai 1806 d'après le relevé familial de 2006, l'acte de mariage de 1816 cite le 17 mai 1806 d'après l'acte de décès produit au maire. Aucune des deux sources n'est l'acte de décès lui-même. À trancher sur 5E170/009 ou 5E170/010 (idUd 504596 et 504597 sur mdr.aude.fr).",
+    "Sa filiation (GF130) et sa date de naissance — 17/12/1763 au relevé familial, 1766 sur Geneanet — restent PROBABLES et non tranchées."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 65 ; Geneanet remyfasy, fiche Martin GIMIÉ, consultée le 30/08/2026",
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 65"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 65",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "famille_origine": "GF130",
    "familles": [
@@ -122584,7 +122659,12 @@
     "gimie"
    ],
    "generations_ascendance": 3,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG128": {
    "id": "AG128",
@@ -126676,10 +126756,14 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROUVÉ 07/09/2026 comme père d'Élisabeth CROUZAT, et mort avant le mariage : l'acte du 27/11/1816 la dit « fille majeure de feu Bernard Crouzat, décédé à Gruissan le vingt juin mil huit cent onze comme il conste par l'acte de décès ». La date confirme au jour près celle déjà portée dans l'arbre.",
+    "Un fils est nommé au même acte : Vincent Bernard CROUZAT, chasse-marée, 32 ans, « frère de l'épouse », donc né vers 1784. Collatéral non intégré — il ne sert pas la montée — mais il donnera un second acte de filiation le jour où l'on cherchera les parents de Bernard.",
+    "Sa propre filiation (GF132) et sa naissance vers 1747 restent PROBABLES."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 66"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 66",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "familles": [
     "GF66"
@@ -126692,7 +126776,12 @@
    "annee_deces": 1811,
    "famille_origine": "GF132",
    "generations_ascendance": 2,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG67": {
    "id": "AG67",
@@ -126722,10 +126811,13 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROUVÉE 07/09/2026 comme mère d'Élisabeth CROUZAT et vivante à cette date : l'acte du 27/11/1816 la dit « Marie Clotilde Gibert, mariés, ici présente et consentante, aussi domiciliée en cette commune ». Elle est donc vivante et à Gruissan au 27 novembre 1816, ce qui borne par le bas la recherche de son acte de décès.",
+    "Sa propre filiation (GF134) et sa naissance vers 1754 restent PROBABLES."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 67"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 67",
+    "Acte de mariage Jean GIMIÉ × Élisabeth CROUZAT, Gruissan, 27 novembre 1816 — AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816 ; lu le 07/09/2026 sur mdr.aude.fr (idUd 504599, microfilm AD11_5Mi0497). Pièces : ad11-5E170-012-vue233-planche.jpg, ad11-5E170-012-vue233-acte-page-gauche-zoom.jpg, ad11-5E170-012-vue233-acte-page-droite-temoins-zoom.jpg"
    ],
    "familles": [
     "GF66"
@@ -126736,8 +126828,14 @@
    ],
    "annee_naissance": 1754,
    "famille_origine": "GF134",
+   "annee_deces": null,
    "generations_ascendance": 4,
-   "generations_descendance": 8
+   "generations_descendance": 8,
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
+   ]
   },
   "AG68": {
    "id": "AG68",
@@ -183026,12 +183124,44 @@
     }
    },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "27 NOV 1816",
+      "date": {
+       "annee": 1816,
+       "mois": 11,
+       "jour": 27
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — couple et filiation du relevé familial, actes à contrôler."
+    "PROBABLE — couple et filiation du relevé familial, actes à contrôler.",
+    "PROUVÉE 07/09/2026 — acte de mariage du 27 novembre 1816, huit heures du soir, à Gruissan, devant le maire Camp (AD11, 100NUM/5E170/12, vue 233). Publications faites les 17 et 24 novembre 1816 devant la porte de la maison commune. Témoins : Martin GIMIÉ, fournier, 50 ans, père de l'époux ; Vincent Bernard CROUZAT, chasse-marée, 32 ans, frère de l'épouse ; Guiraud GIMIÉ, instituteur, 45 ans ; Alexis ROMAIN, 49 ans ; Jean AZIBERT, brassier, 70 ans — tous domiciliés au bourg. La date du relevé familial est confirmée au jour près."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [],
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
    ]
   },
   "GF64": {
@@ -183066,12 +183196,44 @@
     }
    },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "30 JAN 1788",
+      "date": {
+       "annee": 1788,
+       "mois": 1,
+       "jour": 30
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — couple et filiation du relevé familial, actes à contrôler."
+    "PROBABLE — couple et filiation du relevé familial, actes à contrôler.",
+    "PROUVÉE 07/09/2026 par l'acte de mariage de leur fils Jean, Gruissan, 27/11/1816 (AD11, 100NUM/5E170/12, vue 233) : Martin GIMIÉ y est présent et consentant comme père, Anne SABATIÉ y est dite feue, son décès justifié par la production de son acte. Le couple était jusqu'ici PROBABLE, sur le seul relevé familial de 2006."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [],
+   "assets": [
+    "gruissan-mariage-gimie-crouzat-1816-planche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-gauche",
+    "gruissan-mariage-gimie-crouzat-1816-acte-droite"
    ]
   },
   "GF128": {
@@ -183579,11 +183741,13 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "PROUVÉE 07/09/2026 par l'acte de mariage de leur fille Élisabeth, Gruissan, 27/11/1816 (AD11, 100NUM/5E170/12, vue 233) : Marie Clotilde GIBERT y est présente et consentante comme mère, Bernard CROUZAT y est dit feu, décédé à Gruissan le 20 juin 1811, son décès justifié par la production de son acte. Le couple était jusqu'ici PROBABLE, sur le seul relevé familial de 2006. Un fils, Vincent Bernard CROUZAT, chasse-marée, 32 ans, est témoin comme frère de l'épouse."
    ],
    "branches": [
     "gimie"
-   ]
+   ],
+   "sources": []
   },
   "GF68": {
    "id": "GF68",
@@ -240363,6 +240527,81 @@
    "lieu": "Clermain (71)",
    "cote": "AD71, 5 E 134/1, vue 38/127",
    "url": "https://www.archives71.fr/consulter/en-ligne/familles-et-individus/etat-civil?detail=664847"
+  },
+  "gruissan-mariage-gimie-crouzat-1816-planche": {
+   "type": "acte_mariage",
+   "titre": "Mariage Jean GIMIÉ × Élisabeth CROUZAT — Gruissan, 27 novembre 1816, vue entière",
+   "fichier": "assets/actes/france/11/gruissan-mariage-gimie-crouzat-1816-planche.jpg",
+   "octets": 814162,
+   "sha256": "020b9ac555434bfab1f4aef45e48e023bfde502f9cbdadca809a19e029badda9",
+   "utilise_par": {
+    "individus": [
+     "AG32",
+     "AG33",
+     "AG64",
+     "AG65",
+     "AG66",
+     "AG67"
+    ],
+    "familles": [
+     "GF32",
+     "GF64"
+    ]
+   },
+   "date": "1816-11-27",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumViewer/calculHierarchieDocNum/504599/504933:541087:541088:541984:504599/0/0"
+  },
+  "gruissan-mariage-gimie-crouzat-1816-acte-gauche": {
+   "type": "acte_mariage",
+   "titre": "Mariage GIMIÉ × CROUZAT 1816 — début de l'acte, filiations des deux époux",
+   "fichier": "assets/actes/france/11/gruissan-mariage-gimie-crouzat-1816-acte-gauche.jpg",
+   "octets": 1183730,
+   "sha256": "101897a471e12191bbd6e52343a7d2d13257c3ae35177d602a00fd97b2476842",
+   "utilise_par": {
+    "individus": [
+     "AG32",
+     "AG33",
+     "AG64",
+     "AG65",
+     "AG66",
+     "AG67"
+    ],
+    "familles": [
+     "GF32",
+     "GF64"
+    ]
+   },
+   "date": "1816-11-27",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumViewer/calculHierarchieDocNum/504599/504933:541087:541088:541984:504599/0/0"
+  },
+  "gruissan-mariage-gimie-crouzat-1816-acte-droite": {
+   "type": "acte_mariage",
+   "titre": "Mariage GIMIÉ × CROUZAT 1816 — fin de l'acte, témoins et signatures",
+   "fichier": "assets/actes/france/11/gruissan-mariage-gimie-crouzat-1816-acte-droite.jpg",
+   "octets": 1381597,
+   "sha256": "106d3bb92e6533c6f181e5eb15586b04ba4ba44d14db4605b22bb98bd96751e4",
+   "utilise_par": {
+    "individus": [
+     "AG32",
+     "AG33",
+     "AG64",
+     "AG65",
+     "AG66",
+     "AG67"
+    ],
+    "familles": [
+     "GF32",
+     "GF64"
+    ]
+   },
+   "date": "1816-11-27",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/5E170/12, état civil de Gruissan 1814-1816, vue 233/243, acte de mariage du 27 novembre 1816",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumViewer/calculHierarchieDocNum/504599/504933:541087:541088:541984:504599/0/0"
   }
  }
 }
