@@ -125043,7 +125043,8 @@
     "**Résultat négatif délimité, 01/09/2026** : elle **ne figure pas** dans la table décennale des décès de Marseille **1893-1902, lettre M** (AD13 `201 E 1494`, ARK `vtab2ba69d519b58217`, 166 vues) pour les années où elle pouvait y être. Périmètre exactement lu : le bloc `Ma` **entier** de **1899** (vues 99-109) et de **1900** (vues 118-127), et le groupe `Mat` à pleine résolution de **1901** (vues 142-143 : dix MATTEI, un MATTEO, un MATTEODA, un MATTERA, un MATTEUCCI, aucune MATTA) et de **1902** (vues 156-157 : les « Matte » ne sont que des **MASSE**). Un « Matta » repéré en vue 124 est, au grossissement, **MASSA**.",
     "**Structure de ce volume, établie le 01/09/2026 et à réutiliser** : il ne contient que la lettre M pour dix ans ; il est classé par **millésime** (mention centrée dans la colonne des noms), puis par **groupe patronymique** `Ma`, `Me`, `Mi`, `Mo`, `Mou/Mu`, puis par **racine consonantique** dont l'ordre change d'une année à l'autre — on ne peut donc pas sauter directement à `Mat`. Débuts de millésime relevés : 1893 = vue 2, **1899 = vue 99**, **1900 = vue 118**, **1901 = vue 135**, 1902 ≈ vue 151. Environ 16 vues par an, dont 9 à 11 pour le seul bloc `Ma`.",
     "**Suites, par ordre de rendement** : (1) relire **en entier** la lettre **Z** de la même décennie (`201 E 1495`, 6 vues, dont seule la vue 5 a été lue) — une veuve est parfois inscrite au nom de son mari, « Zucca / Zucco, Dominique, veuve » ; (2) tables décennales des décès de Marseille **1903-1912** puis **1913-1922**, lettres M et Z — née vers 1850, elle peut mourir jusque dans les années 1930 ; (3) le fichier INSEE ne commence qu'en 1970 et ne servira pas ici.",
-    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance.",
+    "07/09/2026 — La lettre Z de la table décennale des décès de Marseille 1893-1902 (AD13, 201 E 1495, 6 vues) n'a toujours pas été relue en entier : son ARK n'est consigné nulle part et le moteur AD13 refuse de rejouer une recherche hors session (/archive/resultats/etatcivil/n:64 renvoie une 302 vers l'accueil en curl seul). Acquis exploitable au prochain passage : les images de ces tables sont servies en IIIF sous https://www.archives13.fr/iiif/Etat_civil/AD13_201E_<cote sur 5 chiffres>O/AD13_201E_TD99_<n sur 4 chiffres>.jpg — la numérotation est propre au dossier et ne commence pas à 1 (le volume 201 E 1494 occupe les images 0068 à 0309). Le dossier AD13_201E_01495O n'existe pas sous ce nom : le volume de la lettre Z est rangé ailleurs, il faut passer par le tableau AJAX paginé pour récupérer son ARK."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 31",
@@ -126539,7 +126540,8 @@
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "**PROUVÉ le 31/08/2026 comme père** : l'acte de décès de son fils Jean à Marseille (1er février 1899, 201 E 1118, vue 1, acte n° 377) le nomme « Augustin ZUCCA ». Son fils étant né vers 1837-1838 à **Castelnuovo d'Asti** (Piémont, aujourd'hui Castelnuovo Don Bosco, province d'Asti), c'est là qu'il faut chercher son propre acte de mariage avec Anne MATTA et son acte de décès.",
-    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance."
+    "**Antenati est une impasse pour cette generation, delimitee le 01/09/2026.** L'Archivio di Stato di Asti n'a en ligne que deux fonds : Stato civile *napoleonico* **1804-1813** et Stato civile *italiano* **1866-1930**. Il n'y a **aucun fonds de la restauration** : **1814-1865 n'existe pas** sur le portail pour toute la province — c'est exactement la fenetre de la naissance de Jean ZUCCA (vers 1837-38) et du mariage d'Augustin ZUCCA avec Anne MATTA. Pire, **Castelnuovo d'Asti est absente du fonds 1866-1930** : la liste alphabetique passe de *Castello di Annone* a *Castelnuovo Calcea*. La commune n'est donc en ligne que pour **1804-1813**, avec 29 registres (serie 266751). L'index nominatif ne rend **aucun MATTA** ne a Castelnuovo, et **aucun Giovanni ZUCCA ne entre 1830 et 1845** ; les trois seuls ZUCCA de Castelnuovo qu'il connait sont d'une generation posterieure (Madalena, fille de Giuseppe x Rosa BERTOLONE ; Francesco, fils de Luigi x Filomena FERRERO ; Matteo Alfonso, fils de Francesco x Irene BERTAGNA) et sans lien etabli. Ils confirment seulement que le patronyme ZUCCA est bien implante dans cette commune. **Suites** : FamilySearch (microfilms des archives d'Asti et du diocese), Archivio diocesano di Asti pour 1814-1865, Archivio di Stato di Asti sur demande, et la mairie de Castelnuovo Don Bosco pour l'etat civil posterieur a 1866. Rappel de methode : un fonds non numerise n'est pas un fonds inexistant, et en Italie l'acte de deces nomme les parents du defunt — le viser avant l'acte de naissance.",
+    "07/09/2026 — Rien de nouveau sur les parents d'Augustin ZUCCA. La fenêtre reste le Piémont 1814-1865, hors ligne sur Antenati ; la prochaine tentative doit passer par FamilySearch ou l'Archivio diocesano di Asti, pas par les tables marseillaises."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 4, Sosa 60",
@@ -135273,7 +135275,8 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "07/09/2026 — Front audois : les Archives de l'Aude sont de nouveau atteignables en curl par leur moteur d'images mdr.aude.fr (GAIA 9). Les registres d'état civil de Gruissan 5E170/005 à 5E170/029 portent les identifiants d'unité documentaire contigus 504592 à 504616 ; les registres paroissiaux antérieurs restent à localiser."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 517"
@@ -135390,7 +135393,8 @@
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "07/09/2026 — Même point d'accès que pour Élisabeth NOUVELLES : mdr.aude.fr est ouvert en curl, la sépulture du 29/09/1761 à Gruissan est à chercher dans 5E170/002 ou 5E170/003 une fois leur identifiant trouvé."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 519"
@@ -136546,6 +136550,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Ménagère"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "16 APR 1764",
@@ -136568,14 +136576,11 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Ménagère"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "07/09/2026 — Sépulture du 16/04/1764 à Gruissan à chercher dans les registres 5E170/002-003, désormais accessibles en principe par mdr.aude.fr."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 589"
