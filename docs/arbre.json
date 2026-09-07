@@ -122226,7 +122226,7 @@
     "gimie"
    ],
    "confiance": "PROUVÉ",
-   "generations_ascendance": 4,
+   "generations_ascendance": 5,
    "generations_descendance": 7,
    "assets": [
     "gruissan-mariage-gimie-crouzat-1816-planche",
@@ -122525,7 +122525,7 @@
    "branches": [
     "gimie"
    ],
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 8,
    "assets": [
     "gruissan-mariage-gimie-crouzat-1816-planche",
@@ -122772,7 +122772,7 @@
    "branches": [
     "gimie"
    ],
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 9
   },
   "AG129": {
@@ -123006,7 +123006,7 @@
    "branches": [
     "gimie"
    ],
-   "generations_ascendance": 1,
+   "generations_ascendance": 2,
    "generations_descendance": 11
   },
   "AG257": {
@@ -123177,13 +123177,19 @@
    ],
    "notes": [
     "PROBABLE — plus ancien GIMIÉ de la lignée directe du relevé familial. Geneanet donne un baptême (et non une naissance) le 06/05/1666, un décès le 11/11/1743 et les parents Pierre GIMIÉ × Jeanne CAMP ; actes originaux à lire avant d'étendre la lignée.",
-    "07/09/2026 — Accès AD11 rouvert. Le baptême du 06/05/1666 à Gruissan est à lire dans le registre BMS 1647-1699 (4E170/1E3 ou son équivalent en collection du greffe). Le moteur d'images mdr.aude.fr (GAIA 9) est scriptable en curl : idUd contigus, 5E170/005 à 5E170/029 = idUd 504592 à 504616, mais 5E170/001 à 5E170/004 (BMS antérieurs à 1814) rendent une liste d'images vide à 504588-504591 : les registres paroissiaux de Gruissan ne sont donc pas dans cette plage d'identifiants et restent à localiser."
+    "07/09/2026 — Accès AD11 rouvert. Le baptême du 06/05/1666 à Gruissan est à lire dans le registre BMS 1647-1699 (4E170/1E3 ou son équivalent en collection du greffe). Le moteur d'images mdr.aude.fr (GAIA 9) est scriptable en curl : idUd contigus, 5E170/005 à 5E170/029 = idUd 504592 à 504616, mais 5E170/001 à 5E170/004 (BMS antérieurs à 1814) rendent une liste d'images vide à 504588-504591 : les registres paroissiaux de Gruissan ne sont donc pas dans cette plage d'identifiants et restent à localiser.",
+    "PROUVÉ 07/09/2026 — son baptême est lu : « Le sixiesme jour du mois de may 1666 a esté baptisé Jean Gimié, fils de Pidre et de Joanne Campe, mariés du présent lieu de Gruissan ; son parrain a esté Pierre Clarié et sa marraine Joanne Bonnette, tous dudit lieu. » (AD11, registre paroissial de Gruissan 1647-1699, vue 68, page 62). La date du 06/05/1666, jusqu'ici tirée de Geneanet, est confirmée par le registre, et sa filiation cesse d'être une hypothèse : il entre dans la famille GF40001.",
+    "Parrain Pierre CLARIÉ, marraine Jeanne BONNETTE, tous deux de Gruissan — parenté non énoncée, non intégrée.",
+    "Attention à l'homonymie de la même page : un autre Jean GIMIÉ est baptisé à Gruissan le 5 avril 1666, fils de Jean GIMIÉ et de Cateline ; les deux actes sont à un mois d'intervalle sur la même vue 68. Seul celui du 6 mai a pour père Pierre et pour mère Jeanne CAMP.",
+    "PROUVÉ 07/09/2026 — son mariage : « Joan Gimié et Margarite Bourges du présent lieu de Gruissan, après la publication de trois annonces, se sont donné la foy du mariage le 27 septembre 1689 et ont receu la bénédiction nuptialle de moy recteur soubsigné, estant présentz Joan Journes et Louis Sabatut dudit lieu » (même registre, vue 188, page 200)."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 512 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026",
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 512"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 512",
+    "Baptême de Jean GIMIÉ, Gruissan, 6 mai 1666 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue068-planche.jpg, ad11-AC170-1E003-vue068-bapteme-jean-gimie-1666-zoom.jpg",
+    "Mariage Jean GIMIÉ × Marguerite BOURGES, Gruissan, 27 septembre 1689 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 188/239, page 200 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue188-planche.jpg, ad11-AC170-1E003-vue188-mariage-gimie-bourges-1689-zoom.jpg"
    ],
-   "famille_origine": null,
+   "famille_origine": "GF40001",
    "familles": [
     "GF512"
    ],
@@ -123193,8 +123199,15 @@
    "branches": [
     "gimie"
    ],
-   "generations_ascendance": 0,
-   "generations_descendance": 12
+   "confiance": "PROUVÉ",
+   "generations_ascendance": 1,
+   "generations_descendance": 12,
+   "assets": [
+    "gruissan-bapteme-gimie-1666-planche",
+    "gruissan-bapteme-gimie-1666-zoom",
+    "gruissan-mariage-gimie-bourges-1689-planche",
+    "gruissan-mariage-gimie-bourges-1689-zoom"
+   ]
   },
   "AG513": {
    "id": "AG513",
@@ -123255,11 +123268,14 @@
    ],
    "notes": [
     "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; décès en 1696 proposé par Geneanet, acte original à lire.",
-    "07/09/2026 — Le mariage GIMIÉ × BOURGES du 27/09/1689 à Gruissan reste la pièce la plus rentable de la branche : il nommerait d'un coup les parents des deux époux et ferait reculer le front de deux points. À chercher dans le registre BMS 1647-1699 de Gruissan, une fois son idUd trouvé sur mdr.aude.fr."
+    "07/09/2026 — Le mariage GIMIÉ × BOURGES du 27/09/1689 à Gruissan reste la pièce la plus rentable de la branche : il nommerait d'un coup les parents des deux époux et ferait reculer le front de deux points. À chercher dans le registre BMS 1647-1699 de Gruissan, une fois son idUd trouvé sur mdr.aude.fr.",
+    "PROUVÉE 07/09/2026 par l'acte de mariage du 27 septembre 1689 à Gruissan (AD11, registre paroissial 1647-1699, vue 188) : « Joan Gimié et Margarite Bourges du présent lieu de Gruissan ». Elle est dite « du présent lieu », donc de Gruissan.",
+    "L'acte est une formule brève de rite languedocien : il ne nomme ni les parents des époux, ni leur âge, ni leur état antérieur — seulement les témoins, Jean JOURNES et Louis SABATUT. Sa filiation reste donc inconnue et elle demeure sur le front d'ascendance. Son baptême est à chercher dans le même registre, entre 1660 et 1670."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026",
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513",
+    "Mariage Jean GIMIÉ × Marguerite BOURGES, Gruissan, 27 septembre 1689 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 188/239, page 200 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue188-planche.jpg, ad11-AC170-1E003-vue188-mariage-gimie-bourges-1689-zoom.jpg"
    ],
    "famille_origine": null,
    "familles": [
@@ -123271,8 +123287,13 @@
    "branches": [
     "gimie"
    ],
+   "confiance": "PROUVÉ",
    "generations_ascendance": 0,
-   "generations_descendance": 12
+   "generations_descendance": 12,
+   "assets": [
+    "gruissan-mariage-gimie-bourges-1689-planche",
+    "gruissan-mariage-gimie-bourges-1689-zoom"
+   ]
   },
   "JI99": {
    "id": "JI99",
@@ -125780,7 +125801,7 @@
    "annee_naissance": 1809,
    "annee_deces": 1899,
    "famille_origine": "GF78",
-   "generations_ascendance": 5,
+   "generations_ascendance": 6,
    "generations_descendance": 7
   },
   "AG40": {
@@ -127776,7 +127797,7 @@
    ],
    "annee_naissance": 1781,
    "famille_origine": "GF156",
-   "generations_ascendance": 4,
+   "generations_ascendance": 5,
    "generations_descendance": 8
   },
   "AG79": {
@@ -130775,7 +130796,7 @@
    ],
    "annee_naissance": 1740,
    "famille_origine": "GF314",
-   "generations_ascendance": 3,
+   "generations_ascendance": 4,
    "generations_descendance": 9
   },
   "AG158": {
@@ -134583,7 +134604,7 @@
    "annee_naissance": 1717,
    "annee_deces": 1772,
    "famille_origine": "GF628",
-   "generations_ascendance": 2,
+   "generations_ascendance": 3,
    "generations_descendance": 10
   },
   "AG315": {
@@ -149008,6 +149029,93 @@
     "st-augustin-1777-bapteme-marie-agnoux-detail",
     "st-augustin-1780-bapteme-martial-agnoux-vue160",
     "st-augustin-1780-bapteme-martial-agnoux-detail"
+   ]
+  },
+  "AG40001": {
+   "id": "AG40001",
+   "prenom": "Pierre",
+   "nom": "GIMIÉ",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "M",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "PROUVÉ 07/09/2026 — nommé père au baptême de son fils Jean, Gruissan, 6 mai 1666 : « Le sixiesme jour du mois de may 1666 a esté baptisé Jean Gimié, fils de Pidre et de Joanne Campe, mariés du présent lieu de Gruissan ». Le registre écrit « Pidre », forme languedocienne de Pierre.",
+    "C'est le plus ancien GIMIÉ de la lignée directe attesté par une source primaire. Ni sa naissance, ni son mariage, ni son décès ne sont encore trouvés : ils sont à chercher dans le même registre AC170_1E003 (1647-1699) et dans ce qui précède 1647 à Gruissan.",
+    "La reconstruction Geneanet remyfasy proposait déjà « Pierre GIMIÉ × Jeanne CAMP » sans cote ni vue. L'acte de 1666 le confirme, et cette hypothèse cesse d'être secondaire.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Baptême de Jean GIMIÉ, Gruissan, 6 mai 1666 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue068-planche.jpg, ad11-AC170-1E003-vue068-bapteme-jean-gimie-1666-zoom.jpg"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF40001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "gimie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 13,
+   "assets": [
+    "gruissan-bapteme-gimie-1666-planche",
+    "gruissan-bapteme-gimie-1666-zoom"
+   ]
+  },
+  "AG40002": {
+   "id": "AG40002",
+   "prenom": "Jeanne",
+   "nom": "CAMP",
+   "nom_jeune_fille": "",
+   "surnom": "",
+   "suffixe": "",
+   "sexe": "F",
+   "naissance": null,
+   "bapteme": null,
+   "deces": null,
+   "inhumation": null,
+   "professions": [],
+   "residences": [],
+   "evenements": [],
+   "images": [],
+   "notes": [
+    "PROUVÉE 07/09/2026 — nommée mère au baptême de son fils Jean, Gruissan, 6 mai 1666 : « fils de Pidre et de Joanne Campe, mariés du présent lieu de Gruissan ». Le registre écrit « Joanne Campe » ; la forme retenue est Jeanne CAMP, patronyme courant à Gruissan — le maire de la commune signe encore « Camp » en 1816.",
+    "Ni sa naissance, ni son mariage avec Pierre GIMIÉ, ni son décès ne sont encore trouvés.",
+    "CONFIANCE : PROUVÉ"
+   ],
+   "sources": [
+    "Baptême de Jean GIMIÉ, Gruissan, 6 mai 1666 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue068-planche.jpg, ad11-AC170-1E003-vue068-bapteme-jean-gimie-1666-zoom.jpg"
+   ],
+   "associations": [],
+   "famille_origine": null,
+   "familles": [
+    "GF40001"
+   ],
+   "vivant": false,
+   "annee_naissance": null,
+   "annee_deces": null,
+   "annee_estimee": null,
+   "branches": [
+    "gimie"
+   ],
+   "generations_ascendance": 0,
+   "generations_descendance": 13,
+   "assets": [
+    "gruissan-bapteme-gimie-1666-planche",
+    "gruissan-bapteme-gimie-1666-zoom"
    ]
   }
  },
@@ -183338,12 +183446,45 @@
     }
    },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "27 SEP 1689",
+      "date": {
+       "annee": 1689,
+       "mois": 9,
+       "jour": 27
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — couple et filiation du relevé familial, acte paroissial à contrôler."
+    "PROBABLE — couple et filiation du relevé familial, acte paroissial à contrôler.",
+    "PROUVÉE 07/09/2026 — acte de mariage du 27 septembre 1689 à Gruissan (AD11, 100NUM/4E170/1E3, vue 188, page 200), après publication de trois annonces, bénédiction nuptiale donnée par le recteur Valterre, en présence de Jean JOURNES et de Louis SABATUT du même lieu. La date du relevé familial est confirmée au jour près. L'acte ne nomme aucun parent : c'est une formule brève, propre aux registres languedociens de cette époque."
    ],
    "branches": [
     "gimie"
+   ],
+   "sources": [],
+   "assets": [
+    "gruissan-bapteme-gimie-1666-planche",
+    "gruissan-bapteme-gimie-1666-zoom",
+    "gruissan-mariage-gimie-bourges-1689-planche",
+    "gruissan-mariage-gimie-bourges-1689-zoom"
    ]
   },
   "JF51": {
@@ -187936,6 +188077,25 @@
    ],
    "branches": [
     "vaurie"
+   ]
+  },
+  "GF40001": {
+   "id": "GF40001",
+   "pere": "AG40001",
+   "mere": "AG40002",
+   "enfants": [
+    "AG512"
+   ],
+   "union": null,
+   "divorce": null,
+   "evenements": [],
+   "notes": [
+    "Couple PROUVÉ 07/09/2026 par le baptême de leur fils Jean, Gruissan, 6 mai 1666 (AD11, 100NUM/4E170/1E3, vue 68) : « fils de Pidre et de Joanne Campe, mariés du présent lieu de Gruissan ». L'acte les dit expressément mariés et domiciliés à Gruissan.",
+    "Leur mariage n'est pas retrouvé. Il est antérieur à mai 1666 et à chercher dans la première moitié du même registre, ou avant 1647 dans ce qui subsiste des registres de Gruissan."
+   ],
+   "sources": [],
+   "branches": [
+    "gimie"
    ]
   }
  },
@@ -219089,6 +219249,7 @@
     "firstName": "Jean",
     "lastName": "GIMIÉ",
     "sex": "M",
+    "famc": "GF40001",
     "fams": [
      "GF512"
     ],
@@ -225917,6 +226078,26 @@
     "sex": "F",
     "fams": [
      "VF50004"
+    ]
+   },
+   {
+    "id": "AG40001",
+    "hideId": true,
+    "firstName": "Pierre",
+    "lastName": "GIMIÉ",
+    "sex": "M",
+    "fams": [
+     "GF40001"
+    ]
+   },
+   {
+    "id": "AG40002",
+    "hideId": true,
+    "firstName": "Jeanne",
+    "lastName": "CAMP",
+    "sex": "F",
+    "fams": [
+     "GF40001"
     ]
    }
   ],
@@ -239062,6 +239243,14 @@
     "children": [
      "VI29"
     ]
+   },
+   {
+    "id": "GF40001",
+    "husb": "AG40001",
+    "wife": "AG40002",
+    "children": [
+     "AG512"
+    ]
    }
   ]
  },
@@ -239076,7 +239265,7 @@
    "id": "gimie",
    "libelle": "GIMIÉ",
    "racine": "JI56",
-   "personnes": 354
+   "personnes": 356
   },
   {
    "id": "thevenet",
@@ -240669,6 +240858,88 @@
    "lieu": "Clermain (71)",
    "cote": "AD71, E Dépôt 3408, vue 221/236",
    "url": "https://www.archives71.fr/_recherche-images/show/664846/image/421977/220"
+  },
+  "gruissan-bapteme-gimie-1666-planche": {
+   "type": "acte_bapteme",
+   "titre": "Baptême de Jean GIMIÉ — Gruissan, 6 mai 1666, vue entière",
+   "fichier": "assets/actes/france/11/gruissan-bapteme-gimie-1666-planche.jpg",
+   "octets": 940289,
+   "sha256": "528c525393f921ebc9571699ec42f13db1ca90406c5c5837467b53f592b82a51",
+   "utilise_par": {
+    "individus": [
+     "AG512",
+     "AG40001",
+     "AG40002"
+    ],
+    "familles": [
+     "GF512"
+    ]
+   },
+   "date": "1666-05-06",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-bapteme-gimie-1666-zoom": {
+   "type": "acte_bapteme",
+   "titre": "Baptême de Jean GIMIÉ, 6 mai 1666 — « fils de Pidre et de Joanne Campe »",
+   "fichier": "assets/actes/france/11/gruissan-bapteme-gimie-1666-zoom.jpg",
+   "octets": 1029299,
+   "sha256": "eaf44cda8ee57003f7601d2b36ef8b999c84f432dedab3f0420bdd4efc6ea6d2",
+   "utilise_par": {
+    "individus": [
+     "AG512",
+     "AG40001",
+     "AG40002"
+    ],
+    "familles": [
+     "GF512"
+    ]
+   },
+   "date": "1666-05-06",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-mariage-gimie-bourges-1689-planche": {
+   "type": "acte_mariage",
+   "titre": "Mariage Jean GIMIÉ × Marguerite BOURGES — Gruissan, 27 septembre 1689, vue entière",
+   "fichier": "assets/actes/france/11/gruissan-mariage-gimie-bourges-1689-planche.jpg",
+   "octets": 918767,
+   "sha256": "6e843ee48df029250b04e719afd7668ef845a480badf7be313fe231dea2b9363",
+   "utilise_par": {
+    "individus": [
+     "AG512",
+     "AG513"
+    ],
+    "familles": [
+     "GF512"
+    ]
+   },
+   "date": "1689-09-27",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 188/239, page 200",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-mariage-gimie-bourges-1689-zoom": {
+   "type": "acte_mariage",
+   "titre": "Mariage GIMIÉ × BOURGES, 27 septembre 1689 — corps de l'acte",
+   "fichier": "assets/actes/france/11/gruissan-mariage-gimie-bourges-1689-zoom.jpg",
+   "octets": 1140661,
+   "sha256": "7238134816b66f5949369b8fce082293f119bfc85a7950d694fe523c6c0a4476",
+   "utilise_par": {
+    "individus": [
+     "AG512",
+     "AG513"
+    ],
+    "familles": [
+     "GF512"
+    ]
+   },
+   "date": "1689-09-27",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 188/239, page 200",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
   }
  }
 }
