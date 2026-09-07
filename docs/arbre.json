@@ -123441,7 +123441,8 @@
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "PROUVÉ le 07/09/2026 par une source primaire française : l'acte de naissance de sa fille Denise Thérèse, Aubagne, 28 février 1921 (AD13, 201 E 7678, vue 9/49), le dit « Jean Agrapidis, chauffeur, vingt huit ans, né à [An]dravida (Grèce) », domicilié à Aubagne, Traverse des Moulins, et « époux » de Marie Jeanne Françoise Bocquillon. Sont désormais prouvés : le LIEU DE NAISSANCE (Andravida, Grèce), la PROFESSION de chauffeur, le DOMICILE d'Aubagne en février 1921 et le MARIAGE avec AG7. La DATE du 26/01/1892 reste issue du seul relevé familial : l'âge déclaré de 28 ans au 28/02/1921 donne une naissance entre mars 1892 et février 1893 si l'âge est exact, ce qui est compatible à un mois près — un âge déclaré par une sage-femme n'est pas une date. Le décès du 29/12/1964 à Athènes reste PROBABLE.",
     "GRAPHIE : l'officier d'état civil d'Aubagne écrit AGRAPIDIS, pas AGRAPIDES. Interroger les trois formes — AGRAPIDES, AGRAPIDIS, Αγραπίδης — dans tout index français ou grec.",
-    "L'acte de 1921 NE NOMME PAS ses parents : un acte de naissance français ne donne jamais les grands-parents. Seul l'acte de mariage AGRAPIDES × BOCQUILLON nommerait Panagiotis AGRAPIDES (AG12) et Eugénie KRISANDOU (AG13) — c'est la pièce à trouver."
+    "L'acte de 1921 NE NOMME PAS ses parents : un acte de naissance français ne donne jamais les grands-parents. Seul l'acte de mariage AGRAPIDES × BOCQUILLON nommerait Panagiotis AGRAPIDES (AG12) et Eugénie KRISANDOU (AG13) — c'est la pièce à trouver.",
+    "SON MARIAGE EST DATÉ ET LOCALISÉ depuis le 07/09/2026, sans que son acte ait encore été lu : la mention marginale portée sur l'acte de naissance de son épouse (AD13, 201 E 5765, acte n° 952) dit « Marié à Marseille le 20 Xbre [décembre] 1919 avec Jean AGRAPID[ES] ». L'ACTE DE MARIAGE DU 20 DÉCEMBRE 1919 À MARSEILLE EST DÉSORMAIS LA PIÈCE À OBTENIR : c'est lui qui nommera ses parents Panagiotis AGRAPIDES et Eugénie KRISANDOU, et son lieu de naissance exact en Grèce. Il n'est PAS en ligne — voir la note de GF6."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 6",
@@ -123478,19 +123479,7 @@
       "jour": 26
      }
     },
-    "lieu": "Marseille (13)",
-    "commune": {
-     "nom": "Marseille",
-     "code": "13055",
-     "departement": "13",
-     "pays": "France",
-     "actuelle": "Marseille",
-     "coordonnees": [
-      5.3806,
-      43.2803
-     ],
-     "approximatif": false
-    }
+    "lieu": "Marseille (13), traverse Mouren n° 1"
    },
    "deces": {
     "type": "deces",
@@ -123528,19 +123517,7 @@
        "jour": 26
       }
      },
-     "lieu": "Marseille (13)",
-     "commune": {
-      "nom": "Marseille",
-      "code": "13055",
-      "departement": "13",
-      "pays": "France",
-      "actuelle": "Marseille",
-      "coordonnees": [
-       5.3806,
-       43.2803
-      ],
-      "approximatif": false
-     }
+     "lieu": "Marseille (13), traverse Mouren n° 1"
     },
     {
      "type": "deces",
@@ -123569,11 +123546,16 @@
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
-    "Corroborée le 07/09/2026 par l'acte de naissance de sa fille Denise Thérèse (Aubagne, 28/02/1921, AD13 201 E 7678 vue 9/49) : « Marie Jeanne Françoise Bocquillon, sans profession, vingt cinq ans, son épouse, domiciliés en cette ville, Traverse des Moulins ». Ses trois prénoms sont exacts au mot près, et l'âge de 25 ans est compatible avec sa naissance du 26/08/1895 à Marseille. Elle est dite SANS PROFESSION en 1921. Son décès du 03/06/1987 à Athènes reste issu du seul relevé familial."
+    "Corroborée le 07/09/2026 par l'acte de naissance de sa fille Denise Thérèse (Aubagne, 28/02/1921, AD13 201 E 7678 vue 9/49) : « Marie Jeanne Françoise Bocquillon, sans profession, vingt cinq ans, son épouse, domiciliés en cette ville, Traverse des Moulins ». Ses trois prénoms sont exacts au mot près, et l'âge de 25 ans est compatible avec sa naissance du 26/08/1895 à Marseille. Elle est dite SANS PROFESSION en 1921. Son décès du 03/06/1987 à Athènes reste issu du seul relevé familial.",
+    "PROUVÉE le 07/09/2026 par son acte de naissance : AD13, 201 E 5765, Marseille naissances 1895, registre n° 6, acte n° 952, vue 165. « L'An mil huit cent quatre-vingt-quinze, et le vingt sept août à quatre heures… ACTE DE NAISSANCE de Marie Jeanne Françoise Fanny BOCQUILLON, née à Marseille HIER À TROIS HEURES DU SOIR, TRAVERSE MOUREN 1, fille de Laurent BOCQUILLON, âgé de vingt cinq ans, mécanicien, et de Thérèse Anne ZUCCA, âgée de vingt deux ans, ménagère, mariés et demeurant dite maison. » Déclarée par son père, témoins Alexandre ARNAUD, ajusteur, 25 ans, chemin de la Madrague 98, et Alfred BASTEL, commis, 50 ans, chemin de Montolivet 19 ; officier d'état civil Paul AMBARD, adjoint au maire. La date du relevé familial du 21/11/2006 est confirmée AU JOUR PRÈS, et le lieu de naissance se précise.",
+    "QUATRIÈME PRÉNOM : l'acte l'appelle « Marie Jeanne Françoise FANNY ». Fanny est le diminutif usuel de Françoise, et la table décennale de Marseille ne retient d'ailleurs qu'« un Marie Jeanne Fanny ». Chercher les deux formes dans tout index.",
+    "MARIAGE LOCALISÉ, 07/09/2026 — c'est le résultat de la passe. La mention marginale de cet acte porte : « Marié à Marseille le 20 Xbre 1919 avec Jean AGRAPID[ES] — Le Greffier du Tribunal ». Xbre est l'abréviation de décembre. LE MARIAGE A DONC EU LIEU À MARSEILLE LE 20 DÉCEMBRE 1919, et non à Aubagne : le négatif d'Aubagne 1916-1920 établi le matin même s'en trouve expliqué, pas contredit."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 7",
-    "Acte de naissance de Denise Thérèse AGRAPIDES, Aubagne, 28 février 1921 — Archives départementales des Bouches-du-Rhône, 201 E 7678, vue 9/49, ARK 92206080dcad1798f75cde3207e91aaa, consulté le 07/09/2026 ; pièce ad13-201e-7678-aubagne-1921-naissance-denise-agrapides-vue9.jpg"
+    "Acte de naissance de Denise Thérèse AGRAPIDES, Aubagne, 28 février 1921 — Archives départementales des Bouches-du-Rhône, 201 E 7678, vue 9/49, ARK 92206080dcad1798f75cde3207e91aaa, consulté le 07/09/2026 ; pièce ad13-201e-7678-aubagne-1921-naissance-denise-agrapides-vue9.jpg",
+    "Acte de naissance de Marie Jeanne Françoise Fanny BOCQUILLON, Marseille, 27 août 1895 (naissance le 26 août) — Archives départementales des Bouches-du-Rhône, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165, ARK vta38deef922766ee87, consulté le 07/09/2026 ; pièces ad13-201e-5765-marseille-1895-naissance-marie-bocquillon-acte952-vue165.jpg et ad13-201e-5765-marseille-1895-acte952-bocquillon-detail-et-mention-mariage.jpg",
+    "Table décennale des naissances de Marseille 1893-1902, lettre B, année 1895 — AD13, 201 E 1486, vue 148, ARK vta062ad2c757e9e3c4, consultée le 07/09/2026 ; pièces ad13-201e-td87-marseille-td-naissances-1893-1902-lettre-b-vue148.jpg et ad13-201e-td87-marseille-td-1895-ligne-bocquillon-detail.jpg"
    ],
    "familles": [
     "GF6"
@@ -123588,7 +123570,11 @@
    "generations_ascendance": 10,
    "generations_descendance": 4,
    "assets": [
-    "ad13-201e7678-aubagne-1921-naissance-denise-agrapides"
+    "ad13-201e7678-aubagne-1921-naissance-denise-agrapides",
+    "ad13-201e5765-marseille-1895-naissance-marie-bocquillon",
+    "ad13-201e5765-marseille-1895-acte952-detail-mention-mariage",
+    "ad13-201e1486-marseille-td-naissances-1893-1902-b-vue148",
+    "ad13-201e1486-marseille-td-1895-ligne-bocquillon"
    ]
   },
   "AG10": {
@@ -124015,6 +124001,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Mécanicien"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "1898",
@@ -124022,17 +124012,16 @@
        "annee": 1898
       }
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Mécanicien"
     }
    ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROUVÉ comme père de Marie Jeanne Françoise Fanny BOCQUILLON par l'acte de naissance de celle-ci (Marseille, 27 août 1895, AD13 201 E 5765, acte n° 952, vue 165), qui le dit « Laurent BOCQUILLON, âgé de vingt cinq ans, MÉCANICIEN », marié à Thérèse Anne ZUCCA et demeurant traverse Mouren n° 1. Il DÉCLARE lui-même la naissance et SIGNE l'acte — la signature « Bocquillon » est autographe. L'âge de 25 ans au 27/08/1895 donne une naissance entre août 1869 et août 1870, compatible avec l'année 1870 portée par le relevé familial.",
+    "Première profession documentée de la lignée BOCQUILLON : MÉCANICIEN, à Marseille en 1895."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 14"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 1, Sosa 14",
+    "Acte de naissance de Marie Jeanne Françoise Fanny BOCQUILLON, Marseille, 27 août 1895 (naissance le 26 août) — Archives départementales des Bouches-du-Rhône, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165, ARK vta38deef922766ee87, consulté le 07/09/2026 ; pièces ad13-201e-5765-marseille-1895-naissance-marie-bocquillon-acte952-vue165.jpg et ad13-201e-5765-marseille-1895-acte952-bocquillon-detail-et-mention-mariage.jpg"
    ],
    "familles": [
     "GF14"
@@ -124043,8 +124032,13 @@
    ],
    "annee_naissance": 1870,
    "famille_origine": "GF28",
+   "annee_deces": 1898,
    "generations_ascendance": 9,
-   "generations_descendance": 5
+   "generations_descendance": 5,
+   "assets": [
+    "ad13-201e5765-marseille-1895-naissance-marie-bocquillon",
+    "ad13-201e5765-marseille-1895-acte952-detail-mention-mariage"
+   ]
   },
   "AG15": {
    "id": "AG15",
@@ -124131,6 +124125,10 @@
      }
     },
     {
+     "type": "profession",
+     "texte": "Ménagère"
+    },
+    {
      "type": "deces",
      "date": {
       "brut": "4 MAY 1963",
@@ -124153,20 +124151,18 @@
       ],
       "approximatif": false
      }
-    },
-    {
-     "type": "profession",
-     "texte": "Ménagère"
     }
    ],
    "notes": [
     "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
     "FILIATION PROUVÉE le 31/08/2026 par son acte de naissance (AD13, Marseille 8e, 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873) : née le **6 novembre 1873 à neuf heures du soir, quartier de Séon-Saint-André**, fille de **Jean ZUCCA, journalier**, et de **Dominique MATTA, vingt-trois ans, ménagère**, dits **mariés**. Le couple `GF30`, jusque-là `PROBABLE`, est **prouvé**.",
-    "Premier témoin de l'acte : **Joseph MATTA, cinquante-cinq ans, journalier, du même quartier**. L'homonymie avec le patronyme de la mère et son âge en font un **père probable de Dominique MATTA** — mais l'acte ne le dit pas, et il n'a donc **pas** été rattaché à l'arbre. Piste, pas preuve."
+    "Premier témoin de l'acte : **Joseph MATTA, cinquante-cinq ans, journalier, du même quartier**. L'homonymie avec le patronyme de la mère et son âge en font un **père probable de Dominique MATTA** — mais l'acte ne le dit pas, et il n'a donc **pas** été rattaché à l'arbre. Piste, pas preuve.",
+    "PROUVÉE comme mère de Marie Jeanne Françoise Fanny BOCQUILLON par l'acte de naissance de celle-ci (Marseille, 27 août 1895, AD13 201 E 5765, acte n° 952, vue 165) : « Thérèse Anne ZUCCA, âgée de vingt deux ans, ménagère », mariée à Laurent BOCQUILLON. L'âge de 22 ans au 27/08/1895 donne une naissance entre août 1872 et août 1873, compatible avec l'année 1873 portée par le relevé familial. Elle ne signe pas l'acte : c'est le père qui déclare."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 2, Sosa 15",
-    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ."
+    "Acte de naissance, Archives départementales des Bouches-du-Rhône, Marseille 8e arrondissement, naissances 1873, cote 201 E 4985, vue 49, acte n° 282 dressé le 7 novembre 1873. Repéré par la table décennale des naissances 1873-1882, cote 201 E 1472, lettre Z. Image lue et archivée le 31/08/2026 : ad13-201E-4985-vue49-naissance-therese-anne-zucca-1873.jpg. Source primaire lue : PROUVÉ.",
+    "Acte de naissance de Marie Jeanne Françoise Fanny BOCQUILLON, Marseille, 27 août 1895 (naissance le 26 août) — Archives départementales des Bouches-du-Rhône, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165, ARK vta38deef922766ee87, consulté le 07/09/2026 ; pièces ad13-201e-5765-marseille-1895-naissance-marie-bocquillon-acte952-vue165.jpg et ad13-201e-5765-marseille-1895-acte952-bocquillon-detail-et-mention-mariage.jpg"
    ],
    "familles": [
     "GF14"
@@ -124181,7 +124177,9 @@
    "generations_ascendance": 2,
    "generations_descendance": 5,
    "assets": [
-    "ad13-naissance-zucca-1873"
+    "ad13-naissance-zucca-1873",
+    "ad13-201e5765-marseille-1895-naissance-marie-bocquillon",
+    "ad13-201e5765-marseille-1895-acte952-detail-mention-mariage"
    ]
   },
   "AG18": {
@@ -184337,19 +184335,77 @@
    "enfants": [
     "JI58"
    ],
-   "union": null,
+   "union": {
+    "type": "union",
+    "date": {
+     "brut": "20 DEC 1919",
+     "date": {
+      "annee": 1919,
+      "mois": 12,
+      "jour": 20
+     }
+    },
+    "lieu": "Marseille (13)",
+    "commune": {
+     "nom": "Marseille",
+     "code": "13055",
+     "departement": "13",
+     "pays": "France",
+     "actuelle": "Marseille",
+     "coordonnees": [
+      5.3806,
+      43.2803
+     ],
+     "approximatif": false
+    }
+   },
    "divorce": null,
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "union",
+     "date": {
+      "brut": "20 DEC 1919",
+      "date": {
+       "annee": 1919,
+       "mois": 12,
+       "jour": 20
+      }
+     },
+     "lieu": "Marseille (13)",
+     "commune": {
+      "nom": "Marseille",
+      "code": "13055",
+      "departement": "13",
+      "pays": "France",
+      "actuelle": "Marseille",
+      "coordonnees": [
+       5.3806,
+       43.2803
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
     "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
     "PROUVÉ le 07/09/2026 comme couple marié : l'acte de naissance de leur fille Denise Thérèse (Aubagne, 28/02/1921, AD13 201 E 7678 vue 9/49) désigne Marie Jeanne Françoise BOCQUILLON comme « son épouse » de Jean AGRAPIDIS. Le MARIAGE EST DONC ANTÉRIEUR AU 28/02/1921. Sa date et son lieu restent inconnus ; l'acte n'en dit rien.",
     "NÉGATIF DÉLIMITÉ, 07/09/2026 — le mariage n'a PAS eu lieu à AUBAGNE en 1916, 1917, 1918, 1919 ni 1920. Les cinq tables annuelles alphabétiques des mariages d'Aubagne ont été lues en entier, lettres A et B comprises (AD13, 201 E 7685 images _0057, _0080, _0114, _0173 et 201 E 7686 image _0078) : aucun AGRAPIDES, aucun AGRAPIDIS, aucun BOCQUILLON. CE NÉGATIF NE VAUT QUE POUR CES CINQ ANNÉES ET POUR CETTE COMMUNE. Restent à lire : les tables annuelles d'Aubagne de 1912, 1913, 1914 et 1915 (vues repérées mais sections A non dépouillées intégralement), la table décennale d'Aubagne 1903-1912 (201 E 6354, 27 vues, ARK 362bd5dbb1005e413281df93c7785231), et surtout MARSEILLE, où l'épouse est née en 1895 et où l'usage français marie au domicile de la mariée.",
-    "PISTE LA PLUS RENTABLE DE LA LIGNE, à ouvrir en premier : l'acte de mariage de ce couple. Un acte de mariage français d'un étranger nomme ses PARENTS et son LIEU DE NAISSANCE — il prouverait d'un coup AG12 Panagiotis AGRAPIDES et AG13 Eugénie KRISANDOU et ferait reculer le front d'une génération. Deuxième voie, moins chère encore : l'acte de NAISSANCE de Marie Jeanne Françoise BOCQUILLON à Marseille le 26/08/1895 porte en marge la mention de son mariage (obligatoire depuis la loi du 17 août 1897), qui en donne la DATE et la COMMUNE sans avoir à dépouiller une table."
+    "PISTE LA PLUS RENTABLE DE LA LIGNE, à ouvrir en premier : l'acte de mariage de ce couple. Un acte de mariage français d'un étranger nomme ses PARENTS et son LIEU DE NAISSANCE — il prouverait d'un coup AG12 Panagiotis AGRAPIDES et AG13 Eugénie KRISANDOU et ferait reculer le front d'une génération. Deuxième voie, moins chère encore : l'acte de NAISSANCE de Marie Jeanne Françoise BOCQUILLON à Marseille le 26/08/1895 porte en marge la mention de son mariage (obligatoire depuis la loi du 17 août 1897), qui en donne la DATE et la COMMUNE sans avoir à dépouiller une table.",
+    "UNION DATÉE ET LOCALISÉE le 07/09/2026 : MARSEILLE, 20 DÉCEMBRE 1919. Source : mention marginale apposée par le greffier du Tribunal sur l'acte de naissance de l'épouse (AD13, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165) — « Marié à Marseille le 20 Xbre 1919 avec Jean AGRAPID[ES] ». Niveau de preuve : INDEX OFFICIEL au sens strict — c'est une transcription institutionnelle portée par un greffier sur un registre d'état civil, mais L'ACTE DE MARIAGE LUI-MÊME N'A PAS ÉTÉ LU. Ne pas l'écrire PROUVÉ tant que l'acte n'est pas ouvert.",
+    "NÉGATIF D'ACCÈS, délimité et daté du 07/09/2026 : LES REGISTRES DE MARIAGES DE MARSEILLE DE 1919 NE SONT PAS EN LIGNE AUX AD13. Le moteur répond « Aucune réponse pour votre recherche » et le tableau AJAX ne rend aucun ARK. Borne testée le même soir sur le même moteur : mariages de Marseille présents en 1900, absents en 1905, 1910, 1912, 1913, 1915, 1918, 1919, 1920 et 1922 ; naissances de Marseille présentes en 1895, 1900, 1902 et 1903, absentes en 1905 et 1912. LA MISE EN LIGNE DE L'ÉTAT CIVIL DE MARSEILLE S'ARRÊTE VERS 1903-1904, alors que les communes du département — Aubagne comprise — sont en ligne jusqu'en 1925 : la ville-centre suit un régime différent, et il faut le savoir avant de bâtir un plan de recherche sur Marseille au XXe siècle.",
+    "COMMENT OBTENIR LA PIÈCE, par ordre de coût : (a) demander la COPIE INTÉGRALE de l'acte de mariage du 20/12/1919 au service de l'état civil de la Ville de Marseille — un acte de 1919 a plus de 75 ans, il est communicable à toute personne sans justification ni délai, et un acte de mariage français d'un étranger NOMME SES PARENTS ET SON LIEU DE NAISSANCE ; (b) le consulter en salle de lecture aux AD13 ou aux Archives municipales de Marseille ; (c) à défaut, l'acte de mariage porte aussi mention marginale sur l'acte de naissance grec de l'époux, ce qui ne sert qu'une fois la Grèce ouverte."
    ],
    "branches": [
     "gimie"
    ],
-   "sources": []
+   "sources": [],
+   "assets": [
+    "ad13-201e7678-aubagne-1921-naissance-denise-agrapides",
+    "ad13-201e5765-marseille-1895-naissance-marie-bocquillon",
+    "ad13-201e5765-marseille-1895-acte952-detail-mention-mariage",
+    "ad13-201e1486-marseille-td-naissances-1893-1902-b-vue148",
+    "ad13-201e1486-marseille-td-1895-ligne-bocquillon"
+   ]
   },
   "GF10": {
    "id": "GF10",
@@ -184398,11 +184454,16 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "PASSE DE PROBABLE À PROUVÉ le 07/09/2026. Le couple Laurent BOCQUILLON × Thérèse Anne ZUCCA et sa filiation vers Marie Jeanne Françoise Fanny BOCQUILLON ne reposaient que sur le relevé familial du 21/11/2006. L'acte de naissance de leur fille (AD13, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165, du 27 août 1895) les nomme tous les deux, avec leurs âges (25 et 22 ans), leurs métiers (mécanicien, ménagère), leur domicile commun traverse Mouren n° 1, et les dit expressément MARIÉS. Le père déclare et signe. Une génération entière quitte le recopié.",
+    "Le front ne recule pas pour autant : les deux époux étaient déjà dans l'arbre avec leurs propres parents. Ce qui a changé, c'est le niveau de preuve, pas la hauteur.",
+    "Champ confiance pose a PROUVE le 07/09/2026 par l'orchestrateur. La note ci-dessus annoncait le passage de PROBABLE a PROUVE mais le champ etait reste vide, comme cela s'etait deja produit le meme jour sur GF40002 en sens inverse. La preuve est l'acte de naissance de leur fille : AD13, 201 E 5765, Marseille naissances 1895 registre n° 6, acte n° 952, vue 165, du 27 aout 1895, qui nomme les deux epoux avec leur age et leur profession. Regle a retenir : quand une note annonce un changement de niveau de preuve, le champ confiance de la fiche ou de la famille concernee doit etre pose dans le meme patch, sinon le site continue d'afficher l'ancien etat."
    ],
    "branches": [
     "gimie"
-   ]
+   ],
+   "sources": [],
+   "confiance": "PROUVÉ"
   },
   "GF18": {
    "id": "GF18",
@@ -220259,7 +220320,7 @@
       "month": 8,
       "year": 1895
      },
-     "place": "Marseille (13)",
+     "place": "Marseille (13), traverse Mouren n° 1",
      "type": "naissance"
     },
     "death": {
@@ -238464,7 +238525,16 @@
     "wife": "AG7",
     "children": [
      "JI58"
-    ]
+    ],
+    "marriage": {
+     "date": {
+      "day": 20,
+      "month": 12,
+      "year": 1919
+     },
+     "place": "Marseille (13)",
+     "type": "union"
+    }
    },
    {
     "id": "GF10",
@@ -242460,7 +242530,8 @@
      "AG7"
     ],
     "familles": [
-     "JF4"
+     "JF4",
+     "GF6"
     ]
    },
    "date": "1921-02-28",
@@ -242486,6 +242557,86 @@
    "lieu": "Aubagne (13)",
    "cote": "AD13, 201 E 7678, vue 9/49, marge (découpe IIIF 1700,120,560,700)",
    "url": "https://www.archives13.fr/ark:/40700/92206080dcad1798f75cde3207e91aaa"
+  },
+  "ad13-201e5765-marseille-1895-naissance-marie-bocquillon": {
+   "type": "acte_naissance",
+   "titre": "Acte de naissance de Marie Jeanne Françoise Fanny BOCQUILLON, Marseille, 27 août 1895 (acte n° 952)",
+   "fichier": "assets/actes/france/13/ad13-201e5765-marseille-1895-naissance-marie-bocquillon.jpg",
+   "octets": 851629,
+   "sha256": "baebbb0dc66d1d8b42f4c21d451d70a074350c4d293c3d0b2ce490ab21003485",
+   "utilise_par": {
+    "individus": [
+     "AG7",
+     "AG14",
+     "AG15"
+    ],
+    "familles": [
+     "GF6"
+    ]
+   },
+   "date": "1895-08-27",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 5765, Marseille naissances 1895, registre n° 6, acte n° 952, vue 165",
+   "url": "https://www.archives13.fr/ark:/40700/vta38deef922766ee87"
+  },
+  "ad13-201e5765-marseille-1895-acte952-detail-mention-mariage": {
+   "type": "acte_naissance",
+   "titre": "Acte n° 952 et sa mention marginale « Marié à Marseille le 20 Xbre 1919 avec Jean AGRAPIDES »",
+   "fichier": "assets/actes/france/13/ad13-201e5765-marseille-1895-acte952-detail-mention-mariage.jpg",
+   "octets": 163206,
+   "sha256": "b71f0298bbbfe18ab97467aadce66e94c30126c30149d48ddf81722435752013",
+   "utilise_par": {
+    "individus": [
+     "AG7",
+     "AG14",
+     "AG15"
+    ],
+    "familles": [
+     "GF6"
+    ]
+   },
+   "date": "1895-08-27",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 5765, acte n° 952, vue 165, découpe IIIF 1700,120,1900,900",
+   "url": "https://www.archives13.fr/ark:/40700/vta38deef922766ee87"
+  },
+  "ad13-201e1486-marseille-td-naissances-1893-1902-b-vue148": {
+   "type": "table_decennale",
+   "titre": "Table décennale des naissances de Marseille 1893-1902, lettre B, année 1895, vue 148 — ligne BOCQUILLON",
+   "fichier": "assets/actes/france/13/ad13-201e1486-marseille-td-naissances-1893-1902-b-vue148.jpg",
+   "octets": 1769267,
+   "sha256": "a5f39d8fb3ad31a60c909367e2e601ff3423a04c2784e679e737b87c08d9b2ce",
+   "utilise_par": {
+    "individus": [
+     "AG7"
+    ],
+    "familles": [
+     "GF6"
+    ]
+   },
+   "date": "1895",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1486, TD naissances 1893-1902, lettre B, vue 148/202",
+   "url": "https://www.archives13.fr/ark:/40700/vta062ad2c757e9e3c4"
+  },
+  "ad13-201e1486-marseille-td-1895-ligne-bocquillon": {
+   "type": "table_decennale",
+   "titre": "Ligne « Bocquillon — Marie Jeanne Fanny — f — Laurent — 27 [août] » de la table décennale de Marseille",
+   "fichier": "assets/actes/france/13/ad13-201e1486-marseille-td-1895-ligne-bocquillon.jpg",
+   "octets": 111145,
+   "sha256": "69c0a6c9e5d175779be5e57e0ba4f03d97ad6ee6d908d2997d0981073998fef7",
+   "utilise_par": {
+    "individus": [
+     "AG7"
+    ],
+    "familles": [
+     "GF6"
+    ]
+   },
+   "date": "1895",
+   "lieu": "Marseille (13)",
+   "cote": "AD13, 201 E 1486, lettre B, vue 148, page de droite, découpe IIIF 2200,2080,2000,360",
+   "url": "https://www.archives13.fr/ark:/40700/vta062ad2c757e9e3c4"
   }
  }
 }
