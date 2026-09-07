@@ -132484,11 +132484,14 @@
     "Le patronyme AZIBERT / AGIBERT est l'un des plus fréquents du registre : baptêmes vues 58, 61, 95, 112, 115 et 116, sépultures vues 72, 94 et 98. Antoine, né vers 1697, est en fin de volume, vers les vues 218-230, non ouvertes. Aucun dépouillement n'a encore porté sur cette fenêtre.",
     "07/09/2026 — Baptême lu, rattachement PROBABLE. « Le onziesme aost 1697 a esté baptisé antoine azibert, fils de Louis & Marie Aziberté, mariés ; son parrain a esté antoine RISOULIERES, sa marraine Magdalene AZIBERT, tous dudit lieu de Gruissan. » (AD11, registre paroissial de Gruissan 1647-1699, vue 226, page de gauche.)",
     "Pourquoi PROBABLE et non PROUVÉ : l'identification repose sur prénom + patronyme + commune + millésime, et le millésime « vers 1697 » du relevé familial de 2006 est vraisemblablement calculé sur son âge au décès de 1763. AZIBERT est le patronyme le plus fréquent de ce registre. Ce qui renforce la lecture est que j'ai dépouillé moi-même les notes de marge des vues 219 à 228, c'est-à-dire les actes de 1696, 1697 et janvier-février 1698, et que ce baptême est le SEUL baptême d'un Antoine AZIBERT de toute cette fenêtre. Ce qui trancherait définitivement : son acte de sépulture du 5 septembre 1763 à Gruissan, qui donnera son âge, ou son acte de mariage.",
-    "Détail qui rapproche deux points du front : son parrain est un Antoine RISOULIERES, du même lieu. Le front Gimié compte un Jean RIZOULIERES né vers 1704 à Gruissan (AG284) ; les deux familles se côtoient donc dès 1697. Aucun lien n'est posé."
+    "Détail qui rapproche deux points du front : son parrain est un Antoine RISOULIERES, du même lieu. Le front Gimié compte un Jean RIZOULIERES né vers 1704 à Gruissan (AG284) ; les deux familles se côtoient donc dès 1697. Aucun lien n'est posé.",
+    "PROUVÉ 07/09/2026 — sa sépulture est lue : « L'an mil sept cent soixante trois, et le cinquieme jour du mois de septembre fut enseveli dans le cimetière de la paroisse Antoine AZIBERT, PESCHEUR, mort la veille, âgé d'environ soixante six ans, après avoir reçu tous les sacremens. Presens les sieurs Jacques PORTES, régent des écoles, et Jean AZIBERT, brassier. » (AD11, sépultures de Gruissan 1745-1773, AC170_1E006, vue 89.) L'arbre portait déjà le 05/09/1763 et le métier de pêcheur : les deux sont confirmés au mot près, et l'acte précise qu'il est mort le 4 et enseveli le 5.",
+    "Effet sur le rattachement du 11 août 1697 : l'âge « environ soixante six ans » en septembre 1763 donne une naissance vers 1697, ce qui colle au baptême lu, seul baptême d'un Antoine AZIBERT des vues 219 à 228 du registre 1647-1699. La conjonction — prénom, patronyme, commune, métier, date de décès au jour près, âge cohérent, unicité du baptême — est aussi forte qu'un acte de cette époque permet. Elle reste néanmoins un FAISCEAU : aucun document ne relie directement le baptême et la sépulture, et l'âge est donné « environ ». La filiation à GF40002 est donc maintenue en PROBABLE fortement étayé, et non promue en PROUVÉ."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 8, Sosa 274",
-    "Table des baptêmes du cahier 1692-1695 de Gruissan — AD11, 100NUM/4E170/1E3 (AC170_1E003), vue 216/239, page manuscrite 229 ; lue le 07/09/2026. Pièce : ad11-AC170-1E003-vue216-table-des-baptemes-1692-1695.jpg"
+    "Table des baptêmes du cahier 1692-1695 de Gruissan — AD11, 100NUM/4E170/1E3 (AC170_1E003), vue 216/239, page manuscrite 229 ; lue le 07/09/2026. Pièce : ad11-AC170-1E003-vue216-table-des-baptemes-1692-1695.jpg",
+    "Sépulture d'Antoine AZIBERT, Gruissan, 5 septembre 1763 — AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 89/129 ; lue le 07/09/2026 sur mdr.aude.fr. Pièces : ad11-AC170-1E006-vue089-planche.jpg, ad11-AC170-1E006-vue089-sepulture-antoine-azibert-1763-zoom.jpg"
    ],
    "familles": [
     "GF274"
@@ -132499,12 +132502,14 @@
    ],
    "annee_naissance": 1697,
    "annee_deces": 1763,
-   "confiance": "PROBABLE",
+   "confiance": "PROUVÉ",
    "famille_origine": "GF40002",
    "generations_ascendance": 1,
    "generations_descendance": 10,
    "assets": [
-    "gruissan-table-baptemes-1692-1695"
+    "gruissan-table-baptemes-1692-1695",
+    "gruissan-sepulture-azibert-1763-planche",
+    "gruissan-sepulture-azibert-1763-zoom"
    ]
   },
   "AG275": {
@@ -135544,10 +135549,12 @@
     "La note de marge « Gaubert » a été aperçue sur les vues 188-189 : la famille est dans ce volume. Baptême à chercher autour de 1671. Sa sépulture du 29/09/1761 est en revanche hors de ce registre, qui s'arrête en 1699 — elle se trouvera dans 5E170/002 ou /003.",
     "07/09/2026 — FAUX RATTACHEMENT ÉCARTÉ. Le registre paroissial de Gruissan porte, à la vue 112 (page 115), le baptême du 26 octobre 1671 d'une « Paule » du bourg même : « par moy Pierre Brousse vicaire a esté baptisée sur les fonts baptismaux de l'église de Gruissan Paule CHAMBERT, fille d'Estienne et de Françoise ROQUETTE, mariés du présent lieu ; […] et la marraine Paule TAILLADE du présent lieu. » Prénom, lieu et année concordent au mot près avec Paule GAUBERT née vers 1671 — et le patronyme ne concorde pas. La marge et le corps de l'acte écrivent tous deux CHAMBERT, avec un m net ; ce n'est ni GAUBERT ni CHAUBERT. La coïncidence était assez forte pour fabriquer une filiation fausse : elle est écartée et consignée pour qu'on ne la refasse pas.",
     "Négatif délimité, et rien de plus : les bandes de marge des vues 62 à 67 (baptêmes de 1664-1666) et 106 à 113 (baptêmes de 1667 à début 1672) ont été lues sans qu'aucune marge GAUBERT y paraisse. Les vues 50-61, 68 et 114-125 n'ont pas été dépouillées. Un Julien GAUBERT et un Dominique GAUBERT figurent en revanche dans la section des sépultures ouverte à la vue 69 (1649) : la famille est bien à Gruissan avant 1650.",
-    "La famille GAUBERT est bien établie à Gruissan et fait des enfants dans les années 1661-1662 : « anne marie Gaubert » vue 59, « Margarite Gauberte » vue 60, « andré Gaubert » vue 61. Julien et Dominique GAUBERT figurent aux sépultures de 1649, vue 69. Mais aucune marge GAUBERT ne paraît sur les baptêmes de 1667 à 1674 — vues 106 à 117 lues en entier —, ce qui rend la naissance « vers 1671 » du relevé familial douteuse plutôt que confirmée. Sa date est vraisemblablement calculée sur un âge au décès de 1761, donc peu fiable : élargir la fenêtre de recherche plutôt que la resserrer."
+    "La famille GAUBERT est bien établie à Gruissan et fait des enfants dans les années 1661-1662 : « anne marie Gaubert » vue 59, « Margarite Gauberte » vue 60, « andré Gaubert » vue 61. Julien et Dominique GAUBERT figurent aux sépultures de 1649, vue 69. Mais aucune marge GAUBERT ne paraît sur les baptêmes de 1667 à 1674 — vues 106 à 117 lues en entier —, ce qui rend la naissance « vers 1671 » du relevé familial douteuse plutôt que confirmée. Sa date est vraisemblablement calculée sur un âge au décès de 1761, donc peu fiable : élargir la fenêtre de recherche plutôt que la resserrer.",
+    "07/09/2026 — Sa sépulture du 29/09/1761 à Gruissan est désormais LOCALISÉE, quoique non encore lue : elle est dans AC170_1E006, sépultures 1745-1773, microfilm AD11_5Mi0496, 129 vues, aux environs de la vue 79 — la vue 84 est datée de juillet-août 1762 et la vue 89 du 5 septembre 1763, ce qui donne un rythme d'environ quatre vues et demie par an. Ces sépultures donnent l'âge et le conjoint : elle bornera sa naissance et nommera son mari."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 519"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 519",
+    "Inventaire officiel de la série 1E de Gruissan, filmé en tête du registre AC170_1E004 (AD11, 100NUM/4E170/1E4, vue 2) ; lu le 07/09/2026. Pièce : ad11-AC170-1E004-vue002-inventaire-serie-1E-gruissan.jpg"
    ],
    "familles": [
     "GF518"
@@ -135559,7 +135566,10 @@
    "annee_naissance": 1671,
    "annee_deces": 1761,
    "generations_ascendance": 0,
-   "generations_descendance": 11
+   "generations_descendance": 11,
+   "assets": [
+    "gruissan-inventaire-serie-1E"
+   ]
   },
   "AG520": {
    "id": "AG520",
@@ -136627,13 +136637,25 @@
    "sexe": "M",
    "naissance": null,
    "deces": null,
-   "professions": [],
-   "evenements": [],
+   "professions": [
+    {
+     "type": "profession",
+     "texte": "Ménager"
+    }
+   ],
+   "evenements": [
+    {
+     "type": "profession",
+     "texte": "Ménager"
+    }
+   ],
    "notes": [
-    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher."
+    "PROBABLE — identité et filiation issues du relevé familial ; actes originaux à rechercher.",
+    "PROUVÉ 07/09/2026 par la sépulture de sa femme, Gruissan, 17 avril 1764, qui la dit « veuve de Jean GIMIÉ, ménager » (AD11, AC170_1E006, vue 92). Deux acquis : son existence et son union avec Marianne LABATUT cessent d'être PROBABLES, et il gagne une PROFESSION — ménager. Son décès est antérieur au 16 avril 1764 ; il est à chercher dans le même registre de sépultures 1745-1773 si sa mort est postérieure à 1745, sinon dans AC170_1E004 (1700-1744)."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 588"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 588",
+    "Sépulture de Marianne LABATUT, veuve de Jean GIMIÉ, Gruissan, 17 avril 1764 — AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 92/129 ; lue le 07/09/2026 sur mdr.aude.fr. Pièces : ad11-AC170-1E006-vue092-planche.jpg, ad11-AC170-1E006-vue092-sepulture-marianne-labatut-1764-zoom.jpg"
    ],
    "familles": [
     "GF588"
@@ -136642,8 +136664,15 @@
    "branches": [
     "gimie"
    ],
+   "confiance": "PROUVÉ",
+   "annee_naissance": null,
+   "annee_deces": null,
    "generations_ascendance": 0,
-   "generations_descendance": 11
+   "generations_descendance": 11,
+   "assets": [
+    "gruissan-sepulture-labatut-1764-planche",
+    "gruissan-sepulture-labatut-1764-zoom"
+   ]
   },
   "AG589": {
    "id": "AG589",
@@ -136734,10 +136763,14 @@
     "07/09/2026 — Le registre paroissial de Gruissan 1647-1699 est désormais atteignable en curl (AD11, 100NUM/4E170/1E3 = dossier numérique AC170_1E003, registre paroissial B.M.S. de Gruissan 1647-1699, microfilm AD11_5Mi0495, 239 vues, sur mdr.aude.fr). Il n'est PAS chronologique : il est compilé par sections — baptêmes vues ~50-71 (vue 56 = 1661, vue 68 = 1666), sépultures vues ~71-105 (vue 71 = 1648, vue 86 = 1658-59, vue 102 = 1671-72), baptêmes de nouveau à partir de la vue ~106 (vue 108 = 1668-69, vue 114 = 1672-73), puis actes mêlés vers 185-195 avec le type en note de marge (vue 188 = 1689). Le numéro de page manuscrit vaut environ vue + 12. Interpoler sur l'année sans vérifier la nature de la section fait chercher un baptême au milieu des sépultures.",
     "La note de marge « Labatut » a été aperçue sur les vues 71 et 188 : la famille est dans ce volume depuis 1648. Baptême à chercher autour de 1680, dans la seconde section de baptêmes. Sa sépulture du 16/04/1764 est hors de ce registre.",
     "07/09/2026 — Négatif délimité : aucune marge LABATUT correspondant à une Marianne sur les bandes des vues 106-113. La famille est bien présente — « Joan LABATUT, fils de Gabriel et de Marie GUINTAINE », baptisé le 26 juillet 1671 à la vue 112 — mais Marianne, née vers 1680, est plus loin dans le volume, autour des vues 145-155 d'après les repères de datation déjà établis. Ces vues n'ont pas été ouvertes.",
-    "Négatif : aucune marge LABATUT correspondant à une Marianne sur les bandes des vues 54-67, 94-101 et 106-117. La famille est présente — « Catherine Labatud », sépulture de 1648 vue 71, dont l'index moderne précise que « son mary a fait les solemnités 15 septembre 1648 » ; « Joan LABATUT, fils de Gabriel et de Marie GUINTAINE », baptême du 26 juillet 1671 vue 112. Marianne, née vers 1680, reste à chercher vers les vues 145-155, non ouvertes."
+    "Négatif : aucune marge LABATUT correspondant à une Marianne sur les bandes des vues 54-67, 94-101 et 106-117. La famille est présente — « Catherine Labatud », sépulture de 1648 vue 71, dont l'index moderne précise que « son mary a fait les solemnités 15 septembre 1648 » ; « Joan LABATUT, fils de Gabriel et de Marie GUINTAINE », baptême du 26 juillet 1671 vue 112. Marianne, née vers 1680, reste à chercher vers les vues 145-155, non ouvertes.",
+    "PROUVÉE 07/09/2026 — sa sépulture est lue : « L'an mil sept cent soixante quatre, et le sezieme jour du mois d'avril mourut Marie Anne LABATUT, âgée d'environ quatre vingts quatre ans, VEUVE DE JEAN GIMIÉ, MÉNAGER, après avoir reçu tous les sacremens. Son corps fut ensevely le lendemain dans le cimetière de la paroisse. Presens les sieurs Jacques PORTES, régent des écoles, et Jean AZIBERT… » (AD11, sépultures de Gruissan 1745-1773, AC170_1E006, vue 92.) L'arbre portait le 16/04/1764 : l'acte le confirme comme jour du décès, l'inhumation ayant eu lieu le lendemain. L'âge d'environ 84 ans donne une naissance vers 1680, ce que l'arbre portait déjà.",
+    "L'acte la nomme « Marie Anne » et non « Marianne ». La forme de l'acte est conservée en note ; le prénom de la fiche n'est pas modifié faute d'un second témoignage.",
+    "L'acte ne nomme AUCUN parent : elle reste sur le front d'ascendance. C'est la règle de ces sépultures languedociennes — elles donnent l'âge, le conjoint et l'état, jamais la filiation d'un adulte."
    ],
    "sources": [
-    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 589"
+    "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 12, Sosa 589",
+    "Sépulture de Marianne LABATUT, veuve de Jean GIMIÉ, Gruissan, 17 avril 1764 — AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 92/129 ; lue le 07/09/2026 sur mdr.aude.fr. Pièces : ad11-AC170-1E006-vue092-planche.jpg, ad11-AC170-1E006-vue092-sepulture-marianne-labatut-1764-zoom.jpg"
    ],
    "familles": [
     "GF588"
@@ -136748,8 +136781,13 @@
    ],
    "annee_naissance": 1680,
    "annee_deces": 1764,
+   "confiance": "PROUVÉ",
    "generations_ascendance": 0,
-   "generations_descendance": 11
+   "generations_descendance": 11,
+   "assets": [
+    "gruissan-sepulture-labatut-1764-planche",
+    "gruissan-sepulture-labatut-1764-zoom"
+   ]
   },
   "AG592": {
    "id": "AG592",
@@ -149150,10 +149188,12 @@
     "La reconstruction Geneanet remyfasy proposait déjà « Pierre GIMIÉ × Jeanne CAMP » sans cote ni vue. L'acte de 1666 le confirme, et cette hypothèse cesse d'être secondaire.",
     "CONFIANCE : PROUVÉ",
     "07/09/2026 — CORRECTION D'UNE AFFIRMATION TROP LARGE, la mienne. J'avais écrit que la section des sépultures du registre de Gruissan portait « une marge d'index en écriture moderne » et que c'était la meilleure surface de lecture des 239 vues. Vérification faite vue par vue : cet index moderne ne couvre que les vues 69 à 72, c'est-à-dire les sépultures de 1647 à 1649. Dès la vue 94 la marge est revenue à la main d'époque. L'index existe, il est excellent, il ne couvre que trois ou quatre vues sur 239 — c'est exactement le genre de généralisation abusive que ce dossier documente ailleurs.",
-    "Négatif délimité pour sa sépulture : les bandes de marge des vues 69-72 (sépultures de 1647-1649) et 94-101 (sépultures de 1664 à 1670) du registre de Gruissan ont été lues en entier, deux bandes par vue. Aucune marge GIMIÉ. Il n'est donc pas mort à Gruissan dans ces deux fenêtres. Restent les vues 73-93 (1650-1663) et 102-105 (1671-1672) dans cette section, et toute la période 1673-1699, dont les sépultures sont ailleurs dans le volume — probablement dans les cahiers mêlés vers 185-215, où le type d'acte est en note de marge."
+    "Négatif délimité pour sa sépulture : les bandes de marge des vues 69-72 (sépultures de 1647-1649) et 94-101 (sépultures de 1664 à 1670) du registre de Gruissan ont été lues en entier, deux bandes par vue. Aucune marge GIMIÉ. Il n'est donc pas mort à Gruissan dans ces deux fenêtres. Restent les vues 73-93 (1650-1663) et 102-105 (1671-1672) dans cette section, et toute la période 1673-1699, dont les sépultures sont ailleurs dans le volume — probablement dans les cahiers mêlés vers 185-215, où le type d'acte est en note de marge.",
+    "07/09/2026 — L'inventaire officiel de la série 1E de Gruissan, filmé en tête du registre AC170_1E004, montre que la paroisse a des registres depuis 1606 : 1E1 = 1606-1637 B.M.D., 1E2 = 1638-1646 B.M.D. Son propre baptême et son mariage avec Jeanne CAMP, antérieurs à mai 1666, sont donc à chercher d'abord dans AC170_1E003 avant 1666, puis dans ces deux volumes plus anciens, tous deux confirmés en ligne sur le microfilm AD11_5Mi0495."
    ],
    "sources": [
-    "Baptême de Jean GIMIÉ, Gruissan, 6 mai 1666 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue068-planche.jpg, ad11-AC170-1E003-vue068-bapteme-jean-gimie-1666-zoom.jpg"
+    "Baptême de Jean GIMIÉ, Gruissan, 6 mai 1666 — AD11, 100NUM/4E170/1E3 (AC170_1E003), registre paroissial BMS de Gruissan 1647-1699, vue 68/239, page 62 ; lu le 07/09/2026 sur mdr.aude.fr (microfilm AD11_5Mi0495). Pièces : ad11-AC170-1E003-vue068-planche.jpg, ad11-AC170-1E003-vue068-bapteme-jean-gimie-1666-zoom.jpg",
+    "Inventaire officiel de la série 1E de Gruissan, filmé en tête du registre AC170_1E004 (AD11, 100NUM/4E170/1E4, vue 2) ; lu le 07/09/2026. Pièce : ad11-AC170-1E004-vue002-inventaire-serie-1E-gruissan.jpg"
    ],
    "associations": [],
    "famille_origine": null,
@@ -149171,7 +149211,8 @@
    "generations_descendance": 13,
    "assets": [
     "gruissan-bapteme-gimie-1666-planche",
-    "gruissan-bapteme-gimie-1666-zoom"
+    "gruissan-bapteme-gimie-1666-zoom",
+    "gruissan-inventaire-serie-1E"
    ]
   },
   "AG40002": {
@@ -184228,7 +184269,8 @@
    "notes": [
     "PROBABLE — couple et filiation du relevé familial, acte paroissial à contrôler.",
     "PROUVÉE 07/09/2026 — acte de mariage du 27 septembre 1689 à Gruissan (AD11, 100NUM/4E170/1E3, vue 188, page 200), après publication de trois annonces, bénédiction nuptiale donnée par le recteur Valterre, en présence de Jean JOURNES et de Louis SABATUT du même lieu. La date du relevé familial est confirmée au jour près. L'acte ne nomme aucun parent : c'est une formule brève, propre aux registres languedociens de cette époque.",
-    "07/09/2026 — Deux pistes relevées dans les tables et les marges du même registre, non encore ouvertes. (a) La « Table des Baptêmes contenus dans ce cayer » de la vue 216 porte « Sebastien Gimié … 8 … 1693 » : un enfant du couple, baptisé en 1693, à la page 8 du cahier de 1692-1695. (b) La marge de la vue 225 porte « Mariage de Jean Gimié [et] Magdelene Quintayne », vers 1697. Si c'est le même Jean GIMIÉ, il s'agit de son remariage après la mort de Marguerite BOURGES en 1696, et l'acte le dirait veuf — ce qui daterait ce décès. À vérifier avant tout rattachement."
+    "07/09/2026 — Deux pistes relevées dans les tables et les marges du même registre, non encore ouvertes. (a) La « Table des Baptêmes contenus dans ce cayer » de la vue 216 porte « Sebastien Gimié … 8 … 1693 » : un enfant du couple, baptisé en 1693, à la page 8 du cahier de 1692-1695. (b) La marge de la vue 225 porte « Mariage de Jean Gimié [et] Magdelene Quintayne », vers 1697. Si c'est le même Jean GIMIÉ, il s'agit de son remariage après la mort de Marguerite BOURGES en 1696, et l'acte le dirait veuf — ce qui daterait ce décès. À vérifier avant tout rattachement.",
+    "07/09/2026 — Le remariage supposé de Jean GIMIÉ est VÉRIFIÉ ET SANS PORTÉE. L'acte de la vue 225 du registre 1647-1699 dit : « Le vingt-troisieme juillet 1697 ont espousé Jean GIMIÉ et Magdalene QUINTAYNE, habitans du lieu de Gruissan ; laquelle cérémonie a esté faite par moy Pierre GRAS vicaire, presens Pierre LAROQUE et André BARON. » Il ne dit NI veuf, NI les parents, NI les âges — même le nouveau curé écrit la formule brève du rite languedocien. Il ne date donc pas le décès de Marguerite BOURGES et ne prouve pas qu'il s'agisse du même Jean GIMIÉ. Aucun rattachement n'est posé."
    ],
    "branches": [
     "gimie"
@@ -186219,11 +186261,13 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler."
+    "PROBABLE — couple et filiation issus du relevé familial d'Agnès, actes à contrôler.",
+    "PROUVÉE 07/09/2026 par la sépulture de Marianne LABATUT, Gruissan, 17 avril 1764 : « veuve de Jean GIMIÉ, ménager » (AD11, AC170_1E006, vue 92). Le couple était jusqu'ici PROBABLE, sur le seul relevé familial de 2006. L'acte donne en prime la profession du mari et borne son décès avant le 16 avril 1764."
    ],
    "branches": [
     "gimie"
-   ]
+   ],
+   "sources": []
   },
   "GF590": {
    "id": "GF590",
@@ -242280,6 +242324,94 @@
    "lieu": "Clermain (71)",
    "cote": "AD71, 5 E 134/1, vue 116/127",
    "url": "https://www.archives71.fr/_recherche-images/show/664847/image/421978/115"
+  },
+  "gruissan-sepulture-azibert-1763-planche": {
+   "type": "acte_deces",
+   "titre": "Sépulture d'Antoine AZIBERT — Gruissan, 5 septembre 1763, vue entière",
+   "fichier": "assets/actes/france/11/gruissan-sepulture-azibert-1763-planche.jpg",
+   "octets": 1194604,
+   "sha256": "b7eb8c6929b71d4c47a4fb2daa48748a43889c9cf86a59a0be5eb9b6da11100e",
+   "utilise_par": {
+    "individus": [
+     "AG274"
+    ],
+    "familles": []
+   },
+   "date": "1763-09-05",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 89/129",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-sepulture-azibert-1763-zoom": {
+   "type": "acte_deces",
+   "titre": "Sépulture d'Antoine AZIBERT, 1763 — « pescheur, âgé d'environ soixante six ans »",
+   "fichier": "assets/actes/france/11/gruissan-sepulture-azibert-1763-zoom.jpg",
+   "octets": 1559308,
+   "sha256": "fa839f5cfcf952bc2dbd2497086828b108912e4a56894ae04f82209e597ddb94",
+   "utilise_par": {
+    "individus": [
+     "AG274"
+    ],
+    "familles": []
+   },
+   "date": "1763-09-05",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 89/129",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-sepulture-labatut-1764-planche": {
+   "type": "acte_deces",
+   "titre": "Sépulture de Marianne LABATUT — Gruissan, 17 avril 1764, vue entière",
+   "fichier": "assets/actes/france/11/gruissan-sepulture-labatut-1764-planche.jpg",
+   "octets": 1200603,
+   "sha256": "846c6014bffdd8da58857bc1a302e05db657f18cb298ee1abc5d37702a9c0620",
+   "utilise_par": {
+    "individus": [
+     "AG588",
+     "AG589"
+    ],
+    "familles": []
+   },
+   "date": "1764-04-17",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 92/129",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-sepulture-labatut-1764-zoom": {
+   "type": "acte_deces",
+   "titre": "Sépulture de Marianne LABATUT, 1764 — « veuve de Jean Gimié, ménager »",
+   "fichier": "assets/actes/france/11/gruissan-sepulture-labatut-1764-zoom.jpg",
+   "octets": 1554268,
+   "sha256": "f59d5157965cc26df114f496a15701117c0026a5674177ac6ae58aa7a6ec477c",
+   "utilise_par": {
+    "individus": [
+     "AG588",
+     "AG589"
+    ],
+    "familles": []
+   },
+   "date": "1764-04-17",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E6 (AC170_1E006), sépultures de Gruissan 1745-1773, microfilm AD11_5Mi0496, 129 vues, vue 92/129",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
+  },
+  "gruissan-inventaire-serie-1E": {
+   "type": "inventaire",
+   "titre": "Gruissan — inventaire officiel de la série 1E, registres paroissiaux et d'état civil depuis 1606",
+   "fichier": "assets/actes/france/11/gruissan-inventaire-serie-1E.jpg",
+   "octets": 225951,
+   "sha256": "b0cb7cd83d92d67903317cbb60c8f9a863d97067ac659cd67ec07af87fe1d582",
+   "utilise_par": {
+    "individus": [
+     "AG519",
+     "AG40001"
+    ],
+    "familles": []
+   },
+   "date": "1700",
+   "lieu": "Gruissan (11)",
+   "cote": "AD11, 100NUM/4E170/1E4 (AC170_1E004), vue 2/317",
+   "url": "https://mdr.aude.fr/mdr_aude/index.php/docnumserv/"
   }
  }
 }
