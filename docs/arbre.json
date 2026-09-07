@@ -123041,9 +123041,63 @@
      "texte": "Pêcheur"
     }
    ],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "naissance",
+     "date": {
+      "brut": "6 MAY 1666",
+      "date": {
+       "annee": 1666,
+       "mois": 5,
+       "jour": 6
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    },
+    {
+     "type": "profession",
+     "texte": "Pêcheur"
+    },
+    {
+     "type": "deces",
+     "date": {
+      "brut": "11 NOV 1743",
+      "date": {
+       "annee": 1743,
+       "mois": 11,
+       "jour": 11
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — plus ancien GIMIÉ de la lignée directe du relevé familial. Geneanet donne un baptême (et non une naissance) le 06/05/1666, un décès le 11/11/1743 et les parents Pierre GIMIÉ × Jeanne CAMP ; actes originaux à lire avant d'étendre la lignée."
+    "PROBABLE — plus ancien GIMIÉ de la lignée directe du relevé familial. Geneanet donne un baptême (et non une naissance) le 06/05/1666, un décès le 11/11/1743 et les parents Pierre GIMIÉ × Jeanne CAMP ; actes originaux à lire avant d'étendre la lignée.",
+    "07/09/2026 — Accès AD11 rouvert. Le baptême du 06/05/1666 à Gruissan est à lire dans le registre BMS 1647-1699 (4E170/1E3 ou son équivalent en collection du greffe). Le moteur d'images mdr.aude.fr (GAIA 9) est scriptable en curl : idUd contigus, 5E170/005 à 5E170/029 = idUd 504592 à 504616, mais 5E170/001 à 5E170/004 (BMS antérieurs à 1814) rendent une liste d'images vide à 504588-504591 : les registres paroissiaux de Gruissan ne sont donc pas dans cette plage d'identifiants et restent à localiser."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 512 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026",
@@ -123093,9 +123147,35 @@
     }
    },
    "professions": [],
-   "evenements": [],
+   "evenements": [
+    {
+     "type": "deces",
+     "date": {
+      "brut": "1696",
+      "date": {
+       "annee": 1696,
+       "mois": null,
+       "jour": null
+      }
+     },
+     "lieu": "Gruissan (11)",
+     "commune": {
+      "nom": "Gruissan",
+      "code": "11170",
+      "departement": "11",
+      "pays": "France",
+      "actuelle": "Gruissan",
+      "coordonnees": [
+       3.0871,
+       43.1042
+      ],
+      "approximatif": false
+     }
+    }
+   ],
    "notes": [
-    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; décès en 1696 proposé par Geneanet, acte original à lire."
+    "PROBABLE — épouse de Jean GIMIÉ selon le relevé familial ; décès en 1696 proposé par Geneanet, acte original à lire.",
+    "07/09/2026 — Le mariage GIMIÉ × BOURGES du 27/09/1689 à Gruissan reste la pièce la plus rentable de la branche : il nommerait d'un coup les parents des deux époux et ferait reculer le front de deux points. À chercher dans le registre BMS 1647-1699 de Gruissan, une fois son idUd trouvé sur mdr.aude.fr."
    ],
    "sources": [
     "Relevé familial d'ascendance GIMIÉ daté du 21/11/2006, page 11, Sosa 513 ; Geneanet remyfasy, fiche Jean GIMIÉ, consultée le 30/08/2026",
