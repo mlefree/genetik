@@ -115859,40 +115859,30 @@
    "surnom": "",
    "suffixe": "",
    "sexe": "F",
-   "naissance": {
-    "type": "naissance",
-    "date": {
-     "brut": "1563",
-     "date": {
-      "annee": 1563
-     }
-    }
-   },
+   "naissance": null,
    "bapteme": null,
    "deces": null,
    "inhumation": null,
    "professions": [],
    "residences": [],
-   "evenements": [
-    {
-     "type": "naissance",
-     "date": {
-      "brut": "1563",
-      "date": {
-       "annee": 1563
-      }
-     }
-    }
-   ],
+   "evenements": [],
    "images": [],
    "notes": [
     "RGN n° 55 (1995), p. 223, Sosa 3 : « Roberte LE JOLIVET d'AUDOUVILLE † 1569 », armes d'azur au chevron d'argent chargé de 3 tourteaux d'azur et accompagné de 3 glands d'or. L'union portée à 1563 par l'arbre familial est corroborée par la mention « François x par contrat du 23 mai 1563 ».",
-    "RÉSERVE — sa mère n'est PAS établie : la RGN n° 55 donne Girette LE CHEVALIER comme épouse de François LE JOLIVET, mais l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145) en fait la mère de François. La fiche JI6 est donc mal placée dans JF7.",
-    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "CORRECTION 25/10/2026 — retrait de la naissance héritée 1563 : aucune source identifiée ne porte cette naissance ; la RGN 55, p. 223, donne le 23 mai 1563 comme date de contrat de mariage. Année de naissance inconnue. Ne pas substituer vers 1540 (Pierfit) sans preuve.",
+    "DATES CONTRADICTOIRES — RGN 55 : décès 1569 ; Pierfit : 11/09/1608 et naissance vers 1540, sans acte visible. Aucune de ces dates nouvelles adoptée.",
+    "AD50, Valcanville, 5 Mi 1969, vue 3/4 : sépulture de la dame d’Aigremont en septembre 1608. Attribution à Roberte PROBABLE : ni prénom, ni nom de naissance, ni parents dans l’acte. Décès non déduit.",
+    "Pistes : 1 Mi 286 (papiers Jean-Marie d’Aigremont, images en salle de lecture), 7 J 650 (généalogie de 2021, ouvrage non lu), 13 J 18, 5 E 14537 et fichier Collin sur le tabellionage de Valcanville. Aucun lecteur du microfilm cible identifié avec certitude.",
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "sources": [
     "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
-    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png",
+    "Enquête du 25/10/2026, assets/france/50/lejolivet-enquete-2026-10-25/README.md ; notice officielle AD50 294390 : 5 E 14537, Pierre Angérard, Valognes, janvier 1561-décembre 1563, candidate au contrat du 23/05/1563, contenu non dépouillé — https://www.archives-manche.fr/rechercher-dans-tous-les-inventaires?detail=294390",
+    "AD50, 5 Mi 1969, Valcanville, sépultures 1603-1609, vue 3/4 ; ad50-valcanville-1603-1609-vue03.jpg, précédée de la rubrique 1608 vue 2 — https://www.archives-manche.fr/ark:57115/s005e5d3e220a994/5e5d3e221b785.fiche=arko_fiche_657735000ab09.moteur=arko_default_635b873d1f4a7, consulté le 25/10/2026. Identification de la dame à Roberte proposée par Geneanet acte 4066033 (laetiaaj), non nominative dans l’acte.",
+    "Geneanet, acte 4066033, recadrage 37237580.jpg, copie privée ; métadonnées du contributeur laetiaaj : Roberte LE JOLIVET, sépulture 11/09/1608, Valcanville.",
+    "Synthèse de recherche du 25/10/2026 : lejolivet-synthese-publique-2026-10-25.html — contradictions, sépulture probable, instruments de recherche et références ; aucune filiation nouvelle prouvée."
    ],
    "associations": [],
    "famille_origine": "JF7",
@@ -115900,14 +115890,17 @@
     "JF6"
    ],
    "vivant": false,
-   "annee_naissance": 1563,
+   "annee_naissance": null,
    "annee_deces": null,
    "generations_ascendance": 25,
    "generations_descendance": 15,
    "branches": [
     "leprevost"
    ],
-   "confiance": "PROBABLE"
+   "confiance": "PROBABLE",
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JI5": {
    "id": "JI5",
@@ -115927,12 +115920,14 @@
    "images": [],
    "notes": [
     "RGN n° 55 (1995), p. 223, Sosa 6 : « François LE JOLIVET, éc. sr d'Audouville, † 05.08.1526 ». Date de décès à porter à la fiche.",
-    "CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite.",
-    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "sources": [
     "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
-    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png",
+    "Wikimanche, Église Sainte-Honorine (Audouville-la-Hubert), transcription attribuée à Charles de Gerville (1819), Voyage archéologique, éd. M. Guibert, t. I, p. 11 ; original et livre non vus — https://www.wikimanche.fr/Église_Sainte-Honorine_(Audouville-la-Hubert), copie privée wikimanche-eglise.html, consulté le 25/10/2026.",
+    "Synthèse de recherche du 25/10/2026 : lejolivet-synthese-publique-2026-10-25.html — contradictions, sépulture probable, instruments de recherche et références ; aucune filiation nouvelle prouvée."
    ],
    "associations": [],
    "famille_origine": "JF8",
@@ -115948,7 +115943,10 @@
    "branches": [
     "leprevost"
    ],
-   "confiance": "DOUTEUX"
+   "confiance": "DOUTEUX",
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JI6": {
    "id": "JI6",
@@ -115967,12 +115965,14 @@
    "evenements": [],
    "images": [],
    "notes": [
-    "POSITION CONTESTÉE — JI6 figure ici comme épouse de François LE JOLIVET (JF7). CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite. Sa place vraisemblable est épouse de JI7 Jean LE JOLIVET et mère de JI5. Ne pas restructurer JF7 sur la seule foi d'un relais de troisième main (épitaphe → livre non nommé sur le canton de Carentan → question de revue) : le contrat de mariage de 1563 ou le relevé d'origine de l'inscription doit trancher.",
-    "RGN n° 55, p. 223, Sosa 7 la donne comme épouse ; RGN n° 66, p. 145 la donne comme mère. Deux sources publiées, une contradiction non résolue."
+    "RGN n° 55, p. 223, Sosa 7 la donne comme épouse ; RGN n° 66, p. 145 la donne comme mère. Deux sources publiées, une contradiction non résolue.",
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "sources": [
     "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
-    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png",
+    "Wikimanche, Église Sainte-Honorine (Audouville-la-Hubert), transcription attribuée à Charles de Gerville (1819), Voyage archéologique, éd. M. Guibert, t. I, p. 11 ; original et livre non vus — https://www.wikimanche.fr/Église_Sainte-Honorine_(Audouville-la-Hubert), copie privée wikimanche-eglise.html, consulté le 25/10/2026.",
+    "Synthèse de recherche du 25/10/2026 : lejolivet-synthese-publique-2026-10-25.html — contradictions, sépulture probable, instruments de recherche et références ; aucune filiation nouvelle prouvée."
    ],
    "associations": [],
    "famille_origine": null,
@@ -115988,7 +115988,10 @@
    "branches": [
     "leprevost"
    ],
-   "confiance": "DOUTEUX"
+   "confiance": "DOUTEUX",
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JI7": {
    "id": "JI7",
@@ -116025,12 +116028,15 @@
    ],
    "images": [],
    "notes": [
-    "RGN n° 55 (1995), p. 223, Sosa 12 : « Jean LE JOLIVET, éc. sr d'Audouville ». L'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145) le dit « noble homme Jean LE JOLIVET esc. », époux de damoiselle Girette LE CHEVALIER et père de François. C'est la seule mention lapidaire retrouvée de cette famille.",
-    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ."
+    "Niveau de preuve : PROBABLE. La généalogie de la RGN n° 55 est signée, datée et imprimée, et elle individualise chaque maillon par titres, dates et blasons — mais elle ne cite aucun acte ni aucune cote : sa source déclarée est « la généalogie d'AIGREMONT établie par M. Jean Marie d'AIGREMONT et mes quartiers ». Elle ne vaut donc pas PROUVÉ.",
+    "La RGN55, p.223, place Jean LE JOLIVET comme père de François ; identification avec le Jean de l’épitaphe non établie.",
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "sources": [
     "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
-    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png"
+    "Revue généalogique normande (U.C.G.H.N.), n° 66, 2e trim. 1998, p. 145, T 688 « LE JOLIVET-DE PIROU (50) », signé G. LECŒUR, citant l'épitaphe de bronze de l'église d'Audouville-la-Hubert — https://www.geneacaux.net/RGNcd1/B066.pdf, consulté le 31/08/2026, rgn-66-p145-t688-lejolivet-de-pirou.png",
+    "Wikimanche, Église Sainte-Honorine (Audouville-la-Hubert), transcription attribuée à Charles de Gerville (1819), Voyage archéologique, éd. M. Guibert, t. I, p. 11 ; original et livre non vus — https://www.wikimanche.fr/Église_Sainte-Honorine_(Audouville-la-Hubert), copie privée wikimanche-eglise.html, consulté le 25/10/2026.",
+    "Synthèse de recherche du 25/10/2026 : lejolivet-synthese-publique-2026-10-25.html — contradictions, sépulture probable, instruments de recherche et références ; aucune filiation nouvelle prouvée."
    ],
    "associations": [],
    "famille_origine": null,
@@ -116045,7 +116051,10 @@
    "branches": [
     "leprevost"
    ],
-   "confiance": "PROBABLE"
+   "confiance": "PROBABLE",
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JI8": {
    "id": "JI8",
@@ -116083,11 +116092,12 @@
    "images": [],
    "notes": [
     "RGN n° 55 (1995), p. 223, Sosa 13 : « Avoie AUX ÉPAULES, tante de Robert AUX ÉPAULES, compagnon du roi Henri IV, dont l'orant se trouve aujourd'hui dans l'église de Ste-Marie-du-Mont ».",
-    "CONTRADICTION DOCUMENTÉE 31/08/2026 — l'épitaphe de bronze relevée dans l'église d'Audouville-la-Hubert (« Cy devant le grand autel gyst François LE JOLIVET en son vivant esc filz de noble homme Jean LE JOLIVET esc… et de damoiselle Girette LE CHEVALIER, son épouse… ») fait de Girette LE CHEVALIER la MÈRE de François LE JOLIVET et l'épouse de Jean, non l'épouse de François. Elle exclut donc, sauf remariage non attesté de Jean, qu'Avoie AUX ÉPAULES soit la mère de François. Or c'est ce seul maillon qui raccorde la lignée aux AUX ÉPAULES, puis aux DREUX, aux CAPET et à Charlemagne : toute la chaîne médiévale est suspendue à une jonction contredite.",
-    "DEGRÉ RETENU : DOUTEUX. Le segment AUX ÉPAULES–DREUX n'est atteint qu'à travers la jonction LE JOLIVET × AUX ÉPAULES, contredite par l'épitaphe d'Audouville-la-Hubert (RGN n° 66, p. 145). La généalogie de la RGN n° 55 elle-même est déclarée sans acte ni cote. Rattachement plausible et publié, mais non prouvé."
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "sources": [
-    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png"
+    "Revue généalogique normande (U.C.G.H.N.), n° 55, 3e trim. 1995, p. 223, Questions et Réponses, Q 12 « AYGREMONT (d')-CABART (50) », réponse signée F. de BOISDEFFRE — https://www.geneacaux.net/RGNcd1/B055.pdf, consulté le 31/08/2026, rgn-55-p223-aigremont-lejolivet-auxepaules.png",
+    "Wikimanche, Église Sainte-Honorine (Audouville-la-Hubert), transcription attribuée à Charles de Gerville (1819), Voyage archéologique, éd. M. Guibert, t. I, p. 11 ; original et livre non vus — https://www.wikimanche.fr/Église_Sainte-Honorine_(Audouville-la-Hubert), copie privée wikimanche-eglise.html, consulté le 25/10/2026.",
+    "Synthèse de recherche du 25/10/2026 : lejolivet-synthese-publique-2026-10-25.html — contradictions, sépulture probable, instruments de recherche et références ; aucune filiation nouvelle prouvée."
    ],
    "associations": [],
    "famille_origine": "JF9",
@@ -116102,7 +116112,10 @@
    "branches": [
     "leprevost"
    ],
-   "confiance": "DOUTEUX"
+   "confiance": "DOUTEUX",
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JI9": {
    "id": "JI9",
@@ -185380,9 +185393,17 @@
      }
     }
    ],
-   "notes": [],
+   "notes": [
+    "SÉPULTURE RETROUVÉE 25/10/2026 — AD50, Valcanville, 5 Mi 1969, sépultures 1603-1609, fiche 626321, vue 3/4 : une « dame d’Aigremont » est enterrée en septembre 1608 (quantième [XIe], donné au 11 par Geneanet). Année vérifiée par la rubrique 1608 de la vue 2 et le passage à 1609 sous l’entrée en vue 3. L’acte ne nomme ni Roberte ni LE JOLIVET ni ses parents : identification à JI4 PROBABLE, fait de sépulture lu PROUVÉ. Date de décès non déduite. Ne résout pas les jonctions JF7/JF8. Voir assets/france/50/lejolivet-enquete-2026-10-25/README.md."
+   ],
    "branches": [
     "leprevost"
+   ],
+   "sources": [
+    "AD50, 5 Mi 1969, Valcanville, sépultures 1603-1609, vue 3/4 ; ad50-valcanville-1603-1609-vue03.jpg, précédée de la rubrique 1608 vue 2 — https://www.archives-manche.fr/ark:57115/s005e5d3e220a994/5e5d3e221b785.fiche=arko_fiche_657735000ab09.moteur=arko_default_635b873d1f4a7, consulté le 25/10/2026. Identification de la dame à Roberte proposée par Geneanet acte 4066033 (laetiaaj), non nominative dans l’acte."
+   ],
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
    ]
   },
   "JF7": {
@@ -185396,7 +185417,7 @@
    "divorce": null,
    "evenements": [],
    "notes": [
-    "JONCTION CONTESTÉE, 31/08/2026 — cette famille pose Girette LE CHEVALIER (JI6) en épouse de François LE JOLIVET (JI5) et en mère de Roberde (JI4). L'épitaphe de bronze de l'église d'Audouville-la-Hubert, relevée dans un ouvrage sur le canton de Carentan et rapportée par G. LECŒUR (RGN n° 66, 1998, p. 145), en fait au contraire la MÈRE de François et l'épouse de Jean LE JOLIVET. La mère de Roberde est donc inconnue. Structure laissée en l'état — une restructuration sur un relais de troisième main ne vaudrait pas mieux que l'erreur qu'elle corrigerait — mais la famille ne doit plus être lue comme établie."
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "branches": [
     "leprevost"
@@ -185432,12 +185453,15 @@
     }
    ],
    "notes": [
-    "JONCTION CRITIQUE DE TOUTE LA BRANCHE MÉDIÉVALE — c'est par Avoie AUX ÉPAULES (JI8), épouse de Jean LE JOLIVET (JI7), que la lignée rejoint les AUX ÉPAULES, les DREUX, les CAPET et Charlemagne. L'épitaphe d'Audouville-la-Hubert donne à Jean LE JOLIVET pour épouse Girette LE CHEVALIER et non Avoie AUX ÉPAULES (RGN n° 66, p. 145, contre RGN n° 55, p. 223). Sauf remariage de Jean, non attesté, la jonction tombe. Aucun maillon au-dessus ne doit être promu tant qu'un acte n'a pas tranché."
+    "ÉTAT AU 25/10/2026 — la filiation LE JOLIVET / LE CHEVALIER / AUX ÉPAULES reste DOUTEUSE. La RGN55 et la question T688 de la RGN66 divergent ; le François de l’épitaphe n’est pas identifié au père attribué à Roberte. Les variantes Jennete/Girette et les années 1486/1526 peuvent relever de générations différentes ou d’erreurs de transcription. Aucun déplacement de Girette ni exclusion définitive d’Avoie justifiés sans acte ou original. Voir la synthèse jointe et ses références."
    ],
    "branches": [
     "leprevost"
    ],
-   "sources": []
+   "sources": [],
+   "assets": [
+    "lejolivet-synthese-2026-10-25"
+   ]
   },
   "JF9": {
    "id": "JF9",
@@ -221604,13 +221628,7 @@
     "famc": "JF7",
     "fams": [
      "JF6"
-    ],
-    "birth": {
-     "date": {
-      "year": 1563
-     },
-     "type": "naissance"
-    }
+    ]
    },
    {
     "id": "JI5",
@@ -247420,6 +247438,29 @@
    "lieu": "Sérilhac (19)",
    "cote": "AD19, EDEP/257/GG/1, vue 59/330",
    "url": "https://www.archives.correze.fr/ark:/69090/v35mqx42g0jd/f7e9cbba-877f-4dea-bd62-d60a960652b9"
+  },
+  "lejolivet-synthese-2026-10-25": {
+   "type": "note_recherche",
+   "titre": "Roberte LE JOLIVET : enquête, contradictions et sources (25 octobre 2026)",
+   "fichier": "assets/sources/france/50/lejolivet-synthese-2026-10-25.html",
+   "octets": 6071,
+   "sha256": "41051ecc353964a892c3ac8c368a04b571e4cc7c10e233bc5a75af81a40b23dd",
+   "utilise_par": {
+    "individus": [
+     "JI4",
+     "JI5",
+     "JI6",
+     "JI7",
+     "JI8"
+    ],
+    "familles": [
+     "JF6",
+     "JF8"
+    ]
+   },
+   "description": "Synthèse originale : filiation douteuse, sépulture probable, cotes et travaux antérieurs ; aucune filiation nouvelle prouvée.",
+   "date": "2026-10-25",
+   "lieu": "Audouville-la-Hubert, Valcanville, Valognes (Manche)"
   }
  }
 }
